@@ -51,5 +51,5 @@ instagram:
   graph_api_version: "v23.0"   # Meta 그래프 API 버전. 오래되면 최신 버전으로 바꿔주세요
 
 analysis:
-  model: "claude-sonnet-5-5"   # 비용을 아끼려면 "claude-haiku-5-5"
+  model: "claude-haiku-5-5"   # 비용을 아끼려면 "claude-haiku-5-5"
   max_items_per_run: 60        # 한 번 실행할 때 분석할 최대 소재 수
