@@ -1,0 +1,703 @@
+[
+ {
+  "id": "sample1",
+  "sample": true,
+  "brand": "예시 브랜드 A",
+  "channel": "인스타그램",
+  "source_name": "@example_a",
+  "page_url": "",
+  "collected_at": "2026-11-10",
+  "image": null,
+  "placeholder_bg": "#F6D9DF",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감"
+    ]
+   },
+   "copy": {
+    "main": "72시간 한정, 최대 50%",
+    "sub": "올해 마지막 브랜드 위크",
+    "cta": "지금 쇼핑하기"
+   },
+   "visual_focus": "텍스트",
+   "layout": "할인 숫자를 화면에서 가장 크게, 제품은 오른쪽 아래",
+   "tone": [
+    "미니멀",
+    "화사한 핑크",
+    "긴박감"
+   ],
+   "target": "연말 세일을 기다린 기존 구매 고객",
+   "why_it_hooks": "숫자와 기간 제한이 붙어 있어 3초 안에 혜택이 읽혀요.",
+   "palette": [
+    {
+     "hex": "#F6D9DF",
+     "pct": 58
+    },
+    {
+     "hex": "#B8466A",
+     "pct": 17
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 15
+    },
+    {
+     "hex": "#1F1A1C",
+     "pct": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "sample2",
+  "sample": true,
+  "brand": "예시 브랜드 B",
+  "channel": "리테일 기획전",
+  "source_name": "올리브영 기획전",
+  "page_url": "",
+  "collected_at": "2026-11-10",
+  "image": null,
+  "placeholder_bg": "#DCE8E2",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "인증·임상",
+    "secondary": [
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "피부과 테스트 완료 진정 앰플",
+    "sub": "민감 피부 자극 테스트 통과",
+    "cta": "자세히 보기"
+   },
+   "visual_focus": "제품",
+   "layout": "제품 단독 컷에 인증 배지를 왼쪽 위에 배치",
+   "tone": [
+    "그린",
+    "신뢰감"
+   ],
+   "target": "민감성 피부, 성분을 따지는 고객",
+   "why_it_hooks": "같은 행사에서 할인 대신 신뢰 근거로 차별화했어요.",
+   "palette": [
+    {
+     "hex": "#DCE8E2",
+     "pct": 61
+    },
+    {
+     "hex": "#3E6B57",
+     "pct": 20
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "sample3",
+  "sample": true,
+  "brand": "예시 브랜드 C",
+  "channel": "공식몰",
+  "source_name": "예시 브랜드 C 공식몰",
+  "page_url": "",
+  "collected_at": "2026-11-09",
+  "image": null,
+  "placeholder_bg": "#EDE3D6",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "리뷰·랭킹",
+    "secondary": []
+   },
+   "copy": {
+    "main": "올해의 리뷰 1위 크림, 다시 돌아왔어요",
+    "sub": "누적 리뷰 수 강조",
+    "cta": "리뷰 보러가기"
+   },
+   "visual_focus": "혼합",
+   "layout": "리뷰 별점과 제품을 나란히, 상단에 랭킹 배지",
+   "tone": [
+    "베이지",
+    "내추럴"
+   ],
+   "target": "재구매 고객과 리뷰를 보고 사는 신규 고객",
+   "why_it_hooks": "'다시 돌아왔다'는 표현으로 품절 이력을 신뢰로 바꿨어요.",
+   "palette": [
+    {
+     "hex": "#EDE3D6",
+     "pct": 55
+    },
+    {
+     "hex": "#8A6A48",
+     "pct": 22
+    },
+    {
+     "hex": "#2B2420",
+     "pct": 13
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "sample4",
+  "sample": true,
+  "brand": "예시 브랜드 D",
+  "channel": "리테일 기획전",
+  "source_name": "올리브영 기획전",
+  "page_url": "",
+  "collected_at": "2026-11-09",
+  "image": null,
+  "placeholder_bg": "#E3E0F0",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "사은품",
+    "secondary": [
+     "할인율 강조"
+    ]
+   },
+   "copy": {
+    "main": "지금 구매 시 미니어처 3종 증정",
+    "sub": "선착순 한정 수량",
+    "cta": "혜택 받기"
+   },
+   "visual_focus": "제품",
+   "layout": "본품 옆에 증정품 3개를 펼쳐 놓은 구성",
+   "tone": [
+    "라벤더",
+    "풍성함"
+   ],
+   "target": "여러 제품을 써보고 싶은 체험형 고객",
+   "why_it_hooks": "증정품을 실물처럼 크게 보여줘 덤의 크기가 바로 체감돼요.",
+   "palette": [
+    {
+     "hex": "#E3E0F0",
+     "pct": 60
+    },
+    {
+     "hex": "#5A4F8F",
+     "pct": 18
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 22
+    }
+   ]
+  }
+ },
+ {
+  "id": "sample5",
+  "sample": true,
+  "brand": "예시 브랜드 E",
+  "channel": "인스타그램",
+  "source_name": "@example_e",
+  "page_url": "",
+  "collected_at": "2026-11-08",
+  "image": null,
+  "placeholder_bg": "#D9E4EE",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "비포애프터",
+    "secondary": [
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "2주 사용 전후 피부결 비교",
+    "sub": "같은 조명, 같은 각도",
+    "cta": "결과 확인"
+   },
+   "visual_focus": "모델",
+   "layout": "좌우 분할 확대 컷, 중앙에 사용 기간 표기",
+   "tone": [
+    "블루",
+    "클린"
+   ],
+   "target": "모공·피부결 고민 고객",
+   "why_it_hooks": "눈으로 확인되는 변화라 설명 없이도 효과가 전달돼요.",
+   "palette": [
+    {
+     "hex": "#D9E4EE",
+     "pct": 50
+    },
+    {
+     "hex": "#3B5F82",
+     "pct": 20
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 30
+    }
+   ]
+  }
+ },
+ {
+  "id": "sample6",
+  "sample": true,
+  "brand": "예시 브랜드 A",
+  "channel": "공식몰",
+  "source_name": "예시 브랜드 A 공식몰",
+  "page_url": "",
+  "collected_at": "2026-11-07",
+  "image": null,
+  "placeholder_bg": "#F2E6D9",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "루틴 제안",
+    "secondary": [
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "겨울 보습 루틴, 3단계면 충분해요",
+    "sub": "토너-앰플-크림",
+    "cta": "루틴 보기"
+   },
+   "visual_focus": "제품",
+   "layout": "세 제품을 사용 순서대로 왼쪽에서 오른쪽 배치",
+   "tone": [
+    "따뜻함",
+    "정돈"
+   ],
+   "target": "루틴을 새로 짜는 계절 전환기 고객",
+   "why_it_hooks": "단품이 아닌 세트 구매를 자연스럽게 유도해요.",
+   "palette": [
+    {
+     "hex": "#F2E6D9",
+     "pct": 58
+    },
+    {
+     "hex": "#C07A4A",
+     "pct": 17
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "sample7",
+  "sample": true,
+  "brand": "예시 브랜드 F",
+  "channel": "인스타그램",
+  "source_name": "@example_f",
+  "page_url": "",
+  "collected_at": "2026-11-03",
+  "image": null,
+  "placeholder_bg": "#F7E3D4",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "신제품",
+    "secondary": [
+     "할인율 강조"
+    ]
+   },
+   "copy": {
+    "main": "신제품 런칭 기념 첫 구매 1+1",
+    "sub": "",
+    "cta": "1+1 받기"
+   },
+   "visual_focus": "텍스트",
+   "layout": "'NEW' 스티커와 1+1 문구를 겹쳐 강조",
+   "tone": [
+    "코랄",
+    "비비드"
+   ],
+   "target": "신제품에 반응하는 트렌드 고객",
+   "why_it_hooks": "신제품의 호기심과 1+1의 부담 없음을 한 번에 줘요.",
+   "palette": [
+    {
+     "hex": "#F7E3D4",
+     "pct": 52
+    },
+    {
+     "hex": "#D0633A",
+     "pct": 28
+    },
+    {
+     "hex": "#1F1A1C",
+     "pct": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "sample8",
+  "sample": true,
+  "brand": "예시 브랜드 B",
+  "channel": "공식몰",
+  "source_name": "예시 브랜드 B 공식몰",
+  "page_url": "",
+  "collected_at": "2026-10-27",
+  "image": null,
+  "placeholder_bg": "#E6EEDC",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": []
+   },
+   "copy": {
+    "main": "매일 쓰는 데일리 선크림",
+    "sub": "모델 PICK",
+    "cta": "모델 PICK 보기"
+   },
+   "visual_focus": "모델",
+   "layout": "모델 클로즈업 위에 제품을 작게 합성",
+   "tone": [
+    "그린",
+    "청량"
+   ],
+   "target": "모델 팬층과 20대 고객",
+   "why_it_hooks": "얼굴 클로즈업으로 시선을 먼저 잡고 제품으로 넘겨요.",
+   "palette": [
+    {
+     "hex": "#E6EEDC",
+     "pct": 45
+    },
+    {
+     "hex": "#5F7A3E",
+     "pct": 20
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 35
+    }
+   ]
+  }
+ },
+ {
+  "id": "sample9",
+  "sample": true,
+  "brand": "예시 브랜드 A",
+  "channel": "상세페이지",
+  "source_name": "올리브영 랭킹 2위",
+  "page_url": "",
+  "collected_at": "2026-11-10",
+  "image": null,
+  "placeholder_bg": "#FBEFF2",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "인증·임상",
+     "리뷰·랭킹"
+    ]
+   },
+   "copy": {
+    "main": "겨울만 되면 속까지 당기나요?",
+    "sub": "72시간 보습",
+    "cta": "구매하기"
+   },
+   "visual_focus": "혼합",
+   "layout": "공감 질문 → 제품 → 근거 → 증거 순서",
+   "tone": [
+    "화사함",
+    "신뢰감"
+   ],
+   "target": "건조한 피부의 20~30대",
+   "why_it_hooks": "고민을 먼저 꺼내 '내 얘기'로 느끼게 해요.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 62
+    },
+    {
+     "hex": "#F6D9DF",
+     "pct": 20
+    },
+    {
+     "hex": "#B8466A",
+     "pct": 10
+    },
+    {
+     "hex": "#1F1A1C",
+     "pct": 8
+    }
+   ],
+   "pdp": {
+    "first_screen_hook": "제품보다 고민 상황을 먼저 질문형 카피로 보여줘요.",
+    "sections": [
+     {
+      "name": "인트로",
+      "role": "공감 후킹",
+      "copy": "겨울만 되면 속까지 당기나요?",
+      "share": 8
+     },
+     {
+      "name": "제품 등장",
+      "role": "해결책 제시",
+      "copy": "72시간 보습 수분크림",
+      "share": 10
+     },
+     {
+      "name": "핵심 성분",
+      "role": "근거",
+      "copy": "세라마이드 5종 + 판테놀",
+      "share": 18
+     },
+     {
+      "name": "임상 데이터",
+      "role": "근거",
+      "copy": "보습력 2.3배 (자사 비교)",
+      "share": 14
+     },
+     {
+      "name": "비포애프터",
+      "role": "근거",
+      "copy": "2주 사용 피부결 변화",
+      "share": 12
+     },
+     {
+      "name": "리뷰·수상",
+      "role": "사회적 증거",
+      "copy": "리뷰 1만 건, 어워즈 수상",
+      "share": 15
+     },
+     {
+      "name": "사용법",
+      "role": "행동 유도",
+      "copy": "아침저녁 2단계 루틴",
+      "share": 11
+     },
+     {
+      "name": "구성·혜택",
+      "role": "구매 결정",
+      "copy": "기획 세트, 미니어처 증정",
+      "share": 12
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": true,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   }
+  },
+  "rank": 2,
+  "height_px": 14200,
+  "page_title": "예시 브랜드 A 수분크림"
+ },
+ {
+  "id": "sample10",
+  "sample": true,
+  "brand": "예시 브랜드 B",
+  "channel": "상세페이지",
+  "source_name": "올리브영 랭킹 4위",
+  "page_url": "",
+  "collected_at": "2026-11-10",
+  "image": null,
+  "placeholder_bg": "#E8F0EB",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "인증·임상",
+    "secondary": [
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "피부과 테스트 완료",
+    "sub": "저자극 진정",
+    "cta": "구매하기"
+   },
+   "visual_focus": "제품",
+   "layout": "인증 → 성분 → 임상, 근거 중심으로만 구성",
+   "tone": [
+    "그린",
+    "절제"
+   ],
+   "target": "민감성 피부",
+   "why_it_hooks": "첫 화면부터 인증 배지로 불안을 먼저 해소해요.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 60
+    },
+    {
+     "hex": "#DCE8E2",
+     "pct": 25
+    },
+    {
+     "hex": "#3E6B57",
+     "pct": 15
+    }
+   ],
+   "pdp": {
+    "first_screen_hook": "인증 배지와 '저자극' 문구로 안심부터 줘요.",
+    "sections": [
+     {
+      "name": "인증",
+      "role": "근거",
+      "copy": "피부과 테스트 완료",
+      "share": 14
+     },
+     {
+      "name": "핵심 성분",
+      "role": "근거",
+      "copy": "시카 + 판테놀",
+      "share": 22
+     },
+     {
+      "name": "임상 데이터",
+      "role": "근거",
+      "copy": "진정 효과 시험 결과",
+      "share": 20
+     },
+     {
+      "name": "사용법",
+      "role": "행동 유도",
+      "copy": "하루 두 번",
+      "share": 18
+     },
+     {
+      "name": "리뷰",
+      "role": "사회적 증거",
+      "copy": "민감 피부 실사용 후기",
+      "share": 26
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": true,
+     "수상·랭킹": false,
+     "전문가 추천": true,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   }
+  },
+  "rank": 4,
+  "height_px": 9800,
+  "page_title": "예시 브랜드 B 진정크림"
+ },
+ {
+  "id": "sample11",
+  "sample": true,
+  "brand": "예시 브랜드 C",
+  "channel": "상세페이지",
+  "source_name": "올리브영 랭킹 1위",
+  "page_url": "",
+  "collected_at": "2026-11-10",
+  "image": null,
+  "placeholder_bg": "#F3EEE6",
+  "analysis": {
+   "is_brand_ad": true,
+   "hooks": {
+    "primary": "리뷰·랭킹",
+    "secondary": [
+     "비포애프터"
+    ]
+   },
+   "copy": {
+    "main": "랭킹 1위 장벽크림",
+    "sub": "누적 판매 강조",
+    "cta": "구매하기"
+   },
+   "visual_focus": "혼합",
+   "layout": "랭킹 배지로 시작해 리뷰로 끝나는 증거 중심",
+   "tone": [
+    "베이지",
+    "당당함"
+   ],
+   "target": "검증된 제품을 찾는 고객",
+   "why_it_hooks": "'1위'로 시작해 고민할 이유를 줄여요.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 55
+    },
+    {
+     "hex": "#EDE3D6",
+     "pct": 30
+    },
+    {
+     "hex": "#8A6A48",
+     "pct": 15
+    }
+   ],
+   "pdp": {
+    "first_screen_hook": "랭킹 1위 배지를 첫 화면 전체에 크게 걸어요.",
+    "sections": [
+     {
+      "name": "랭킹",
+      "role": "사회적 증거",
+      "copy": "카테고리 1위",
+      "share": 10
+     },
+     {
+      "name": "인트로",
+      "role": "공감 후킹",
+      "copy": "무너진 장벽, 이제 그만",
+      "share": 8
+     },
+     {
+      "name": "핵심 성분",
+      "role": "근거",
+      "copy": "세라마이드 + 콜레스테롤",
+      "share": 16
+     },
+     {
+      "name": "비포애프터",
+      "role": "근거",
+      "copy": "4주 사용 변화",
+      "share": 16
+     },
+     {
+      "name": "리뷰",
+      "role": "사회적 증거",
+      "copy": "별점 4.8 리뷰 모음",
+      "share": 24
+     },
+     {
+      "name": "구성·혜택",
+      "role": "구매 결정",
+      "copy": "1+1 기획",
+      "share": 14
+     },
+     {
+      "name": "사용법",
+      "role": "행동 유도",
+      "copy": "마지막 단계에 듬뿍",
+      "share": 12
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": true,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   }
+  },
+  "rank": 1,
+  "height_px": 16500,
+  "page_title": "예시 브랜드 C 장벽크림"
+ }
+]

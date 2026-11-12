@@ -1,0 +1,459 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뷰티 광고 연구소 · 경쟁사 광고 소재 아카이브</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@600;700&display=swap">
+<style>
+:root{
+  --bg:#FBF8F6; --surface:#FFFFFF; --ink:#1F1A1C; --muted:#6B5F63; --line:#EADFE2; --soft:#F6E6EA;
+  --accent:#B8466A; --accent-ink:#8E3050; --dark:#1F1A1C; --dark-2:#2C2528; --on-dark:#FFFFFF; --on-dark-muted:#D9CFD2;
+  --ok-bg:#E4F1E9; --ok-ink:#1F4F36; --chip-border:#DCCFD3;
+  --serif:'Noto Serif KR', 'Apple SD Gothic Neo', serif; --sans:'Noto Sans KR', 'Apple SD Gothic Neo', system-ui, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#171315; --surface:#211B1E; --ink:#F3ECEE; --muted:#B5A8AC; --line:#3A3034; --soft:#3A2830;
+    --accent:#E78AA8; --accent-ink:#F2B8C8; --dark:#2C2428; --dark-2:#382E33; --on-dark:#FFFFFF; --on-dark-muted:#D9CFD2;
+    --ok-bg:#1F3A2B; --ok-ink:#BFE5CD; --chip-border:#4A3F43; color-scheme: dark;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{font-family:var(--sans); background:var(--bg); color:var(--ink); line-height:1.6}
+a{color:var(--accent)}
+button,select,input{font:inherit; color:inherit}
+:focus-visible{outline:3px solid var(--accent); outline-offset:2px}
+img{max-width:100%; display:block}
+.wrap{max-width:1280px; margin:0 auto; padding:0 24px}
+
+header.top{background:var(--surface); border-bottom:1px solid var(--line); position:sticky; top:0; z-index:10}
+header.top .wrap{display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:12px; padding-top:14px; padding-bottom:14px}
+.logo{font-family:var(--serif); font-weight:700; font-size:20px; text-decoration:none; color:var(--ink)}
+nav.tabs{display:flex; gap:6px; flex-wrap:wrap}
+nav.tabs a{padding:10px 14px; border-radius:999px; text-decoration:none; color:var(--ink); font-size:14px; font-weight:500}
+nav.tabs a[aria-current="page"]{background:var(--ink); color:var(--bg)}
+
+.banner-sample{background:var(--soft); color:var(--accent-ink); font-size:13px; padding:10px 16px; text-align:center}
+
+main.wrap{padding-top:48px; padding-bottom:80px}
+section.view{display:none; flex-direction:column; gap:32px}
+section.view.on{display:flex}
+.hero{display:flex; flex-wrap:wrap; justify-content:space-between; align-items:flex-end; gap:20px}
+.hero h1{font-family:var(--serif); font-size:clamp(30px,4vw,42px); line-height:1.3; margin:0}
+.hero p{margin:10px 0 0; color:var(--muted); max-width:640px}
+.status{display:flex; align-items:center; gap:8px; font-size:13px; color:var(--muted); border:1px solid var(--line); background:var(--surface); padding:9px 14px; border-radius:999px}
+.dot{width:8px; height:8px; border-radius:50%; background:#2F8F5B}
+
+.stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:14px}
+.stat{background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:20px 22px}
+.stat b{display:block; font-size:26px; line-height:1.3}
+.stat span{font-size:13px; color:var(--muted)}
+
+.filters{background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:18px 20px; display:flex; flex-direction:column; gap:12px}
+.frow{display:flex; flex-wrap:wrap; align-items:center; gap:8px}
+.frow > .lab{font-size:13px; font-weight:700; width:72px}
+.chip{min-height:40px; padding:0 14px; border-radius:999px; border:1px solid var(--chip-border); background:var(--surface); cursor:pointer; font-size:14px}
+.chip[aria-pressed="true"]{background:var(--ink); color:var(--bg); border-color:var(--ink)}
+.field{height:42px; padding:0 12px; border:1px solid var(--chip-border); border-radius:10px; background:var(--surface)}
+.field.grow{flex:1 1 220px}
+
+.grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:22px}
+.card{background:var(--surface); border:1px solid var(--line); border-radius:16px; overflow:hidden; display:flex; flex-direction:column; cursor:pointer; text-align:left; padding:0}
+.card .thumb{aspect-ratio:4/5; background:var(--soft); position:relative; overflow:hidden}
+.card .thumb img{width:100%; height:100%; object-fit:cover; object-position:top}
+.card .thumb .ph{position:absolute; inset:0; display:flex; align-items:center; justify-content:center; padding:24px; text-align:center; font-family:var(--serif); font-weight:700; font-size:18px; line-height:1.45; color:#1F1A1C}
+.card .ch{position:absolute; top:12px; left:12px; font-size:12px; padding:4px 9px; border-radius:999px; background:rgba(255,255,255,.9); color:#1F1A1C}
+.card .rank{position:absolute; top:12px; right:12px; font-size:12px; font-weight:700; padding:4px 9px; border-radius:999px; background:#1F1A1C; color:#fff}
+.card .body{padding:14px 16px 16px; display:flex; flex-direction:column; gap:9px}
+.row{display:flex; justify-content:space-between; align-items:center; gap:8px}
+.brand{font-weight:700; font-size:15px}
+.brand.focus::after{content:"기준"; margin-left:6px; font-size:11px; padding:2px 6px; border-radius:6px; background:var(--accent); color:#fff; vertical-align:2px}
+.meta{font-size:12px; color:var(--muted)}
+.tags{display:flex; flex-wrap:wrap; gap:6px}
+.tag{font-size:12px; padding:3px 9px; border-radius:999px; background:var(--soft); color:var(--accent-ink); font-weight:500}
+.tag.wait{background:var(--line); color:var(--muted)}
+.swatches{display:flex; gap:4px}
+.sw{width:16px; height:16px; border-radius:50%; border:1px solid rgba(0,0,0,.12)}
+.more{align-self:center; min-height:46px; padding:0 26px; border-radius:999px; border:1px solid var(--ink); background:transparent; cursor:pointer}
+.empty{padding:48px 24px; text-align:center; color:var(--muted); background:var(--surface); border:1px dashed var(--chip-border); border-radius:16px}
+
+.panel{background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:24px 26px; display:flex; flex-direction:column; gap:14px}
+.panel h2{font-size:18px; margin:0}
+.panel .sub{font-size:12px; color:var(--muted)}
+.two{display:flex; flex-wrap:wrap; gap:22px; align-items:flex-start}
+.two > *{flex:1 1 420px; min-width:0}
+
+.bar{display:flex; align-items:center; gap:12px; font-size:14px}
+.bar .n{width:96px; flex-shrink:0}
+.bar .track{flex:1; height:12px; background:var(--line); border-radius:999px; overflow:hidden}
+.bar .fill{height:100%; border-radius:999px; background:var(--accent)}
+.bar .v{width:44px; text-align:right; font-weight:700}
+
+.insights{display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:14px}
+.ins{background:var(--dark); color:var(--on-dark); border-radius:16px; padding:22px; display:flex; flex-direction:column; gap:8px}
+.ins small{color:#F2B8C8; font-weight:700}
+.ins b{font-size:17px; line-height:1.5}
+.ins span{font-size:14px; color:var(--on-dark-muted)}
+
+.heat{overflow-x:auto}
+.heat table{border-collapse:separate; border-spacing:5px; min-width:640px; width:100%; font-size:13px}
+.heat th{font-weight:700; padding:6px; text-align:center}
+.heat th:first-child{text-align:left}
+.heat td{height:44px; text-align:center; border-radius:8px; font-weight:700}
+
+.weeks{display:flex; align-items:flex-end; gap:10px; height:180px; border-bottom:1px solid var(--line)}
+.weeks div{flex:1; display:flex; flex-direction:column; align-items:center; justify-content:flex-end; gap:4px; height:100%; font-size:12px}
+.weeks i{display:block; width:100%; background:var(--accent); opacity:.55; border-radius:6px 6px 0 0}
+.weeks div:last-child i{opacity:1}
+.wlabels{display:flex; gap:10px}
+.wlabels span{flex:1; text-align:center; font-size:11px; color:var(--muted)}
+
+.brandpal{display:flex; align-items:center; gap:14px; flex-wrap:wrap; padding:10px 0; border-top:1px solid var(--line)}
+.brandpal .bn{width:120px; font-weight:700; font-size:14px}
+.brandpal .sw{width:40px; height:28px; border-radius:7px}
+
+/* 상세페이지 */
+.pdp-pick{display:flex; flex-wrap:wrap; gap:8px}
+.pdp-layout{display:flex; flex-wrap:wrap; gap:32px; align-items:flex-start}
+.longimg{flex:0 0 340px; max-width:100%; max-height:80vh; overflow-y:auto; border:1px solid var(--line); border-radius:16px; background:var(--surface)}
+.phlong{display:flex; flex-direction:column}
+.phlong div{display:flex; align-items:center; justify-content:center; text-align:center; padding:16px; font-family:var(--serif); font-weight:700; color:#1F1A1C; border-bottom:1px solid rgba(0,0,0,.06)}
+.pdp-side{flex:1 1 480px; min-width:0; display:flex; flex-direction:column; gap:18px}
+.first{background:var(--dark); color:var(--on-dark); border-radius:16px; padding:22px 24px}
+.first small{color:#F2B8C8; font-weight:700}
+.first p{margin:6px 0 0; font-size:18px; font-weight:700; line-height:1.5}
+.sec{display:flex; gap:12px; padding:11px 0; border-top:1px solid var(--line)}
+.sec .num{width:26px; height:26px; flex-shrink:0; border-radius:50%; background:var(--soft); color:var(--accent-ink); font-size:12px; font-weight:700; display:flex; align-items:center; justify-content:center}
+.sec .t{font-weight:700; font-size:14px}
+.sec .c{font-size:13px; color:var(--muted)}
+.proofs{display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:8px}
+.proof{font-size:13px; padding:9px 12px; border-radius:10px; background:var(--line); color:var(--muted)}
+.proof.yes{background:var(--ok-bg); color:var(--ok-ink); font-weight:500}
+.flow{display:flex; flex-wrap:wrap; align-items:center; gap:12px; padding:10px 0; border-top:1px solid var(--line)}
+.flow .fn{width:180px; font-size:14px; font-weight:700}
+.flow .steps{display:flex; flex-wrap:wrap; gap:5px; flex:1}
+.flow .steps span{font-size:12px; padding:5px 9px; border-radius:7px; color:#1F1A1C}
+.legend{display:flex; flex-wrap:wrap; gap:14px; font-size:12px; color:var(--muted)}
+.legend span{display:flex; align-items:center; gap:6px}
+.legend i{width:12px; height:12px; border-radius:3px; display:inline-block}
+
+/* 상세 보기 */
+dialog{border:none; border-radius:20px; padding:0; width:min(1080px,94vw); max-height:92vh; background:var(--bg); color:var(--ink)}
+dialog::backdrop{background:rgba(20,14,16,.55)}
+.dlg{display:flex; flex-wrap:wrap; gap:28px; padding:28px}
+.dlg .media{flex:1 1 380px; min-width:0; max-height:76vh; overflow-y:auto; border-radius:14px; background:var(--soft)}
+.dlg .info{flex:1 1 400px; min-width:0; display:flex; flex-direction:column; gap:14px}
+.close{position:sticky; top:0; float:right; margin:14px 14px 0 0; min-height:40px; padding:0 14px; border-radius:999px; border:1px solid var(--chip-border); background:var(--surface); cursor:pointer}
+.kv{display:flex; gap:12px; font-size:14px; padding:8px 0; border-top:1px solid var(--line)}
+.kv span:first-child{width:64px; flex-shrink:0; color:var(--muted)}
+footer{font-size:12px; color:var(--muted); border-top:1px solid var(--line); padding:20px 0 40px}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#archive">뷰티 광고 연구소</a>
+    <nav class="tabs" aria-label="화면 이동">
+      <a href="#archive" data-tab="archive">소재 아카이브</a>
+      <a href="#pdp" data-tab="pdp">상세페이지 분석</a>
+      <a href="#insight" data-tab="insight">인사이트</a>
+    </nav>
+  </div>
+</header>
+<div class="banner-sample" id="sampleNote" hidden>지금 보이는 소재는 화면 구성을 보여주기 위한 예시 데이터예요. 첫 자동 수집이 끝나면 실제 소재로 바뀝니다.</div>
+
+<main class="wrap">
+  <!-- 아카이브 -->
+  <section class="view" id="v-archive">
+    <div class="hero">
+      <div>
+        <h1>경쟁 브랜드는 지금<br>무엇으로 후킹하고 있을까</h1>
+        <p>공식몰, 인스타그램, 리테일 기획전, 상세페이지에 올라온 광고 소재를 매주 자동으로 모으고 AI가 후킹 유형·카피·디자인을 분석해 쌓아둡니다.</p>
+      </div>
+      <div class="status"><span class="dot"></span><span id="statusText">불러오는 중</span></div>
+    </div>
+    <div class="stats" id="stats"></div>
+    <div class="filters">
+      <div class="frow" id="fChannel"><span class="lab">채널</span></div>
+      <div class="frow" id="fHook"><span class="lab">후킹 유형</span></div>
+      <div class="frow">
+        <label class="lab" for="fBrand">브랜드</label>
+        <select class="field" id="fBrand"></select>
+        <label class="lab" for="fQ" style="width:auto;margin-left:6px">카피 검색</label>
+        <input class="field grow" id="fQ" type="search" placeholder="예: 1+1, 진정, 마감 임박">
+      </div>
+    </div>
+    <div class="row"><h2 style="margin:0;font-size:20px">수집된 소재</h2><span class="meta" id="count"></span></div>
+    <div class="grid" id="grid"></div>
+    <button class="more" id="more" type="button">소재 더 보기</button>
+  </section>
+
+  <!-- 상세페이지 -->
+  <section class="view" id="v-pdp">
+    <div class="hero"><div>
+      <h1>잘 팔리는 상세페이지는<br>어떤 순서로 설득할까</h1>
+      <p>올리브영 랭킹 상위 제품과 경쟁 브랜드 상세페이지를 통째로 캡처해, AI가 섹션 단위로 나누고 각 섹션의 설득 역할을 분석합니다.</p>
+    </div></div>
+    <div class="pdp-pick" id="pdpPick" role="group" aria-label="분석할 상세페이지 선택"></div>
+    <div class="pdp-layout" id="pdpView"></div>
+    <div class="panel">
+      <div class="row"><h2>상세페이지별 섹션 흐름</h2><span class="sub">위에서 아래 순서</span></div>
+      <div id="flows"></div>
+      <div class="legend">
+        <span><i style="background:#F6D9DF"></i>공감·후킹</span><span><i style="background:#DCE8E2"></i>근거</span>
+        <span><i style="background:#E3E0F0"></i>사회적 증거</span><span><i style="background:#F2E6D9"></i>행동·구매 유도</span>
+      </div>
+    </div>
+    <div class="panel"><h2>첫 섹션은 무엇으로 시작할까</h2><div id="firstRoles"></div></div>
+  </section>
+
+  <!-- 인사이트 -->
+  <section class="view" id="v-insight">
+    <div class="hero"><div>
+      <h1>최근 4주,<br>광고 소재에서 보인 흐름</h1>
+      <p id="insUpdated"></p>
+    </div></div>
+    <div class="insights" id="aiInsights"></div>
+    <div class="two">
+      <div class="panel"><div class="row"><h2>후킹 유형 비율</h2><span class="sub" id="hookTotal"></span></div><div id="hookBars"></div></div>
+      <div class="panel"><div class="row"><h2>주간 수집량</h2><span class="sub">최근 8주</span></div><div class="weeks" id="weeks"></div><div class="wlabels" id="wlabels"></div></div>
+    </div>
+    <div class="panel" id="focusPanel"><div class="row"><h2 id="focusTitle">기준 브랜드 vs 경쟁사</h2><span class="sub">주 후킹 유형 비율</span></div><div id="focusBars"></div></div>
+    <div class="panel"><div class="row"><h2>채널 × 후킹 유형</h2><span class="sub">색이 진할수록 소재가 많아요</span></div><div class="heat" id="heat"></div></div>
+    <div class="panel"><h2>브랜드별 대표 컬러</h2><div id="palettes"></div></div>
+  </section>
+
+  <footer>모든 광고 소재의 저작권은 각 브랜드에 있으며, 이 아카이브는 트렌드 분석 목적으로 축소 이미지와 출처를 함께 표기합니다.</footer>
+</main>
+
+<dialog id="dlg" aria-labelledby="dlgTitle"><button class="close" type="button" id="dlgClose">닫기</button><div class="dlg" id="dlgBody"></div></dialog>
+
+<script>
+const HOOKS = ["할인율 강조","한정·마감","성분·효능","인증·임상","리뷰·랭킹","사은품","비포애프터","모델·셀럽","신제품","루틴 제안"];
+const CHANNELS = ["공식몰","인스타그램","리테일 기획전","상세페이지"];
+const PROOFS = ["임상 시험","성분 설명","비포애프터","리뷰 캡처","수상·랭킹","전문가 추천","인증 마크","모델·셀럽"];
+const PAGE = 24;
+const state = { items: [], meta: {}, insights: null, channel: "전체", hook: null, brand: "", q: "", shown: PAGE, pdpId: null };
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const $ = id => document.getElementById(id);
+const A = it => it.analysis || {};
+const hookOf = it => A(it).hooks?.primary;
+const fmtDate = d => d ? d.slice(5).replace("-", ".") : "";
+
+function roleColor(role = "") {
+  if (/후킹|공감/.test(role)) return "#F6D9DF";
+  if (/증거|리뷰|랭킹|수상/.test(role)) return "#E3E0F0";
+  if (/근거|성분|임상|해결|인증/.test(role)) return "#DCE8E2";
+  return "#F2E6D9";
+}
+
+async function load() {
+  const get = async (p, fb) => { try { const r = await fetch(p, {cache: "no-store"}); return r.ok ? await r.json() : fb; } catch { return fb; } };
+  const [items, meta, insights] = await Promise.all([get("data/items.json", []), get("data/meta.json", {}), get("data/insights.json", null)]);
+  state.items = items.filter(i => A(i).is_brand_ad !== false);
+  state.meta = meta; state.insights = insights?.sample && !state.items.some(i => i.sample) ? null : insights;
+  $("sampleNote").hidden = !state.items.some(i => i.sample);
+  $("statusText").textContent = meta.last_run ? `마지막 자동 수집 ${meta.last_run} · 매주 월요일 오전 9시 갱신` : "매주 월요일 오전 9시 자동 수집";
+  buildFilters(); route();
+}
+
+/* ── 아카이브 ── */
+function buildFilters() {
+  const ch = $("fChannel"), hk = $("fHook");
+  ["전체", ...CHANNELS].forEach(c => ch.insertAdjacentHTML("beforeend", `<button class="chip" type="button" data-ch="${c}" aria-pressed="${c === state.channel}">${c}</button>`));
+  HOOKS.forEach(h => hk.insertAdjacentHTML("beforeend", `<button class="chip" type="button" data-hook="${h}" aria-pressed="false">${h}</button>`));
+  ch.addEventListener("click", e => { const b = e.target.closest("[data-ch]"); if (!b) return; state.channel = b.dataset.ch; state.shown = PAGE;
+    ch.querySelectorAll("[data-ch]").forEach(x => x.setAttribute("aria-pressed", x === b)); renderArchive(); });
+  hk.addEventListener("click", e => { const b = e.target.closest("[data-hook]"); if (!b) return; state.hook = state.hook === b.dataset.hook ? null : b.dataset.hook; state.shown = PAGE;
+    hk.querySelectorAll("[data-hook]").forEach(x => x.setAttribute("aria-pressed", x.dataset.hook === state.hook)); renderArchive(); });
+  const brands = [...new Set(state.items.map(i => i.brand).filter(Boolean))].sort();
+  $("fBrand").innerHTML = `<option value="">전체 브랜드 (${brands.length})</option>` + brands.map(b => `<option>${esc(b)}</option>`).join("");
+  $("fBrand").addEventListener("change", e => { state.brand = e.target.value; state.shown = PAGE; renderArchive(); });
+  $("fQ").addEventListener("input", e => { state.q = e.target.value.trim(); state.shown = PAGE; renderArchive(); });
+  $("more").addEventListener("click", () => { state.shown += PAGE; renderArchive(); });
+}
+
+function filtered() {
+  return state.items.filter(it => (state.channel === "전체" || it.channel === state.channel)
+    && (!state.hook || hookOf(it) === state.hook || (A(it).hooks?.secondary || []).includes(state.hook))
+    && (!state.brand || it.brand === state.brand)
+    && (!state.q || JSON.stringify([A(it).copy, it.caption, it.page_title]).includes(state.q)));
+}
+
+function renderStats() {
+  const latest = state.items.map(i => i.collected_at).sort().pop() || "";
+  const weekAgo = latest ? new Date(new Date(latest) - 6 * 864e5).toISOString().slice(0, 10) : "";
+  const week = state.items.filter(i => i.collected_at >= weekAgo);
+  const top = Object.entries(count(week.map(hookOf).filter(Boolean))).sort((a, b) => b[1] - a[1])[0];
+  const brands = new Set(state.items.map(i => i.brand).filter(Boolean)).size;
+  $("stats").innerHTML = [
+    ["최근 7일 신규 소재", week.length, latest ? `${fmtDate(weekAgo)} ~ ${fmtDate(latest)}` : "아직 없음"],
+    ["추적 중인 브랜드", brands, state.meta.focus_brand ? `기준 브랜드: ${state.meta.focus_brand}` : ""],
+    ["최근 7일 최다 후킹", top ? top[0] : "–", top ? `${Math.round(top[1] * 100 / week.length)}%` : ""],
+    ["누적 아카이브", state.items.length, "자동 수집 + AI 분석"],
+  ].map(([l, v, s]) => `<div class="stat"><span>${l}</span><b>${esc(v)}</b><span>${esc(s)}</span></div>`).join("");
+}
+
+function thumb(it, cls = "") {
+  if (it.image) return `<img src="${esc(it.image)}" alt="${esc((it.brand || "") + " " + it.channel + " 소재")}" loading="lazy">`;
+  return `<div class="ph" style="background:${esc(it.placeholder_bg || "#F6E6EA")}">${esc(A(it).copy?.main || "광고 이미지")}</div>`;
+}
+
+function card(it) {
+  const a = A(it), tags = a.hooks ? [a.hooks.primary, ...(a.hooks.secondary || [])].filter(Boolean).slice(0, 3) : [];
+  const focus = it.brand && it.brand === state.meta.focus_brand;
+  return `<button class="card" type="button" data-id="${esc(it.id)}">
+    <div class="thumb">${thumb(it)}<span class="ch">${esc(it.channel)}</span>${it.rank ? `<span class="rank">${it.rank}위</span>` : ""}</div>
+    <div class="body">
+      <div class="row"><span class="brand${focus ? " focus" : ""}">${esc(it.brand || "브랜드 확인 중")}</span><span class="meta">${fmtDate(it.collected_at)}</span></div>
+      <div class="tags">${tags.length ? tags.map(t => `<span class="tag">${esc(t)}</span>`).join("") : `<span class="tag wait">분석 대기</span>`}</div>
+      <div class="row"><div class="swatches">${(a.palette || []).slice(0, 4).map(p => `<span class="sw" style="background:${esc(p.hex)}"></span>`).join("")}</div><span class="meta">${esc(it.source_name || "")}</span></div>
+    </div></button>`;
+}
+
+function renderArchive() {
+  renderStats();
+  const list = filtered();
+  $("count").textContent = `${list.length}개 중 ${Math.min(list.length, state.shown)}개 표시`;
+  $("grid").innerHTML = list.length ? list.slice(0, state.shown).map(card).join("")
+    : `<div class="empty" style="grid-column:1/-1">조건에 맞는 소재가 없어요. 필터를 하나 풀어보세요.</div>`;
+  $("more").hidden = list.length <= state.shown;
+}
+
+document.addEventListener("click", e => { const c = e.target.closest(".card[data-id]"); if (c) openItem(c.dataset.id); });
+
+/* ── 상세 보기 ── */
+function sectionsHTML(pdp) {
+  return (pdp.sections || []).map((s, i) => `<div class="sec"><span class="num">${i + 1}</span><div style="flex:1;min-width:0">
+    <div class="row"><span class="t">${esc(s.name)} · ${esc(s.role)}</span>${s.share ? `<span class="meta">비중 ${esc(s.share)}%</span>` : ""}</div>
+    <div class="c">${esc(s.copy)}</div></div></div>`).join("");
+}
+function proofsHTML(pdp) {
+  return `<div class="proofs">${PROOFS.map(p => `<div class="proof${pdp.proofs?.[p] ? " yes" : ""}">${pdp.proofs?.[p] ? "✓" : "–"} ${p}</div>`).join("")}</div>`;
+}
+function longPlaceholder(it) {
+  const secs = A(it).pdp?.sections || [];
+  return `<div class="phlong">${secs.map(s => `<div style="height:${Math.max(110, (s.share || 10) * 14)}px;background:${roleColor(s.role)}">${esc(s.copy)}</div>`).join("")}</div>`;
+}
+
+function openItem(id) {
+  const it = state.items.find(i => i.id === id); if (!it) return;
+  const a = A(it), pdp = a.pdp;
+  const media = it.image ? `<img src="${esc(it.image)}" alt="${esc(it.brand + " 소재 원본")}">` : (pdp ? longPlaceholder(it) : `<div class="card"><div class="thumb">${thumb(it)}</div></div>`);
+  $("dlgBody").innerHTML = `
+    <div class="media">${media}</div>
+    <div class="info">
+      <h2 id="dlgTitle" style="margin:0;font-size:24px">${esc(it.brand || "브랜드 확인 중")}</h2>
+      <div class="meta">${esc(it.channel)} · ${esc(it.source_name || "")} · ${esc(it.collected_at)} 수집${it.page_url ? ` · <a href="${esc(it.page_url)}" target="_blank" rel="noopener">원본 보기</a>` : ""}</div>
+      ${a.hooks ? `<div class="tags"><span class="tag" style="background:var(--accent);color:#fff">주 후킹 · ${esc(a.hooks.primary)}</span>${(a.hooks.secondary || []).map(t => `<span class="tag">${esc(t)}</span>`).join("")}</div>` : `<div class="tag wait" style="align-self:flex-start">아직 분석 전이에요. 다음 자동 실행 때 분석돼요.</div>`}
+      ${a.why_it_hooks ? `<p style="margin:0">${esc(a.why_it_hooks)}</p>` : ""}
+      ${pdp ? `<div class="first"><small>첫 화면 후킹</small><p>${esc(pdp.first_screen_hook)}</p></div>` : ""}
+      ${a.copy ? `<div><div class="kv"><span>메인 카피</span><span>${esc(a.copy.main)}</span></div><div class="kv"><span>서브</span><span>${esc(a.copy.sub || "–")}</span></div><div class="kv"><span>CTA</span><span>${esc(a.copy.cta || "–")}</span></div>
+        <div class="kv"><span>레이아웃</span><span>${esc(a.layout)}</span></div><div class="kv"><span>시선 중심</span><span>${esc(a.visual_focus)}</span></div>
+        <div class="kv"><span>톤</span><span>${esc((a.tone || []).join(", "))}</span></div><div class="kv"><span>타깃</span><span>${esc(a.target)}</span></div></div>` : ""}
+      ${a.palette ? `<div class="swatches" style="gap:8px">${a.palette.map(p => `<span title="${esc(p.hex)} ${esc(p.pct)}%" class="sw" style="width:44px;height:30px;border-radius:7px;background:${esc(p.hex)}"></span>`).join("")}</div>` : ""}
+      ${pdp ? `<h3 style="margin:8px 0 0;font-size:16px">섹션 구조</h3>${sectionsHTML(pdp)}<h3 style="margin:8px 0 0;font-size:16px">신뢰 근거</h3>${proofsHTML(pdp)}` : ""}
+      ${it.caption ? `<details><summary>인스타 캡션</summary><p style="white-space:pre-line;font-size:14px">${esc(it.caption)}</p></details>` : ""}
+    </div>`;
+  $("dlg").showModal();
+}
+$("dlgClose").addEventListener("click", () => $("dlg").close());
+$("dlg").addEventListener("click", e => { if (e.target === $("dlg")) $("dlg").close(); });
+
+/* ── 상세페이지 분석 ── */
+function renderPDP() {
+  const pdps = state.items.filter(i => i.channel === "상세페이지" && A(i).pdp).sort((a, b) => (a.rank || 99) - (b.rank || 99));
+  if (!pdps.length) { $("pdpView").innerHTML = `<div class="empty" style="flex:1">아직 분석된 상세페이지가 없어요. 다음 자동 수집 후에 채워져요.</div>`; $("pdpPick").innerHTML = ""; $("flows").innerHTML = ""; $("firstRoles").innerHTML = ""; return; }
+  if (!pdps.some(p => p.id === state.pdpId)) state.pdpId = pdps[0].id;
+  const label = p => (p.rank ? p.rank + "위 " : "") + (p.page_title && p.brand && p.page_title.includes(p.brand) ? p.page_title : [p.brand, p.page_title].filter(Boolean).join(" · ")).slice(0, 30);
+  $("pdpPick").innerHTML = pdps.map(p => `<button class="chip" type="button" data-pdp="${esc(p.id)}" aria-pressed="${p.id === state.pdpId}">${esc(label(p))}</button>`).join("");
+  const it = pdps.find(p => p.id === state.pdpId), pdp = A(it).pdp;
+  $("pdpView").innerHTML = `
+    <div class="longimg">${it.image ? `<img src="${esc(it.image)}" alt="${esc(it.brand + " 상세페이지 전체")}">` : longPlaceholder(it)}</div>
+    <div class="pdp-side">
+      <div class="first"><small>첫 화면 후킹</small><p>${esc(pdp.first_screen_hook)}</p></div>
+      <div class="panel"><h2>섹션별 설득 흐름</h2>${sectionsHTML(pdp)}</div>
+      <div class="panel"><h2>신뢰 근거 체크</h2>${proofsHTML(pdp)}</div>
+      <button class="more" type="button" style="align-self:flex-start" data-open="${esc(it.id)}">카피·디자인 분석 전체 보기</button>
+    </div>`;
+  $("flows").innerHTML = pdps.map(p => `<div class="flow"><span class="fn">${esc(label(p))}</span><div class="steps">${(A(p).pdp.sections || []).map(s => `<span style="background:${roleColor(s.role)}">${esc(s.name)}</span>`).join("")}</div><span class="meta">${(A(p).pdp.sections || []).length}개 섹션</span></div>`).join("");
+  const firsts = count(pdps.map(p => A(p).pdp.sections?.[0]?.role).filter(Boolean));
+  $("firstRoles").innerHTML = bars(firsts, pdps.length);
+}
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-pdp]"); if (b) { state.pdpId = b.dataset.pdp; renderPDP(); }
+  const o = e.target.closest("[data-open]"); if (o) openItem(o.dataset.open);
+});
+
+/* ── 인사이트 ── */
+function count(arr) { return arr.reduce((m, k) => (m[k] = (m[k] || 0) + 1, m), {}); }
+function bars(obj, total) {
+  const rows = Object.entries(obj).sort((a, b) => b[1] - a[1]);
+  if (!rows.length) return `<p class="meta">아직 데이터가 없어요.</p>`;
+  const max = rows[0][1];
+  return rows.map(([k, v]) => `<div class="bar"><span class="n">${esc(k)}</span><div class="track"><div class="fill" style="width:${v * 100 / max}%"></div></div><span class="v">${Math.round(v * 100 / total)}%</span></div>`).join("");
+}
+
+function renderInsight() {
+  const latest = state.items.map(i => i.collected_at).sort().pop() || "";
+  const since = latest ? new Date(new Date(latest) - 27 * 864e5).toISOString().slice(0, 10) : "";
+  const recent = state.items.filter(i => i.collected_at >= since && hookOf(i));
+  const ins = state.insights?.insights || [];
+  $("insUpdated").textContent = state.insights?.updated_at ? `AI 인사이트 ${state.insights.updated_at} 갱신 · 분석 소재 ${recent.length}개` : `분석 소재 ${recent.length}개`;
+  $("aiInsights").innerHTML = ins.map(x => `<div class="ins"><small>${esc(x.tag)}</small><b>${esc(x.title)}</b><span>${esc(x.body)}</span></div>`).join("");
+
+  $("hookTotal").textContent = `소재 ${recent.length}개`;
+  $("hookBars").innerHTML = bars(count(recent.map(hookOf)), recent.length);
+
+  const weeks = [];
+  for (let w = 7; w >= 0; w--) {
+    const end = latest ? new Date(new Date(latest) - w * 7 * 864e5) : new Date();
+    const start = new Date(end - 6 * 864e5);
+    const s = start.toISOString().slice(0, 10), e = end.toISOString().slice(0, 10);
+    weeks.push({ label: fmtDate(s), n: state.items.filter(i => i.collected_at >= s && i.collected_at <= e).length });
+  }
+  const wmax = Math.max(1, ...weeks.map(w => w.n));
+  $("weeks").innerHTML = weeks.map(w => `<div><span>${w.n}</span><i style="height:${w.n * 150 / wmax}px"></i></div>`).join("");
+  $("wlabels").innerHTML = weeks.map(w => `<span>${w.label}</span>`).join("");
+
+  const fb = state.meta.focus_brand;
+  const mine = recent.filter(i => i.brand === fb), others = recent.filter(i => i.brand && i.brand !== fb);
+  $("focusTitle").textContent = fb ? `${fb} vs 경쟁사` : "기준 브랜드 vs 경쟁사";
+  $("focusBars").innerHTML = mine.length
+    ? `<div class="two"><div><h3 style="margin:0 0 10px;font-size:15px">${esc(fb)} (${mine.length})</h3>${bars(count(mine.map(hookOf)), mine.length)}</div><div><h3 style="margin:0 0 10px;font-size:15px">경쟁사 (${others.length})</h3>${bars(count(others.map(hookOf)), others.length)}</div></div>`
+    : `<p class="meta">${esc(fb || "기준 브랜드")} 소재가 수집되면 경쟁사와 후킹 전략을 나란히 비교해 보여드려요.</p>`;
+
+  const hk = HOOKS.filter(h => recent.some(i => hookOf(i) === h));
+  const grid = CHANNELS.map(c => hk.map(h => recent.filter(i => i.channel === c && hookOf(i) === h).length));
+  const hmax = Math.max(1, ...grid.flat());
+  const shade = v => { const t = v / hmax; return v === 0 ? ["var(--line)", "var(--muted)"] : t > .66 ? ["#8E3050", "#fff"] : t > .33 ? ["#C9718C", "#fff"] : ["#EBC2CE", "#1F1A1C"]; };
+  $("heat").innerHTML = hk.length ? `<table><thead><tr><th>채널</th>${hk.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead><tbody>${CHANNELS.map((c, ci) =>
+    `<tr><th>${c}</th>${grid[ci].map(v => { const [bg, fg] = shade(v); return `<td style="background:${bg};color:${fg}">${v}</td>`; }).join("")}</tr>`).join("")}</tbody></table>` : `<p class="meta">아직 데이터가 없어요.</p>`;
+
+  const byBrand = {};
+  state.items.forEach(i => { if (!i.brand || !A(i).palette) return; (byBrand[i.brand] ||= []).push(...A(i).palette.filter(p => !/^#(F[A-F]){3}$|^#FFFFFF$/i.test(p.hex))); });
+  $("palettes").innerHTML = Object.entries(byBrand).map(([b, ps]) => {
+    const top = Object.entries(ps.reduce((m, p) => (m[p.hex] = (m[p.hex] || 0) + p.pct, m), {})).sort((a, b) => b[1] - a[1]).slice(0, 5);
+    return `<div class="brandpal"><span class="bn">${esc(b)}</span><div class="swatches" style="gap:6px">${top.map(([h]) => `<span class="sw" title="${h}" style="background:${h}"></span>`).join("")}</div></div>`;
+  }).join("") || `<p class="meta">아직 데이터가 없어요.</p>`;
+}
+
+/* ── 화면 전환 ── */
+function route() {
+  const tab = ["archive", "pdp", "insight"].includes(location.hash.slice(1)) ? location.hash.slice(1) : "archive";
+  document.querySelectorAll("section.view").forEach(s => s.classList.toggle("on", s.id === "v-" + tab));
+  document.querySelectorAll("nav.tabs a").forEach(a => a.dataset.tab === tab ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
+  ({ archive: renderArchive, pdp: renderPDP, insight: renderInsight })[tab]();
+}
+window.addEventListener("hashchange", route);
+load();
+</script>
+</body>
+</html>
