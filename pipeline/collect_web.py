@@ -1,6 +1,8 @@
 """공식몰 배너, 리테일 기획전 배너, 상세페이지를 자동으로 수집해요."""
 from __future__ import annotations
 
+from pathlib import Path
+
 from PIL import Image
 from playwright.sync_api import sync_playwright, Page, Error as PWError
 
@@ -15,6 +17,39 @@ JS_IMAGES = """(minW) => Array.from(document.images)
               alt: i.alt || '', top: i.getBoundingClientRect().top + window.scrollY}))"""
 
 MAX_PDP_HEIGHT = 40000
+DEBUG_DIR = Path(__file__).resolve().parents[1] / "data" / "debug"
+
+
+def debug_shot(page: Page, name: str) -> None:
+    """사이트가 어떤 화면을 보여줬는지 확인용으로 첫 화면을 저장해요 (data/debug 폴더)."""
+    try:
+        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+        img = open_image(page.screenshot())
+        if img is not None:
+            img.thumbnail((900, 900))
+            img.save(DEBUG_DIR / f"{name}.jpg", "JPEG", quality=70)
+        log(f"  화면 확인용 캡처 저장: data/debug/{name}.jpg (페이지 제목: {page.title()[:60]!r})")
+    except PWError:
+        pass
+
+
+# 상품 링크가 href 대신 data-속성(goodsNo 등)에 들어 있는 사이트도 있어서 둘 다 찾아요.
+DEFAULT_TEMPLATES = {
+    "올리브영": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo={id}",
+}
+JS_PRODUCT_LINKS = """({pat, tpl}) => {
+  const out = [];
+  const add = u => { if (u && !out.includes(u)) out.push(u); };
+  document.querySelectorAll('a[href]').forEach(a => { if (a.href.includes(pat)) add(a.href); });
+  if (tpl) {
+    document.querySelectorAll('*').forEach(el => {
+      for (const at of el.attributes) {
+        if (/goods.?no/i.test(at.name) && /^[A-Z0-9]{6,}$/i.test(at.value)) add(tpl.replace('{id}', at.value));
+      }
+    });
+  }
+  return out;
+}"""
 
 
 def scroll_through(page: Page, steps: int = 8, pause: int = 700) -> None:
@@ -161,6 +196,7 @@ def safe_goto(page: Page, url: str, cfg: dict) -> bool:
     except PWError as e:
         log(f"  페이지를 열지 못함 ({url}): {str(e).splitlines()[0]}")
         return url in page.url
+    log(f"  열림: {page.title()[:60]!r}")
     return True
 
 
@@ -190,21 +226,35 @@ def run(cfg: dict, known_hashes: list[str]) -> list[dict]:
         for r in cfg.get("retail", []):
             log(f"[리테일 기획전] {r['name']}")
             if safe_goto(page, r["main_url"], cfg):
-                try:
-                    page.get_by_role("link", name=r["promo_menu_text"], exact=True).first.click(timeout=8000)
-                    page.wait_for_load_state("networkidle", timeout=15000)
-                    if robots_allowed(page.url, cfg):
-                        items += collect_banners(page, page.url, cfg, known_hashes, brand="",
-                                                 channel="리테일 기획전", source_name=f"{r['name']} 기획전")
-                except PWError:
-                    log(f"  '{r['promo_menu_text']}' 메뉴를 찾지 못함 → config의 메뉴 이름을 확인해 주세요")
+                promo = r["promo_menu_text"]
+                clicked = False
+                for loc in (page.get_by_role("link", name=promo, exact=True),
+                            page.locator("a", has_text=promo),
+                            page.get_by_text(promo, exact=True)):
+                    try:
+                        loc.first.click(timeout=5000)
+                        page.wait_for_load_state("networkidle", timeout=15000)
+                        clicked = True
+                        break
+                    except PWError:
+                        continue
+                if clicked and robots_allowed(page.url, cfg):
+                    log(f"  기획전 페이지: {page.url}")
+                    items += collect_banners(page, page.url, cfg, known_hashes, brand="",
+                                             channel="리테일 기획전", source_name=f"{r['name']} 기획전")
+                elif not clicked:
+                    log(f"  '{promo}' 메뉴를 찾지 못함")
+                    debug_shot(page, f"{r['name']}_main")
             polite_wait(cfg)
 
             if r.get("ranking_url") and safe_goto(page, r["ranking_url"], cfg):
-                links = page.evaluate(
-                    "(pat) => [...new Set(Array.from(document.querySelectorAll('a[href]'))"
-                    ".map(a => a.href).filter(h => h.includes(pat)))]",
-                    r["product_link_pattern"])[: r.get("ranking_top_n", 10)]
+                scroll_through(page, steps=3)
+                links = page.evaluate(JS_PRODUCT_LINKS, {
+                    "pat": r["product_link_pattern"],
+                    "tpl": r.get("product_url_template") or DEFAULT_TEMPLATES.get(r["name"], ""),
+                })[: r.get("ranking_top_n", 10)]
+                if not links:
+                    debug_shot(page, f"{r['name']}_ranking")
                 log(f"[랭킹] {r['name']} 상위 {len(links)}개 상세페이지")
                 for rank, url in enumerate(links, 1):
                     polite_wait(cfg)
