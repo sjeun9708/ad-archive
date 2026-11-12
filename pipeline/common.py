@@ -15,7 +15,7 @@ import requests
 import yaml
 from PIL import Image
 
-ROOT = Path(__file__).resolve().parents[1]          # ad-archive/
+ROOT = Path(__file__).resolve().parents[1]          # 저장소 맨 위 폴더
 DATA_FILE = ROOT / "data" / "items.json"
 INSIGHT_FILE = ROOT / "data" / "insights.json"
 IMG_DIR = ROOT / "images"
@@ -155,3 +155,31 @@ def to_jpeg_bytes(img: Image.Image, max_side: int = 1568) -> bytes:
     buf = io.BytesIO()
     img.save(buf, "JPEG", quality=85)
     return buf.getvalue()
+
+
+# ── 국내/해외 구분 ────────────────────────────
+COUNTRY_BY_TLD = {
+    "kr": "국내", "us": "미국", "jp": "일본", "cn": "중국", "uk": "영국", "tw": "대만",
+    "hk": "홍콩", "sg": "싱가포르", "th": "태국", "vn": "베트남", "id": "인도네시아",
+    "my": "말레이시아", "ph": "필리핀", "au": "호주", "ca": "캐나다", "de": "독일",
+    "fr": "프랑스", "es": "스페인", "it": "이탈리아", "nl": "네덜란드", "eu": "유럽",
+}
+
+
+def region_of(url: str, override: str = "") -> str:
+    """주소 끝(.kr, .us 등)으로 나라를 알아내요. config에서 직접 정할 수도 있어요."""
+    if override:
+        return override
+    from urllib.parse import urlparse
+    host = urlparse(url).netloc.lower().split(":")[0]
+    tld = host.rsplit(".", 1)[-1]
+    if tld in COUNTRY_BY_TLD:
+        return COUNTRY_BY_TLD[tld]
+    first = host.removeprefix("www.").split(".")[0]      # us.brand.com, jp.brand.com 같은 형태
+    if first in COUNTRY_BY_TLD:
+        return COUNTRY_BY_TLD[first]
+    return "해외"
+
+
+def mall_label(brand: str, region: str) -> str:
+    return f"{brand} {'국내' if region == '국내' else region} 공식몰"

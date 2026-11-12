@@ -24,6 +24,7 @@ SYSTEM = f"""당신은 K-뷰티 브랜드의 퍼포먼스 마케터이자 상세
 BASE_FIELDS = """  "is_brand_ad": true,              // 특정 화장품 브랜드의 광고·홍보 소재면 true. 판매처(올리브영 등)의 공통 행사 배너, 공지, 로고뿐인 이미지는 false
   "brand_detected": "",             // 이미지에서 보이는 브랜드명 (한국어 표기)
   "product": "",                    // 제품명 또는 제품군
+  "product_type": "",               // 화장품 / 디바이스 중 하나 (뷰티 기기면 디바이스)
   "hooks": {"primary": "", "secondary": []},
   "copy": {"main": "", "sub": "", "cta": ""},   // 이미지 속 글자 그대로
   "visual_focus": "",               // 제품 / 모델 / 텍스트 / 혼합 중 하나
