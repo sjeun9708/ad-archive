@@ -68,6 +68,32 @@ def palette(img: Image.Image, k: int = 5) -> list[dict]:
              "pct": round(c * 100 / total)} for c, i in counts]
 
 
+SAVE_TOOL = {
+    "name": "save_result",
+    "description": "분석 결과를 저장합니다. 요청받은 JSON 형식 그대로 입력하세요.",
+    "input_schema": {"type": "object", "additionalProperties": True},
+}
+
+
+def ask_json(client: anthropic.Anthropic, model: str, content, max_tokens: int = 3000) -> dict:
+    """결과를 '도구 입력' 형태로 받아서 JSON이 깨지지 않게 해요. 그래도 실패하면 최대 3번 시도."""
+    last = None
+    for _ in range(3):
+        resp = client.messages.create(
+            model=model, max_tokens=max_tokens, system=SYSTEM,
+            tools=[SAVE_TOOL], tool_choice={"type": "tool", "name": "save_result"},
+            messages=[{"role": "user", "content": content}])
+        for b in resp.content:
+            if b.type == "tool_use" and isinstance(b.input, dict) and b.input:
+                return b.input
+        text = "".join(getattr(b, "text", "") for b in resp.content)
+        try:
+            return parse_json(text)
+        except (json.JSONDecodeError, ValueError) as e:
+            last = e
+    raise ValueError(f"분석 결과를 읽지 못함: {last}")
+
+
 def analyze_item(client: anthropic.Anthropic, model: str, item: dict) -> dict:
     img = Image.open(ROOT / item["image"]).convert("RGB")
     is_pdp = item["channel"] == "상세페이지"
@@ -91,18 +117,9 @@ def analyze_item(client: anthropic.Anthropic, model: str, item: dict) -> dict:
 
     content = [b64(i) for i in images] + [{
         "type": "text",
-        "text": f"{ask}\n\n" + "\n".join(context) + f"\n\n아래 형식의 JSON으로만 답하세요 (// 주석은 빼고):\n{schema}",
+        "text": f"{ask}\n\n" + "\n".join(context) + f"\n\nsave_result 도구에 아래 형식 그대로 담아주세요 (// 주석은 빼고):\n{schema}",
     }]
-    for attempt in range(2):
-        resp = client.messages.create(model=model, max_tokens=2500, system=SYSTEM,
-                                      messages=[{"role": "user", "content": content}])
-        text = "".join(b.text for b in resp.content if b.type == "text")
-        try:
-            result = parse_json(text)
-            break
-        except (json.JSONDecodeError, ValueError):
-            if attempt == 1:
-                raise
+    result = ask_json(client, model, content, max_tokens=3000)
     result["palette"] = palette(img if not is_pdp else images[0])
     return result
 
@@ -157,11 +174,9 @@ def write_insights(items: list[dict], cfg: dict) -> None:
               "이 데이터에서만 확인되는 사실로 인사이트 3개를 뽑으세요. 하나는 반드시 기준 브랜드와 경쟁사의 차이를 다루세요. "
               "숫자를 지어내지 말고 통계에 있는 숫자만 쓰세요.\n"
               '형식: {"insights": [{"tag": "변화|채널 차이|경쟁 비교|상세페이지", "title": "한 문장", "body": "1~2문장"}]}')
-    resp = client.messages.create(model=cfg["analysis"]["model"], max_tokens=1200, system=SYSTEM,
-                                  messages=[{"role": "user", "content": prompt}])
     try:
-        data = parse_json("".join(b.text for b in resp.content if b.type == "text"))
-    except (json.JSONDecodeError, ValueError):
+        data = ask_json(client, cfg["analysis"]["model"], prompt, max_tokens=1500)
+    except Exception:
         return
     data["updated_at"] = datetime.now(KST).strftime("%Y-%m-%d")
     INSIGHT_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")

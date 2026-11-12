@@ -190,18 +190,60 @@ def collect_pdp(page: Page, url: str, cfg: dict, known: list[str], *,
 
 
 # ── 실행 ──────────────────────────────────────
+LAST_ERROR = {"reason": ""}
+
+
+def url_variants(url: str) -> list[str]:
+    """주소가 조금 다를 때를 대비해 www 유무, .co.kr/.com을 바꿔서도 시도해요."""
+    from urllib.parse import urlparse
+    u = urlparse(url)
+    host = u.netloc
+    hosts = [host, host[4:] if host.startswith("www.") else "www." + host]
+    for h in list(hosts):
+        if h.endswith(".co.kr"):
+            hosts.append(h[:-6] + ".com")
+        elif h.endswith(".com"):
+            hosts.append(h[:-4] + ".co.kr")
+    out = []
+    for h in hosts:
+        v = u._replace(netloc=h).geturl()
+        if v not in out:
+            out.append(v)
+    return out
+
+
+def open_site(page: Page, url: str, cfg: dict) -> str:
+    """열리는 주소를 찾아서 돌려줘요. 다 실패하면 빈 문자열."""
+    for i, v in enumerate(url_variants(url)):
+        if i:
+            log(f"  다른 주소로 다시 시도: {v}")
+        if safe_goto(page, v, cfg):
+            return v
+    return ""
+
+
 def safe_goto(page: Page, url: str, cfg: dict) -> bool:
-    if not url or not robots_allowed(url, cfg):
+    LAST_ERROR["reason"] = ""
+    if not url:
+        return False
+    if not robots_allowed(url, cfg):
+        LAST_ERROR["reason"] = "robots.txt에서 수집 금지"
         return False
     try:
-        resp = page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        resp = page.goto(url, wait_until="domcontentloaded", timeout=30000)
         if resp is not None and resp.status >= 400:
             log(f"  페이지가 없음 (응답 {resp.status}): {url}")
+            LAST_ERROR["reason"] = "접속 차단" if resp.status in (401, 403, 429) else f"페이지 없음({resp.status})"
             return False
         page.wait_for_load_state("networkidle", timeout=10000)
     except PWError as e:
-        log(f"  페이지를 열지 못함 ({url}): {str(e).splitlines()[0]}")
-        return url in page.url
+        msg = str(e).splitlines()[0]
+        log(f"  페이지를 열지 못함 ({url}): {msg}")
+        if url in page.url:
+            return True
+        LAST_ERROR["reason"] = ("주소가 존재하지 않음" if "NAME_NOT_RESOLVED" in msg
+                                else "응답 없음(시간 초과)" if "Timeout" in msg else "접속 오류")
+        return False
     log(f"  열림: {page.title()[:60]!r}")
     return True
 
@@ -254,7 +296,18 @@ def run(cfg: dict, known_hashes: list[str], recent_pdp: dict[str, str] | None = 
                                   user_agent=cfg["collect"]["user_agent"])
         page = ctx.new_page()
 
-        for b in cfg.get("brands", []):
+        import time
+        started = time.time()
+        limit = cfg["collect"].get("max_minutes", 60) * 60
+        brands = cfg.get("brands", [])
+        if brands:                                   # 매일 시작 브랜드를 바꿔서, 시간이 모자라도 골고루 수집
+            k = datetime.now(KST).timetuple().tm_yday % len(brands)
+            brands = brands[k:] + brands[:k]
+        for bi, b in enumerate(brands):
+            if time.time() - started > limit:
+                rest = ", ".join(x["name"].split(" (")[0] for x in brands[bi:])
+                log(f"⏱ 수집 시간 {limit // 60}분이 지나 여기서 멈추고 저장해요. 남은 브랜드는 다음 실행 때: {rest}")
+                break
             brand_for_items = "" if b.get("detect_brand") else b["name"]   # 여러 브랜드가 모인 몰은 AI가 브랜드를 알아내요
             category = b.get("category", "화장품")
             for entry in b.get("official_pages", []):
@@ -264,10 +317,15 @@ def run(cfg: dict, known_hashes: list[str], recent_pdp: dict[str, str] | None = 
                 region = region_of(url, entry.get("region", "") if isinstance(entry, dict) else "")
                 label = mall_label(b["name"].split(" (")[0], region)
                 log(f"[공식몰] {label} {url}")
-                if not safe_goto(page, url, cfg):
-                    problems.append(f"{b['name']}: 사이트를 열지 못함 ({url})")
+                opened = open_site(page, url, cfg)
+                if not opened:
+                    problems.append(f"{b['name']}: {LAST_ERROR['reason'] or '사이트를 열지 못함'} ({url})")
                     polite_wait(cfg)
                     continue
+                if opened != url:
+                    log(f"  ✓ 이 주소로 열림 → config.yaml을 {opened} 로 바꿔두면 더 빨라요")
+                    problems.append(f"{b['name']}: 주소를 {opened} 로 바꿔주세요 (수집은 정상)")
+                    url = opened
                 if not is_official(page, b):
                     log("  ⚠ 페이지에서 브랜드 이름을 찾지 못해 건너뜀 (주소 확인 필요)")
                     problems.append(f"{b['name']}: 공식몰인지 확인 안 됨 ({url})")
