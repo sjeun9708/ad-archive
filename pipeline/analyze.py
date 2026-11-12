@@ -120,8 +120,28 @@ def analyze_item(client: anthropic.Anthropic, model: str, item: dict) -> dict:
         "text": f"{ask}\n\n" + "\n".join(context) + f"\n\nsave_result 도구에 아래 형식 그대로 담아주세요 (// 주석은 빼고):\n{schema}",
     }]
     result = ask_json(client, model, content, max_tokens=3000)
+    result = normalize(result)
     result["palette"] = palette(img if not is_pdp else images[0])
     return result
+
+
+def normalize(r: dict) -> dict:
+    """AI 답이 조금 다른 모양이어도 사이트가 읽을 수 있게 정리해요."""
+    if "hooks" not in r and len(r) == 1:                 # {"result": {...}}처럼 한 번 감싸진 경우
+        inner = next(iter(r.values()))
+        if isinstance(inner, dict):
+            r = inner
+    hooks = r.get("hooks")
+    if isinstance(hooks, str):
+        hooks = {"primary": hooks, "secondary": []}
+    if not isinstance(hooks, dict) or not hooks.get("primary"):
+        raise ValueError("후킹 유형이 비어 있음")
+    hooks.setdefault("secondary", [])
+    r["hooks"] = hooks
+    if not isinstance(r.get("copy"), dict):
+        r["copy"] = {"main": str(r.get("copy") or ""), "sub": "", "cta": ""}
+    r.setdefault("is_brand_ad", True)
+    return r
 
 
 def run(items: list[dict], cfg: dict) -> int:
@@ -153,7 +173,7 @@ def write_insights(items: list[dict], cfg: dict) -> None:
         return
     since = (datetime.now(KST) - timedelta(days=28)).strftime("%Y-%m-%d")
     recent = [i for i in items if i.get("analysis") and i["analysis"].get("is_brand_ad", True)
-              and i["collected_at"] >= since]
+              and (i["analysis"].get("hooks") or {}).get("primary") and i["collected_at"] >= since]
     if len(recent) < 5:
         return
     focus = cfg.get("focus_brand", "")

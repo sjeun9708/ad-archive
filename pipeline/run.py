@@ -52,9 +52,16 @@ def main() -> None:
     log(f"새 소재 {len(new)}개 수집")
     save_items(items)                      # 분석 전에 한 번 저장 (중간에 멈춰도 수집분은 남게)
 
+    for it in items:                       # 예전에 모양이 어긋난 분석 결과는 다시 분석하도록
+        a = it.get("analysis")
+        if a is not None and not (isinstance(a.get("hooks"), dict) and a["hooks"].get("primary")):
+            it["analysis"] = None
     if analyze.run(items, cfg):
         save_items(items)
-        analyze.write_insights(items, cfg)
+        try:
+            analyze.write_insights(items, cfg)
+        except Exception as e:             # 인사이트가 실패해도 수집·분석 결과는 꼭 저장
+            log(f"[인사이트] 이번엔 건너뜀: {e}")
 
     meta = {"focus_brand": cfg.get("focus_brand", ""), "last_run": today(),
             "brands": [b["name"] for b in cfg.get("brands", [])]}
@@ -68,4 +75,9 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception:                       # 어떤 오류가 나도 '결과 저장' 단계까지는 가도록
+        import traceback
+        traceback.print_exc()
+        log("⚠ 중간에 오류가 났지만, 그때까지 모은 결과는 저장해요.")
