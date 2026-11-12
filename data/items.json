@@ -1,1 +1,960 @@
-[]
+[
+ {
+  "id": "49832f075fc7",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://themedicube.co.kr/",
+  "image_src": "https://themedicube.co.kr/web/upload/popup/2026/260917_pop.jpg",
+  "collected_at": "2026-11-12",
+  "hash": "6de8530d0c89e363",
+  "image": "images/49832f075fc7.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "부스터프로 X2 (뷰티 디바이스)",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "부스터프로 X2 보상판매",
+    "sub": "10만원 즉시 할인 받으러가기",
+    "cta": "받으러가기"
+   },
+   "visual_focus": "혼합",
+   "layout": "상단에 굵은 헤드라인과 핑크색 할인 문구를 배치하고, 하단에는 구형 블랙 기기와 신형 핑크 기기를 좌우로 놓아 화살표와 'CHANGE' 라벨로 교환 방향을 보여준다.",
+   "tone": [
+    "혜택 중심",
+    "깔끔함",
+    "세련된 그라데이션"
+   ],
+   "target": "기존 뷰티 디바이스를 보유하고 있어 업그레이드를 고려하는 20~40대 여성 소비자",
+   "why_it_hooks": "'10만원 즉시 할인'이라는 구체적인 금액이 헤드라인 바로 아래 큰 글씨로 제시되어 혜택을 한눈에 파악하게 한다. 구형 기기가 신형으로 바뀌는 시각적 전환 구도가 보상판매 조건을 직관적으로 전달해 클릭을 유도한다.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 39
+    },
+    {
+     "hex": "#E6E0E1",
+     "pct": 24
+    },
+    {
+     "hex": "#A77C92",
+     "pct": 19
+    },
+    {
+     "hex": "#F9F9F9",
+     "pct": 13
+    },
+    {
+     "hex": "#FDFFFE",
+     "pct": 4
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "036ad5f2b42d",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://themedicube.co.kr/",
+  "image_src": "https://themedicube.co.kr/web/upload/popup/2026/1102bfpop.png",
+  "collected_at": "2026-11-12",
+  "hash": "0b2b9f0f3d9cd4ac",
+  "image": "images/036ad5f2b42d.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "블랙프라이데이 행사 라인업 (프라이머 젤 크림, 디프 타카 C 패드, 제로 포크 패드, 아크 CPG 세럼, 스무딩 리프트 아이크림 등 스킨케어 제품 및 LED 뷰티 디바이스)",
+   "hooks": {
+    "primary": "UP TO 76% 할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "신제품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "1년에 단 한번! 블랙 프라이데이",
+    "sub": "공식몰 한정 | 11.2 10AM ~11.27 17PM",
+    "cta": "UP TO 76%"
+   },
+   "visual_focus": "혼합",
+   "layout": "상단 중앙에 행사 문구를 배치하고, 중앙 하단에 제품 라인업을 나란히 세워 노출하며, 우측 빨간 원형 뱃지에 할인율 76%를 크게 강조한다.",
+   "tone": [
+    "강렬함",
+    "프리미엄",
+    "한정 세일"
+   ],
+   "target": "기초 및 디바이스 케어에 관심이 높고 할인 혜택을 놓치기 싫어하는 20~40대 스킨케어 소비자",
+   "why_it_hooks": "검정·주황 그라데이션 배경과 블랙 리본 장식이 시선을 모으고, 빨간 원형 뱃지의 'UP TO 76%'가 가장 밝은 색으로 튀어 할인 혜택을 즉시 인지시킨다. 여기에 기간 한정 문구가 더해져 지금 구매해야 한다는 긴박감을 준다.",
+   "palette": [
+    {
+     "hex": "#0B0404",
+     "pct": 25
+    },
+    {
+     "hex": "#D9B5AD",
+     "pct": 24
+    },
+    {
+     "hex": "#975D54",
+     "pct": 21
+    },
+    {
+     "hex": "#390E13",
+     "pct": 15
+    },
+    {
+     "hex": "#8A1013",
+     "pct": 14
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "db6725a7a7c1",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://themedicube.co.kr/",
+  "image_src": "https://themedicube.co.kr/web/upload/popup/2026/bfbox.png",
+  "collected_at": "2026-11-12",
+  "hash": "64838e0c58497f67",
+  "image": "images/db6725a7a7c1.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "제로 포어 패드, 퓨어 비타 C 세럼, 펩타이드 세럼, 히알루로닉 크림, 시카 토너 등 메디큐브 제품 라인업",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "UP TO 54%",
+    "sub": "블랙프라이데이 한정 99특가 박스",
+    "cta": "블프라이즈 박스"
+   },
+   "visual_focus": "혼합",
+   "layout": "상단 중앙에 'UP TO 54%'와 '블프라이즈 박스' 타이틀을 크게 배치하고, 하단에 제품들을 원형으로 펼쳐 세워 보여준다.",
+   "tone": [
+    "강렬함",
+    "세일 긴박감",
+    "프로모션 파티"
+   ],
+   "target": "블랙프라이데이 할인에 민감하고 스킨케어 루틴을 한 번에 구매하려는 20~30대 여성 소비자",
+   "why_it_hooks": "검은 배경과 빨간 방사형 조명, 큰 흰색 타이틀이 강한 대비를 만들어 할인 행사임을 즉시 인지시킨다. 여러 제품을 한 화면에 모아 세트 구매 가치를 직관적으로 보여준다.",
+   "palette": [
+    {
+     "hex": "#EBD9D6",
+     "pct": 29
+    },
+    {
+     "hex": "#0E0707",
+     "pct": 24
+    },
+    {
+     "hex": "#2B0809",
+     "pct": 17
+    },
+    {
+     "hex": "#9F7181",
+     "pct": 16
+    },
+    {
+     "hex": "#6C0F0F",
+     "pct": 14
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "9323165583ee",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://themedicube.co.kr/",
+  "image_src": "https://themedicube.co.kr/web/upload/popup/2026/261110_night2.jpg",
+  "collected_at": "2026-11-12",
+  "hash": "6f2c3272d2f137b7",
+  "image": "images/9323165583ee.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "레드 수딩 아크 세럼, 제로 포어 크림 2.0, 딥 비타C 캡슐 세럼, 핑크 하이알루론 모이스춰라이징 크림, 핑크 콜라겐 버블 세럼 (메디큐브 라인업)",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "블랙프라이데이 19,900원~",
+    "sub": "1+1 야시장 특가 OPEN",
+    "cta": "매일 9PM - 10AM 단 12시간"
+   },
+   "visual_focus": "혼합",
+   "layout": "좌측 상단에 가격 문구를 가장 크게 배치하고, 우측 하단에 제품 5종을 비스듬히 겹쳐 나열하며 야간 배경으로 특가 분위기를 살렸다.",
+   "tone": [
+    "프로모션 긴박감",
+    "야간 특가 무드",
+    "깔끔한 모던"
+   ],
+   "target": "블랙프라이데이 할인 기간에 메디큐브 제품을 저렴하게 사고 싶은 20~30대 스킨케어 입문·재구매 소비자",
+   "why_it_hooks": "'19,900원~'이라는 구체적인 가격과 '단 12시간'의 시간 제한이 결합해 즉각적인 구매 욕구와 마감 압박을 동시에 준다. 어두운 밤하늘 배경에 밝은 제품 색감이 대비되어 시선을 제품과 가격 문구로 자연스럽게 끌어간다.",
+   "palette": [
+    {
+     "hex": "#5771B4",
+     "pct": 29
+    },
+    {
+     "hex": "#BEBDD0",
+     "pct": 21
+    },
+    {
+     "hex": "#152B51",
+     "pct": 21
+    },
+    {
+     "hex": "#0F203D",
+     "pct": 20
+    },
+    {
+     "hex": "#5E3157",
+     "pct": 9
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "1ce1fb5356fb",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://themedicube.co.kr/",
+  "image_src": "https://themedicube.co.kr/web/upload/popup/2026/bf_oneday2.png",
+  "collected_at": "2026-11-12",
+  "hash": "4d61071711111141",
+  "image": "images/1ce1fb5356fb.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "딥 펩타이드 래디언스 마스크, 딥 펩타이드 아이크림, 히알루론산 미스트 세럼(추정), 판테놀 계열 토너/로션 및 PDRN 핑크 나이아신아마이드 워시 클렌저 등 메디큐브 스킨케어 라인업",
+   "hooks": {
+    "primary": "한정·마감",
+    "secondary": [
+     "할인율 강조",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "오늘하루특가",
+    "sub": "선착순 110개! 11,000원 특가",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "상단 중앙에 '오늘하루특가' 타이틀을 가장 크게 배치하고, 하단에 제품 5종을 일렬로 나열해 가격·수량 정보를 중간 띠로 연결한 구조",
+   "tone": [
+    "강렬함",
+    "세일 긴박감",
+    "레드 축제 무드"
+   ],
+   "target": "가성비 있는 정품 스킨케어를 찾는 20~30대 여성 소비자로, 기초 루틴 제품을 저렴하게 한 번에 써보고 싶은 사람",
+   "why_it_hooks": "붉은 바탕과 대형 노란·흰 타이틀이 즉시 시선을 끌고, '선착순 110개'와 '11,000원'이라는 구체적 수량·가격이 구매 긴박감을 만듭니다. 제품 사진을 하단에 밀집시켜 무엇을 파는지 한눈에 보이게 한 점도 전환을 돕습니다.",
+   "palette": [
+    {
+     "hex": "#C10607",
+     "pct": 35
+    },
+    {
+     "hex": "#9C0707",
+     "pct": 23
+    },
+    {
+     "hex": "#E6CBC0",
+     "pct": 17
+    },
+    {
+     "hex": "#F9F6F5",
+     "pct": 15
+    },
+    {
+     "hex": "#8F5049",
+     "pct": 10
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "da9026eeaf56",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://themedicube.co.kr/",
+  "image_src": "https://themedicube.co.kr/web/upload/popup/2026/bf_7days2.png",
+  "collected_at": "2026-11-12",
+  "hash": "333b8fd991264b1b",
+  "image": "images/da9026eeaf56.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "앰플·세럼·헤어바디 제품군 (포스트 펩타이드 세럼, 제로포어 펩타이드 세럼, 티라 나이아신아마이드 세럼, 콜라겐 세럼, 소이민트 스케일링 샴푸 등)",
+   "hooks": {
+    "primary": "한정·마감",
+    "secondary": [
+     "할인율 강조",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "일주일특가",
+    "sub": "앰플·세럼·헤어바디 1+1 & 2+2",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "상단 중앙에 대형 '일주일특가' 타이틀을 배치하고, 하단에 제품 라인업을 나란히 놓아 행사 문구와 제품을 한 화면에 연결했습니다.",
+   "tone": [
+    "강렬함",
+    "세일 긴박감",
+    "블랙프라이데이 무드"
+   ],
+   "target": "기초 앰플·세럼이나 헤어케어를 꾸준히 구매하며 묶음 할인 혜택을 찾는 20~30대 여성 소비자",
+   "why_it_hooks": "검붉은 방사형 배경과 대형 흰색 타이틀이 즉시 시선을 끌고, '1+1 & 2+2'라는 묶음 혜택이 구매 결정을 빠르게 유도합니다. 블랙프라이데이 리본이 세일 긴박감을 더합니다.",
+   "palette": [
+    {
+     "hex": "#190101",
+     "pct": 30
+    },
+    {
+     "hex": "#5C0102",
+     "pct": 26
+    },
+    {
+     "hex": "#8C393E",
+     "pct": 17
+    },
+    {
+     "hex": "#A4ACB3",
+     "pct": 14
+    },
+    {
+     "hex": "#F4E5E4",
+     "pct": 14
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "59a12cd2c739",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://themedicube.co.kr/",
+  "image_src": "https://themedicube.co.kr/web/upload/popup/2026/1+1pop.png",
+  "collected_at": "2026-11-12",
+  "hash": "083b080b4d29e9ca",
+  "image": "images/59a12cd2c739.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "에이지알(AGE-R) 스킨케어 라인 및 메디큐브 글루타치온 글로우 세럼, 메디큐브 포어 부스터 젤 등 스킨케어 제품군",
+   "hooks": {
+    "primary": "1+1 블프 특가",
+    "secondary": [
+     "할인율 강조",
+     "한정·마감",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "에이지알 스킨케어 1+1 블프 특가!",
+    "sub": "공식몰 한정 | 블프 한정 50% 초특가 할인",
+    "cta": "없음"
+   },
+   "visual_focus": "혼합",
+   "layout": "상단 중앙에 1+1 행사 문구를 배치하고, 중앙에 제품 여러 개를 사선으로 배열하며, 우측 상단 검정 원형 뱃지에 50%를 크게 강조했습니다.",
+   "tone": [
+    "강렬함",
+    "역동성",
+    "프로모션 긴급감"
+   ],
+   "target": "블랙프라이데이 기간에 공식몰에서 스킨케어를 저렴하게 구매하려는 20~40대 여성 소비자",
+   "why_it_hooks": "진한 레드-오렌지 배경과 방사형 광선이 시선을 즉시 끌고, 검정 원형 뱃지의 '50%' 숫자와 빨간 리본의 'BLACK FRIDAY' 문구가 할인 혜택을 직관적으로 전달합니다.",
+   "palette": [
+    {
+     "hex": "#F55333",
+     "pct": 30
+    },
+    {
+     "hex": "#ED7651",
+     "pct": 27
+    },
+    {
+     "hex": "#6C2926",
+     "pct": 19
+    },
+    {
+     "hex": "#E4D5C4",
+     "pct": 13
+    },
+    {
+     "hex": "#DF917B",
+     "pct": 11
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "e043b472c99d",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://themedicube.co.kr/",
+  "image_src": "https://themedicube.co.kr/web/upload/popup/2026/bf_deep.png",
+  "collected_at": "2026-11-12",
+  "hash": "8292826c4ebef63c",
+  "image": "images/e043b472c99d.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "딥 비타C 패드 (140매 대용량 기획세트)",
+   "hooks": {
+    "primary": "한정·마감",
+    "secondary": [
+     "할인율 강조",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "블랙프라이데이 비타C 패드 140매 대용량 기획세트 특가",
+    "sub": "메디큐브 블랙프라이데이 한정수량",
+    "cta": "1+1 한정수량"
+   },
+   "visual_focus": "혼합",
+   "layout": "좌상단에 메인 카피를 크게 배치하고, 제품 패키지를 하단 중앙에 세운 뒤 우측 상단에 1+1 원형 뱃지를 겹쳐 강조한다.",
+   "tone": [
+    "블랙프라이데이 프로모션",
+    "골드·블랙의 고급감",
+    "강렬한 세일 무드"
+   ],
+   "target": "비타민C 패드로 피부 톤 관리를 시작하거나 대용량을 저렴하게 사려는 가성비 중시 소비자",
+   "why_it_hooks": "'1+1'과 '한정수량' 뱃지, 그리고 블랙프라이데이 사선 띠가 결합되어 지금 사지 않으면 놓친다는 긴급함을 즉각적으로 전달한다. 브랜드 제품의 검은색·골드 패키지가 배경의 골드 톤과 맞물려 프리미엄 세일 분위기를 만든다.",
+   "palette": [
+    {
+     "hex": "#3E2E24",
+     "pct": 28
+    },
+    {
+     "hex": "#F8EAB8",
+     "pct": 23
+    },
+    {
+     "hex": "#FDFCE3",
+     "pct": 20
+    },
+    {
+     "hex": "#BE9B67",
+     "pct": 16
+    },
+    {
+     "hex": "#FEFBDC",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "d15c1d41dcf9",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://medicube.us/",
+  "image_src": "https://cdn.shopify.com/s/files/1/0156/3905/2336/files/mo_banner.jpg?v=1793856954",
+  "collected_at": "2026-11-12",
+  "hash": "0fac1f3f3f5931b1",
+  "image": "images/d15c1d41dcf9.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "",
+   "product": "",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": []
+   },
+   "copy": {
+    "main": "THE SECRET LIVES OF MORMON WIVES ORANGE COUNTY",
+    "sub": "COME FOR THE SUN. STAY FOR THE SHADE.",
+    "cta": "Nov 12 hulu on Disney+"
+   },
+   "visual_focus": "혼합",
+   "layout": "해변 바위 위에 출연진 여러 명을 배치하고, 우측 상단에 제목을 크게 두었으며, 하단에 방영일과 플랫폼 로고를 배치함",
+   "tone": [
+    "여름 휴양",
+    "세련됨",
+    "드라마틱"
+   ],
+   "target": "해외 리얼리티 쇼와 스트리밍 드라마를 즐겨 보는 시청자",
+   "why_it_hooks": "화이트 의상을 입은 출연진이 석양빛 해변에 모여 있는 구도가 시선을 끌고, 'Come for the sun, stay for the shade'라는 대비 문구가 궁금증을 자아냅니다. 다만 이 이미지는 화장품 광고가 아니라 Hulu 드라마의 홍보 포스터이므로, 메디큐브 공식몰 수집 소재로는 부적합합니다.",
+   "palette": [
+    {
+     "hex": "#8B7D79",
+     "pct": 33
+    },
+    {
+     "hex": "#6D4A3A",
+     "pct": 20
+    },
+    {
+     "hex": "#E7C6A2",
+     "pct": 20
+    },
+    {
+     "hex": "#C3B098",
+     "pct": 17
+    },
+    {
+     "hex": "#F6EBD9",
+     "pct": 11
+    }
+   ]
+  },
+  "alt": " Meticulously crafted to care for and protect your skin's elasticity while you sleep."
+ },
+ {
+  "id": "d6fe1d264ae2",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://medicube.us/",
+  "image_src": "https://cdn.shopify.com/s/files/1/0156/3905/2336/files/skin_pc.png?v=1788747940",
+  "collected_at": "2026-11-12",
+  "hash": "8a86444c4c84c5e5",
+  "image": "images/d6fe1d264ae2.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "콜라겐 나이트 래핑 마스크",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "모델·셀럽",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "COLLAGEN NIGHT WRAPPING MASK",
+    "sub": "Dedicated to real results",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "왼쪽에 모델이 투명 마스크를 얼굴에서 벗겨내는 장면을 배치하고, 오른쪽에 제품 튜브를 비스듬히 세워 투명 필름과 함께 보여준다.",
+   "tone": [
+    "촉촉함",
+    "투명감",
+    "프리미엄"
+   ],
+   "target": "저녁에 수분과 탄력 케어를 원하는 20~40대 여성",
+   "why_it_hooks": "얼굴에서 투명한 막을 벗겨내는 장면이 래핑 마스크의 사용감과 밀착력을 한눈에 보여준다. 핑크 배경과 투명 필름의 대비가 시선을 끌고, 콜라겐이라는 성분 키워드가 효능에 대한 기대를 만든다.",
+   "palette": [
+    {
+     "hex": "#E1B39F",
+     "pct": 32
+    },
+    {
+     "hex": "#EFD3D0",
+     "pct": 28
+    },
+    {
+     "hex": "#A4725F",
+     "pct": 14
+    },
+    {
+     "hex": "#F6E1E0",
+     "pct": 14
+    },
+    {
+     "hex": "#F2CDCD",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": " Meticulously crafted to care for and protect your skin's elasticity while you sleep."
+ },
+ {
+  "id": "fd26a0900c99",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://medicube.us/",
+  "image_src": "https://cdn.shopify.com/s/files/1/0156/3905/2336/files/mainbanner2.png?v=1767329138",
+  "collected_at": "2026-11-12",
+  "hash": "dacbcbc9dfcfa767",
+  "image": "images/fd26a0900c99.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "Zero Pore Pad (제로 포어 패드)",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "모델·셀럽",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "ZERO PORE PAD / AHA | BHA | Panthenol | Allantoin / Sodium Hyaluronate",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "좌측에 모델이 제품 용기를 들고 미소 짓는 컷, 우측에 파란 뚜껑 용기와 패드가 솟아오르는 클로즈업을 배치해 두 장면을 나란히 보여준다.",
+   "tone": [
+    "청량",
+    "깨끗함",
+    "신뢰감"
+   ],
+   "target": "모공 관리와 피부결 정돈에 관심 있는 20~30대 여성",
+   "why_it_hooks": "맑은 피부의 모델이 제품을 자연스럽게 들고 있어 결과에 대한 기대감을 주고, 파란색 용기와 흰 패드의 대비가 청량한 인상을 강하게 남긴다. 텍스트는 작지만 AHA·BHA 성분명이 기능성을 암시한다.",
+   "palette": [
+    {
+     "hex": "#B4CDDF",
+     "pct": 27
+    },
+    {
+     "hex": "#B4A49A",
+     "pct": 23
+    },
+    {
+     "hex": "#3E5080",
+     "pct": 22
+    },
+    {
+     "hex": "#F1F1F0",
+     "pct": 16
+    },
+    {
+     "hex": "#DBDFE3",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": " K-BEAUTY #1 PORE PADS Simple & Easy Care for smaller-looking pores"
+ },
+ {
+  "id": "65a801c0be54",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://medicube.us/",
+  "image_src": "https://cdn.shopify.com/s/files/1/0156/3905/2336/files/mainbanner1.png?v=1767329139",
+  "collected_at": "2026-11-12",
+  "hash": "d4da5ba9e99998a0",
+  "image": "images/65a801c0be54.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "콜라겐 젤리 크림 (트리플 더마 이레이징 크림 동시 노출)",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "모델·셀럽",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "COLLAGEN JELLY CREAM",
+    "sub": "For all skin type",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "좌측 모델이 제품 뚜껑을 열어 보여주는 구도와 우측 두 제품의 질감 클로즈업을 나란히 배치해, 제품 텍스처를 강조하면서 모델의 촉촉한 피부 연출로 효과를 암시함",
+   "tone": [
+    "청순",
+    "촉촉",
+    "투명감"
+   ],
+   "target": "건조하거나 탄력 저하가 고민인 20~30대 여성으로, 가볍게 발리면서 촉촉함을 원하는 소비자",
+   "why_it_hooks": "모델의 윤기 있는 피부와 투명한 젤리 질감의 빨간 크림이 시선을 먼저 끌고, 콜라겐이라는 성분 키워드가 효능에 대한 기대를 만듭니다. 화면 속 텍스처 클로즈업이 제형의 촉촉함을 직관적으로 전달합니다.",
+   "palette": [
+    {
+     "hex": "#D7B2A6",
+     "pct": 28
+    },
+    {
+     "hex": "#EFECEA",
+     "pct": 24
+    },
+    {
+     "hex": "#A86360",
+     "pct": 22
+    },
+    {
+     "hex": "#E8DFDB",
+     "pct": 13
+    },
+    {
+     "hex": "#F6F5F2",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": " Self customizable collagen skincare duo curated for a healthy-looking dewy glow."
+ },
+ {
+  "id": "bc06f73b3cb6",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://medicube.us/",
+  "image_src": "https://medicube.us/cdn/shop/files/261106_prebf_pc.jpg?v=1793952050",
+  "collected_at": "2026-11-12",
+  "hash": "98ded69ca494941f",
+  "image": "images/bc06f73b3cb6.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "제로 포어 패드, 콜라겐 젤리 크림, 부스터 디바이스(LED 미용기기), 콜라겐 나이트 래핑 마스크, 펩타이드 세럼 등 메디큐브 스킨케어·뷰티 디바이스 라인업",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY PRE / UP TO 60%",
+    "sub": "FREE GIFTS WITH EVERY ORDER / SAVE 20% ON EVERYTHING / PRE NOV 6-13",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "블랙 배경 위 'BLACK FRIDAY' 대형 타이포를 깔고, 좌측 상단 'UP TO 60%' 그린 스티커를 가장 크게 배치해 할인 숫자를 먼저 보이게 하며, 제품들은 중앙에 펼쳐 놓고 노란 테이프 띠로 프로모션 긴장감을 더함.",
+   "tone": [
+    "강렬함",
+    "트렌디",
+    "파티 무드"
+   ],
+   "target": "블랙프라이데이 프리 세일에 맞춰 메디큐브 제품을 한 번에 구매하려는 가성비·할인 민감형 20~30대 스킨케어 소비자",
+   "why_it_hooks": "검정 배경과 형광 그린·노란 테두리의 강한 대비, 그리고 'UP TO 60%'라는 큰 숫자가 즉시 시선을 잡습니다. 토끼 모양 디바이스 등 귀여운 제품 비주얼이 강렬한 할인 메시지와 어우러져 클릭 욕구를 높입니다.",
+   "palette": [
+    {
+     "hex": "#020304",
+     "pct": 33
+    },
+    {
+     "hex": "#F1E3E5",
+     "pct": 24
+    },
+    {
+     "hex": "#B3A698",
+     "pct": 21
+    },
+    {
+     "hex": "#433C2C",
+     "pct": 15
+    },
+    {
+     "hex": "#CAE0A6",
+     "pct": 6
+    }
+   ]
+  },
+  "alt": ""
+ },
+ {
+  "id": "0d298b0fc209",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://medicube.us/",
+  "image_src": "https://cdn.shopify.com/s/files/1/0156/3905/2336/files/x2_fixed.png?v=1784532175",
+  "collected_at": "2026-11-12",
+  "hash": "9864f2d2cb73cdcf",
+  "image": "images/0d298b0fc209.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "LED 광 케어 디바이스(페이스 광케어 기기, 핑크 컬러 휴대형 바 타입)",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "신제품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "모델의 얼굴 옆에 핑크색 휴대형 디바이스를 대각선으로 배치하고, 볼 위로 붉은 광 도트 패턴을 퍼뜨려 기기의 작동 효과를 시각화했으며, 배경은 핑크 그라데이션으로 제품 컬러와 통일했다.",
+   "tone": [
+    "청초함",
+    "스킨케어 전문성",
+    "맑고 화사한"
+   ],
+   "target": "홈케어 디바이스로 피부 톤과 탄력을 관리하고 싶은 20~30대 여성",
+   "why_it_hooks": "얼굴 위로 퍼지는 빛 도트와 붉은 광 발광이 기기의 작동 원리를 직관적으로 보여줘 ‘피부에 무엇을 하는 제품인지’를 한눈에 이해시킨다. 촉촉하게 빛나는 피부와 핑크 톤 배경이 결합해 깨끗하고 세련된 인상을 준다.",
+   "palette": [
+    {
+     "hex": "#F9DEDE",
+     "pct": 29
+    },
+    {
+     "hex": "#945C40",
+     "pct": 28
+    },
+    {
+     "hex": "#FAE5E6",
+     "pct": 17
+    },
+    {
+     "hex": "#FEECEC",
+     "pct": 16
+    },
+    {
+     "hex": "#DBAE9D",
+     "pct": 10
+    }
+   ]
+  },
+  "alt": " Korean skincare devices"
+ },
+ {
+  "id": "360151eba847",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://medicube.us/",
+  "image_src": "https://cdn.shopify.com/s/files/1/0156/3905/2336/files/xehover.png?v=1784532505",
+  "collected_at": "2026-11-12",
+  "hash": "b42476dc1c1acf0f",
+  "image": "images/360151eba847.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "핑크색 휴대용 홈케어 디바이스(LED·온열 계열 추정, 디스플레이에 MASK 모드 표시)",
+   "hooks": {
+    "primary": "루틴 제안",
+    "secondary": [
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "디스플레이: MASK / 6 / 0:00",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "모델이 이마에 디바이스 헤드를 댄 모습을 중앙 클로즈업으로 배치하고, 제품 본체를 얼굴 옆에 세로로 세워 함께 노출했다.",
+   "tone": [
+    "클린",
+    "글로우 피부",
+    "미니멀"
+   ],
+   "target": "집에서 간편하게 피부 관리 디바이스를 쓰고 싶은 20~30대 여성",
+   "why_it_hooks": "파스텔 핑크 제품과 보라빛 LED 헤드가 흰 배경에서 선명하게 대비되고, 광택 있는 피부 표현이 사용 후 결과를 연상시킨다. 디스플레이의 모드·타이머 표시가 실제 사용 장면을 보여줘 신뢰감을 준다.",
+   "palette": [
+    {
+     "hex": "#C68861",
+     "pct": 33
+    },
+    {
+     "hex": "#F4F5F4",
+     "pct": 27
+    },
+    {
+     "hex": "#844D35",
+     "pct": 21
+    },
+    {
+     "hex": "#F6F8F7",
+     "pct": 12
+    },
+    {
+     "hex": "#E3D0C7",
+     "pct": 8
+    }
+   ]
+  },
+  "alt": "Booster Pro X2"
+ },
+ {
+  "id": "bc1d72caa182",
+  "brand": "메디큐브",
+  "channel": "공식몰",
+  "source_name": "메디큐브 공식몰",
+  "page_url": "https://medicube.us/",
+  "image_src": "https://cdn.shopify.com/s/files/1/0156/3905/2336/files/hover4.png?v=1767328661",
+  "collected_at": "2026-11-12",
+  "hash": "795cfc7c6169e4ac",
+  "image": "images/bc1d72caa182.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "휴대용 LED 뷰티 디바이스 (아이보리 핸디형)",
+   "hooks": {
+    "primary": "루틴 제안",
+    "secondary": [
+     "모델·셀럽",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "visual_focus": "혼합",
+   "layout": "흰 배경 위에 모델 상반신을 중앙에 배치하고, 아이보리색 디바이스를 어깨 옆에 비스듬히 들어 제품을 함께 노출한다. 텍스트 없이 로고만 기기에 작게 표시된다.",
+   "tone": [
+    "미니멀",
+    "클린",
+    "청순"
+   ],
+   "target": "홈케어 뷰티 기기에 관심 있는 20~30대 여성",
+   "why_it_hooks": "깨끗한 흰 배경과 윤기 있는 피부 표현이 제품의 아이보리 색감과 어우러져 시선을 모은다. 기기 상단의 레드 LED 포인트가 제품 기능을 직관적으로 드러내 자연스럽게 눈길을 끈다.",
+   "palette": [
+    {
+     "hex": "#CBA080",
+     "pct": 30
+    },
+    {
+     "hex": "#F0F0EF",
+     "pct": 28
+    },
+    {
+     "hex": "#61422F",
+     "pct": 21
+    },
+    {
+     "hex": "#F1F1F0",
+     "pct": 16
+    },
+    {
+     "hex": "#EAE8E5",
+     "pct": 6
+    }
+   ]
+  },
+  "alt": "Booster Pro mini plus"
+ }
+]
