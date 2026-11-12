@@ -1,0 +1,421 @@
+# ─────────────────────────────────────────────
+# 경쟁사 광고 소재 아카이브 설정
+# 브랜드를 추가하거나 주소를 바꾸고 싶으면 이 파일만 고치면 돼요.
+#
+# 브랜드 하나는 이렇게 생겼어요:
+#   - name: 브랜드 이름
+#     category: 화장품 또는 디바이스
+#     aliases: [영문 이름]     ← 공식몰이 맞는지 확인할 때 쓰는 다른 이름
+#     official_pages:
+#       - url: "공식몰 주소"
+#         region: "국내"       ← 해외몰이면 나라 이름 (미국, 일본 …)
+#     pdp_auto: 2              ← 메인에 걸린 대표 제품 상세페이지 몇 개를 가져올지 (0이면 안 가져옴)
+#
+# 주소가 틀렸거나 공식몰이 아니면 자동으로 건너뛰고, 실행 기록 맨 아래에 '확인이 필요한 브랜드'로 알려줘요.
+# ─────────────────────────────────────────────
+
+# 내가 지원하는 회사 (사이트에서 '기준 브랜드'로 강조 표시돼요)
+focus_brand: 메디큐브
+
+brands:
+  - name: "메디큐브"
+    category: 화장품
+    aliases: ["medicube", "에이지알", "age-r"]
+    official_pages:
+      - url: "https://themedicube.co.kr/"
+        region: "국내"
+      - url: "https://medicube.us/"
+        region: "미국"
+    pdp_auto: 2
+    instagram: "medicube_korea"
+
+  - name: "아누아"
+    category: 화장품
+    aliases: ["anua"]
+    official_pages:
+      - url: "https://anua.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "토리든"
+    category: 화장품
+    aliases: ["torriden"]
+    official_pages:
+      - url: "https://torriden.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "라운드랩"
+    category: 화장품
+    aliases: ["roundlab", "round lab"]
+    official_pages:
+      - url: "https://roundlab.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "닥터지"
+    category: 화장품
+    aliases: ["dr.g", "drg", "고운세상"]
+    official_pages:
+      - url: "https://www.drg.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "메디힐"
+    category: 화장품
+    aliases: ["mediheal"]
+    official_pages:
+      - url: "https://www.medihealshop.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "스킨1004"
+    category: 화장품
+    aliases: ["skin1004"]
+    official_pages:
+      - url: "https://skin1004.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "코스알엑스"
+    category: 화장품
+    aliases: ["cosrx"]
+    official_pages:
+      - url: "https://www.cosrx.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "넘버즈인"
+    category: 화장품
+    aliases: ["numbuzin"]
+    official_pages:
+      - url: "https://numbuzin.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "달바"
+    category: 화장품
+    aliases: ["dalba", "d'alba"]
+    official_pages:
+      - url: "https://dalba.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "셀리맥스"
+    category: 화장품
+    aliases: ["celimax"]
+    official_pages:
+      - url: "https://celimax.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "마녀공장"
+    category: 화장품
+    aliases: ["manyo", "ma:nyo"]
+    official_pages:
+      - url: "https://manyo.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "아비브"
+    category: 화장품
+    aliases: ["abib"]
+    official_pages:
+      - url: "https://abib.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "바이오던스"
+    category: 화장품
+    aliases: ["biodance"]
+    official_pages:
+      - url: "https://biodance.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "에스네이처"
+    category: 화장품
+    aliases: ["s.nature", "snature"]
+    official_pages:
+      - url: "https://snature.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "웰라쥬"
+    category: 화장품
+    aliases: ["wellage"]
+    official_pages:
+      - url: "https://wellage.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "이즈앤트리"
+    category: 화장품
+    aliases: ["isntree"]
+    official_pages:
+      - url: "https://isntree.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "닥터자르트"
+    category: 화장품
+    aliases: ["dr.jart", "drjart"]
+    official_pages:
+      - url: "https://www.drjart.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "비플레인"
+    category: 화장품
+    aliases: ["beplain"]
+    official_pages:
+      - url: "https://beplain.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "아이소이"
+    category: 화장품
+    aliases: ["isoi"]
+    official_pages:
+      - url: "https://isoi.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "파티온"
+    category: 화장품
+    aliases: ["fation"]
+    official_pages:
+      - url: "https://fation.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "퓨리토"
+    category: 화장품
+    aliases: ["purito"]
+    official_pages:
+      - url: "https://puritoseoul.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "리얼베리어"
+    category: 화장품
+    aliases: ["real barrier", "realbarrier"]
+    official_pages:
+      - url: "https://realbarrier.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "토니모리"
+    category: 화장품
+    aliases: ["tonymoly", "토니스트리트"]
+    official_pages:
+      - url: "https://www.tonystreet.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "미샤"
+    category: 화장품
+    aliases: ["missha", "에이블씨엔씨"]
+    official_pages:
+      - url: "https://missha.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "더페이스샵"
+    category: 화장품
+    aliases: ["thefaceshop", "the face shop"]
+    official_pages:
+      - url: "https://www.thefaceshop.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "에뛰드"
+    category: 화장품
+    aliases: ["etude"]
+    official_pages:
+      - url: "https://www.etude.com/kr/ko/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "아모레몰 (이니스프리·설화수·라네즈·헤라·아이오페·프리메라·일리윤·에스트라·에스쁘아·메이크온)"
+    category: 화장품
+    aliases: ["amore", "아모레"]
+    official_pages:
+      - url: "https://www.amoremall.com/"
+        region: "국내"
+    detect_brand: true      # 여러 브랜드가 모인 몰이라 AI가 소재마다 브랜드를 알아내요
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "이니스프리"
+    category: 화장품
+    aliases: ["innisfree"]
+    official_pages:
+      - url: "https://www.innisfree.com/kr/ko/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "설화수"
+    category: 화장품
+    aliases: ["sulwhasoo"]
+    official_pages:
+      - url: "https://www.sulwhasoo.com/kr/ko/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "클럽클리오 (클리오·페리페라·구달)"
+    category: 화장품
+    aliases: ["clio", "클리오"]
+    official_pages:
+      - url: "https://clubclio.co.kr/"
+        region: "국내"
+    detect_brand: true      # 여러 브랜드가 모인 몰이라 AI가 소재마다 브랜드를 알아내요
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "롬앤"
+    category: 화장품
+    aliases: ["romand", "rom&nd"]
+    official_pages:
+      - url: "https://romand.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "3CE"
+    category: 화장품
+    aliases: ["3ce"]
+    official_pages:
+      - url: "https://www.3cecosmetics.com/"
+        region: "해외"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "힌스"
+    category: 화장품
+    aliases: ["hince"]
+    official_pages:
+      - url: "https://hince.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "어뮤즈"
+    category: 화장품
+    aliases: ["amuse"]
+    official_pages:
+      - url: "https://amusemakeup.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "데이지크"
+    category: 화장품
+    aliases: ["dasique"]
+    official_pages:
+      - url: "https://dasique.co.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "투쿨포스쿨"
+    category: 화장품
+    aliases: ["too cool for school", "toocoolforschool"]
+    official_pages:
+      - url: "https://www.toocoolforschool.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "퓌"
+    category: 화장품
+    aliases: ["fwee"]
+    official_pages:
+      - url: "https://fwee.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "LG 프라엘"
+    category: 디바이스
+    aliases: ["pra.l", "프라엘", "pral"]
+    official_pages:
+      - url: "https://www.lge.co.kr/pra-l"
+        region: "국내"
+    pdp_auto: 0
+    instagram: ""
+
+  - name: "리쥬란"
+    category: 디바이스
+    aliases: ["rejuran"]
+    official_pages:
+      - url: "https://www.rejuran.com/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+  - name: "세라젬"
+    category: 디바이스
+    aliases: ["ceragem", "셀루닉"]
+    official_pages:
+      - url: "https://www.ceragem.co.kr/"
+        region: "국내"
+    pdp_auto: 0
+    instagram: ""
+
+  - name: "톰 (앳홈)"
+    category: 디바이스
+    aliases: ["thome", "athome", "앳홈", "톰"]
+    official_pages:
+      - url: "https://www.athome.kr/"
+        region: "국내"
+    pdp_auto: 2
+    instagram: ""
+
+retail: []
+# 올리브영은 자동 수집 프로그램 접속을 막고 있어서(보안 확인 화면) 수집하지 않아요.
+# 브링그린·웨이크메이크처럼 올리브영에서만 파는 브랜드도 같은 이유로 빠져 있어요.
+
+collect:
+  max_banners_per_page: 8      # 한 페이지에서 가져올 배너 최대 수
+  min_banner_width: 600        # 이보다 작은 이미지는 배너로 보지 않아요
+  max_pdp_per_run: 15          # 한 번 실행할 때 새로 찍을 상세페이지 최대 수 (나머지는 다음 날 이어서)
+  delay_seconds: [3, 6]        # 페이지 사이 대기 시간(초). 사이트에 부담 주지 않도록
+  user_agent: "BeautyAdArchiveBot/1.0 (portfolio research; daily)"
+  respect_robots_txt: true     # robots.txt에서 막힌 페이지는 자동으로 건너뛰어요
+
+instagram:
+  posts_per_brand: 12
+  graph_api_version: "v23.0"   # Meta 그래프 API 버전. 오래되면 최신 버전으로 바꿔주세요
+
+analysis:
+  model: "claude-haiku-5-5"    # 더 꼼꼼한 분석을 원하면 "claude-sonnet-5-5"
+  max_items_per_run: 200       # 한 번 실행할 때 분석할 최대 소재 수 (나머지는 다음 날 이어서)
