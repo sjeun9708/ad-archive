@@ -10,11 +10,10 @@ focus_brand: 메디큐브
 brands:
   - name: 메디큐브
     official_pages:          # 공식몰 메인, 이벤트 페이지 주소
-      - ""                   # 예: 공식몰 메인 주소
-      - ""                   # 예: 공식몰 '이벤트' 메뉴 주소
-    pdp_pages:               # 꼭 보고 싶은 제품 상세페이지 주소 (선택)
-      - ""
-    instagram: ""            # 인스타 아이디 (@ 빼고). 비즈니스/크리에이터 계정만 가능
+      - "https://themedicube.co.kr/"   # 국내 공식몰
+      - "https://medicube.us/"         # 미국 공식몰 (국내와 비교용)
+    pdp_pages: []            # 꼭 보고 싶은 제품 상세페이지 주소 (선택)
+    instagram: "medicube_korea"   # 인스타 아이디 (@ 빼고). 인스타 연결 설정 후에 수집돼요
 
   - name: 아누아
     official_pages: [""]
@@ -28,22 +27,15 @@ brands:
 
   # 브랜드를 더 넣고 싶으면 위 블록을 복사해서 이름만 바꾸면 돼요.
 
-retail:
-  - name: 올리브영
-    main_url: "https://www.oliveyoung.co.kr/store/main/main.do"
-    # 메인에서 이 이름의 메뉴를 자동으로 눌러 기획전 목록으로 들어가요.
-    promo_menu_text: "기획전"
-    # 랭킹 상위 제품의 상세페이지를 자동 수집해요.
-    ranking_url: "https://www.oliveyoung.co.kr/store/main/getBestList.do"
-    ranking_top_n: 10
-    # 상품 상세페이지 주소에 들어가는 공통 문자열 (랭킹 페이지에서 상품 링크를 찾을 때 사용)
-    product_link_pattern: "getGoodsDetail.do"
+retail: []
+# 올리브영은 자동 수집 프로그램 접속을 막고 있어서(보안 확인 화면) 수집하지 않아요.
+# 사이트의 의사를 존중해 우회하지 않습니다.
 
 collect:
   max_banners_per_page: 8      # 한 페이지에서 가져올 배너 최대 수
   min_banner_width: 600        # 이보다 작은 이미지는 배너로 보지 않아요
   delay_seconds: [3, 6]        # 페이지 사이 대기 시간(초). 사이트에 부담 주지 않도록
-  user_agent: "BeautyAdArchiveBot/1.0 (portfolio research; weekly)"
+  user_agent: "BeautyAdArchiveBot/1.0 (portfolio research; daily)"
   respect_robots_txt: true     # robots.txt에서 막힌 페이지는 자동으로 건너뛰어요
 
 instagram:
@@ -51,5 +43,5 @@ instagram:
   graph_api_version: "v23.0"   # Meta 그래프 API 버전. 오래되면 최신 버전으로 바꿔주세요
 
 analysis:
-  model: "claude-haiku-5-5"   # 비용을 아끼려면 "claude-haiku-5-5"
+  model: "claude-haiku-5-5"    # 더 꼼꼼한 분석을 원하면 "claude-sonnet-5-5"
   max_items_per_run: 60        # 한 번 실행할 때 분석할 최대 소재 수
