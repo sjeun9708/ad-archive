@@ -60,7 +60,7 @@ brands:
     category: 화장품
     aliases: ["dr.g", "drg", "고운세상"]
     official_pages:
-      - url: "https://www.drg.co.kr/"
+      - url: "https://www.dr-g.co.kr/"
         region: "국내"
     pdp_auto: 2
     instagram: ""
@@ -408,6 +408,7 @@ collect:
   max_banners_per_page: 8      # 한 페이지에서 가져올 배너 최대 수
   min_banner_width: 600        # 이보다 작은 이미지는 배너로 보지 않아요
   max_pdp_per_run: 15          # 한 번 실행할 때 새로 찍을 상세페이지 최대 수 (나머지는 다음 날 이어서)
+  max_minutes: 60              # 수집은 최대 이 시간(분)까지만 하고 저장해요. 남은 브랜드는 다음 날 이어서
   delay_seconds: [3, 6]        # 페이지 사이 대기 시간(초). 사이트에 부담 주지 않도록
   user_agent: "BeautyAdArchiveBot/1.0 (portfolio research; daily)"
   respect_robots_txt: true     # robots.txt에서 막힌 페이지는 자동으로 건너뛰어요
