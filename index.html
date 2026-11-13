@@ -329,7 +329,7 @@ function card(it) {
   const a = A(it), tags = a.hooks ? [a.hooks.primary, ...(a.hooks.secondary || [])].filter(Boolean).slice(0, 3) : [];
   const focus = it.brand && it.brand === state.meta.focus_brand;
   return `<button class="card" type="button" data-id="${esc(it.id)}">
-    <div class="thumb">${thumb(it)}<span class="ch${it.region && !isDomestic(it) ? " abroad" : ""}">${esc(chLabel(it))}</span>${it.rank ? `<span class="rank">${it.rank}위</span>` : ""}</div>
+    <div class="thumb">${thumb(it)}<span class="ch${it.region && !isDomestic(it) ? " abroad" : ""}">${esc(chLabel(it))}</span>${it.rank ? `<span class="rank">${it.rank}위</span>` : ""}${it.linked_pdp || it.from_banner ? `<span class="rank" title="광고와 상세페이지가 연결돼 있어요">광고↔상세</span>` : ""}</div>
     <div class="body">
       <div class="row"><span class="brand${focus ? " focus" : ""}">${esc(it.brand || "브랜드 확인 중")}</span><span class="meta">${fmtDate(it.collected_at)}</span></div>
       <div class="tags">${tags.length ? tags.map(t => `<span class="tag">${esc(t)}</span>`).join("") : `<span class="tag wait">분석 대기</span>`}</div>
@@ -370,7 +370,12 @@ function openItem(id) {
     <div class="media">${media}</div>
     <div class="info">
       <h2 id="dlgTitle" style="margin:0;font-size:24px">${esc(it.brand || "브랜드 확인 중")}</h2>
-      <div class="meta">${esc(chLabel(it))} · ${esc(it.source_name || "")} · ${esc(it.collected_at)} 수집${it.page_url ? ` · <a href="${esc(it.page_url)}" target="_blank" rel="noopener">원본 보기</a>` : ""}</div>
+      <div class="meta">${esc(chLabel(it))} · ${esc(it.source_name || "")} · ${esc(it.collected_at)} 수집</div>
+      <div class="tags">
+        ${it.link_url || it.page_url ? `<a class="chip" style="display:inline-flex;align-items:center;text-decoration:none" href="${esc(it.link_url || it.page_url)}" target="_blank" rel="noopener">${it.channel === "상세페이지" ? "상품 페이지 열기 ↗" : "광고 클릭 시 이동하는 페이지 ↗"}</a>` : ""}
+        ${it.linked_pdp && state.items.some(x => x.id === it.linked_pdp) ? `<button class="chip" type="button" data-open="${esc(it.linked_pdp)}">이 광고 상품의 상세페이지 보기</button>` : ""}
+        ${it.from_banner && state.items.some(x => x.id === it.from_banner) ? `<button class="chip" type="button" data-open="${esc(it.from_banner)}">이 상품을 홍보한 광고 보기</button>` : ""}
+      </div>
       ${a.hooks ? `<div class="tags"><span class="tag" style="background:var(--accent);color:#fff">주 후킹 · ${esc(a.hooks.primary)}</span>${(a.hooks.secondary || []).map(t => `<span class="tag">${esc(t)}</span>`).join("")}</div>` : `<div class="tag wait" style="align-self:flex-start">아직 분석 전이에요. 다음 자동 실행 때 분석돼요.</div>`}
       ${a.why_it_hooks ? `<p style="margin:0">${esc(a.why_it_hooks)}</p>` : ""}
       ${pdp ? `<div class="first"><small>첫 화면 후킹</small><p>${esc(pdp.first_screen_hook)}</p></div>` : ""}
@@ -381,7 +386,8 @@ function openItem(id) {
       ${pdp ? `<h3 style="margin:8px 0 0;font-size:16px">섹션 구조</h3>${sectionsHTML(pdp)}<h3 style="margin:8px 0 0;font-size:16px">신뢰 근거</h3>${proofsHTML(pdp)}` : ""}
       ${it.caption ? `<details><summary>인스타 캡션</summary><p style="white-space:pre-line;font-size:14px">${esc(it.caption)}</p></details>` : ""}
     </div>`;
-  $("dlg").showModal();
+  if (!$("dlg").open) $("dlg").showModal();
+  $("dlg").scrollTop = 0;
 }
 $("dlgClose").addEventListener("click", () => $("dlg").close());
 $("dlg").addEventListener("click", e => { if (e.target === $("dlg")) $("dlg").close(); });
