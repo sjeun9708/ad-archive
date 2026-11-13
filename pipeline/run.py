@@ -17,6 +17,9 @@ sys.path.insert(0, str(Path(__file__).parent))
 from common import DATA_FILE, load_config, load_items, save_items, log, today, region_of, mall_label  # noqa: E402
 import analyze  # noqa: E402
 
+DATA_VERSION = 2   # 수집 방식이 크게 바뀌면 올려요 (예전 데이터 정리)
+
+
 
 def main() -> None:
     ap = argparse.ArgumentParser()
@@ -27,6 +30,12 @@ def main() -> None:
 
     cfg = load_config()
     items = load_items()
+    meta_file = DATA_FILE.parent / "meta.json"
+    old_meta = json.loads(meta_file.read_text(encoding="utf-8")) if meta_file.exists() else {}
+    if old_meta.get("data_version", 1) < DATA_VERSION:
+        log("수집 방식이 바뀌어서 예전 데이터를 비우고 새로 모아요.")
+        items = []
+        (DATA_FILE.parent / "pdp_checked.json").unlink(missing_ok=True)
     for it in items:                       # 예전에 모은 공식몰 소재에도 국내/해외 표시 붙이기
         if it.get("channel") == "공식몰" and not it.get("region") and it.get("page_url"):
             it["region"] = region_of(it["page_url"])
@@ -56,6 +65,14 @@ def main() -> None:
         a = it.get("analysis")
         if a is not None and not (isinstance(a.get("hooks"), dict) and a["hooks"].get("primary")):
             it["analysis"] = None
+    # 광고 배너 ↔ 상세페이지 짝짓기 (배너가 그 상품 페이지로 연결될 때)
+    pdp_by_url = {i["page_url"]: i for i in items if i["channel"] == "상세페이지"}
+    for it in items:
+        p = pdp_by_url.get(it.get("link_url", "")) if it["channel"] != "상세페이지" else None
+        if p:
+            it["linked_pdp"] = p["id"]
+            p.setdefault("from_banner", it["id"])
+
     if analyze.run(items, cfg):
         save_items(items)
         try:
@@ -63,7 +80,11 @@ def main() -> None:
         except Exception as e:             # 인사이트가 실패해도 수집·분석 결과는 꼭 저장
             log(f"[인사이트] 이번엔 건너뜀: {e}")
 
-    meta = {"focus_brand": cfg.get("focus_brand", ""), "last_run": today(),
+    used = {Path(i["image"]).name for i in items if i.get("image")}   # 안 쓰는 옛날 이미지 정리
+    for f in (DATA_FILE.parent.parent / "images").glob("*.jpg"):
+        if f.name not in used:
+            f.unlink()
+    meta = {"focus_brand": cfg.get("focus_brand", ""), "last_run": today(), "data_version": DATA_VERSION,
             "brands": [b["name"] for b in cfg.get("brands", [])]}
     (DATA_FILE.parent / "meta.json").write_text(json.dumps(meta, ensure_ascii=False), encoding="utf-8")
     if problems:
