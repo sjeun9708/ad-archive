@@ -9,7 +9,7 @@
 #     official_pages:
 #       - url: "공식몰 주소"
 #         region: "국내"       ← 해외몰이면 나라 이름 (미국, 일본 …)
-#     pdp_auto: 2              ← 메인에 걸린 대표 제품 상세페이지 몇 개를 가져올지 (0이면 안 가져옴)
+#     pdp_auto: 5              ← 베스트·메인 상품 중 상세페이지 몇 개를 가져올지 (0이면 안 가져옴)
 #
 # 주소가 틀렸거나 공식몰이 아니면 자동으로 건너뛰고, 실행 기록 맨 아래에 '확인이 필요한 브랜드'로 알려줘요.
 # ─────────────────────────────────────────────
@@ -26,7 +26,7 @@ brands:
         region: "국내"
       - url: "https://medicube.us/"
         region: "미국"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: "medicube_korea"
 
   - name: "아누아"
@@ -35,7 +35,7 @@ brands:
     official_pages:
       - url: "https://anua.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "토리든"
@@ -44,7 +44,7 @@ brands:
     official_pages:
       - url: "https://torriden.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "라운드랩"
@@ -53,7 +53,7 @@ brands:
     official_pages:
       - url: "https://roundlab.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "닥터지"
@@ -62,7 +62,7 @@ brands:
     official_pages:
       - url: "https://www.dr-g.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "메디힐"
@@ -71,7 +71,7 @@ brands:
     official_pages:
       - url: "https://www.medihealshop.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "스킨1004"
@@ -80,7 +80,7 @@ brands:
     official_pages:
       - url: "https://skin1004.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "코스알엑스"
@@ -89,7 +89,7 @@ brands:
     official_pages:
       - url: "https://www.cosrx.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "넘버즈인"
@@ -98,7 +98,7 @@ brands:
     official_pages:
       - url: "https://numbuzin.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "달바"
@@ -107,7 +107,7 @@ brands:
     official_pages:
       - url: "https://dalba.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "셀리맥스"
@@ -116,7 +116,7 @@ brands:
     official_pages:
       - url: "https://celimax.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "마녀공장"
@@ -125,7 +125,7 @@ brands:
     official_pages:
       - url: "https://manyo.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "아비브"
@@ -134,7 +134,7 @@ brands:
     official_pages:
       - url: "https://abib.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "바이오던스"
@@ -143,7 +143,7 @@ brands:
     official_pages:
       - url: "https://biodance.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "에스네이처"
@@ -152,7 +152,7 @@ brands:
     official_pages:
       - url: "https://snature.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "웰라쥬"
@@ -161,7 +161,7 @@ brands:
     official_pages:
       - url: "https://wellage.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "이즈앤트리"
@@ -170,7 +170,7 @@ brands:
     official_pages:
       - url: "https://isntree.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "닥터자르트"
@@ -179,7 +179,7 @@ brands:
     official_pages:
       - url: "https://www.drjart.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "비플레인"
@@ -188,7 +188,7 @@ brands:
     official_pages:
       - url: "https://beplain.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "아이소이"
@@ -197,7 +197,7 @@ brands:
     official_pages:
       - url: "https://isoi.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "파티온"
@@ -206,7 +206,7 @@ brands:
     official_pages:
       - url: "https://fation.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "퓨리토"
@@ -215,7 +215,7 @@ brands:
     official_pages:
       - url: "https://puritoseoul.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "리얼베리어"
@@ -224,7 +224,7 @@ brands:
     official_pages:
       - url: "https://realbarrier.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "토니모리"
@@ -233,7 +233,7 @@ brands:
     official_pages:
       - url: "https://www.tonystreet.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "미샤"
@@ -242,7 +242,7 @@ brands:
     official_pages:
       - url: "https://missha.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "더페이스샵"
@@ -251,7 +251,7 @@ brands:
     official_pages:
       - url: "https://www.thefaceshop.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "에뛰드"
@@ -260,7 +260,7 @@ brands:
     official_pages:
       - url: "https://www.etude.com/kr/ko/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "아모레몰 (이니스프리·설화수·라네즈·헤라·아이오페·프리메라·일리윤·에스트라·에스쁘아·메이크온)"
@@ -270,7 +270,7 @@ brands:
       - url: "https://www.amoremall.com/"
         region: "국내"
     detect_brand: true      # 여러 브랜드가 모인 몰이라 AI가 소재마다 브랜드를 알아내요
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "이니스프리"
@@ -279,7 +279,7 @@ brands:
     official_pages:
       - url: "https://www.innisfree.com/kr/ko/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "설화수"
@@ -288,7 +288,7 @@ brands:
     official_pages:
       - url: "https://www.sulwhasoo.com/kr/ko/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "클럽클리오 (클리오·페리페라·구달)"
@@ -298,7 +298,7 @@ brands:
       - url: "https://clubclio.co.kr/"
         region: "국내"
     detect_brand: true      # 여러 브랜드가 모인 몰이라 AI가 소재마다 브랜드를 알아내요
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "롬앤"
@@ -307,7 +307,7 @@ brands:
     official_pages:
       - url: "https://romand.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "3CE"
@@ -316,7 +316,7 @@ brands:
     official_pages:
       - url: "https://www.3cecosmetics.com/"
         region: "해외"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "힌스"
@@ -325,7 +325,7 @@ brands:
     official_pages:
       - url: "https://hince.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "어뮤즈"
@@ -334,7 +334,7 @@ brands:
     official_pages:
       - url: "https://amusemakeup.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "데이지크"
@@ -343,7 +343,7 @@ brands:
     official_pages:
       - url: "https://dasique.co.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "투쿨포스쿨"
@@ -352,7 +352,7 @@ brands:
     official_pages:
       - url: "https://www.toocoolforschool.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "퓌"
@@ -361,7 +361,7 @@ brands:
     official_pages:
       - url: "https://fwee.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "LG 프라엘"
@@ -379,7 +379,7 @@ brands:
     official_pages:
       - url: "https://www.rejuran.com/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
   - name: "세라젬"
@@ -397,7 +397,7 @@ brands:
     official_pages:
       - url: "https://www.athome.kr/"
         region: "국내"
-    pdp_auto: 2
+    pdp_auto: 5
     instagram: ""
 
 retail: []
@@ -407,8 +407,8 @@ retail: []
 collect:
   max_banners_per_page: 8      # 한 페이지에서 가져올 배너 최대 수
   min_banner_width: 600        # 이보다 작은 이미지는 배너로 보지 않아요
-  max_pdp_per_run: 15          # 한 번 실행할 때 새로 찍을 상세페이지 최대 수 (나머지는 다음 날 이어서)
-  max_minutes: 60              # 수집은 최대 이 시간(분)까지만 하고 저장해요. 남은 브랜드는 다음 날 이어서
+  max_pdp_per_run: 40          # 한 번 실행할 때 새로 찍을 상세페이지 최대 수 (나머지는 다음 날 이어서)
+  max_minutes: 85              # 수집은 최대 이 시간(분)까지만 하고 저장해요. 남은 브랜드는 다음 날 이어서
   delay_seconds: [3, 6]        # 페이지 사이 대기 시간(초). 사이트에 부담 주지 않도록
   user_agent: "BeautyAdArchiveBot/1.0 (portfolio research; daily)"
   respect_robots_txt: true     # robots.txt에서 막힌 페이지는 자동으로 건너뛰어요

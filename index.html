@@ -183,6 +183,7 @@ footer{font-size:12px; color:var(--muted); border-top:1px solid var(--line); pad
     <div class="stats" id="stats"></div>
     <div class="filters">
       <div class="frow" id="fChannel"><span class="lab">채널</span></div>
+      <div class="frow" id="fSlot"><span class="lab">광고 위치</span></div>
       <div class="frow" id="fRegion"><span class="lab">국내/해외</span></div>
       <div class="frow" id="fCat"><span class="lab">제품 종류</span></div>
       <div class="frow" id="fHook"><span class="lab">후킹 유형</span></div>
@@ -245,7 +246,7 @@ const HOOKS = ["할인율 강조","한정·마감","성분·효능","인증·임
 const CHANNELS = ["공식몰","인스타그램","리테일 기획전","상세페이지"];
 const PROOFS = ["임상 시험","성분 설명","비포애프터","리뷰 캡처","수상·랭킹","전문가 추천","인증 마크","모델·셀럽"];
 const PAGE = 24;
-const state = { items: [], meta: {}, insights: null, channel: "전체", region: "전체", cat: "전체", hook: null, brand: "", q: "", shown: PAGE, pdpId: null };
+const state = { items: [], meta: {}, insights: null, channel: "전체", slot: "전체", region: "전체", cat: "전체", hook: null, brand: "", q: "", shown: PAGE, pdpId: null };
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const $ = id => document.getElementById(id);
@@ -281,6 +282,10 @@ function buildFilters() {
   ["전체", "국내", "해외"].forEach(r => rg.insertAdjacentHTML("beforeend", `<button class="chip" type="button" data-rg="${r}" aria-pressed="${r === state.region}">${r}</button>`));
   rg.addEventListener("click", e => { const b = e.target.closest("[data-rg]"); if (!b) return; state.region = b.dataset.rg; state.shown = PAGE;
     rg.querySelectorAll("[data-rg]").forEach(x => x.setAttribute("aria-pressed", x === b)); renderArchive(); });
+  const sl = $("fSlot");
+  ["전체", "메인 배너", "팝업", "띠배너", "중간 배너", "인스타 연동"].forEach(c => sl.insertAdjacentHTML("beforeend", `<button class="chip" type="button" data-slot="${c}" aria-pressed="${c === state.slot}">${c}</button>`));
+  sl.addEventListener("click", e => { const b = e.target.closest("[data-slot]"); if (!b) return; state.slot = b.dataset.slot; state.shown = PAGE;
+    sl.querySelectorAll("[data-slot]").forEach(x => x.setAttribute("aria-pressed", x === b)); renderArchive(); });
   const ct = $("fCat");
   ["전체", "화장품", "디바이스"].forEach(c => ct.insertAdjacentHTML("beforeend", `<button class="chip" type="button" data-cat="${c}" aria-pressed="${c === state.cat}">${c}</button>`));
   ct.addEventListener("click", e => { const b = e.target.closest("[data-cat]"); if (!b) return; state.cat = b.dataset.cat; state.shown = PAGE;
@@ -299,6 +304,7 @@ function buildFilters() {
 
 function filtered() {
   return state.items.filter(it => (state.channel === "전체" || it.channel === state.channel)
+    && (state.slot === "전체" || it.slot === state.slot)
     && (state.cat === "전체" || catOf(it) === state.cat)
     && (state.region === "전체" || (state.region === "국내" ? isDomestic(it) : it.region && !isDomestic(it)))
     && (!state.hook || hookOf(it) === state.hook || (A(it).hooks?.secondary || []).includes(state.hook))
@@ -329,7 +335,7 @@ function card(it) {
   const a = A(it), tags = a.hooks ? [a.hooks.primary, ...(a.hooks.secondary || [])].filter(Boolean).slice(0, 3) : [];
   const focus = it.brand && it.brand === state.meta.focus_brand;
   return `<button class="card" type="button" data-id="${esc(it.id)}">
-    <div class="thumb">${thumb(it)}<span class="ch${it.region && !isDomestic(it) ? " abroad" : ""}">${esc(chLabel(it))}</span>${it.rank ? `<span class="rank">${it.rank}위</span>` : ""}${it.linked_pdp || it.from_banner ? `<span class="rank" title="광고와 상세페이지가 연결돼 있어요">광고↔상세</span>` : ""}</div>
+    <div class="thumb">${thumb(it)}<span class="ch${it.region && !isDomestic(it) ? " abroad" : ""}">${esc(chLabel(it))}${it.slot ? " · " + esc(it.slot) : ""}</span>${it.rank ? `<span class="rank">${it.rank}위</span>` : ""}${it.linked_pdp || it.from_banner ? `<span class="rank" title="광고와 상세페이지가 연결돼 있어요">광고↔상세</span>` : ""}</div>
     <div class="body">
       <div class="row"><span class="brand${focus ? " focus" : ""}">${esc(it.brand || "브랜드 확인 중")}</span><span class="meta">${fmtDate(it.collected_at)}</span></div>
       <div class="tags">${tags.length ? tags.map(t => `<span class="tag">${esc(t)}</span>`).join("") : `<span class="tag wait">분석 대기</span>`}</div>
@@ -380,6 +386,7 @@ function openItem(id) {
       ${a.why_it_hooks ? `<p style="margin:0">${esc(a.why_it_hooks)}</p>` : ""}
       ${pdp ? `<div class="first"><small>첫 화면 후킹</small><p>${esc(pdp.first_screen_hook)}</p></div>` : ""}
       ${a.copy ? `<div><div class="kv"><span>메인 카피</span><span>${esc(a.copy.main)}</span></div><div class="kv"><span>서브</span><span>${esc(a.copy.sub || "–")}</span></div><div class="kv"><span>CTA</span><span>${esc(a.copy.cta || "–")}</span></div>
+        ${it.slot ? `<div class="kv"><span>광고 위치</span><span>${esc(it.slot)}</span></div>` : ""}${a.ad_format ? `<div class="kv"><span>형식</span><span>${esc(a.ad_format)}</span></div>` : ""}
         <div class="kv"><span>레이아웃</span><span>${esc(a.layout)}</span></div><div class="kv"><span>시선 중심</span><span>${esc(a.visual_focus)}</span></div>
         <div class="kv"><span>톤</span><span>${esc((a.tone || []).join(", "))}</span></div><div class="kv"><span>타깃</span><span>${esc(a.target)}</span></div></div>` : ""}
       ${a.palette ? `<div class="swatches" style="gap:8px">${a.palette.map(p => `<span title="${esc(p.hex)} ${esc(p.pct)}%" class="sw" style="width:44px;height:30px;border-radius:7px;background:${esc(p.hex)}"></span>`).join("")}</div>` : ""}
