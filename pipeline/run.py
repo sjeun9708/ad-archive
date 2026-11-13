@@ -36,6 +36,10 @@ def main() -> None:
         log("수집 방식이 바뀌어서 예전 데이터를 비우고 새로 모아요.")
         items = []
         (DATA_FILE.parent / "pdp_checked.json").unlink(missing_ok=True)
+    before = len(items)                    # 광고 위치(slot) 없이 모은 예전 배너는 새로 모으기
+    items = [i for i in items if i.get("channel") != "공식몰" or i.get("slot")]
+    if len(items) < before:
+        log(f"광고 위치 구분을 위해 예전 배너 {before - len(items)}개를 다시 모아요.")
     for it in items:                       # 예전에 모은 공식몰 소재에도 국내/해외 표시 붙이기
         if it.get("channel") == "공식몰" and not it.get("region") and it.get("page_url"):
             it["region"] = region_of(it["page_url"])

@@ -26,17 +26,39 @@ from common import (
 MAX_PDP_HEIGHT = 40000
 DEBUG_DIR = Path(__file__).resolve().parents[1] / "data" / "debug"
 LAST_ERROR = {"reason": ""}
+PDP_STATS = {"시도": 0, "성공": 0, "구매버튼 없음": 0, "설명 이미지 부족": 0, "같은 페이지": 0}
 
 # ── 페이지 안에서 실행하는 스크립트 ─────────────────────
 # 링크가 달린 큰 이미지 (= 광고 배너 후보)
-JS_BANNERS = """(minW) => Array.from(document.images)
-  .filter(i => i.naturalWidth >= minW && i.naturalHeight >= 150)
-  .map(i => {
-    const a = i.closest('a[href]');
-    const r = i.getBoundingClientRect();
-    return {src: i.currentSrc || i.src, w: i.naturalWidth, h: i.naturalHeight, alt: i.alt || '',
-            link: a ? a.href : '', top: r.top + window.scrollY, shown: r.width > 0 && r.height > 0};
-  })"""
+JS_BANNERS = """(minW) => {
+  // 이미지가 페이지 어디에 걸려 있는지로 광고 위치를 알아내요
+  const slotOf = (img, link, top, ratio) => {
+    let names = '', fixed = false;
+    for (let el = img, d = 0; el && d < 12; el = el.parentElement, d++) {
+      names += ' ' + (el.id || '') + ' ' + (typeof el.className === 'string' ? el.className : '');
+      const pos = getComputedStyle(el).position;
+      if (pos === 'fixed') fixed = true;
+    }
+    names = names.toLowerCase();
+    if (fixed || /popup|pop_up|modal|layer_?pop|lightbox|dimmed/.test(names)) return '팝업';
+    if (/instagram\\.com/.test(link) || /insta|sns|feed|ugc|social|review_?photo/.test(names)) return '인스타 연동';
+    if (/prd|product|goods|item_?list|itemlist|prdlist|xans-product/.test(names) && !/banner|visual|event|promotion/.test(names)) return '상품 목록';
+    if (top < 1100 && /main|visual|hero|swiper|slick|slide|carousel|banner|kv|rolling/.test(names)) return '메인 배너';
+    if (ratio > 3.5) return '띠배너';
+    return '중간 배너';
+  };
+  return Array.from(document.images)
+    .filter(i => i.naturalWidth >= minW && i.naturalHeight >= 150)
+    .map(i => {
+      const a = i.closest('a[href]');
+      const r = i.getBoundingClientRect();
+      const top = r.top + window.scrollY, link = a ? a.href : '';
+      return {src: i.currentSrc || i.src, w: i.naturalWidth, h: i.naturalHeight, alt: i.alt || '',
+              link, top, slot: slotOf(i, link, top, i.naturalWidth / i.naturalHeight)};
+    });
+}"""
+
+SLOTS = ["메인 배너", "팝업", "띠배너", "중간 배너", "인스타 연동"]
 
 # 상품 상세 설명 영역 찾기: 큰 이미지들이 가장 많이 모여 있는 '가장 안쪽' 영역
 JS_DETAIL_IMAGES = """(minW) => {
@@ -65,11 +87,22 @@ JS_DETAIL_IMAGES = """(minW) => {
 # 상품 페이지인지: 구매/장바구니 버튼 같은 글자가 있는지
 JS_IS_PRODUCT = """() => {
   const t = (document.body ? document.body.innerText : '').toLowerCase();
-  return ['구매하기', '바로구매', '장바구니', '바로 구매', 'add to cart', 'buy now', 'add to bag']
+  return ['구매하기', '바로구매', '장바구니', '바로 구매', '구매 하기', '선물하기', '주문하기',
+          'add to cart', 'buy now', 'add to bag', 'buy it now', 'checkout']
     .some(w => t.includes(w));
 }"""
 
 JS_LINKS = """() => Array.from(document.querySelectorAll('a[href]')).map(a => a.href)"""
+
+# '베스트' 메뉴 찾기 (잘 팔리는 상품이 모인 페이지)
+JS_BEST_LINK = """() => {
+  const words = ['베스트', 'best', '랭킹', 'ranking', '인기'];
+  for (const a of document.querySelectorAll('a[href]')) {
+    const t = (a.innerText || a.getAttribute('title') || '').trim().toLowerCase();
+    if (t && t.length <= 12 && words.some(w => t.includes(w)) && !a.href.startsWith('javascript')) return a.href;
+  }
+  return '';
+}"""
 
 JS_PAGE_ID = """() => {
   const og = document.querySelector('meta[property="og:site_name"]');
@@ -151,8 +184,13 @@ def collect_banners(page: Page, url: str, cfg: dict, known: list[str], *,
     cands = sorted(page.evaluate(JS_BANNERS, c["min_banner_width"]), key=lambda i: i["top"])
     for im in cands:
         link = im["link"]
-        if im["src"] in seen or not link or link.startswith("javascript") or link.rstrip("/#") == url.rstrip("/#"):
+        if im["slot"] == "상품 목록":
+            continue                           # 상품 진열 사진은 광고가 아니라서 빼요
+        if im["slot"] not in ("팝업", "인스타 연동") and (
+                im["src"] in seen or not link or link.startswith("javascript") or link.rstrip("/#") == url.rstrip("/#")):
             continue                           # 클릭해도 아무 데도 안 가는 이미지는 광고가 아님
+        if im["src"] in seen:
+            continue
         ratio = im["w"] / im["h"]
         if not 0.4 <= ratio <= 5:
             continue
@@ -166,7 +204,7 @@ def collect_banners(page: Page, url: str, cfg: dict, known: list[str], *,
         known.append(h)
         found.append(new_item(img, brand=brand, channel="공식몰", source_name=source_name,
                               page_url=url, src=im["src"], width=900,
-                              extra={"alt": im["alt"][:200], "link_url": link}))
+                              extra={"alt": im["alt"][:200], "link_url": link, "slot": im["slot"]}))
         if len(found) >= c["max_banners_per_page"]:
             break
     log(f"  광고 배너 {len(found)}개")
@@ -191,6 +229,7 @@ def collect_pdp(page: Page, url: str, cfg: dict, known: list[str], *,
                 brand: str, source_name: str) -> dict | None:
     if not page.evaluate(JS_IS_PRODUCT):
         log("  상품 페이지가 아니라서 건너뜀 (구매 버튼 없음)")
+        PDP_STATS["구매버튼 없음"] += 1
         return None
     for label in ("상품정보 더보기", "상세정보 펼쳐보기", "상품설명 더보기", "상세정보 더보기", "더보기"):
         try:
@@ -204,6 +243,7 @@ def collect_pdp(page: Page, url: str, cfg: dict, known: list[str], *,
     detail = page.evaluate(JS_DETAIL_IMAGES, 600)
     if detail["total"] < 2500 or not detail["srcs"]:
         log("  상품 설명 이미지가 거의 없어서 건너뜀")
+        PDP_STATS["설명 이미지 부족"] += 1
         return None
     parts = [p for p in (download(page, s) for s in dict.fromkeys(detail["srcs"])) if p is not None]
     if not parts:
@@ -213,6 +253,7 @@ def collect_pdp(page: Page, url: str, cfg: dict, known: list[str], *,
     h = dhash(long_img)
     if is_duplicate(h, known, threshold=2):
         log("  지난번과 같은 상세페이지라 건너뜀")
+        PDP_STATS["같은 페이지"] += 1
         return None
     known.append(h)
     log(f"  상세페이지 캡처 (설명 이미지 {len(parts)}장, 세로 {long_img.height}px)")
@@ -353,8 +394,23 @@ def run(cfg: dict, known_hashes: list[str], recent_pdp: dict[str, str] | None = 
                 from_banner = {it["link_url"]: it for it in banners
                                if same_site(it["link_url"], url) and is_product_url(it["link_url"])}
                 main_products = [u for u in dict.fromkeys(links) if same_site(u, url) and is_product_url(u)]
-                n_auto = b.get("pdp_auto", 2)
-                queue = list(from_banner) + main_products[:n_auto] + [u for u in b.get("pdp_pages", []) if u]
+                n_auto = b.get("pdp_auto", 5)
+                best_products: list[str] = []
+                try:
+                    best = page.evaluate(JS_BEST_LINK)
+                except PWError:
+                    best = ""
+                if best and same_site(best, url) and safe_goto(page, best, cfg):
+                    scroll_through(page, steps=3)
+                    try:
+                        best_products = [u for u in dict.fromkeys(page.evaluate(JS_LINKS))
+                                         if same_site(u, url) and is_product_url(u)]
+                    except PWError:
+                        pass
+                    log(f"  베스트 페이지에서 상품 {len(best_products)}개 발견")
+                candidates = [u for u in dict.fromkeys(best_products + main_products)
+                              if recent_pdp.get(u, "") < week_ago]       # 이번 주에 안 본 상품부터
+                queue = list(from_banner) + candidates[:n_auto] + [u for u in b.get("pdp_pages", []) if u]
 
                 for purl in dict.fromkeys(queue):
                     if pdp_budget <= 0 or time.time() - started > limit:
@@ -368,8 +424,10 @@ def run(cfg: dict, known_hashes: list[str], recent_pdp: dict[str, str] | None = 
                         continue
                     pdp_budget -= 1
                     it = collect_pdp(page, purl, cfg, known_hashes, brand=brand_for_items, source_name=label)
+                    PDP_STATS["시도"] += 1
                     if not it:
                         continue
+                    PDP_STATS["성공"] += 1
                     it["region"], it["category"] = region, category
                     if purl in from_banner:                 # 광고 ↔ 상세페이지 짝짓기
                         it["from_banner"] = from_banner[purl]["id"]
@@ -377,4 +435,5 @@ def run(cfg: dict, known_hashes: list[str], recent_pdp: dict[str, str] | None = 
                     items.append(it)
                 polite_wait(cfg)
         browser.close()
+    log("상세페이지 결과: " + ", ".join(f"{k} {v}" for k, v in PDP_STATS.items()))
     return items
