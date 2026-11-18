@@ -1,5 +1,6808 @@
 [
  {
+  "id": "d042b640b936",
+  "brand": "이니스프리",
+  "channel": "공식몰",
+  "source_name": "이니스프리 국내 공식몰",
+  "page_url": "https://www.innisfree.com/kr/ko/",
+  "image_src": "https://inm-cdn.innisfree.com/origin-image/display/banner/f780bd7a-995d-4d0a-abd6-065675a1683d.png",
+  "collected_at": "2026-11-18",
+  "hash": "f1cc848e9e921717",
+  "image": "images/d042b640b936.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이니스프리",
+   "product": "그린티 하이알루로닉 스킨·로션, 포레스트 포맨 포어 케어 올인원 에센스, 포맨 그린티 스킨·로션 (남성케어 및 그린티 라인 5종)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "포맨 & 그린티 데이",
+    "sub": "그린티 & 남성케어 최대 혜택! 11.18 단 하루!",
+    "cta": "오늘이 마지막!"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "검은 스크린형 배경 중앙에 제품 5종을 일렬로 배치하고, 상단에는 '11.18 단 하루!' 문구와 '포맨 & 그린티 데이' 헤드카피를 두었으며, 우측 상단에 '50%' 할인 원형 배지를 가장 크게 강조해 배치함.",
+   "tone": [
+    "그린·청량",
+    "역동적 세일",
+    "깔끔한 남성 케어"
+   ],
+   "target": "그린티 라인을 찾거나 남성 스킨케어를 처음 시작하려는 20~40대 소비자로, 할인 혜택에 민감한 구매자.",
+   "why_it_hooks": "녹색 테두리와 검은 배경이 제품의 초록 로고 컬러를 돋보이게 하고, 우측 상단의 노란 '50%' 배지와 보라색 '오늘이 마지막!' 스티커가 강한 대비로 시선을 끕니다. 기간 한정 문구가 즉각적인 구매 행동을 유도합니다.",
+   "palette": [
+    {
+     "hex": "#040007",
+     "pct": 31
+    },
+    {
+     "hex": "#DAE1D7",
+     "pct": 28
+    },
+    {
+     "hex": "#1D905F",
+     "pct": 25
+    },
+    {
+     "hex": "#1D4C37",
+     "pct": 9
+    },
+    {
+     "hex": "#09040A",
+     "pct": 7
+    }
+   ]
+  },
+  "alt": "11.18 포레스트/그린티 데이",
+  "link_url": "https://www.innisfree.com/kr/ko/ca/event/106469",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "9e757d6e564f",
+  "brand": "이니스프리",
+  "channel": "공식몰",
+  "source_name": "이니스프리 국내 공식몰",
+  "page_url": "https://www.innisfree.com/kr/ko/",
+  "image_src": "https://inm-cdn.innisfree.com/origin-image/display/popup/2026/11/7add9752-cedd-4225-b19b-b72bf657eb25.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "c57955070b4f0b03",
+  "image": "images/9e757d6e564f.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이니스프리",
+   "product": "비자 스킨+로션/밤 (비자 시카 밤 EX, 비자 트러블 로션, 비자 트러블 토너)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "선착순! 초특가 딜!",
+    "sub": "비자 스킨+로션/밤",
+    "cta": "70%, 오늘이 마지막!, 트러블 안녕, 초특가"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "제품 3종을 중앙 하단에 배치하고, 상단 좌측에 '초특가 딜' 헤드라인, 우측 상단에 70% 원형 뱃지를 크게 배치했으며, 보라색 '오늘이 마지막!' 뱃지와 말풍선형 소형 카피('트러블 안녕', '초특가')를 제품 주변에 흩뿌렸다.",
+   "tone": [
+    "강렬함",
+    "세일 긴박감",
+    "청량한 블루"
+   ],
+   "target": "트러블 피부 고민이 있고 가성비 있는 스킨케어 세트를 찾는 10~30대 여성 소비자",
+   "why_it_hooks": "검은 배경 위 노란색·핑크 대형 헤드라인과 70% 원형 뱃지가 즉시 눈에 들어오며, '오늘이 마지막'이라는 마감 문구가 구매를 서두르게 만든다. 또한 '트러블 안녕'이라는 직관적 문구가 고민 해결을 연상시킨다.",
+   "palette": [
+    {
+     "hex": "#070707",
+     "pct": 51
+    },
+    {
+     "hex": "#BCBEC7",
+     "pct": 41
+    },
+    {
+     "hex": "#050707",
+     "pct": 4
+    },
+    {
+     "hex": "#21023C",
+     "pct": 3
+    },
+    {
+     "hex": "#120713",
+     "pct": 1
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://www.innisfree.com/kr/ko/dp/search-result?query=%EB%B9%84%EC%9E%90&searchType=%EC%A7%81%EC%A0%91%EC%9E%85%EB%A0%A5",
+  "slot": "팝업",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "aadfea3b01b2",
+  "brand": "이니스프리",
+  "channel": "공식몰",
+  "source_name": "이니스프리 국내 공식몰",
+  "page_url": "https://www.innisfree.com/kr/ko/",
+  "image_src": "https://inm-cdn.innisfree.com/origin-image/display/popup/2026/11/2a47f608-dd02-4fd5-a4b8-a4fff6d83aef.png",
+  "collected_at": "2026-11-18",
+  "hash": "4d4d45859919090b",
+  "image": "images/aadfea3b01b2.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이니스프리",
+   "product": "그린티 하이알루로닉 스킨·로션, 포맨 포어 케어 올인원 에센스 (남성 라인)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "성분·효능",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "남성케어 & 그린티 최대 혜택! 포맨 & 그린티 데이",
+    "sub": "50%",
+    "cta": "오늘이 마지막!"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "검정 배경 상단 좌측에 헤드카피를 배치하고, 우측 상단에 초록 원형 '50%'와 보라 원형 '오늘이 마지막!' 뱃지를 겹쳐 시선을 모으며, 하단에는 제품 5종을 일렬로 세워 흰 대리석 바닥 위에 배치했다.",
+   "tone": [
+    "클린·청량",
+    "남성적 미니멀",
+    "그린 브랜드 아이덴티티"
+   ],
+   "target": "그린티 제품에 관심 있는 20~40대 남성 및 남성 스킨케어를 처음 시작하려는 소비자",
+   "why_it_hooks": "대형 '50%' 숫자와 보라색 '오늘이 마지막!' 뱃지가 강한 색 대비로 즉각 눈에 들어오며, 어두운 배경 위 흰 제품과 그린 포인트가 제품 라인업을 선명하게 부각합니다.",
+   "palette": [
+    {
+     "hex": "#000000",
+     "pct": 44
+    },
+    {
+     "hex": "#E9E9E8",
+     "pct": 36
+    },
+    {
+     "hex": "#93A49C",
+     "pct": 9
+    },
+    {
+     "hex": "#200539",
+     "pct": 6
+    },
+    {
+     "hex": "#000101",
+     "pct": 5
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://www.innisfree.com/kr/ko/ca/event/106469",
+  "slot": "팝업",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "e6141a511ec7",
+  "brand": "이니스프리",
+  "channel": "공식몰",
+  "source_name": "이니스프리 국내 공식몰",
+  "page_url": "https://www.innisfree.com/kr/ko/",
+  "image_src": "https://inm-cdn.innisfree.com/origin-image/display/popup/2026/11/1fffce73-12e5-48eb-84da-b0c62b8096df.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "29b0b6cedc30b685",
+  "image": "images/e6141a511ec7.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이니스프리",
+   "product": "그린티 세라마이드 크림",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "인증·임상",
+     "리뷰·랭킹"
+    ]
+   },
+   "copy": {
+    "main": "\"요즘 뉴스에 이 크림이 뜨는 이유\" 그린티 세라마이드 크림",
+    "sub": "사용 즉시 보습력 397%* 증가",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 큰 헤드카피를 배치하고, 중앙 하단에 제품(크림 용기와 튜브 2종)을 흰색 큐브 받침 위에 올렸으며, 제품 옆 말풍선형 박스에 보습력 수치를 강조하고, 하단에는 임상 조건을 작은 글씨 각주로 배치함.",
+   "tone": [
+    "깔끔함",
+    "청초한 그린",
+    "신뢰감"
+   ],
+   "target": "건조하고 당기는 피부로 고민하는 20~35세 성인 여성",
+   "why_it_hooks": "\"뉴스에 뜨는 이유\"라는 호기심 유발 문구와 '사용 즉시 보습력 397%'라는 구체적 수치가 결합되어 궁금증과 신뢰를 동시에 자극합니다. 그린 톤 제품을 흰 배경에 선명하게 배치해 시선을 제품으로 모읍니다.",
+   "palette": [
+    {
+     "hex": "#E7E7E7",
+     "pct": 50
+    },
+    {
+     "hex": "#77A28F",
+     "pct": 23
+    },
+    {
+     "hex": "#DEE9E3",
+     "pct": 12
+    },
+    {
+     "hex": "#F5F5F5",
+     "pct": 10
+    },
+    {
+     "hex": "#E9E7E8",
+     "pct": 5
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://www.innisfree.com/kr/ko/dp/product/102016",
+  "slot": "팝업",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "2355c954b559",
+  "brand": "클리오, 페리페라",
+  "channel": "공식몰",
+  "source_name": "클럽클리오 국내 공식몰",
+  "page_url": "https://clubclio.co.kr/",
+  "image_src": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/907644817_18477867853184669_5282155319685507153_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gJr-GOOx_EEQ7kNvwE5QxCz&_nc_oc=AdqRru0DrDpeNL7RyamLwPZCNHgRvGroBHKde02l760T9NXmiUcNNsdIFC9URs2zpRI&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&edm=AFF3FJ0EAAAA&_nc_gid=3aNbZIKtwdcF71pGQ4QTDw&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTqMqKuKzexOuw8z4MH6TsaShLZJlPHiE_zw_6DAlFj-Q&oe=6B020977",
+  "collected_at": "2026-11-18",
+  "hash": "b096d65b149c361b",
+  "image": "images/2355c954b559.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "클리오, 페리페라",
+   "product": "Rosy MLBB 립 제품군 (페리페라 무드 틴트·블러밤·글로이 틴트, 클리오 볼륨메이트 틴트·글로스, 크리스탈 글램 틴트·밤)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "루틴 제안",
+    "secondary": [
+     "신제품",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "Rosy MLBB Lips",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 3열·하단 3열의 격자형 구성으로 제품 용기와 발색 스와치를 짝지어 배치하고, 가운데 'Rosy MLBB Lips' 타이틀 배너로 구획을 나눔",
+   "tone": [
+    "로맨틱",
+    "로지 핑크",
+    "매트·글로시 질감"
+   ],
+   "target": "로즈 계열 자연스러운 입술색(MLBB)을 선호하는 20~30대 여성 소비자",
+   "why_it_hooks": "제품 용기와 질감 스와치가 한 화면에 모여 있어 색상 비교가 한눈에 되고, 전체가 같은 핑크 톤으로 통일되어 컬렉션처럼 시선을 끕니다. 가운데 자수풍 타이틀이 구획을 나눠 정보 탐색을 돕습니다.",
+   "palette": [
+    {
+     "hex": "#D89496",
+     "pct": 31
+    },
+    {
+     "hex": "#E0A9A9",
+     "pct": 22
+    },
+    {
+     "hex": "#B86A71",
+     "pct": 19
+    },
+    {
+     "hex": "#E6BAB9",
+     "pct": 18
+    },
+    {
+     "hex": "#EAD3D4",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://www.instagram.com/p/Df1cLa4I_SK/",
+  "slot": "인스타 연동",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "c51373c69640",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://cdn.romand.io/romand/main_banner/8niRNcujCN4k7vUrL6L03ucU5GGTZcSlHBmoVx06.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "a83635e4acb4d8f8",
+  "image": "images/c51373c69640.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "롬앤",
+   "product": "롬앤 메이크업 브러시 세트 (파우더·블러셔·아이섀도·파운데이션·브로우 브러시 등)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "여러 브러시를 흰색 큐브 받침대와 파우더 퍼프 위에 비스듬히 배치해 중앙에 모아 보여주고, 글자 없이 로고만 손잡이에 작게 노출된다.",
+   "tone": [
+    "청초함",
+    "파스텔 핑크",
+    "깔끔한 미니멀"
+   ],
+   "target": "브러시 세트를 구매하려는 메이크업 입문자 및 데일리 메이크업을 즐기는 20~30대 여성",
+   "why_it_hooks": "파스텔 핑크와 실버 메탈 포인트가 배경의 베이지 톤과 대비를 이루어 시선을 끈다. 여러 종류의 브러시가 다양한 높이로 펼쳐져 세트 구성을 한눈에 보여준다.",
+   "palette": [
+    {
+     "hex": "#EADBD7",
+     "pct": 27
+    },
+    {
+     "hex": "#BDA3A3",
+     "pct": 23
+    },
+    {
+     "hex": "#E0CDCA",
+     "pct": 22
+    },
+    {
+     "hex": "#EFE3DF",
+     "pct": 20
+    },
+    {
+     "hex": "#F4EDEB",
+     "pct": 8
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://romand.co.kr/product/project.html?cate_no=854",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "408c80e9dec1",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/product/medium/202611/50515c3af2e5730e359fcc7a27c4525e.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "6bc9c9c6c2c4c496",
+  "image": "images/408c80e9dec1.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "EYE 찰TOOL 궁합 SET (아이쉐도우 팔레트 + 아이브러시 3종 + 브ows 제품 증정 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "사은품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "EYE 찰TOOL 궁합 SET",
+    "sub": "38% OFF",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 분홍 띠에 세트명을 배치하고, 좌측에 아이섀도우 팔레트를 크게 두며 우측에 브러시 3종과 확대 원형 컷, 하단 우측 증정 제품 박스를 배치하고, 좌하단 분홍 원형 뱃지에 38% OFF를 최대 크기로 강조했습니다.",
+   "tone": [
+    "핑크 파스텔",
+    "깔끔한",
+    "구성 강조"
+   ],
+   "target": "아이메이크업을 자주 하며 브러시·브로우 등 도구를 함께 갖추고 싶어 하는 20~30대 여성 소비자",
+   "why_it_hooks": "좌하단의 분홍 원형 뱃지에 적힌 '38% OFF'가 가장 큰 시각적 대비를 만들어 할인 혜택을 즉시 인지시킵니다. 팔레트·브러시·증정품을 한 화면에 나열해 구성의 가치를 한눈에 보여줍니다.",
+   "palette": [
+    {
+     "hex": "#FDEDF2",
+     "pct": 27
+    },
+    {
+     "hex": "#DCA4AA",
+     "pct": 25
+    },
+    {
+     "hex": "#FEF6F9",
+     "pct": 19
+    },
+    {
+     "hex": "#EDD4D4",
+     "pct": 17
+    },
+    {
+     "hex": "#FEFEFE",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": "베러 댄 팔레트+브러쉬 3종 SET(총알/블렌딩/베이스) (+미니 한올 브로우 카라 03호 증정)",
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1341",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "b1a1c10939dd",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/product/medium/202611/97b2693918594d976f70a53c4bd43d3c.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "6b19d1c6d4c6d693",
+  "image": "images/b1a1c10939dd.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "찰TOOL 궁합 SET (아이섀도우 팔레트 2종 + 아이브로우/라이너 툴 2종 + 싱글 섀도우 4종 증정 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "사은품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "EYE 찰TOOL 궁합 SET",
+    "sub": "37% OFF",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 핑크 띠에 세트명을 배치하고, 좌측 하단의 37% OFF 뱃지를 크게 강조했으며, 중앙에는 팔레트·툴 제품을 나열하고 우측 하단에 증정 섀도우 4종을 박스로 묶어 '+' 기호로 연결했다.</layout>\n<parameter name=\"tone\">[\"달콤·경쾌\", \"사랑스러운 파스텔\", \"구성 풍성함\"]",
+   "target": "아이메이크업을 간단히 완성하고 싶은 20~30대 여성 소비자로, 여러 제품을 한 번에 구매해 가성비를 챙기려는 수요층.",
+   "why_it_hooks": "대형 숫자 '37% OFF'가 핑크 뱃지 안에서 가장 먼저 눈에 들어오고, 팔레트·툴·섀도우 증정 구성을 한 화면에 펼쳐 보여 '많이 담긴 세트'라는 가치를 즉시 전달한다.",
+   "palette": [
+    {
+     "hex": "#FDEEF3",
+     "pct": 30
+    },
+    {
+     "hex": "#F0D4DB",
+     "pct": 25
+    },
+    {
+     "hex": "#FEF6F9",
+     "pct": 18
+    },
+    {
+     "hex": "#AB7D86",
+     "pct": 15
+    },
+    {
+     "hex": "#FEFCFD",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": "한올 아이팟 라이너+한올 브러쉬 2종(볼륨/라인) (+슬라이드 인 싱글 #다크초코착 택 1 증정)",
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1342",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "ee7705f6596f"
+ },
+ {
+  "id": "a2c98e72dad2",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/product/medium/202611/a1cb9a4096176e77315c0536197a4349.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "6b3fe3c9c0e2e29d",
+  "image": "images/a2c98e72dad2.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "롬앤 찰TOOL 궁합 SET (립 제품 + 에센스 증정 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "신제품",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "42% OFF",
+    "sub": "LIP 찰TOOL 궁합 SET",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 중앙에 'LIP 찰TOOL 궁합 SET' 헤드카피를 배치하고, 좌측 하단에 42% OFF 할인 뱃지를 가장 크게 두어 시선을 유도하며, 중앙에 립 제품 4종을 나란히 배치하고 우측 하단에 증정품(에센스)을 박스 처리해 '+' 기호로 연결했습니다.",
+   "tone": [
+    "핑크·로맨틱",
+    "깔끔·세트감",
+    "트렌디"
+   ],
+   "target": "립 메이크업을 손쉽게 시도하고 싶은 20~30대 여성, 세트 구매로 가성비를 따지는 소비자",
+   "why_it_hooks": "대형 할인율 숫자(42% OFF)가 가장 크고 붉은 원형 뱃지로 배치되어 첫눈에 혜택이 들어옵니다. 같은 핑크 톤 배경에 제품 사진과 증정품을 함께 보여줘 '세트를 사면 더 얻는다'는 구매 이유를 한 장에 전달합니다.",
+   "palette": [
+    {
+     "hex": "#FEEDF3",
+     "pct": 33
+    },
+    {
+     "hex": "#D98B9C",
+     "pct": 21
+    },
+    {
+     "hex": "#F3D9DC",
+     "pct": 17
+    },
+    {
+     "hex": "#FEF4F7",
+     "pct": 15
+    },
+    {
+     "hex": "#FEFAFC",
+     "pct": 15
+    }
+   ]
+  },
+  "alt": "컬러 립 매트+실리콘 립 브러쉬 (+미니 글로스 04 허니 샤베트 증정)",
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1343",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "9c450bbb54cc",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/product/medium/202611/99fc00c47369abbf109f96e8d71c9178.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "693bceb1f0f0939e",
+  "image": "images/9c450bbb54cc.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "롬앤 베이스 쿠션 찰TOOL 궁합 SET (쿠션 + 전용 퍼프 + 리필 세트)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "사은품",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "36% OFF",
+    "sub": "BASE 찰TOOL 궁합 SET",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 분홍 띠에 세트명을 배치하고, 중앙에 쿠션 제품과 퍼프를 크게 배치했으며, 좌하단 분홍 원형 뱃지에 36% OFF를 최대한 크게 넣었고, 우측 하단에 추가 구성품(리필) 박스를 작게 덧붙였다.",
+   "tone": [
+    "청초·산뜻",
+    "핑크 컬러감",
+    "세트 구성 강조"
+   ],
+   "target": "커버력 있는 쿠션 베이스를 찾는 20~30대 여성 소비자로, 세트 구성과 할인 혜택에 민감한 공식몰 구매층",
+   "why_it_hooks": "분홍 원형 뱃지 안의 큰 '36% OFF' 숫자가 한눈에 들어와 할인 혜택을 즉시 인지하게 만든다. 제품과 퍼프, 추가 구성품을 함께 보여줘 '이득이 큰 세트'라는 인상을 준다.",
+   "palette": [
+    {
+     "hex": "#FDEEF3",
+     "pct": 33
+    },
+    {
+     "hex": "#F3DFE4",
+     "pct": 27
+    },
+    {
+     "hex": "#FEFAFC",
+     "pct": 14
+    },
+    {
+     "hex": "#FEF4F8",
+     "pct": 14
+    },
+    {
+     "hex": "#B8868E",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": "UFO 커버 쿠션+UFO 커퍼 퍼프 (+미니 UFO 쿠션 증정)",
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1344",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "c5bb6dd3099e"
+ },
+ {
+  "id": "139e03a54038",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/product/medium/202611/b003936c6eafc8c1e65a5f6918a81564.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "693fc9e2e2ca9b97",
+  "image": "images/139e03a54038.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "BASE 찰TOOL 궁합 SET (쿠션 + 찰TOOL 브러시 + 퍼프 2종)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "사은품",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "BASE 찰TOOL 궁합 SET",
+    "sub": "39% OFF",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 세트명 배너를 두고, 중앙에 쿠션과 브러시를 배치했으며, 좌하단에 39% 할인 원형 뱃지를 크게 두고, 우측 하단에 퍼프 2종을 사은품 박스로 묶어 보여줌",
+   "tone": [
+    "청초함",
+    "산뜻한 핑크",
+    "깔끔한 구성감"
+   ],
+   "target": "쿠션 파운데이션과 베이스 도구를 함께 사서 메이크업 완성도를 높이고 싶은 20~30대 여성 소비자",
+   "why_it_hooks": "분홍 배경과 큰 39% OFF 뱃지가 한눈에 들어오고, 쿠션·브러시·퍼프가 한 세트로 보여 구매 혜택이 직관적으로 전달됩니다.",
+   "palette": [
+    {
+     "hex": "#FDEEF4",
+     "pct": 34
+    },
+    {
+     "hex": "#D9AAB5",
+     "pct": 26
+    },
+    {
+     "hex": "#FEF5F8",
+     "pct": 16
+    },
+    {
+     "hex": "#FEFBFC",
+     "pct": 14
+    },
+    {
+     "hex": "#F2DDE3",
+     "pct": 10
+    }
+   ]
+  },
+  "alt": "누 제로 쿠션+포어 커버 파운데이션 브러쉬 (+누 제로 퍼프 2P 증정)",
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1345",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "a0f459505f88"
+ },
+ {
+  "id": "ee6b5cc4e308",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/product/medium/202611/3f279f1d0eda80f1e80365d6ceb49b1a.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "697f99c28a8ac29d",
+  "image": "images/ee6b5cc4e308.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "찰TOOL 궁합 SET (페이스 메이크업 세트: 블러셔 2종 + 페이스 브러시 + 섀도 미니 컬러 6종 증정 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "신제품",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "FACE 찰TOOL 궁합 SET",
+    "sub": "34% OFF",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 세트명 띠 배치, 중앙에 브러시를 세우고 좌측 블러셔 2종을 겹쳐 배치, 우측에 증정 섀도 6종을 '+' 기호로 연결, 좌하단 핑크 halftone 원형 뱃지에 34% 할인 숫자를 크게 배치했다.",
+   "tone": [
+    "핑크 파스텔",
+    "발랄함",
+    "구성 풍성함"
+   ],
+   "target": "블러셔와 브러시로 간단하게 얼굴 메이크업을 완성하고 싶은 20~30대 여성 소비자",
+   "why_it_hooks": "좌하단의 대비가 강한 핑크 할인 뱃지(34% OFF)가 가장 먼저 눈에 들어오고, 여러 제품이 한 화면에 모인 세트 구성이 '이것저것 많이 준다'는 가치감을 줍니다.",
+   "palette": [
+    {
+     "hex": "#FDEFF3",
+     "pct": 32
+    },
+    {
+     "hex": "#E7ABB6",
+     "pct": 26
+    },
+    {
+     "hex": "#FEF5F8",
+     "pct": 20
+    },
+    {
+     "hex": "#F4DDE2",
+     "pct": 12
+    },
+    {
+     "hex": "#FEFCFD",
+     "pct": 10
+    }
+   ]
+  },
+  "alt": "베러 댄 치크+블러셔&쉐딩 브러쉬 (+슬라이드 인 싱글 S01~07 택 1 증정)",
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1347",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "cd90837faa84",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/product/medium/202611/b46e0dbd93cad6f750001e4da60954ce.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "6977b3b2a2e2e39e",
+  "image": "images/cd90837faa84.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "찰TOOL 궁합 SET (베터댄 컨투어 쉐이딩 팔레트 + 페이스 브러시 + 메이크업 스펀지·아이브러시 증정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "사은품",
+     "세트 구성"
+    ]
+   },
+   "copy": {
+    "main": "FACE 찰TOOL 궁합 SET",
+    "sub": "37% OFF",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 'FACE 찰TOOL 궁합 SET' 헤드 배너를 두고, 좌측에 컨투어 팔레트와 브러시를 메인 배치하며, 우측 하단 '+' 구성으로 증정품을 붙이고, 좌하단 분홍 원형 뱃지에 37% OFF를 가장 크게 배치했습니다.",
+   "tone": [
+    "핑크 팝",
+    "깔끔한 세트 구성감",
+    "데일리 메이크업"
+   ],
+   "target": "얼굴 윤곽·채색 메이크업을 시작하거나 도구를 함께 갖추고 싶은 가성비 중시 20~30대 여성 소비자",
+   "why_it_hooks": "분홍 원형 뱃지의 37% 할인 숫자가 가장 크고 강하게 시선을 끌며, 제품과 브러시, 증정품을 한눈에 보여줘 '많이 주는 세트'라는 인상을 줍니다.",
+   "palette": [
+    {
+     "hex": "#FEEDF2",
+     "pct": 28
+    },
+    {
+     "hex": "#786059",
+     "pct": 22
+    },
+    {
+     "hex": "#EFC0CC",
+     "pct": 21
+    },
+    {
+     "hex": "#FEF5F8",
+     "pct": 18
+    },
+    {
+     "hex": "#FEFCFD",
+     "pct": 11
+    }
+   ]
+  },
+  "alt": "베러 댄 컨투어+브러쉬 2종 SET(실루엣/디테일) (+핑거 퍼프 3P/총알브러쉬 증정)",
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1348",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "48c687e81c52"
+ },
+ {
+  "id": "ee7705f6596f",
+  "brand": "롬앤",
+  "channel": "상세페이지",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/product/detail.html?product_no=1342",
+  "image_src": "https://romand.co.kr/product/detail.html?product_no=1342",
+  "collected_at": "2026-11-18",
+  "hash": "f0941cecdcccccee",
+  "image": "images/ee7705f6596f.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "한올 아이팟 라이너 (한올 브러쉬 2종 + 슬라이드 인 싱글 증정 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "신제품",
+     "성분·효능",
+     "사은품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "한 팟으로 완벽하게 눈매 확장",
+    "sub": "6가지 팟, 24가지 컬러 구성 / 정교하게 설계된 명도·채도 구성으로 / 어떤 방향이든 시원하게 트이는 눈매 / 트임에 맞게 설계된 새로운 차원의 고감도 젤 라이너",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "상단 모델 얼굴 클로즈업과 카피를 배치하고, 하단에 제품명 타이포를 크게 얹은 뒤, 이후 제품 컷과 컬러 스와치를 세로로 이어 붙인 구조",
+   "tone": [
+    "세련된",
+    "차분한",
+    "내추럴 뷰티"
+   ],
+   "target": "데일리 아이메이크업에서 눈매를 또렷하고 시원하게 연출하고 싶은 20~30대 여성",
+   "why_it_hooks": "모델의 맑은 피부와 눈매 메이크업을 첫 화면에 크게 보여주어 결과물을 먼저 제시하고, 세리프 타이포로 고급스러운 인상을 줍니다.",
+   "pdp": {
+    "first_screen_hook": "모델의 또렷한 눈매 클로즈업과 '한 팟으로 완벽하게 눈매 확장' 카피가 한눈에 들어오는 구성",
+    "sections": [
+     {
+      "name": "히어로 비주얼",
+      "role": "공감 후킹",
+      "copy": "한 팟으로 완벽하게 눈매 확장 / HAN ALL EYEPOT LINER",
+      "share": 12
+     },
+     {
+      "name": "제품 라인업 소개",
+      "role": "해결책 제시",
+      "copy": "제품 컷 및 '6가지 팟, 24가지 컬러 구성 / 정교하게 설계된 명도·채도 구성으로'",
+      "share": 10
+     },
+     {
+      "name": "개발 스토리(BM's NOTE)",
+      "role": "근거",
+      "copy": "아이팟 라이너 1탄은 데일리 컬러 중심, 이번에는 눈매를 더 또렷하게 살려주는 진하고 깊이감 있는 컬러에 집중",
+      "share": 10
+     },
+     {
+      "name": "눈매 연출 결과",
+      "role": "근거",
+      "copy": "AFTER 눈매 비교 / 어떤 방향이든 시원하게 트이는 눈매",
+      "share": 10
+     },
+     {
+      "name": "제형 설명",
+      "role": "해결책 제시",
+      "copy": "트임에 맞게 설계된 새로운 차원의 고감도 젤 라이너",
+      "share": 8
+     },
+     {
+      "name": "컬러 스와치 - Caramel Brown Pot",
+      "role": "구매 결정",
+      "copy": "04 CARAMEL BROWN POT / 깊이감을 더해 더 선명해진 리치 브라운 팟 / 캐슈 블류머·월넛 쉐이드·초콜릿 블렌딩·다크 쉐입",
+      "share": 10
+     },
+     {
+      "name": "착용 연출 - Caramel Brown",
+      "role": "근거",
+      "copy": "스모키 음영으로 완성한 뉴트럴 브라운 무드",
+      "share": 6
+     },
+     {
+      "name": "컬러 스와치 - Grey Pink Pot",
+      "role": "구매 결정",
+      "copy": "05 GREY PINK POT / 미묘한 신비감이 감도는 그레이쉬 핑크 팟",
+      "share": 8
+     },
+     {
+      "name": "착용 연출 - Grey Pink",
+      "role": "근거",
+      "copy": "차갑게 스머든 도회적 애쉬 핑크 무드",
+      "share": 6
+     },
+     {
+      "name": "컬러 스와치 - Main Color Salmon Coral Pot",
+      "role": "구매 결정",
+      "copy": "온기감을 머금은 화사한 살몬 코랄 팟 / 페블 볼류머·살몬 쉐이드·휘그 블렌딩·시나몬 쉐입",
+      "share": 10
+     },
+     {
+      "name": "착용 연출 및 마무리",
+      "role": "행동 유도",
+      "copy": "BURNT CORAL 라인 연출 / 제품 컷 마무리",
+      "share": 8
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": false,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#C89183",
+     "pct": 28
+    },
+    {
+     "hex": "#3E2E2A",
+     "pct": 22
+    },
+    {
+     "hex": "#E7C1B5",
+     "pct": 21
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 17
+    },
+    {
+     "hex": "#F4EBEA",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "한올 아이팟 라이너+한올 브러쉬 2종(볼륨/라인) (+슬라이드 인 싱글 #다크초코착 택 1 증정) - rom&nd",
+  "height_px": 40000,
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1342",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "b1a1c10939dd"
+ },
+ {
+  "id": "c5bb6dd3099e",
+  "brand": "롬앤",
+  "channel": "상세페이지",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/product/detail.html?product_no=1344",
+  "image_src": "https://romand.co.kr/product/detail.html?product_no=1344",
+  "collected_at": "2026-11-18",
+  "hash": "176d9c7ebbaa798c",
+  "image": "images/c5bb6dd3099e.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "UFO 커버 쿠션 + UFO 커퍼 퍼프 (미니 UFO 쿠션 증정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "신제품",
+     "임상·인증",
+     "비포애프터",
+     "리뷰·랭킹",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "피부 위 어떤 고민도 가리는 우주급 커버력",
+    "sub": "프라이머 없이 모공 종말! / 피부 위 어떤 고민도 한번에 종말 울트라 풀 커버",
+    "cta": "UFO 쿠션 구매 안내 및 변경 내장 퍼프 안내 (CTA 버튼 문구 없음)"
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 구매 안내와 변경 퍼프 비교를 배치하고, 이어서 모델 얼굴 클로즈업과 대형 'UFO CUSHION' 타이틀을 중앙에 두며, 하단으로 갈수록 제품 컷과 수치 근거를 배치하는 세로 스크롤 구조",
+   "tone": [
+    "미래적·테크",
+    "고급스러운 메탈릭",
+    "신뢰감 있는 데이터"
+   ],
+   "target": "커버력과 지속력을 중시하며 모공·잡티 고민이 있는 20~30대 여성 소비자",
+   "why_it_hooks": "모델의 맑은 피부 클로즈업과 메탈릭 'UFO' 타이틀이 SF 콘셉트로 강렬하게 시선을 끌고, '우주급 커버력'이라는 과장된 카피가 궁금증을 유발합니다.",
+   "pdp": {
+    "first_screen_hook": "구매 안내(퍼프 변경)로 시작해 모델 얼굴 클로즈업과 '피부 위 어떤 고민도 가리는 우주급 커버력' 카피, 대형 메탈릭 UFO CUSHION 타이틀이 한 화면에 등장합니다.",
+    "sections": [
+     {
+      "name": "구매 안내",
+      "role": "고지",
+      "copy": "기존 내장 퍼프 → 변경 내장 퍼프 리뉴얼 안내",
+      "share": 4
+     },
+     {
+      "name": "메인 후킹",
+      "role": "공감 후킹",
+      "copy": "피부 위 어떤 고민도 가리는 우주급 커버력 / UFO CUSHION",
+      "share": 8
+     },
+     {
+      "name": "핵심 수치 요약",
+      "role": "근거 제시",
+      "copy": "74% 잡티 커버 유지 / 최대 88% 모공요철 커버 / 24시간 메이크업 지속 / 24시간 안티 다크닝 테스트 완료 (KDRI 인체적용시험)",
+      "share": 8
+     },
+     {
+      "name": "랭킹·신제품 어필",
+      "role": "사회적 증거",
+      "copy": "런칭하자마자 에이블리 1등 / 실시간 뷰티 랭킹 캡처",
+      "share": 6
+     },
+     {
+      "name": "고객 피드백 수집",
+      "role": "사회적 증거",
+      "copy": "150인 온라인 피드백 수집, 호수 조정 근거",
+      "share": 8
+     },
+     {
+      "name": "컬러 설문 결과",
+      "role": "신뢰 형성",
+      "copy": "BM 피드백 정리해 컬러 조정 (21.5호 적당 41.1%, 22호 출시 등)",
+      "share": 8
+     },
+     {
+      "name": "비포애프터",
+      "role": "근거 제시",
+      "copy": "BEFORE/AFTER 피부 비교, 프라이머 없이 모공 종말! (실제 롬앤 직원 사용 사진)",
+      "share": 10
+     },
+     {
+      "name": "기술 설명",
+      "role": "해결책 제시",
+      "copy": "피부 위 어떤 고민도 한번에 종말 울트라 풀 커버 / 기존 대비 8배 작아진 나노 입자 U.F.O",
+      "share": 8
+     },
+     {
+      "name": "지속력 근거",
+      "role": "근거 제시",
+      "copy": "02 처음 바른 그대로 24시간 유지되는 지속력 / 잡티 커버 74% 유지, 메이크업 약 75% 유지, 밝기 유지 77.41%",
+      "share": 12
+     },
+     {
+      "name": "컬러 라인업",
+      "role": "구매 결정",
+      "copy": "21.5N 소프트 / 22N 미디엄 NEW / 23N 베이지 / 25N 샌드, 피부톤별 스와치",
+      "share": 8
+     },
+     {
+      "name": "사용법·쿠션감",
+      "role": "행동 유도",
+      "copy": "STEP1·2 사용법 안내 / 쫀쫀한 쿠션감, 빈틈없이 완성되는 커버",
+      "share": 10
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": false,
+     "비포애프터": true,
+     "리뷰 캡처": true,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#151A22",
+     "pct": 28
+    },
+    {
+     "hex": "#333C48",
+     "pct": 25
+    },
+    {
+     "hex": "#D3BBB9",
+     "pct": 18
+    },
+    {
+     "hex": "#8F7F81",
+     "pct": 17
+    },
+    {
+     "hex": "#ECDCDB",
+     "pct": 12
+    }
+   ]
+  },
+  "page_title": "UFO 커버 쿠션+UFO 커퍼 퍼프 (+미니 UFO 쿠션 증정) - rom&nd",
+  "height_px": 40000,
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1344",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "9c450bbb54cc"
+ },
+ {
+  "id": "a0f459505f88",
+  "brand": "롬앤",
+  "channel": "상세페이지",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/product/detail.html?product_no=1345",
+  "image_src": "https://romand.co.kr/product/detail.html?product_no=1345",
+  "collected_at": "2026-11-18",
+  "hash": "fce0a496928290c0",
+  "image": "images/a0f459505f88.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "누 제로 쿠션 (+포어 커버 파운데이션 브러쉬, 누 제로 퍼프 2P 증정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "매끈한 피부결 표현 (공들이지 않아도 예쁜 피부)",
+    "secondary": [
+     "모공커버 즉시 효과 (비포애프터)",
+     "48시간 메이크업 지속력 임상 데이터",
+     "소비자 기자단 인정",
+     "사은품(브러쉬·퍼프 증정)"
+    ]
+   },
+   "copy": {
+    "main": "만져보고 싶은 매끈한 피부결 NU ZERO",
+    "sub": "공들이지 않아도 예쁜 피부 표현 / 양 조절 없이도 내 피부같이 얇은 밀착력 / 무너짐 마저 깔끔해 수정까지 감쫀같은 지속력",
+    "cta": "누 제로 쿠션 BM 개발일지 보러가기"
+   },
+   "ad_format": "리뷰·후기형",
+   "visual_focus": "혼합",
+   "layout": "상단 모델 클로즈업과 대형 'NU ZERO' 타이포로 시선을 잡고, 이후 제품컷·비포애프터·지속력 그래프·컬러 스와치·제품 비교표 순으로 세로 나열하는 긴 스크롤 구조",
+   "tone": [
+    "청초함",
+    "깨끗한 뉴트럴",
+    "담백한 프리미엄"
+   ],
+   "target": "모공·피부결이 신경 쓰이지만 화장을 가볍고 자연스럽게 마무리하고 싶은 20~30대 여성",
+   "why_it_hooks": "대형 모델 클로즈업과 '만져보고 싶은 매끈한 피부결'이라는 카피가 제품 사용 후 기대 효과를 직관적으로 보여줍니다. 흰 배경과 파스텔 톤이 깨끗한 인상을 주어 스크롤을 멈추게 합니다.",
+   "pdp": {
+    "first_screen_hook": "모델의 맑은 피부 클로즈업과 대형 'NU ZERO' 타이포가 '매끈한 피부결'이라는 결과 이미지를 먼저 보여줍니다.",
+    "sections": [
+     {
+      "name": "히어로 비주얼",
+      "role": "공감 후킹",
+      "copy": "만져보고 싶은 매끈한 피부결 / NU ZERO",
+      "share": 8
+     },
+     {
+      "name": "제품 소개",
+      "role": "제품 노출",
+      "copy": "rom&nd NU ZERO CUSHION / 롬앤 누 제로 쿠션",
+      "share": 5
+     },
+     {
+      "name": "포인트 1 - 피부 표현",
+      "role": "해결책 제시",
+      "copy": "공들이지 않아도 예쁜 피부 표현 / 바르는 순간 깔끔하게 채워지는 모공커버 / 들뜸없이 매끈한 피부표현",
+      "share": 14
+     },
+     {
+      "name": "소비자 기자단 후기",
+      "role": "사회적 증거",
+      "copy": "바쁜 아침에 막 발라도 신경 쓴 듯 예쁘게 표현돼요 - 소비자기자단 @fromgrain님",
+      "share": 4
+     },
+     {
+      "name": "포인트 2 - 밀착력",
+      "role": "해결책 제시",
+      "copy": "양 조절 없이도 내 피부같이 얇은 밀착력",
+      "share": 9
+     },
+     {
+      "name": "포인트 3 - 지속력",
+      "role": "근거",
+      "copy": "무너짐 마저 깔끔해 수정까지 감쫀같은 지속력 / 건성·지성 바른 직후 vs 6시간 후 비교",
+      "share": 12
+     },
+     {
+      "name": "임상 데이터",
+      "role": "근거",
+      "copy": "48시간 메이크업 지속력 (사용 직후 76.932 → 48시간 후 78.107, 피부과학연구센터 의뢰, 2022.06)",
+      "share": 8
+     },
+     {
+      "name": "컬러 가이드",
+      "role": "구매 결정",
+      "copy": "덧발라도 뭉침없이 깔끔한 피부표현 / COLOR SWATCH 01 포슬린17 · 02 퓨어21 · 03 내추럴21 · 04 베이지23 · 05 샌드25",
+      "share": 15
+     },
+     {
+      "name": "제품 비교",
+      "role": "구매 결정",
+      "copy": "제로 쿠션 / 클리어 커버 쿠션 / 누 제로 쿠션(NEW) 피부타입·커버력·지속력·차단지수 비교",
+      "share": 7
+     },
+     {
+      "name": "개발 스토리",
+      "role": "브랜드 신뢰",
+      "copy": "언제나 베이스에 진심이었던 롬앤 / 제작기간 18개월 · 수정샘플 450개 · 참여인원 200명 이상",
+      "share": 6
+     },
+     {
+      "name": "사은품 및 유도",
+      "role": "행동 유도",
+      "copy": "롬앤 브러쉬&퍼프 / 누 제로 쿠션 BM 개발일지 보러가기",
+      "share": 5
+     },
+     {
+      "name": "구매 정보·유의사항",
+      "role": "구매 결정",
+      "copy": "용량 15g / 제품주요사양: 모든 피부 / 사용방법: 내장된 퍼프에 적당량을 취하여 피부에 가볍게 두드리며 펴 발라 주세요 / 교환·반품 불가 안내",
+      "share": 5
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": false,
+     "비포애프터": true,
+     "리뷰 캡처": true,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#D5BBB0",
+     "pct": 33
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 31
+    },
+    {
+     "hex": "#D6D4D8",
+     "pct": 18
+    },
+    {
+     "hex": "#8C6D63",
+     "pct": 15
+    },
+    {
+     "hex": "#FEFFFF",
+     "pct": 2
+    }
+   ]
+  },
+  "page_title": "누 제로 쿠션+포어 커버 파운데이션 브러쉬 (+누 제로 퍼프 2P 증정) - rom&nd",
+  "height_px": 29419,
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1345",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "139e03a54038"
+ },
+ {
+  "id": "48c687e81c52",
+  "brand": "롬앤",
+  "channel": "상세페이지",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/product/detail.html?product_no=1348",
+  "image_src": "https://romand.co.kr/product/detail.html?product_no=1348",
+  "collected_at": "2026-11-18",
+  "hash": "2ba8a286f886a4a4",
+  "image": "images/48c687e81c52.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "롬앤",
+   "product": "롬앤 베러 댄 컨투어 (실루엣/디테일 브러쉬 2종 SET 포함)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "루틴 제안",
+    "secondary": [
+     "성분·효능",
+     "모델·셀럽",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "정교해진 명도, 풍성해진 채도로 더욱 디테일해진 컨투어링",
+    "sub": "#깎는쉐딩에서 #비율쉐딩으로 한층 더 정교해진 컨투어링",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 카피와 사무/작업 테이블 무드의 제품 연출컷을 배치하고, 이어서 얼굴 가이드라인 위 비율 쉐딩 설명, 단계별 메이크업 컷, 제품 질감·블렌딩 클로즈업, 중안부·코 전후 비교 순으로 세로 나열한 구조",
+   "tone": [
+    "정교함",
+    "에디토리얼",
+    "차분한 뉴트럴"
+   ],
+   "target": "얼굴 윤곽을 자연스럽게 살리고 싶은 20~30대 메이크업 입문~중급 소비자",
+   "why_it_hooks": "얼굴 비율 가이드 그리드와 스케치 무드의 연출로 '비율 교정'이라는 전문적 이미지를 주며, 기존 컨투어의 '깎는다'는 개념을 '비율로 쉐딩한다'로 바꿔 호기심을 유발합니다.",
+   "pdp": {
+    "first_screen_hook": "정교해진 명도와 풍성해진 채도라는 카피와 스케치북·브러시가 놓인 에디토리얼 무드 연출로 '디테일한 컨투어'라는 기대감을 즉시 전달합니다.",
+    "sections": [
+     {
+      "name": "타이틀 연출컷",
+      "role": "공감 후킹",
+      "copy": "정교해진 명도, 풍성해진 채도로 더욱 디테일해진 컨투어링",
+      "share": 8
+     },
+     {
+      "name": "얼굴 비율 가이드 & 핵심 콘셉트",
+      "role": "해결책 제시",
+      "copy": "#깎는쉐딩에서 #비율쉐딩으로 한층 더 정교해진 컨투어링",
+      "share": 8
+     },
+     {
+      "name": "5컬러 소개",
+      "role": "제품 소개",
+      "copy": "입체적인 비율 교정을 위한 최적의 5컬러",
+      "share": 5
+     },
+     {
+      "name": "볼류머로 더하기 (1단계)",
+      "role": "사용법",
+      "copy": "비율쉐딩의 핵심 1 볼류머로 더하기 / 모공부각 없이 바르는대로 살아나는 윤곽 볼륨",
+      "share": 12
+     },
+     {
+      "name": "컨투어로 빼기 (2단계)",
+      "role": "사용법",
+      "copy": "비율쉐딩의 핵심 2 컨투어로 빼기 / 회색 컬러를 더해 한층 더 디테일한 윤곽표현",
+      "share": 14
+     },
+     {
+      "name": "디테일 윤곽 적용 예시",
+      "role": "근거",
+      "copy": "(이미지 내 윤곽 가이드 표기, 텍스트 없음)",
+      "share": 5
+     },
+     {
+      "name": "스타일링 무드 연출",
+      "role": "공감 후킹",
+      "copy": "CONTOUR easy / What is your color? warm·cool / Contouring which color looks best on me?",
+      "share": 10
+     },
+     {
+      "name": "발색·블렌딩 설명",
+      "role": "근거",
+      "copy": "진하지도 연하지도 않은 최적의 경도로 벗겨짐 없이 쌓이는 적당한 발색력 / 베러 댄 시리즈의 초 미세입자로 만드는 뭉침없이 균일한 블렌딩",
+      "share": 10
+     },
+     {
+      "name": "컬러 옵션 안내",
+      "role": "제품 소개",
+      "copy": "01 뉴트럴 웜 / 02 그레이 쿨",
+      "share": 4
+     },
+     {
+      "name": "비율 쉐딩 전후 비교",
+      "role": "비포애프터",
+      "copy": "#비율쉐딩01 중안부 비율 줄이기 / 볼류머로 코끝, 콧대 살려서 날렵한 콧대 만들기 / 클래식·미들·디픈 단계별 사용",
+      "share": 14
+     },
+     {
+      "name": "마무리 연출 및 브랜드 무드",
+      "role": "구매 결정",
+      "copy": "move volumer contour downer / shape volumer / better than contour",
+      "share": 12
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": false,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 33
+    },
+    {
+     "hex": "#514137",
+     "pct": 25
+    },
+    {
+     "hex": "#A0968D",
+     "pct": 21
+    },
+    {
+     "hex": "#D2D1D4",
+     "pct": 20
+    },
+    {
+     "hex": "#FFFFFD",
+     "pct": 1
+    }
+   ]
+  },
+  "page_title": "베러 댄 컨투어+브러쉬 2종 SET(실루엣/디테일) (+핑거 퍼프 3P/총알브러쉬 증정) - rom&nd",
+  "height_px": 40000,
+  "link_url": "https://romand.co.kr/product/detail.html?product_no=1348",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "cd90837faa84"
+ },
+ {
+  "id": "bdb813c91f35",
+  "brand": "힌스",
+  "channel": "공식몰",
+  "source_name": "힌스 국내 공식몰",
+  "page_url": "https://hince.co.kr/",
+  "image_src": "https://hince.co.kr/web/upload/appfiles/AIFBrluHGdhkEsW6ewuLoA/7f6a45c1f6b91513cbf605468a30909b.webp",
+  "collected_at": "2026-11-18",
+  "hash": "0b0d0c1c1c151c1d",
+  "image": "images/bdb813c91f35.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "힌스",
+   "product": "립 제품 (스틱형 제품 추정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·라이프스타일컷",
+    "secondary": [
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "모델",
+   "layout": "모델이 화면 오른쪽에 위치하고 스틱 제품을 손에 든 채 바라보며, 왼쪽 넓은 여백에 텍스트 없이 제품과 모델 시선이 교차하는 구도",
+   "tone": [
+    "내추럴",
+    "청순",
+    "소프트 핑크"
+   ],
+   "target": "자연스러운 생기 메이크업과 간편한 립·블러셔 연출을 선호하는 20~30대 여성",
+   "why_it_hooks": "파스텔 핑크 배경과 발그레한 볼 터치가 부드럽게 시선을 끌고, 모델이 제품을 들여다보는 동작이 사용 장면을 자연스럽게 떠올리게 합니다. 글자가 없어 제품 이미지 자체의 분위기로 승부하는 컷입니다.",
+   "palette": [
+    {
+     "hex": "#CEBDCB",
+     "pct": 31
+    },
+    {
+     "hex": "#D1C3D0",
+     "pct": 20
+    },
+    {
+     "hex": "#D4C6D3",
+     "pct": 18
+    },
+    {
+     "hex": "#D5CAD6",
+     "pct": 16
+    },
+    {
+     "hex": "#A07E7A",
+     "pct": 15
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://hince.co.kr/surl/P/776",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "d002b4d7d0fd",
+  "brand": "힌스",
+  "channel": "공식몰",
+  "source_name": "힌스 국내 공식몰",
+  "page_url": "https://hince.co.kr/",
+  "image_src": "https://hince.co.kr/web/upload/appfiles/AIFBrluHGdhkEsW6ewuLoA/3bc8dc205c5002c5636db24b450b30a9.webp",
+  "collected_at": "2026-11-18",
+  "hash": "011cb6b327a7d3f2",
+  "image": "images/d002b4d7d0fd.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "힌스",
+   "product": "스틱 블러셔 (제품 용기 확인 가능, 제품명 식별 불가)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·라이프스타일컷",
+    "secondary": [
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "모델",
+   "layout": "모델이 제품을 들고 얼굴 가까이 비추는 구도로 여백 있는 연분홍 배경 위 인물을 중앙에 배치하고 제품은 왼쪽 상단에 작게 배치",
+   "tone": [
+    "청초함",
+    "핑크 컬러감",
+    "내추럴 글로우"
+   ],
+   "target": "은은한 생기 메이크업과 간편한 볼 컬러 연출을 원하는 20~30대 여성",
+   "why_it_hooks": "발그레하고 촉촉한 볼 컬러가 시선을 먼저 끌고, 파스텔 핑크 배경과 모델이 제품을 직접 보는 동작이 '이렇게 바르면 된다'는 사용 장면을 자연스럽게 전달합니다.",
+   "palette": [
+    {
+     "hex": "#C2978B",
+     "pct": 30
+    },
+    {
+     "hex": "#D7C5D3",
+     "pct": 25
+    },
+    {
+     "hex": "#664644",
+     "pct": 19
+    },
+    {
+     "hex": "#D7CBD7",
+     "pct": 15
+    },
+    {
+     "hex": "#D2B5B4",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://hince.co.kr/surl/P/776",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "f0b7a22c4bf8",
+  "brand": "퓌",
+  "channel": "공식몰",
+  "source_name": "퓌 국내 공식몰",
+  "page_url": "https://fwee.kr/",
+  "image_src": "https://fwee0828.cafe24.com/web/upload/NNEditor/20261117/copy-1794893753-EC9EBDEC9EBDxED938C_EC8990EC9DB4ED82B9EBAFB8EC8AA4ED8AB8_EBB0B0EB8488_1920x1080_ED81B4EBA19CEB939CEC8898ECA0953.png",
+  "collected_at": "2026-11-18",
+  "hash": "0986b898ca880c22",
+  "image": "images/f0b7a22c4bf8.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "퓌",
+   "product": "쉐이킹 미스트 3종 (핑크·옐로우·블루)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "리뷰·랭킹",
+     "사은품",
+     "모델·셀럽"
+    ]
+   },
+   "copy": {
+    "main": "최대 45% 할인",
+    "sub": "잡잡 X 퓌 쉐이킹 미스트 마켓 OPEN! / 11/18 11:00~11/22 23:59, 단 5일간! / 퓌 최초 콜라보 · 화잘먹 치트키 쉐이킹 미스트 3종 역대 최저가 / 1개만 사도 무료배송 + 구매 고객 전원 사은품 증정",
+    "cta": "쉐이킹 미스트 마켓 OPEN!"
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "좌측에 할인 문구와 기간 배지를 배치하고, 가운데 모델 사진과 우측 제품 3종을 나란히 배치했으며, 최대 45% 할인을 가장 큰 글자로 강조함",
+   "tone": [
+    "발랄함",
+    "핑크 파스텔",
+    "세일 긴박감"
+   ],
+   "target": "쉐이킹 미스트 등 가볍게 수분 케어하는 제품을 찾는 20~30대 여성 소비자",
+   "why_it_hooks": "진한 핑크 배경과 굵은 '최대 45% 할인' 숫자가 한눈에 들어오고, 5일 한정 기간과 '역대 최저가'라는 문구가 구매를 서두르게 만듭니다. 모델 사진과 제품 3종이 함께 있어 신뢰감과 제품 인지도도 동시에 줍니다.",
+   "palette": [
+    {
+     "hex": "#FBB8D2",
+     "pct": 38
+    },
+    {
+     "hex": "#FFEBF3",
+     "pct": 22
+    },
+    {
+     "hex": "#FFD5E5",
+     "pct": 20
+    },
+    {
+     "hex": "#D887A5",
+     "pct": 15
+    },
+    {
+     "hex": "#F0D5DE",
+     "pct": 4
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://fwee.kr/product/list.html?cate_no=106",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "5560b8869e74",
+  "brand": "퓌",
+  "channel": "공식몰",
+  "source_name": "퓌 국내 공식몰",
+  "page_url": "https://fwee.kr/",
+  "image_src": "https://fwee0828.cafe24.com/web/upload/NNEditor/20261117/EC8DB8EB84A4EC9DBC.png",
+  "collected_at": "2026-11-18",
+  "hash": "a28e7272b06468b0",
+  "image": "images/5560b8869e74.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "퓌",
+   "product": "퓌 화잘먹 미스트 (기름종이 미스트, 속광부스터, 쿨링프랩 등 미스트 라인)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "모델·셀럽",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "화잘먹 미스트 마켓 OPEN",
+    "sub": "미스트 개당 1만원대",
+    "cta": "단 5일! 잡잡 X 퓌"
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 한정 기간과 메인 카피를 배치하고, 중앙 원형 배경에 모델이 미스트 3종을 들고 있는 컷을 놓으며, 좌우 제품 이미지에 기능 태그(#기름종이 미스트, #속광부스터, #쿨링프랩)를 말풍선으로 붙였다.",
+   "tone": [
+    "발랄함",
+    "파스텔 핑크",
+    "캐주얼"
+   ],
+   "target": "메이크업 픽싱과 피부 광채·유분 관리에 관심 있는 20대 중심의 미스트 구매 고객",
+   "why_it_hooks": "개당 1만원대라는 낮은 가격과 '단 5일'이라는 기간 한정 문구가 즉각적인 구매 욕구를 자극합니다. 또 모델이 제품을 직접 들고 있는 컷과 파스텔 톤의 원형 배경이 시선을 중앙으로 모아 제품 3종을 한눈에 인지시킵니다.",
+   "palette": [
+    {
+     "hex": "#E1B1C0",
+     "pct": 33
+    },
+    {
+     "hex": "#F4D6DF",
+     "pct": 25
+    },
+    {
+     "hex": "#AF607A",
+     "pct": 16
+    },
+    {
+     "hex": "#F6EDEE",
+     "pct": 16
+    },
+    {
+     "hex": "#E4D4D9",
+     "pct": 10
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://fwee.kr/product/list.html?cate_no=106",
+  "slot": "팝업",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "dde36420c6eb",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 국내 공식몰",
+  "page_url": "https://themedicube.co.kr/product/detail.html?product_no=2972&cate_no=471&display_group=1",
+  "image_src": "https://themedicube.co.kr/product/detail.html?product_no=2972&cate_no=471&display_group=1",
+  "collected_at": "2026-11-18",
+  "hash": "1ec445e28ebef2a8",
+  "image": "images/dde36420c6eb.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "에이지알 부스터 글로우 헬로키티 에디션 (물방울 초음파 디바이스)",
+   "product_type": "디바이스",
+   "hooks": {
+    "primary": "한정·마감",
+    "secondary": [
+     "모델·셀럽",
+     "리뷰·랭킹",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "역대급 비주얼! 부스터글로우 헬로키티 핑크 에디션",
+    "sub": "하루 12분, 헬로키티와 함께 물방울 초음파 효과를 느껴보세요",
+    "cta": "1등 브랜드가 만들었습니다 / 매일 평생 관리 1회 약 300원"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 헬로키티 로고와 제품 클로즈업을 배치하고, 중단에 모델과 제품을 함께 노출한 뒤, 하단으로 갈수록 기능 설명과 텍스트 근거를 쌓아 올라가는 세로 긴 구조.",
+   "tone": [
+    "키치·귀여움",
+    "데님 감성 트렌디",
+    "프리미엄 테크"
+   ],
+   "target": "헬로키티 등 콜라보 굿즈에 관심 있고, 홈케어 뷰티 디바이스로 피부 탄력·물광 관리를 원하는 2030 여성",
+   "why_it_hooks": "핑크 바탕에 헬로키티 캐릭터와 데님 질감이 어우러진 콜라보 비주얼이 한눈에 들어오고, '한정(Limited)' 문구가 희소성을 더합니다. 모델이 제품을 안고 있는 컷이 라이프스타일 감성을 함께 전달합니다.</hooks>\n<parameter name=\"pdp\">{\"first_screen_hook\": \"핑크 제품 클로즈업 위에 헬로키티 로고와 '역대급 비주얼' 카피를 얹어, 캐릭터 콜라보 한정판이라는 점을 첫 화면에서 바로 드러냅니다.\", \"sections\": [{\"name\": \"첫 화면 콜라보 후킹\", \"role\": \"공감 후킹\", \"copy\": \"역대급 비주얼! 부스터글로우 헬로키티 핑크 에디션\", \"share\": 8}, {\"name\": \"콜라보 무드 + 모델컷\", \"role\": \"감성 연결\", \"copy\": \"Booster Glow / Hello Kitty, Limited\", \"share\": 14}, {\"name\": \"모드 소개\", \"role\": \"해결책 제시\", \"copy\": \"하루 12분, 헬로키티와 함께 물방울 초음파 효과를 느껴보세요 (부스트·포커스·글로우·카밍 모드)\", \"share\": 14}, {\"name\": \"1등 브랜드 신뢰 + 모델\", \"role\": \"사회적 증거\", \"copy\": \"진짜 1등 브랜드의 물방울 초음파 디바이스 / 2026 대한민국 대표 브랜드 가정용피부관리기 부문 대상 수상\", \"share\": 10}, {\"name\": \"효과 강조\", \"role\": \"근거\", \"copy\": \"압도적인 12분 효과. 1등 브랜드가 만들면 물방울 초음파 효과도 다릅니다\", \"share\": 8}, {\"name\": \"사용자 후기 비포애프터\", \"role\": \"사회적 증거\", \"copy\": \"40대 건성 윤 후기 (4주간 캡슐크림과 함께 사용, 개인차 있음)\", \"share\": 12}, {\"name\": \"기술 신뢰 (직접 설계)\", \"role\": \"근거\", \"copy\": \"위탁 생산인지 직접 설계 기술인지 반드시 확인하세요\", \"share\": 6}, {\"name\": \"차별화 7가지 스펙\", \"role\": \"근거\", \"copy\": \"자체개발, 3중 주파수, 5 Mode, 5 Level, Water drop head 등\", \"share\": 10}, {\"name\": \"가격 비교\", \"role\": \"구매 결정\", \"copy\": \"1회 300원 대로 평생 관리하세요 (전문 에스테틱 1회 약 20만 원 대비)\", \"share\": 8}, {\"name\": \"3중 주파수 기술 설명\", \"role\": \"근거\", \"copy\": \"1·3·10 MHz. 3가지 교차 초음파로 콜라겐, 히알루론산, 엘라스틴이 차오르도록\", \"share\": 8}], \"proofs\": {\"임상 시험\": false, \"성분 설명\": true, \"비포애프터\": true, \"리뷰 캡처\": true, \"수상·랭킹\": true, \"전문가 추천\": false, \"인증 마크\": false, \"모델·셀럽\": true}}}",
+   "palette": [
+    {
+     "hex": "#EACBDA",
+     "pct": 31
+    },
+    {
+     "hex": "#B1A8C5",
+     "pct": 25
+    },
+    {
+     "hex": "#FEF8FA",
+     "pct": 21
+    },
+    {
+     "hex": "#9F7894",
+     "pct": 15
+    },
+    {
+     "hex": "#F9F0F6",
+     "pct": 7
+    }
+   ]
+  },
+  "page_title": "[에이지알] 부스터 글로우 헬로키티 에디션 - medicube",
+  "height_px": 40000,
+  "link_url": "https://themedicube.co.kr/product/detail.html?product_no=2972&cate_no=471&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "025f1124f9d8",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 국내 공식몰",
+  "page_url": "https://themedicube.co.kr/product/detail.html?product_no=1815&cate_no=471&display_group=1",
+  "image_src": "https://themedicube.co.kr/product/detail.html?product_no=1815&cate_no=471&display_group=1",
+  "collected_at": "2026-11-18",
+  "hash": "65cc36371716e8f0",
+  "image": "images/025f1124f9d8.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "메디큐브 엑소좀 시카 요철 진정패드 (제로 모공 패드·PDRN 제품 등 함께 프로모션)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품",
+     "임상·인증",
+     "비포애프터"
+    ]
+   },
+   "copy": {
+    "main": "한정판 한교동 에디션 구매 시 헤어핀 2p 증정",
+    "sub": "1년에 단 한번! 블랙프라이데이 -11.27, 스킨케어 ~76% 10% 쿠폰까지",
+    "cta": "회원특가 / 블프 혜택가 확인"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 배너 구간에서 할인율(~76%, 50%)과 사은품 문구를 크게 배치하고, 상세 본문은 한정 에디션 제품컷 → 할인 특가 카드 → 제품 시연·임상 그래프 순으로 세로 나열",
+   "tone": [
+    "캐주얼 키치",
+    "임상 신뢰감",
+    "블랙프라이데이 긴박감"
+   ],
+   "target": "메디큐브 제품을 처음 접하거나 트러블 후 피부결·요철 진정 케어를 찾는 20~30대 여성 소비자",
+   "why_it_hooks": "상단 배너에서 최대 76%·50% 할인과 한정 캐릭터 에디션 사은품을 동시에 보여줘 가격 혜택과 희소성을 한 번에 전달합니다. 상세 본문에서는 열화상·수치 임상 그래프가 '30초 만에 -7.9℃'처럼 구체적 효능을 증명해 클릭 후 체류를 유도합니다.",
+   "pdp": {
+    "first_screen_hook": "파란 배경 위 '한정판 한교동 에디션 구매 시 헤어핀 2p 증정' 헤드라인과 캐릭터 패키지 제품컷으로 한정성과 사은품을 동시에 제시",
+    "sections": [
+     {
+      "name": "상단 블프 배너 구간",
+      "role": "행사 안내·할인 훅",
+      "copy": "인기 에이지알 ~50% 빅 세일 / ~76% 블랙프라이데이 / 설윤 시크릿 루틴 기념 위크 / 부스터프로X2 보상판매 10만원 or 5만원 즉시 할인",
+      "share": 8
+     },
+     {
+      "name": "한교동 에디션 헤드라인",
+      "role": "한정 오퍼 제시",
+      "copy": "메디큐브 공식몰 단독 에디션 / 한정판 한교동 에디션 구매 시 헤어핀 2p 증정",
+      "share": 5
+     },
+     {
+      "name": "한교동 PDRN 젤패드 특가 카드",
+      "role": "가격 앵커·즉시 구매 유도",
+      "copy": "PDRN 콜라겐 겔 패드 한교동 에디션 / 증정 한교동 헤어핀 2개 / 비회원가 26,600원 → 회원특가 17,500원",
+      "share": 8
+     },
+     {
+      "name": "한교동 PVC 파우치 추가 증정",
+      "role": "추가 구매 동기",
+      "copy": "한교동 에디션으로 3만원 이상 구매 시 한교동 PVC 파우치 증정",
+      "share": 4
+     },
+     {
+      "name": "한교동 에디션 연출컷",
+      "role": "무드·감성 연출",
+      "copy": "제품 패키지 3종을 모래사장에 배치한 여름 감성 연출컷 (이미지 중심, 텍스트 없음)",
+      "share": 6
+     },
+     {
+      "name": "제품 용기 리뉴얼·유통기한 안내",
+      "role": "신뢰 확보·고지",
+      "copy": "유통기한 안내(딥 비타C 앰플 2.0 사은품 2026.11.14) / 제품 용기 리뉴얼 안내 (전성분·용량 동일)",
+      "share": 7
+     },
+     {
+      "name": "제로 모공 패드 특가",
+      "role": "구성 옵션·가격 비교",
+      "copy": "공식몰 단독 특가 제로모공패드 추가 할인&증정 / 70매+10매 80매 구성특가 17,500원 / 140매+20매 구성 / 약국 입점·클리닉 입점 인증 뱃지",
+      "share": 10
+     },
+     {
+      "name": "블프 혜택 카드 (글루타치온·PDRN 부스터젤 1+1)",
+      "role": "할인 훅 강화",
+      "copy": "50% 1+1 / 글루타치온 앰플 1+1 기존 39,800원 → 블프 혜택가 19,900원 / PDRN 부스터 젤 1+1 30,000원 → 15,000원",
+      "share": 6
+     },
+     {
+      "name": "디바이스 에디션 카드군",
+      "role": "고관여 상품 업셀",
+      "copy": "부스터 진동클렌저 한교동 에디션 148,000원 → 최종 140,000원 / 부스터 글로우 헬로키티 에디션 241,000원 / VVIP 클리닉6종 187,300원 / 입문 3종 181,300원 / 여배우 PICK 3종 / 에스테틱 2종 508,800원 / 브이롤러 265,000원 / 부스터프로X2 318,000원 (기간·타임특가 쿠폰·단 한달 문구)",
+      "share": 22
+     },
+     {
+      "name": "엑소좀 시카 패드 본품 구성",
+      "role": "제품 소개 전환",
+      "copy": "엑소좀 시카 카밍 패드 본품 100매 + 리필기획 100매 구성 / 유통기한 2027-04-28",
+      "share": 2
+     },
+     {
+      "name": "쿨링 패드 효능 시연",
+      "role": "효능 근거 제시",
+      "copy": "엑소좀 쿨링 패드로 스킨부스팅 효과 / 단 30초 만에 열감 쿨링·수분·화장품 결재어 / 열화상 사용 전후 비교 -7.9℃ 감소",
+      "share": 6
+     },
+     {
+      "name": "진정 속도 임상 근거",
+      "role": "임상 수치 증명",
+      "copy": "자극 받은 붉은기 4.3배속 급속진정 / 달아오른 피부 열감 36.94→28.97 7.9℃ 감소, 물리적 자극 손상 피부 장벽 62.0% 감소, 열 자극 붉은기 7.8% 감소, 클렌징 물리적 자극 11.0% 감소 (인체적용시험 보고서 발췌)",
+      "share": 8
+     },
+     {
+      "name": "제품 재소개 및 구매 유도",
+      "role": "제품 정체성·행동 유도",
+      "copy": "더 강력하게 돌아온 메디큐브 요철 진정 패드 / Medicube Exosome Cica Calming Pad",
+      "share": 4
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#62A7E5",
+     "pct": 27
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 21
+    },
+    {
+     "hex": "#803C47",
+     "pct": 21
+    },
+    {
+     "hex": "#D2D7E1",
+     "pct": 17
+    },
+    {
+     "hex": "#FCF1F3",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "[메디큐브 엑소좀 시카 요철 진정패드] 트러블 후 요철 고민을 위한 진정 케어 패드",
+  "height_px": 40000,
+  "link_url": "https://themedicube.co.kr/product/detail.html?product_no=1815&cate_no=471&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "c6bc5291a6ef",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 국내 공식몰",
+  "page_url": "https://themedicube.co.kr/product/detail.html?product_no=2999&cate_no=471&display_group=1",
+  "image_src": "https://themedicube.co.kr/product/detail.html?product_no=2999&cate_no=471&display_group=1",
+  "collected_at": "2026-11-18",
+  "hash": "65cc36371716d8cc",
+  "image": "images/c6bc5291a6ef.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "PDRN 핑크 콜라겐 크림 마스크 (한교동 에디션 및 블랙프라이데이 기획전 포함)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품",
+     "신제품",
+     "인증·임상"
+    ]
+   },
+   "copy": {
+    "main": "한정판 한교동 에디션 구매 시 헤어핀 2p 증정",
+    "sub": "흐르지 않고 묻어나지 않는 고밀착 특수 코팅 원단 / 붙이는 PDRN 캡슐 크림 떼자마자 느껴지는 환한 광채",
+    "cta": "회원특가 / 블프 혜택가 / 최종 혜택가"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단 기획전 배너 4종을 쌓아 할인율과 혜택을 먼저 노출하고, 이어서 한교동 에디션 제품컷과 가격 박스를 중앙에 배치한 뒤, 하단으로 갈수록 기획 세트별 가격 카드를 반복 배열하는 세로 스크롤 구조.",
+   "tone": [
+    "키치·귀여움(한교동 콜라보)",
+    "블랙프라이데이 긴박감",
+    "클린·신뢰(의료기기/약국 인증 톤)"
+   ],
+   "target": "캐릭터 콜라보 제품과 할인 혜택에 반응하는 20~30대 여성 스킨케어·디바이스 구매자",
+   "why_it_hooks": "상단 빨간 배너의 '~76%', '50%' 대형 숫자와 '블프', '단 한달' 같은 기간 한정 문구가 즉시 긴박감을 만들고, 산리오 한교동 캐릭터 색감이 파스텔 핑크·블루와 대비되어 시선을 끕니다.",
+   "pdp": {
+    "first_screen_hook": "한정판 한교동 에디션 구매 시 헤어핀 2p 증정이라는 대형 헤드라인과 캐릭터 제품컷으로 사은품·한정 혜택을 먼저 제시합니다.",
+    "sections": [
+     {
+      "name": "상단 기획전 배너",
+      "role": "행동 유도(혜택 노출)",
+      "copy": "인기 에이지알 ~50% 빅 세일 / 블랙프라이데이 ~76% / 설윤's 시크릿 루틴 기념 위크 / 부스터프로X2 보상판매 10만원 or 5만원 즉시 할인",
+      "share": 8
+     },
+     {
+      "name": "한교동 에디션 헤드라인",
+      "role": "공감 후킹",
+      "copy": "메디큐브 공식몰 단독 에디션 / 한정판 한교동 에디션 구매 시 헤어핀 2p 증정",
+      "share": 4
+     },
+     {
+      "name": "한교동 PDRN 젤패드 구매 카드",
+      "role": "구매 결정",
+      "copy": "PDRN 콜라겐 겔 패드 / 비회원가 26,600원 → 회원특가 17,500원 / 헤어핀 2개 증정",
+      "share": 6
+     },
+     {
+      "name": "한교동 PVC 파우치 사은품",
+      "role": "사은품 유인",
+      "copy": "한교동 에디션으로 3만원 이상 구매 시 한교동 PVC 파우치 증정",
+      "share": 3
+     },
+     {
+      "name": "한교동 제품 연출컷·유통기한 안내",
+      "role": "근거(제품 신뢰)",
+      "copy": "사은품 딥 비타C 앰플 2.0 유통기한 2026.11.14 안내 / 용기 리뉴얼 안내",
+      "share": 8
+     },
+     {
+      "name": "PDRN 수분크림 및 공식몰 특가",
+      "role": "가격 비교",
+      "copy": "PDRN 수분크림 50ml 18,500원 / 100ml 19,900원 (회원가)",
+      "share": 4
+     },
+     {
+      "name": "제로모공패드 세트 구성",
+      "role": "구매 결정(세트 할인)",
+      "copy": "70매+10매 80매 구성특가 17,500원 / 140매+20매 구성 / 약국 입점·클리닉 입점 인증",
+      "share": 8
+     },
+     {
+      "name": "블프 기획 제품 카드 그리드",
+      "role": "구매 결정(할인 반복)",
+      "copy": "글루타치온 앰플 1+1 19,900원(50%) / PDRN 부스터 젤 1+1 15,000원(50%) / 부스터 진동클렌저 한교동 에디션 140,000원 등 다수 세트",
+      "share": 22
+     },
+     {
+      "name": "기획 세트 가격 카드 반복",
+      "role": "가격 앵커링",
+      "copy": "VVIP 클리닉 6종 최종 혜택가 187,300원 / 입문 3종 181,300원 / 에스테틱 2종 508,800원 / 브이롤러 265,000원 / 부스터프로X2 318,000원",
+      "share": 14
+     },
+     {
+      "name": "PDRN 캡슐 크림 마스크 기술 설명",
+      "role": "근거(성분·기술)",
+      "copy": "흐르지 않고 묻어나지 않는 고밀착 특수 코팅 원단 / 붙이는 PDRN 캡슐 크림 / 초기 샘플 PDRN vs 크림 마스크 리포좀 PDRN 비교 이미지",
+      "share": 6
+     },
+     {
+      "name": "마스크 제품 소개 및 성분 표기",
+      "role": "성분 설명",
+      "copy": "PDRN Pink Collagen Cream Mask / PDRN(Sodium DNA), 나이아신아마이드 5%, 카페인 / 피디알엔 핑크 콜라겐 캡슐 크림의 핵심성분을 담은 투명 빛나는 크림 코팅 마스크",
+      "share": 5
+     },
+     {
+      "name": "카테고리별 제품 라인업",
+      "role": "확장 탐색",
+      "copy": "모공·블랙헤드: 제로모공패드 2.0 / 미백·광채: PDRN 겔토너 패드 / 기미·잡티: 딥 비타C 토너패드 / 비타·토닝: 터메릭 비타 토너패드 / 트러블 케어 / 요철·진정",
+      "share": 6
+     }
+    ]
+   },
+   "proofs": {
+    "임상 시험": false,
+    "성분 설명": true,
+    "비포애프터": false,
+    "리뷰 캡처": false,
+    "수상·랭킹": false,
+    "전문가 추천": false,
+    "인증 마크": true,
+    "모델·셀럽": false
+   },
+   "palette": [
+    {
+     "hex": "#62A7E5",
+     "pct": 27
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 21
+    },
+    {
+     "hex": "#803C47",
+     "pct": 21
+    },
+    {
+     "hex": "#D2D7E1",
+     "pct": 17
+    },
+    {
+     "hex": "#FCF1F3",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "PDRN 핑크 콜라겐 크림 마스크 - medicube",
+  "height_px": 40000,
+  "link_url": "https://themedicube.co.kr/product/detail.html?product_no=2999&cate_no=471&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "fbe3871a2e3b",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 국내 공식몰",
+  "page_url": "https://themedicube.co.kr/product/detail.html?product_no=2620&cate_no=471&display_group=1",
+  "image_src": "https://themedicube.co.kr/product/detail.html?product_no=2620&cate_no=471&display_group=1",
+  "collected_at": "2026-11-18",
+  "hash": "65cc963733169ecc",
+  "image": "images/fbe3871a2e3b.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "메디큐브 에이지알 입문케어 3종 세트 (클렌징부터 탄력까지 토탈 홈케어)",
+   "product_type": "디바이스",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "사은품",
+     "한정·마감",
+     "인증·임상",
+     "리뷰·랭킹",
+     "모델·셀럽",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "인기 에이지알 ~50% 빅 세일",
+    "sub": "1+1 혜택부터 블프 한정 타임 특가까지",
+    "cta": "더보기 (>)"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "상단 배너 4종이 할인율 숫자와 기기 제품컷을 좌우로 배치하고, 아래 상세 본문은 한정판 에디션별 카드(제품컷·사은품·최종 혜택가)를 세로로 나열하는 구조",
+   "tone": [
+    "블랙프라이데이 특가",
+    "캐릭터 감성(산리오 콜라보)",
+    "클린 프로페셔널"
+   ],
+   "target": "홈케어 디바이스와 스킨케어에 관심 있는 20~40대 여성으로, 할인과 한정 한교동 에디션 사은품에 반응하는 소비자",
+   "why_it_hooks": "빨간 블랙프라이데이 배경과 '~50%', '~76%' 같은 큰 할인 숫자가 즉시 눈에 들어오고, 산리오 캐릭터 한정판과 사은품이 구매 욕구를 자극합니다.",
+   "pdp": {
+    "first_screen_hook": "메디큐브 공식몰 단독 한교동 에디션 헤드라인과 '헤어핀 2p 증정' 문구, 파스텔 핑크 제품 컷이 상단 할인 배너 다음에 바로 이어져 한정 혜택을 강조합니다.",
+    "sections": [
+     {
+      "name": "상단 프로모션 배너",
+      "role": "공감 후킹",
+      "copy": "인기 에이지알 ~50% 빅 세일 / ~76% 블랙프라이데이 / 설윤's 시크릿 루틴 기념 위크 / 부스터프로 X2 보상판매 10만원 or 5만원 즉시 할인",
+      "share": 8
+     },
+     {
+      "name": "한교동 에디션 단독 혜택",
+      "role": "행동 유도",
+      "copy": "한정판 한교동 에디션 구매 시 헤어핀 2p 증정 / PDRN 콜라겐 겔패드 비회원가 26,600원 → 회원특가 17,500원",
+      "share": 10
+     },
+     {
+      "name": "제품 사진 및 캐릭터 무드",
+      "role": "공감 후킹",
+      "copy": "모래사장 위 한교동 패키지 라인업 (PDRN 겔패드, 미스트 세럼, 쿠션 등)",
+      "share": 6
+     },
+     {
+      "name": "유통기한·리뉴얼 안내",
+      "role": "근거",
+      "copy": "사은품 딥 비타C 앰플 2.0 유통기한 2026.11.14 / 레드 석시닉 애드 세럼 용기 리뉴얼 안내",
+      "share": 5
+     },
+     {
+      "name": "제로모공패드 추가 할인·증정",
+      "role": "구매 결정",
+      "copy": "70매+10매 구성 17,500원 / 140매+20매 구성 제로 모공 패드 2개 증정, 약국 입점·클리닉 입점 배지",
+      "share": 10
+     },
+     {
+      "name": "기기 블프 특가 리스트",
+      "role": "구매 결정",
+      "copy": "글루타치온 앰플 1+1 50% 19,900원 / PDRN 부스터 젤 1+1 15,000원 / 부스터 진동클렌저 한교동 에디션 최종 140,000원 / 부스터 글로우 헬로키티 에디션 최종 241,000원 / VVIP 클리닉 6종 최종 187,300원 등 세트별 혜택가",
+      "share": 30
+     },
+     {
+      "name": "세트별 최종 혜택가 카드",
+      "role": "구매 결정",
+      "copy": "입문 3종 케어기기 세트 최종 181,300원 (주말 한정 특가 -10,000원) / 여배우 PICK 3종 세트 763,000원 / 클리닉 속광 탄력 2종 457,800원 / 부스터글로우 물방울 초음파 215,000원 / 하이포커스샷 플러스",
+      "share": 15
+     },
+     {
+      "name": "정품 인증 및 구매 안내",
+      "role": "인증·신뢰",
+      "copy": "메디큐브 공식 판매처입니다 안심하고 구매하세요 (정품 온라인 공식 판매처 배지) / 분사 노즐 세척 안내",
+      "share": 4
+     },
+     {
+      "name": "카테고리별 제품 가이드",
+      "role": "근거",
+      "copy": "모공&블랙헤드 제로모공패드 2.0 / 미백&광채 PDRN 겔토너 패드 / 기미&잡티 딥 비타C 토너패드 / 비타&토닝 터메릭 비타 토너패드 / 트러블 케어 레드 석시닉 토너패드 / 요철&진정 엑소좀 시카 토너패드 / 원데이 펩타이드 세럼 / PDRN 핑크앰플 / 딥 비타C 앰플 / 히알루론산 앰플 / 트라넥삼산 세럼 / 트리플 콜라겐 세럼 4.0",
+      "share": 9
+     },
+     {
+      "name": "무단 도용 경고",
+      "role": "행동 유도",
+      "copy": "상세페이지를 무단 도용하는 것은 명백한 불법이며 범죄행위입니다.",
+      "share": 1
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#62A7E5",
+     "pct": 27
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 21
+    },
+    {
+     "hex": "#803C47",
+     "pct": 21
+    },
+    {
+     "hex": "#D2D7E1",
+     "pct": 17
+    },
+    {
+     "hex": "#FCF1F3",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "[메디큐브 에이지알 입문케어 3종 세트] 클렌징부터 탄력까지 토탈 홈케어 3종 세트",
+  "height_px": 37185,
+  "link_url": "https://themedicube.co.kr/product/detail.html?product_no=2620&cate_no=471&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "99e420158e91",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 국내 공식몰",
+  "page_url": "https://themedicube.co.kr/product/detail.html?product_no=2977&cate_no=471&display_group=1",
+  "image_src": "https://themedicube.co.kr/product/detail.html?product_no=2977&cate_no=471&display_group=1",
+  "collected_at": "2026-11-18",
+  "hash": "65cc363717165dd9",
+  "image": "images/99e420158e91.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "딥 비타C 기미 캡슐 크림 스페셜 세트 (한교동 에디션 및 블프 혜택 포함)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "사은품",
+     "한정·마감",
+     "성분·효능",
+     "임상·인증"
+    ]
+   },
+   "copy": {
+    "main": "한정판 한교동 에디션 구매 시 헤어핀 2p 증정",
+    "sub": "이미 생긴 뿌리 깊은 10년 기미부터 숨은 기미까지 완벽 케어",
+    "cta": "블프 행사가 · 최종 혜택가 확인"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단 블프 배너 4종 후 한교동 에디션 혜택 카드, 이어서 블랙·레드 톤 가격·사은품 카드를 세로로 나열하고, 하단에서 딥 비타C 캡슐 크림의 성분 설명과 임상 수치로 전환되는 구조. 가격과 할인 숫자를 가장 크게 배치.",
+   "tone": [
+    "프로모션 긴박감",
+    "귀여운 콜라보 무드",
+    "클리니컬 신뢰감"
+   ],
+   "target": "기미·잡티 고민이 있고 할인·사은품에 민감한 20~40대 여성 소비자",
+   "why_it_hooks": "빨간 블랙프라이데이 톤과 큰 할인율(50%, 최종 혜택가 숫자)이 한 화면에 몰려 있어 가격 비교 욕구를 즉시 자극합니다. 한교동 콜라보 캐릭터 사은품이 수집 욕구까지 건드립니다.",
+   "pdp": "{\"first_screen_hook\": \"'한정판 한교동 에디션 구매 시 헤어핀 2p 증정'이라는 큰 제목과 PDRN 젤패드의 비회원가 대비 회원특가(26,600원→17,500원) 숫자가 첫 화면에서 혜택을 즉시 보여줍니다.\", \"sections\": [{\"name\": \"블프 프로모션 배너\", \"role\": \"구매 긴박감 조성\", \"copy\": \"1년에 단 한번! 블랙프라이데이 ~76%, 1+1 혜택, 부스터 프로X2 보상판매\", \"share\": 8}, {\"name\": \"한교동 에디션 헤드라인 및 대표 상품\", \"role\": \"공감 후킹·한정성 제시\", \"copy\": \"메디큐브 공식몰 단독 에디션, 한정판 한교동 에디션 구매 시 헤어핀 2p 증정\", \"share\": 7}, {\"name\": \"제품 가격 카드\", \"role\": \"가격 혜택 제시\", \"copy\": \"PDRN 콜라겐 겔 패드 비회원가 26,600원 → 회원특가 17,500원, 한교동 PVC 파우치 증정\", \"share\": 6}, {\"name\": \"라이프스타일 무드컷\", \"role\": \"브랜드 감성 전달\", \"copy\": \"한교동 에디션 패키지 비주얼 (해변 연출)\", \"share\": 6}, {\"name\": \"유통기한·리뉴얼 고지\", \"role\": \"신뢰·안내\", \"copy\": \"사은품 딥 비타C 앰플 2.0 유통기한 2026.11.14, 제품 용기 리뉴얼 안내\", \"share\": 4}, {\"name\": \"공식몰 단독 특가 (제로 모공 패드)\", \"role\": \"추가 할인·구매 유도\", \"copy\": \"제로 모공 패드 70매+10매, 140매+20매 구성, 약국 입점·클리닉 입점 배지\", \"share\": 10}, {\"name\": \"탄력 부스터 젤 1+1 등 기획전\", \"role\": \"추가 상품 크로스셀\", \"copy\": \"글루타치온 앰플 1+1 19,900원, PDRN 부스터 젤 1+1 15,000원 (50% 표기)\", \"share\": 8}, {\"name\": \"디바이스 에디션 라인업\", \"role\": \"고가 제품 구매 유도\", \"copy\": \"부스터 진동클렌저 한교동 에디션 최종 혜택가 140,000원, 헬로키티 에디션 241,000원, VVIP 클리닉 6종 187,300원 등 6종 이상\", \"share\": 22}, {\"name\": \"딥 비타C 캡슐 크림 소개\", \"role\": \"제품 전환·문제 제기\", \"copy\": \"Vitamin C, 왜 비타민C 캡슐인가요? 캡슐 한 알에 집약한 비타민C\", \"share\": 8}, {\"name\": \"임상 수치 근거\", \"role\": \"효능 근거 제시\", \"copy\": \"이미 생긴 뿌리 깊은 10년 기미부터 숨은 기미까지 완벽 케어. 기미·잡티 면적 20.1%, 올라오기 전 기미 18.2% 개선 (4주 기준, 인체적용시험)\", \"share\": 7}, {\"name\": \"성분 설명\", \"role\": \"성분 신뢰 형성\", \"copy\": \"고농축 비타민이 풍부한 비타민워터 500,000PPM, 비타민나무수와 함께\", \"share\": 8}], \"proofs\": {\"임상 시험\": true, \"성분 설명\": true, \"비포애프터\": false, \"리뷰 캡처\": false, \"수상·랭킹\": false, \"전문가 추천\": false, \"인증 마크\": true, \"모델·셀럽\": false}}}",
+   "palette": [
+    {
+     "hex": "#62A7E5",
+     "pct": 27
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 21
+    },
+    {
+     "hex": "#803C47",
+     "pct": 21
+    },
+    {
+     "hex": "#D2D7E1",
+     "pct": 17
+    },
+    {
+     "hex": "#FCF1F3",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "딥 비타C 기미 캡슐 크림 스페셜 세트 - medicube",
+  "height_px": 40000,
+  "link_url": "https://themedicube.co.kr/product/detail.html?product_no=2977&cate_no=471&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "e4809a2f1fcd",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 미국 공식몰",
+  "page_url": "https://medicube.us/products/zero-pore-one-day-cream",
+  "image_src": "https://medicube.us/products/zero-pore-one-day-cream",
+  "collected_at": "2026-11-18",
+  "hash": "b4949e9c979db2b6",
+  "image": "images/e4809a2f1fcd.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "메디큐브 1DAY 제로 포어 원데이 크림 (Zero Pore One Day Cream)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모공 감소 임상 수치(55.1%)",
+    "secondary": [
+     "성분·효능 (판테놀 5% + BHA 0.1%)",
+     "비포애프터 현미경 이미지",
+     "원데이 간편 루틴"
+    ]
+   },
+   "copy": {
+    "main": "Zero Pore One-Day Cream",
+    "sub": "Helps reduce the appearances of pores / Balances sebum and moisturizes",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 제품 클로즈업과 텍스처를 크게 배치하고, 중단에 성분별 설명을 세로로 나열한 뒤, 하단에 비포애프터 현미경 이미지와 55.1% 수치를 최대 크기로 강조하는 구조",
+   "tone": [
+    "클리니컬",
+    "깔끔·모던",
+    "신뢰감"
+   ],
+   "target": "모공 고민과 번들거림이 있는 지성·복합성 피부를 가진 20~30대 소비자",
+   "why_it_hooks": "짙은 네이비 용기와 파란 크림 텍스처가 시각적으로 선명하게 대비되며, '55.1%'라는 구체적 수치와 현미경 비포애프터가 모공 고민을 가진 사람의 시선을 바로 붙잡습니다.",
+   "pdp": {
+    "first_screen_hook": "짙은 네이비 제품 용기 위로 흘러내리는 파란 크림 텍스처가 화면을 채워 제품과 제형을 한눈에 보여줍니다.",
+    "sections": [
+     {
+      "name": "제품 히어로 컷",
+      "role": "제품 첫인상 각인",
+      "copy": "medicube 1 DAY ZERO PORE ONE DAY CREAM / PANTHENOL 5% + BHA 0.1%",
+      "share": 15
+     },
+     {
+      "name": "제품 디테일·제형 컷",
+      "role": "제형 및 사용감 시각화",
+      "copy": "Zero Pore One-Day Cream / Helps reduce the appearances of pores / Balances sebum and moisturizes",
+      "share": 15
+     },
+     {
+      "name": "성분 설명",
+      "role": "해결책 제시(성분 근거)",
+      "copy": "Panthenol - Strengthens moisture barrier / Salicylic Acid - Reduces excess sebum and blackheads / Niacinamide - Enhances radiance and firms",
+      "share": 15
+     },
+     {
+      "name": "임상 비포애프터",
+      "role": "핵심 근거 제시",
+      "copy": "Before / After / 55.1% decrease of the appearances of pores *In a clinical study of subjects with different skin types, after 2 weeks of use. Results may vary depending on individual. This test was administered at our own lab.",
+      "share": 40
+     },
+     {
+      "name": "면책 문구",
+      "role": "신뢰 보완",
+      "copy": "Results may vary depending on individual. This test was administered at our own lab.",
+      "share": 15
+     }
+    ]
+   },
+   "palette": [
+    {
+     "hex": "#E1E2E3",
+     "pct": 35
+    },
+    {
+     "hex": "#303B59",
+     "pct": 25
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 15
+    },
+    {
+     "hex": "#B7BFCA",
+     "pct": 14
+    },
+    {
+     "hex": "#EDEDED",
+     "pct": 12
+    }
+   ]
+  },
+  "page_title": "",
+  "height_px": 3440,
+  "link_url": "https://medicube.us/products/zero-pore-one-day-cream",
+  "region": "미국",
+  "category": "화장품"
+ },
+ {
+  "id": "1da1f2c7b3ad",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 미국 공식몰",
+  "page_url": "https://medicube.us/products/zero-pore-blackhead-mud-mask",
+  "image_src": "https://medicube.us/products/zero-pore-blackhead-mud-mask",
+  "collected_at": "2026-11-18",
+  "hash": "319e97efe0d2b1b0",
+  "image": "images/1da1f2c7b3ad.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "메디큐브 제로 포어 블랙헤드 머드 마스크 (100g / 3.52oz)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "비포애프터",
+    "secondary": [
+     "성분·효능",
+     "인증·임상",
+     "리뷰·랭킹",
+     "사은품",
+     "한정·마감"
+    ]
+   },
+   "copy": {
+    "main": "Global No. 1 PORE SOLUTION",
+    "sub": "Clean Pores. Clear Confidence. / VISIBLE DIFFERENCE / COOL. CLEAR. REFINE.",
+    "cta": "Free 사은품 (세트 구성 안내)"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "첫 화면에 블루 튜브 제품을 중앙 배치하고 머드 텍스처를 배경으로 깔아 제품 존재감을 강조한 뒤, 이후 섹션마다 성분→비포애프터 수치→쿨링 수치→사용법→구성·사은품 순으로 텍스트와 제품컷을 교차 배치한 구조.",
+   "tone": [
+    "청량감",
+    "임상 신뢰",
+    "클린 프리미엄"
+   ],
+   "target": "모공 막힘과 블랙헤드, 피지 고민이 있는 20~30대 여성 소비자",
+   "why_it_hooks": "선명한 블루 컬러와 머드 질감 클로즈업이 화면을 즉시 차지하며, 비포애프터 사진과 '-98.40%' 같은 큰 수치가 효과를 한눈에 증명해 클릭을 유도합니다.",
+   "pdp": {
+    "first_screen_hook": "블루 튜브와 머드 텍스처 클로즈업, 'Dedicated to real results' 문구로 제품 자체를 시각적 주인공으로 내세워 시선을 잡습니다.",
+    "sections": [
+     {
+      "name": "제품 히어로",
+      "role": "첫인상·브랜드 각인",
+      "copy": "Dedicated to real results / ZERO PORE BLACKHEAD MUD MASK / AHA+BHA+PHA / Pore purifying clay 30%",
+      "share": 8
+     },
+     {
+      "name": "포어 케어 스탠더드 메인",
+      "role": "공감 후킹·브랜드 권위",
+      "copy": "The Pore Care Standard / Clean Pores. Clear Confidence. / Global No. 1 PORE SOLUTION",
+      "share": 9
+     },
+     {
+      "name": "핵심 성분 설명",
+      "role": "해결책 제시·성분 근거",
+      "copy": "KEY PORE INGREDIENTS / Glycolic Acid (AHA) / Salicylic Acid (BHA) / Gluconolactone (PHA) / Bentonite & Kaolin",
+      "share": 12
+     },
+     {
+      "name": "비포애프터 효과",
+      "role": "핵심 근거·결과 증명",
+      "copy": "VISIBLE DIFFERENCE / Before / After 1 Use / -98.40% Pore Impurities* / -53.47% Excess Oil*",
+      "share": 10
+     },
+     {
+      "name": "쿨링 효과·인증",
+      "role": "차별점 강조·신뢰 보강",
+      "copy": "COOL. CLEAR. REFINE. / Cools by 6.24°C* in Just 3 Minutes / Non-Comedogenic / Low Irritation Tested",
+      "share": 11
+     },
+     {
+      "name": "사용법",
+      "role": "사용 가이드·문제 해결 과정",
+      "copy": "MORE CARE. LESS VISIBLE PORES. / Apply evenly to dry skin, avoiding the eye & lip areas. / Leave on for 3–5 minutes, then rinse with water.",
+      "share": 10
+     },
+     {
+      "name": "루틴 제안",
+      "role": "구매 확장·루틴 제안",
+      "copy": "Your Zero Pore Essentials / 1. MELT Cleansing Oil / 2. CLEANSE Capsule Cleanser / 3. PURIFY Mud Mask | Multi Brush / 4. HYDRATE Pads & Serum",
+      "share": 12
+     },
+     {
+      "name": "제품 디테일 컷",
+      "role": "제품 질감·사용 이미지",
+      "copy": "(텍스트 없음, 머드 도포 및 멀티 브러시 제품컷)",
+      "share": 6
+     },
+     {
+      "name": "구성 및 사은품 1",
+      "role": "구매 결정·혜택 제시",
+      "copy": "2개 세트 / Free 멀티 브러시",
+      "share": 6
+     },
+     {
+      "name": "구성 및 사은품 2",
+      "role": "구매 결정·혜택 제시",
+      "copy": "2개 세트 / Free 제로 포어 쿨링 마스크",
+      "share": 6
+     },
+     {
+      "name": "세트 비교·클렌징 오일 번들",
+      "role": "구매 결정·객단가 확대",
+      "copy": "Free 쿨링 마스크 / Free 멀티 브러시 (클렌징 오일 세트 구성)",
+      "share": 6
+     },
+     {
+      "name": "성분 리스트",
+      "role": "근거·안전성 확인",
+      "copy": "Ingredients: Water, Kaolin (CI 77004), Bentonite, ... Salicylic Acid, Glycolic Acid, ... Copper Tripeptide-1",
+      "share": 4
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#67A1DA",
+     "pct": 28
+    },
+    {
+     "hex": "#2761BC",
+     "pct": 23
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 20
+    },
+    {
+     "hex": "#AED3ED",
+     "pct": 17
+    },
+    {
+     "hex": "#E5EEF3",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "",
+  "height_px": 11180,
+  "link_url": "https://medicube.us/products/zero-pore-blackhead-mud-mask",
+  "region": "미국",
+  "category": "화장품"
+ },
+ {
+  "id": "d97a384fca0f",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 미국 공식몰",
+  "page_url": "https://medicube.us/products/deep-vita-c-capsule-cream",
+  "image_src": "https://medicube.us/products/deep-vita-c-capsule-cream",
+  "collected_at": "2026-11-18",
+  "hash": "9cec3e0c97c8cec6",
+  "image": "images/d97a384fca0f.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "딥 비타C 캡슐 크림 (Deep Vita C Capsule Cream)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "비타민 캡슐 기술",
+    "secondary": [
+     "비타민 워터 50%·비타민C 유도체 배합",
+     "피부 개선 수치(광채 +34.8%, 24시간 후 +32.6%)",
+     "패키지 변경 공지(동일 처방)",
+     "피부타입별 캡슐 비율 가이드"
+    ]
+   },
+   "copy": {
+    "main": "Experience the power of stabilized liposome capsules",
+    "sub": "Why is the Vitamin Capsule Cream Special? / Stabilized Liposome Vitamin Capsule",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 캡슐이 올라간 제품 오프닝컷을 크게 배치하고, 이후 공지·성분·임상 마크·피부타입 비율·기술 설명을 세로로 나열하며 하단에 제품 2개 컷으로 마무리하는 구조",
+   "tone": [
+    "프리미엄",
+    "과학적 신뢰",
+    "골드·옐로 따뜻함"
+   ],
+   "target": "비타민C 제품으로 미백·잡티와 광채 케어를 원하는 20~40대 여성 소비자",
+   "why_it_hooks": "황금빛 캡슐이 가득한 제품 사진이 첫 화면에서 독특한 질감을 보여주고, 흰 배경 위 검정 용기와 골드 색감의 대비가 강해 시선을 붙잡습니다. 또한 수치형 임상 결과가 함께 노출되어 기대감을 키웁니다.",
+   "pdp": {
+    "first_screen_hook": "황금빛 비타민 캡슐이 용기 위로 넘쳐 보이는 제품 컷과 '캡슐 크림' 기술 문구로 독특함을 즉시 전달",
+    "sections": [
+     {
+      "name": "오프닝 제품 히어로",
+      "role": "공감 후킹",
+      "copy": "Experience the power of stabilized liposome capsules, designed to enhance the delivery of Vitamin C to the skin for optimal results.",
+      "share": 12
+     },
+     {
+      "name": "패키지 변경 공지",
+      "role": "신뢰 확보",
+      "copy": "NEW LOOK, SAME FORMULA / Same Radiance You Love / no changes to the formulation.",
+      "share": 8
+     },
+     {
+      "name": "임상·인증 및 수치",
+      "role": "근거",
+      "copy": "FYI: Dermatologist tested, Completion of Human Trials, No artificial color, Printed with soy ink, FSC / Skin radiance +34.8%, +32.6%, roughness +5.2%, moisturization +4.1%",
+      "share": 12
+     },
+     {
+      "name": "주요 성분 소개",
+      "role": "근거",
+      "copy": "Sea Buckthorn Extract, Niacinamide, Ascorbic Acid, Vitamins E·Q·P, Ferulic Acid 각 효능 설명",
+      "share": 14
+     },
+     {
+      "name": "피부타입별 비율 가이드",
+      "role": "해결책 제시",
+      "copy": "Ratio for Skin Type: 지성 2:1, 복합·normal 1:1, 건성·민감 1:2 (Transparent Gel : Vitamin C Capsule)",
+      "share": 10
+     },
+     {
+      "name": "캡슐 기술 설명",
+      "role": "차별화 근거",
+      "copy": "Why is the Vitamin Capsule Cream Special? / Vitamin C concentrated in a capsule / Protected fresh until reaching the skin's surface",
+      "share": 14
+     },
+     {
+      "name": "캡슐 vs 젤 구성",
+      "role": "구조 설명",
+      "copy": "Stabilized Liposome Vitamin Capsule: Brightening & Spot Care (Vitamin Capsule) / Glow & Hydration Care (Transparent Gel)",
+      "share": 12
+     },
+     {
+      "name": "제품 구매 컷",
+      "role": "구매 결정",
+      "copy": "medicube DEEP VITA C CAPSULE CREAM 55g / 1.94oz 제품 2개 컷",
+      "share": 8
+     },
+     {
+      "name": "라인업 확장",
+      "role": "행동 유도",
+      "copy": "PDRN Pink Collagen Capsule Cream, TXA Niacinamide Capsule Cream 등 캡슐 크림 라인업 노출",
+      "share": 10
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#F0EFEA",
+     "pct": 32
+    },
+    {
+     "hex": "#3A332E",
+     "pct": 23
+    },
+    {
+     "hex": "#D0C5A6",
+     "pct": 16
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 16
+    },
+    {
+     "hex": "#F9F7F2",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "",
+  "height_px": 10320,
+  "link_url": "https://medicube.us/products/deep-vita-c-capsule-cream",
+  "region": "미국",
+  "category": "화장품"
+ },
+ {
+  "id": "3dd081a8350f",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 미국 공식몰",
+  "page_url": "https://medicube.us/products/deep-vita-c-pad",
+  "image_src": "https://medicube.us/products/deep-vita-c-pad",
+  "collected_at": "2026-11-18",
+  "hash": "c4ec8ee371e9ee9c",
+  "image": "images/3dd081a8350f.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "메디큐브 딥 비타C 패드 (Deep Vita C Pad)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "인증·임상",
+     "사은품",
+     "모델·셀럽"
+    ]
+   },
+   "copy": {
+    "main": "NO.1 VITAMIN C PADS",
+    "sub": "Vitamin C Help improve dark spot visibility / Niacinamide Strengthen skin barrier and improve skin tone / Sea Buckthorn Extract Improve complexion and even skin tone / Panthenol Promotes smoother skin",
+    "cta": "Free: Deep Vita C Ampoule 사은품 (Step 02 앰플 함께 사용 안내)"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 EVE VEGAN 인증 뱃지와 제품 병 대형 배치 후, 노란 레몬 질감 배경의 큰 헤드라인과 성분 리스트를 세로로 나열하고, 중반부 모델 사용컷과 하단 100% 만족도 수치를 강조하는 긴 세로형 구성",
+   "tone": [
+    "청초한 비타민 톤",
+    "깔끔한 클린 뷰티",
+    "신뢰감 있는 미니멀"
+   ],
+   "target": "어두운 반점과 칙칙한 피부 톤 개선을 원하는 20~30대 비건 성분 선호 소비자",
+   "why_it_hooks": "레몬 이미지와 밝은 노란 컬러로 비타민C 효능을 직관적으로 전달하며, 상단 비건 인증 뱃지와 'NO.1' 문구가 신뢰를 함께 준다.",
+   "pdp": {
+    "first_screen_hook": "상단 EVE VEGAN 인증 뱃지와 대형 제품 병, 그리고 레몬 원형 배경이 함께 노출되어 비건 비타민C 제품임을 첫눈에 전달한다.",
+    "sections": [
+     {
+      "name": "제품 소개 및 공지",
+      "role": "제품 정체성 확인",
+      "copy": "Notice New Look, Same Radiance! / Packaging may vary depending on time of order.",
+      "share": 8
+     },
+     {
+      "name": "성분 헤드라인",
+      "role": "해결책 제시",
+      "copy": "NO.1 VITAMIN C PADS / Vitamin C · Niacinamide · Sea Buckthorn Extract · Panthenol 효능 설명",
+      "share": 12
+     },
+     {
+      "name": "무첨가 강조",
+      "role": "차별점 제시",
+      "copy": "NO ARTIFICIAL COLORS - The yellow color comes naturally from the sea buckthorn extract.",
+      "share": 10
+     },
+     {
+      "name": "사용감 시연",
+      "role": "사용 경험 전달",
+      "copy": "패드를 손에 펴 바르는 질감과 제품 디테일 컷",
+      "share": 10
+     },
+     {
+      "name": "사용 만족도 수치",
+      "role": "사회적 증거",
+      "copy": "4-Week-Use Satisfaction Rate 100% (Pigmentation, Exfoliation, Skin Radiance, Feeling of use, Hydration, Scent 각 100%)",
+      "share": 12
+     },
+     {
+      "name": "제품 비주얼",
+      "role": "제품 신뢰·감성",
+      "copy": "패드를 꺼내는 제품 컷과 질감 연출",
+      "share": 8
+     },
+     {
+      "name": "사용법 안내",
+      "role": "사용 방법 제시",
+      "copy": "Step 01 Deep Vita C Pad / Step 02 Deep Vita C Ampoule",
+      "share": 14
+     },
+     {
+      "name": "사은품 혜택",
+      "role": "구매 결정 유도",
+      "copy": "Free: Deep Vita C Ampoule 사은품",
+      "share": 8
+     },
+     {
+      "name": "구매 옵션",
+      "role": "행동 유도",
+      "copy": "제품 단품 구성 이미지 (150g / 5.29oz / 70 pads)",
+      "share": 18
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#F0E5CE",
+     "pct": 33
+    },
+    {
+     "hex": "#4C423D",
+     "pct": 22
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 17
+    },
+    {
+     "hex": "#CCBB80",
+     "pct": 16
+    },
+    {
+     "hex": "#FEF5CC",
+     "pct": 12
+    }
+   ]
+  },
+  "page_title": "",
+  "height_px": 6880,
+  "link_url": "https://medicube.us/products/deep-vita-c-pad",
+  "region": "미국",
+  "category": "화장품"
+ },
+ {
+  "id": "f9e9ace10d0a",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 미국 공식몰",
+  "page_url": "https://medicube.us/products/deep-reviving-bakuchiol-retinol-serum",
+  "image_src": "https://medicube.us/products/deep-reviving-bakuchiol-retinol-serum",
+  "collected_at": "2026-11-18",
+  "hash": "b230a08364686969",
+  "image": "images/f9e9ace10d0a.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "딥 비타 A 레티놀 세럼 (Deep Vita A Retinol Serum, 30ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "저자극 레티놀 (자가 사용 시험 저자극 인증)",
+    "secondary": [
+     "4세대 레티놀 1% 그라낙티브 레티노이드",
+     "캡슐화 레티놀 · 비건 바쿠치올 대안",
+     "제품 사진 속 세럼 흘러내리는 텍스처 연출"
+    ]
+   },
+   "copy": {
+    "main": "Remarkable benefits of retinol with LOW IRRITATION",
+    "sub": "4TH GENERATION RETINOL / 1% GRANACTIVE RETINOID / Reduces irritation, enhances texture, and renews skin. / FAST ACTING RETINAL / ENCAPSULATED RETINOL / BAKUCHIOL",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "첫 화면은 제품 단독컷을 중앙에 두고 우상단 '저자극 인증' 원형 배지로 신뢰를 더하며, 이후 제품 연출컷과 큰 세리프 헤드라인으로 저자극 메시지를 강조하는 구조입니다.",
+   "tone": [
+    "프리미엄",
+    "과학적 신뢰",
+    "차분함"
+   ],
+   "target": "레티놀을 쓰고 싶지만 자극이 걱정되는 20~40대 안티에이징 관심 여성 소비자",
+   "why_it_hooks": "브라운·골드 고급 패키지와 '저자극' 인증 배지가 자극 걱정이라는 핵심 고민을 바로 건드립니다. 큰 세리프 헤드라인이 레티놀의 효능과 저자극이라는 상반된 약속을 한 줄로 던져 호기심을 만듭니다.",
+   "pdp": {
+    "first_screen_hook": "중앙의 제품 단독컷과 우상단 '자가 사용 시험 저자극 인증' 배지가 첫 화면에서 안전성 신뢰를 준다.",
+    "sections": [
+     {
+      "name": "제품 첫 화면 및 인증 배지",
+      "role": "후킹·신뢰 확보",
+      "copy": "Dedicated to real results / Tested to be Low-Irritating",
+      "share": 8
+     },
+     {
+      "name": "저자극 헤드라인",
+      "role": "공감 후킹",
+      "copy": "Remarkable benefits of retinol with LOW IRRITATION",
+      "share": 10
+     },
+     {
+      "name": "4세대 레티놀 소개",
+      "role": "해결책 제시",
+      "copy": "4TH GENERATION RETINOL / 1% GRANACTIVE RETINOID / Reduces irritation, enhances texture, and renews skin.",
+      "share": 14
+     },
+     {
+      "name": "핵심 기술 3가지",
+      "role": "근거 제시",
+      "copy": "FAST ACTING RETINAL: Gently tackles fine lines, uneven tone, and marks. / ENCAPSULATED RETINOL: Stabilizes care deeply. / BAKUCHIOL: A vegan alternative for sensitive skin.",
+      "share": 14
+     },
+     {
+      "name": "제품 연출 컷 1",
+      "role": "제품 신뢰 강화",
+      "copy": "제품 라인업 및 용기 디테일 (텍스트 없음)",
+      "share": 12
+     },
+     {
+      "name": "제품 연출 컷 2",
+      "role": "사용 경험 연상",
+      "copy": "세럼이 흘러내리는 텍스처 연출 (텍스트 없음)",
+      "share": 14
+     },
+     {
+      "name": "제품 구성 컷",
+      "role": "구매 결정",
+      "copy": "medicube DEEP VITA A RETINOL SERUM 30ml / 1.01 fl. oz. (2개 구성)",
+      "share": 12
+     },
+     {
+      "name": "행동 유도",
+      "role": "행동 유도",
+      "copy": "<UNKNOWN>",
+      "share": 4
+     },
+     {
+      "name": "기타 여백",
+      "role": "구분",
+      "copy": "",
+      "share": 12
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 31
+    },
+    {
+     "hex": "#F7F6F2",
+     "pct": 25
+    },
+    {
+     "hex": "#61524A",
+     "pct": 23
+    },
+    {
+     "hex": "#DFD4CE",
+     "pct": 19
+    },
+    {
+     "hex": "#FFFFFD",
+     "pct": 2
+    }
+   ]
+  },
+  "page_title": "",
+  "height_px": 5160,
+  "link_url": "https://medicube.us/products/deep-reviving-bakuchiol-retinol-serum",
+  "region": "미국",
+  "category": "화장품"
+ },
+ {
+  "id": "fc8177780d0e",
+  "brand": "아누아",
+  "channel": "상세페이지",
+  "source_name": "아누아 국내 공식몰",
+  "page_url": "https://anua.kr/product/detail.html?product_no=490&cate_no=83&display_group=1",
+  "image_src": "https://anua.kr/product/detail.html?product_no=490&cate_no=83&display_group=1",
+  "collected_at": "2026-11-18",
+  "hash": "caebd4c73fb8d0cb",
+  "image": "images/fc8177780d0e.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아누아",
+   "product": "PDRN 히알루론산 수분 립 세럼 1+1",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "신제품",
+     "성분·효능",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 모델이 립 세럼 튜브를 들고 얼굴 옆에 배치된 컷으로 시작하고, 이후 제품 단독컷과 텍스처컷, 립 클로즈업이 교차하며 제품과 결과를 보여주는 구성이다. 이미지 속 텍스트는 거의 없고 제품명 로고 중심이다.",
+   "tone": [
+    "청량",
+    "투명·촉촉",
+    "미니멀"
+   ],
+   "target": "윤기 있고 촉촉한 입술을 원하며 가볍고 자연스러운 메이크업을 선호하는 20~30대 여성",
+   "why_it_hooks": "민트 블루 톤의 모델 컷과 투명한 세럼 텍스처가 강한 색 대비로 시선을 끈다. 촉촉하게 빛나는 립 클로즈업이 제품 효과를 직관적으로 전달한다.",
+   "pdp": {
+    "first_screen_hook": "민트 블루 후드를 쓴 모델이 립 세럼 튜브를 얼굴 옆에 들고 있는 컷으로, 제품 컬러와 모델이 한 화면에 어우러져 첫눈에 브랜드 무드를 전달한다.",
+    "sections": [
+     {
+      "name": "모델 메인 비주얼",
+      "role": "공감 후킹",
+      "copy": "",
+      "share": 12
+     },
+     {
+      "name": "제품 단독 소개",
+      "role": "해결책 제시",
+      "copy": "",
+      "share": 14
+     },
+     {
+      "name": "모델 사용 컷",
+      "role": "사용 장면 제시",
+      "copy": "",
+      "share": 14
+     },
+     {
+      "name": "텍스처 클로즈업",
+      "role": "근거",
+      "copy": "",
+      "share": 14
+     },
+     {
+      "name": "립 발색·광택 클로즈업",
+      "role": "결과 제시",
+      "copy": "",
+      "share": 16
+     },
+     {
+      "name": "모델 재노출 및 제품 컷",
+      "role": "행동 유도",
+      "copy": "",
+      "share": 30
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": false,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#91CFCC",
+     "pct": 29
+    },
+    {
+     "hex": "#B8E2E1",
+     "pct": 26
+    },
+    {
+     "hex": "#D9ECF0",
+     "pct": 16
+    },
+    {
+     "hex": "#F4FCFC",
+     "pct": 15
+    },
+    {
+     "hex": "#6F8586",
+     "pct": 14
+    }
+   ]
+  },
+  "page_title": "PDRN 히알루론산 수분 립 세럼 1+1 - 아누아 Anua",
+  "height_px": 6294,
+  "link_url": "https://anua.kr/product/detail.html?product_no=490&cate_no=83&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "51ed0a0528fb",
+  "brand": "아누아",
+  "channel": "상세페이지",
+  "source_name": "아누아 국내 공식몰",
+  "page_url": "https://anua.kr/product/detail.html?product_no=543&cate_no=1&display_group=5",
+  "image_src": "https://anua.kr/product/detail.html?product_no=543&cate_no=1&display_group=5",
+  "collected_at": "2026-11-18",
+  "hash": "16b2e8f0f8ed6070",
+  "image": "images/51ed0a0528fb.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아누아",
+   "product": "어성초 77 히알루론산 수분 진정 세트 (어성초 77 수분 진정 토너 + 어성초 77 수분 진정 로션)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "임상·인증",
+     "리뷰·랭킹",
+     "한정·마감"
+    ]
+   },
+   "copy": {
+    "main": "수분 진정 세트",
+    "sub": "함께 쓰면 진정 효과 UP! 수분 지속력 UP!",
+    "cta": "어성초 77 클리어 패드 함께 구매 시 3천원 추가 할인!"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 대형 녹색 타이틀 아래 토너·로션 두 제품을 나란히 배치하고, step1·step2 번호로 사용 순서를 안내한 뒤 할인 혜택 박스로 이어지는 구조",
+   "tone": [
+    "청량·자연",
+    "신뢰·임상",
+    "깔끔·미니멀"
+   ],
+   "target": "트러블·붉은기와 건조함을 함께 느끼는 민감·지성 피부 사용자, 진정과 수분 케어를 한 번에 원하는 20~40대 여성",
+   "why_it_hooks": "초록 계열 대형 타이틀과 두 제품의 세트 구성이 첫 화면에서 한눈에 들어오고, 'step1·step2'로 사용법을 단순화해 세트 구매 욕구를 자극합니다. 또한 '2000만 토너'와 임상 수치(%)를 전면에 배치해 신뢰감을 줍니다.",
+   "pdp": {
+    "first_screen_hook": "대형 녹색 타이틀 '수분 진정 세트'와 토너·로션 두 제품 컷이 한 화면에 들어와 세트 구성을 즉시 인지시킵니다.",
+    "sections": [
+     {
+      "name": "세트 소개 및 step 안내",
+      "role": "해결책 제시",
+      "copy": "산뜻 촉촉 어성초 / 수분 진정 세트 / 함께 쓰면 진정 효과 UP! 수분 지속력 UP! / step1 어성초 77 수분 진정 토너 / step2 어성초 77 수분 진정 로션",
+      "share": 12
+     },
+     {
+      "name": "스페셜 혜택",
+      "role": "행동 유도",
+      "copy": "#저자극 #각질케어 / 어성초 77 클리어 패드 함께 구매 시 3천원 추가 할인!",
+      "share": 6
+     },
+     {
+      "name": "고객 공감 및 제품 소개",
+      "role": "공감 후킹",
+      "copy": "2000만 고객의 목소리를 담아 더욱 진화된 어성초 토너 2세대 / 속당김, 진정효과, 붉은기, 피부 각질 고민 말풍선 / 트러블 진정 2세대 어성초 토너",
+      "share": 14
+     },
+     {
+      "name": "임상 근거: 피부 개선 효과",
+      "role": "근거",
+      "copy": "피부 각질 개선 -98.17%, 손상된 피부 진정 개선 -33.91%, 1회 사용 직후 붉은기 개선 Before/After",
+      "share": 10
+     },
+     {
+      "name": "임상 근거: 만족도 조사",
+      "role": "사회적 증거",
+      "copy": "실제 사용 고객이 말하는 만족도 조사 결과 100% / 리뉴얼 후 진정효과, 피부 예민해진 느낌, 스트레스 감소, 수분감 개선",
+      "share": 7
+     },
+     {
+      "name": "성분 설명 및 흡수 임상",
+      "role": "근거",
+      "copy": "POINT 1 어성초 무엇이 특별해졌나요? 아누아만의 어성초 엑소좀 / 피부 깊숙이 스며드는 진정효과 / 사용 30분 후 흡수 속도·깊이 3배 개선(47.8% → 152%)",
+      "share": 12
+     },
+     {
+      "name": "속보습 임상 및 모공·피지 케어",
+      "role": "근거",
+      "copy": "1세대 대비 속보습 개선율 +18.82% → +30.09% / 피부 속 피지까지 케어, 속피지 개선 -17.09%",
+      "share": 10
+     },
+     {
+      "name": "로션 소개 및 만족도",
+      "role": "제품 소개",
+      "copy": "2세대 어성초 로션 / 어성초 성분 강화, 1세대 대비 피부 진정 효과 UP, 여드름성 피부 사용 적합 / 실사용만족도 100%: 피부가 진정되는 느낌, 속당김 감소, 유수분 밸런스 개선",
+      "share": 12
+     },
+     {
+      "name": "텍스처 및 인증",
+      "role": "근거",
+      "copy": "과하지 않은 유수분 조합으로 부드럽게 스며드는 밀크타입 제형 / 유분 함유량 36.97% 개선, 피지량 26.74% 개선 / 인체적용시험 완료, 여드름성 피부 사용 적합 테스트, 피부 일차 자극 테스트 완료",
+      "share": 9
+     },
+     {
+      "name": "추천 대상 및 구매 유도",
+      "role": "구매 결정",
+      "copy": "이런 분들께 추천해요 / 끈적임 없는 산뜻한 마무리감을 원하는 분 / 사계절 내내 사용 가능한 정착 로션을 찾는 분",
+      "share": 8
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#EAF7EF",
+     "pct": 28
+    },
+    {
+     "hex": "#F3FCF7",
+     "pct": 24
+    },
+    {
+     "hex": "#FAFEFC",
+     "pct": 19
+    },
+    {
+     "hex": "#F9FCFA",
+     "pct": 17
+    },
+    {
+     "hex": "#AACCBA",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "[SET] 어성초 수분진정 세트 - 아누아 Anua",
+  "height_px": 40000,
+  "link_url": "https://anua.kr/product/detail.html?product_no=543&cate_no=1&display_group=5",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "b533d64d5c57",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=408",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=408",
+  "collected_at": "2026-11-18",
+  "hash": "4bf2e0e0e8f0e4e0",
+  "image": "images/b533d64d5c57.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 밸런스풀 시카 컨트롤 세럼",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "공감 후킹(트러블 고민)",
+     "임상·인증",
+     "비포애프터"
+    ]
+   },
+   "copy": {
+    "main": "반복되는 피부 트러블 고민 원인부터 마무리까지 집중 컨트롤",
+    "sub": "올라올 듯 말 듯 신경 쓰이는 트러블 고민엔? 트러블 원인부터 차단이 필요할 때! 밸런스풀 시카 컨트롤 세럼",
+    "cta": "#트러블차단세럼 #피지컨트롤세럼"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 헤드카피를 크게 배치하고 그 아래 제품병을 중앙에 두며, 이후 3단계 수치 카드, 공감 말풍선, 성분 설명, 임상 결과, 인증 순으로 세로 전개된다.",
+   "tone": [
+    "청량·진정",
+    "전문적·임상 신뢰",
+    "공감형 친근함"
+   ],
+   "target": "반복되는 피지 과다와 트러블, 민감해진 피부로 고민하는 20~30대 지성·복합성 피부 사용자",
+   "why_it_hooks": "초록 그라데이션과 제품병이 첫 화면에서 브랜드 색을 강하게 전달하고, '원인부터 마무리까지'라는 문구가 트러블 고민을 가진 소비자의 관심을 바로 끈다. 수치(%)와 임상 문구가 함께 있어 신뢰도도 높인다.",
+   "pdp": "{\"first_screen_hook\": \"반복되는 피부 트러블 고민을 헤드카피로 던지고 초록 제품병을 중앙에 배치해 '원인부터 집중 컨트롤'이라는 메시지를 즉시 전달한다.\", \"sections\": [{\"name\": \"히어로 헤드카피\", \"role\": \"공감 후킹\", \"copy\": \"반복되는 피부 트러블 고민 / 원인부터 마무리까지 집중 컨트롤\", \"share\": 6}, {\"name\": \"3단계 개선 수치\", \"role\": \"해결책 제시\", \"copy\": \"트러블 원인(과잉 피지 컨트롤) → 피부 자극 컨트롤 → 유수분 밸런스 컨트롤, 속 피지 7.95%, 화이트헤드 35.51% 등 수치 개선\", \"share\": 10}, {\"name\": \"고민 공감 말풍선\", \"role\": \"공감 후킹\", \"copy\": \"피지 때문에 유분은 폭발하고 피부 속은 건조해요 / 매일 피지가 쌓여서 모공이 커지는 것 같아요 / 자극 때문에 피부가 붉어지고 예민해져요 등\", \"share\": 10}, {\"name\": \"CTA 전환 문구\", \"role\": \"행동 유도\", \"copy\": \"올라올 듯 말 듯 신경 쓰이는 트러블 고민엔? 트러블 원인부터 차단이 필요할 때! 밸런스풀 시카 컨트롤 세럼 #트러블차단세럼 #피지컨트롤세럼\", \"share\": 5}, {\"name\": \"원인 메커니즘 설명\", \"role\": \"근거\", \"copy\": \"과도한 피지 분비 → 늘어난 모공 → 막힌 모공 위 트러블 발생, 학술 논문 출처 표기\", \"share\": 7}, {\"name\": \"체크포인트\", \"role\": \"구매 결정\", \"copy\": \"트러블 유발 피지, 데일리 케어가 필요할 때 / 올라올 듯 말 듯 트러블 사전 케어 / 자극으로 민감해진 피부를 진정시키고 싶을 때 / 끈적임 없이 산뜻한 피부로 케어하고 싶을 때\", \"share\": 6}, {\"name\": \"제품 핵심 특징 소개\", \"role\": \"해결책 제시\", \"copy\": \"토리든만의 5D 복합 시카와 나이아신아마이드, 트러블 원인 차단, 피부 진정 밸런스의 핵심\", \"share\": 7}, {\"name\": \"성분 설명(5D 시카 콤플렉스·T-TECA)\", \"role\": \"근거\", \"copy\": \"토리든만의 2배 진정 5D 복합 시카 콤플렉스, T-Percent Calming Complex, T-TECA DROP SYSTEM 리포좀 전달 기술\", \"share\": 12}, {\"name\": \"3-STEP 컨트롤 설계\", \"role\": \"해결책 제시\", \"copy\": \"CONTROL 1 트러블 원인 케어 → CONTROL 2 트러블 집중 케어 → CONTROL 3 트러블 차단, 트러블이 올라오기 전에 속부터 원인케어\", \"share\": 6}, {\"name\": \"비포애프터(모공·피지·블랙헤드)\", \"role\": \"사회적 증거\", \"copy\": \"4주 사용 후 블랙헤드 개선 11.45%, 사용 전후 사진 비교, 개인차 있음·일시적 효과 고지\", \"share\": 8}, {\"name\": \"민감 피부 진정 임상 결과\", \"role\": \"근거\", \"copy\": \"뒤집어진 민감 피부 1회 사용으로 즉각 진정 물리적 자극 진정 57.03% 개선, 피부 장벽 개선 35.81%·20.06%(3일 후)\", \"share\": 8}, {\"name\": \"임상 시험 요약 및 인증\", \"role\": \"근거\", \"copy\": \"여드름성 피부 적합 인체적용시험 완료(20명, 2025.03.31~04.29), 민감 피부 자극 인체적용시험 완료(30명), 4주간 인체적용시험 완료\", \"share\": 6}, {\"name\": \"제품 컷·텍스처 마무리\", \"role\": \"구매 결정\", \"copy\": \"제품 병 2종 연출과 세럼 물방울 텍스처 이미지로 산뜻한 사용감을 시각화, 브랜드명·제품명 재노출\", \"share\": 5}]",
+   "pdp.proofs": {
+    "임상 시험": true,
+    "성분 설명": true,
+    "비포애프터": true,
+    "리뷰 캡처": false,
+    "수상·랭킹": false,
+    "전문가 추천": false,
+    "인증 마크": false,
+    "모델·셀럽": false
+   },
+   "palette": [
+    {
+     "hex": "#247E3E",
+     "pct": 24
+    },
+    {
+     "hex": "#8CBF91",
+     "pct": 21
+    },
+    {
+     "hex": "#DBE9D0",
+     "pct": 20
+    },
+    {
+     "hex": "#F6F6EF",
+     "pct": 18
+    },
+    {
+     "hex": "#FDFDFA",
+     "pct": 17
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 40000,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=408",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "d755d5602ee9",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=2393",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=2393",
+  "collected_at": "2026-11-18",
+  "hash": "b8a0c090c8cc94e0",
+  "image": "images/d755d5602ee9.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 솔리드인 크림 토너 (200ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "임상·인증",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "부드럽게 스며드는 보습 장벽 이중 레이어 고보습 크림 토너",
+    "sub": "건조하고 무너진 피부 장벽을 위해, 첫 단계부터 수분 증발을 막아주는 토리든의 노하우와 5D 복합 세라마이드 흡수 설계를 더했습니다.",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 큰 헤드카피와 제품 병을 대각선으로 배치하고, 우측에 STEP 01~03 원형 배지를 세로로 나열해 흐름을 보여줌. 이후 섹션은 흔들기 비교·성분 다이어그램·임상 수치 박스를 순서대로 배치.",
+   "tone": [
+    "청량하고 부드러운",
+    "신뢰감 있는 과학적",
+    "따뜻한 옐로 프리미엄"
+   ],
+   "target": "건조하고 당기는 피부, 보습 장벽 관리가 필요한 민감·건성 피부 사용자",
+   "why_it_hooks": "노란 톤의 따뜻한 배경과 큰 헤드카피가 한눈에 들어오고, 3단계 원형 배지(5D 세라마이드→레이어링→결 케어)로 제품의 작동 원리를 즉시 이해시킵니다.",
+   "pdp": {
+    "first_screen_hook": "대각선으로 누운 제품 병과 큰 헤드카피 '부드럽게 스며드는 보습 장벽 이중 레이어 고보습 크림 토너'가 노란 톤 배경 위에서 즉시 시선을 끌고, STEP 01~03 배지가 기능을 요약합니다.",
+    "sections": [
+     {
+      "name": "헤드 및 3단계 요약",
+      "role": "공감 후킹",
+      "copy": "부드럽게 스며드는 보습 장벽 이중 레이어 고보습 크림 토너 / STEP 01 5D 복합 세라마이드, STEP 02 층층이 쌓는 보습 장벽, STEP 03 매끈 결 보습 케어",
+      "share": 10
+     },
+     {
+      "name": "장벽 문제 제기",
+      "role": "공감 후킹",
+      "copy": "건조하고 무너진 피부 장벽을 위해, 첫 단계부터 수분 증발을 막아주는 노하우와 5D 복합 세라마이드 흡수 설계",
+      "share": 8
+     },
+     {
+      "name": "장벽 구조 설명",
+      "role": "근거",
+      "copy": "피부 장벽 단면 일러스트 (출처: The skin: an indispensable barrier)",
+      "share": 5
+     },
+     {
+      "name": "8:2 배합 및 레이어 구조",
+      "role": "해결책 제시",
+      "copy": "장벽 보습 케어를 위한 8:2 최적 배합 / 판테놀·알란토인 보습 에센스층, 5D 세라마이드·토코페롤 장벽 크림층",
+      "share": 8
+     },
+     {
+      "name": "흔들기 비교",
+      "role": "근거",
+      "copy": "흔들어서 퍼지는 보습 에센스와 장벽 크림층 (흔들기 전 / MIX / 흔든 후)",
+      "share": 6
+     },
+     {
+      "name": "고함량 성분 공감",
+      "role": "공감 후킹",
+      "copy": "고함량 성분에도 피부 고민이 나아지지 않았다면? 이제는 흡수를 확인하세요",
+      "share": 4
+     },
+     {
+      "name": "5D 세라마이드 설명",
+      "role": "성분 설명",
+      "copy": "흡수 설계 노하우를 담은 5D 복합 세라마이드 (5가지 리포좀화)",
+      "share": 8
+     },
+     {
+      "name": "5종 세라마이드 목록",
+      "role": "성분 설명",
+      "copy": "Ceramide AP·AS·NP·NS·EOP 각각의 기능 요약",
+      "share": 6
+     },
+     {
+      "name": "Deep-Active System 결합",
+      "role": "해결책 제시",
+      "copy": "5D 복합 세라마이드 X 딥 액티브 시스템 / 다각도 맞춤 보습 장벽 케어",
+      "share": 6
+     },
+     {
+      "name": "임상 수치",
+      "role": "근거",
+      "copy": "피부 각질 30층 속보습 127.51%, 사용 직후 보습량 469%, 각질 층 보습량 127%, 피부 장벽 48.29% 개선, 일시적 피부 진정 61.56% 개선, 건조함 각질 개선 사용 전후 이미지",
+      "share": 14
+     },
+     {
+      "name": "시너지 성분",
+      "role": "성분 설명",
+      "copy": "들뜬 각질을 잠재우고 피부 결을 정돈하는 보습 장벽 시너지 (5D 세라마이드, 알란토인, 토코페롤, 판테놀)",
+      "share": 6
+     },
+     {
+      "name": "임상 요약 및 안심",
+      "role": "인증 마크",
+      "copy": "외부 자극에 예민해진 피부도 안심하는 크림 토너 / Clinically Tested 5개 항목 체크",
+      "share": 6
+     },
+     {
+      "name": "텍스처 및 사용감",
+      "role": "구매 결정",
+      "copy": "크림의 보습감과 토너의 산뜻함으로 유분감 없이 촉촉하게 스며드는 보습 크림 토너",
+      "share": 5
+     },
+     {
+      "name": "브랜드 신뢰 및 시험 정보",
+      "role": "사회적 증거",
+      "copy": "토리든은 토리든이 만듭니다 (2021년 대전 연구소) / 흡수설계 뷰티 토리든 / 임상 시험 세부 정보 / 상품정보제공고시",
+      "share": 6
+     }
+    ]
+   },
+   "proofs": {
+    "임상 시험": true,
+    "성분 설명": true,
+    "비포애프터": true,
+    "리뷰 캡처": false,
+    "수상·랭킹": false,
+    "전문가 추천": false,
+    "인증 마크": false,
+    "모델·셀럽": false
+   },
+   "palette": [
+    {
+     "hex": "#FEF5D4",
+     "pct": 24
+    },
+    {
+     "hex": "#F6E5B3",
+     "pct": 24
+    },
+    {
+     "hex": "#D5B16E",
+     "pct": 20
+    },
+    {
+     "hex": "#FDF7E5",
+     "pct": 20
+    },
+    {
+     "hex": "#FFFBEA",
+     "pct": 12
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 25296,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2393",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "4cae37495878",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=2294",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=2294",
+  "collected_at": "2026-11-18",
+  "hash": "f0fcf8e0f4f4f960",
+  "image": "images/4cae37495878.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 셀메이징 비타C 브라이트닝 크림 (50ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "임상·인증",
+     "비포애프터",
+     "리뷰·랭킹"
+    ]
+   },
+   "copy": {
+    "main": "맑은 안색을 깨우는 캡슐 토닝! #멜팅비타캡슐크림",
+    "sub": "미백 부스팅 설계 & 멜팅 캡슐로 효과적인 안색 토닝 케어! 잡티와 피부 톤 개선은 물론 모공 다크닝까지 케어해 맑고 환한 안색을 완성합니다.",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 칙칙한 안색 고민을 말풍선으로 던지고, 중단에 제품 용기와 오렌지 톤 색감으로 제품을 강조하며, 하단에 임상 수치(+23.7%, +20.5% 등)를 원형 배지로 나열하는 세로 긴 구성.",
+   "tone": [
+    "따뜻한 오렌지",
+    "임상 신뢰감",
+    "산뜻한 클린 뷰티"
+   ],
+   "target": "칙칙하고 잡티·모공 다크닝이 고민이며, 자극 없이 데일리로 미백 케어를 원하는 20~40대 여성",
+   "why_it_hooks": "칙칙한 안색 고민을 말풍선 대화체로 먼저 건드려 공감을 얻고, 강렬한 오렌지 컬러와 큰 수치형 임상 배지가 시선을 빠르게 붙잡습니다.",
+   "pdp": {
+    "first_screen_hook": "칙칙한 안색·잡티 고민을 말풍선으로 던진 뒤 '자극 없는 데일리 미백'이라는 질문으로 이어가 공감을 유도한다.",
+    "sections": [
+     {
+      "name": "고민 공감",
+      "role": "공감 후킹",
+      "copy": "피곤해 보이고 칙칙한 안색이 신경 쓰여요 / 잡티와 그늘진 모공이 고민이에요 / 속보습과 미백을 함께 챙길 수 있는 제품은 없을까요? / 자극 없이 데일리로 효과적인 미백 케어를 원해요!",
+      "share": 10
+     },
+     {
+      "name": "제품 소개 & 해결 제시",
+      "role": "해결책 제시",
+      "copy": "정교한 미백 설계로 효과적인 데일리 안색 케어! 셀메이징 비타C 브라이트닝 크림 / 미백 부스팅 설계를 담아 맑은 안색을 깨우는 캡슐 토닝! #멜팅비타캡슐크림",
+      "share": 12
+     },
+     {
+      "name": "제품 디테일·기술",
+      "role": "근거",
+      "copy": "칙칙한 피부 톤 개선, 겉&속 잡티 개선, 5D 나노 리포좀 비타민 / 특허받은 CellFusome 공법으로 미백 시너지 성분 피부 속 전달",
+      "share": 12
+     },
+     {
+      "name": "임상 수치 증명",
+      "role": "근거",
+      "copy": "#맑은안색캡슐크림 인체적용시험으로 증명: 피부 겉 잡티 +23.7%, 속 잡티 +20.5%, 3중 피부톤 개선, 모공 다크닝 +5.07%, 30층 속보습 +159%",
+      "share": 14
+     },
+     {
+      "name": "성분 설명",
+      "role": "근거",
+      "copy": "5D 비타민C 나노 리포좀 + 글루타치온 + 판테놀, 순수 비타민C 함량보다 흡수력과 안정도가 높은 유도체 배합",
+      "share": 8
+     },
+     {
+      "name": "기능별 비포애프터",
+      "role": "근거",
+      "copy": "POINT.1 속잡티까지 5중 토닝케어: 노란톤 -19.06%, 투명도 +10.98%, 갈색톤 -13.08% / 거뭇한 겉잡티 +23.7%, 속잡티 +20.5% / POINT.2 모공 다크닝 타겟팅: 사용 전후 비교",
+      "share": 16
+     },
+     {
+      "name": "사회적 증거",
+      "role": "사회적 증거",
+      "copy": "사용 후 만족도 100% / 안색이 환해진 느낌, 잡티가 옅어진 느낌, 끈적임 없이 촉촉한 마무리, 캡슐이 부드럽게 녹으며 흡수 (각 100%, 개인차 있음)",
+      "share": 9
+     },
+     {
+      "name": "안전성·사용감",
+      "role": "근거",
+      "copy": "예민한 피부도 안심할 수 있도록 끈적임 없이 흡수되는 촉촉한 젤 크림 제형 / 민감성 피부 일차 자극 인체적용시험 완료",
+      "share": 6
+     },
+     {
+      "name": "사용법·시너지",
+      "role": "행동 유도",
+      "copy": "TIP & USE 밀폐력 좋은 이중용기 여는 법 / SYNERGY TIP: 비타C 토너·토닝패드·앰플·크림, 스팟 크림, 마스크 등 라인 루틴 제안",
+      "share": 8
+     },
+     {
+      "name": "제품 요약·상품정보",
+      "role": "구매 결정",
+      "copy": "테스트 항목 요약, 주요 성분(비타C 5 콤플렉스, 글루타치온, 나이아신아마이드, 판테놀&세라마이드&비타민나무수), 상품정보제공고시",
+      "share": 5
+     }
+    ]
+   },
+   "palette": [
+    {
+     "hex": "#F8B257",
+     "pct": 26
+    },
+    {
+     "hex": "#ED8E2D",
+     "pct": 26
+    },
+    {
+     "hex": "#FEF3E2",
+     "pct": 24
+    },
+    {
+     "hex": "#FAD9AA",
+     "pct": 15
+    },
+    {
+     "hex": "#FEFCF6",
+     "pct": 9
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 38649,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2294",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "a5e502b5f2ff",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=2361",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=2361",
+  "collected_at": "2026-11-18",
+  "hash": "eaa0c0b0f4f0f9e0",
+  "image": "images/a5e502b5f2ff.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 다이브인 저분자 히알루론산 수분 버블 세럼 (115ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "10초 수분 급행",
+    "secondary": [
+     "고밀도 촉촉 버블",
+     "5D 히알루론산",
+     "임상 수치(195.21%, 80.65%)",
+     "피부 속 10층 수분 채움"
+    ]
+   },
+   "copy": {
+    "main": "단 10초 만에 시원하게 속부터 꽉 차오르는 수분광 버블 세럼",
+    "sub": "피부에 착! 붙는 자석 흡수 버블 테크놀로지 · 피부 속 10층까지 고농축 수분 · 모공 1/1,090 미세 버블",
+    "cta": ""
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 큰 헤드카피와 해시태그 말풍선, 좌측 제품 병 컷과 우측 STEP 01~03 원형 설명을 배치하고, 이후 섹션마다 제품 컷·성분 3D 이미지·임상 수치 박스를 번갈아 넣은 긴 세로 구조",
+   "tone": [
+    "청량",
+    "수분감",
+    "과학적 신뢰"
+   ],
+   "target": "건조하고 당김이 잦아 수분 속부터 채우는 세럼을 찾는 20~40대 여성 소비자",
+   "why_it_hooks": "파란 물결과 버블 이미지로 '수분'을 즉시 시각화하고, '10초'라는 짧은 시간 약속과 큰 헤드카피가 빠르게 기대감을 준다. 임상 수치 퍼센트가 신뢰 근거로 바로 이어진다.",
+   "pdp": {
+    "first_screen_hook": "물방울이 튀는 청량한 블루 배경 위 '단 10초 만에' 헤드카피와 큰 제품 병 컷으로 10초 수분 급행을 한눈에 전달한다.",
+    "sections": [
+     {
+      "name": "첫 화면 후킹",
+      "role": "공감 후킹",
+      "copy": "단 10초 만에 시원하게 / 속부터 꽉 차오르는 수분광 버블 세럼",
+      "share": 8
+     },
+     {
+      "name": "3단계 사용 원리",
+      "role": "해결책 제시",
+      "copy": "STEP 01 10초 버블 흡수 공법 / STEP 02 피부 속 10층 고농축 수분 / STEP 03 모공 1/1,090 미세 버블",
+      "share": 8
+     },
+     {
+      "name": "자석 흡수 버블 테크놀로지",
+      "role": "근거",
+      "copy": "피부에 자석처럼 달라붙는 자석 흡수 버블 테크놀로지, 5D 히알루론산",
+      "share": 7
+     },
+     {
+      "name": "문제 제기",
+      "role": "공감 후킹",
+      "copy": "고함량 성분에도 피부 고민이 나아지지 않았다면? 이제는 흡수를 확인하세요",
+      "share": 5
+     },
+     {
+      "name": "독자 성분 5D 히알루론산",
+      "role": "성분 설명",
+      "copy": "T-Percent 5D H.A Complex, 고·중·저분자 5가지 히알루론산 배합",
+      "share": 9
+     },
+     {
+      "name": "딥 액티브 흡수 설계",
+      "role": "근거",
+      "copy": "5D 핵심 성분과 Deep-Active System의 결합, 피부의 효능을 생각한 토리든만의 5D H.A.",
+      "share": 7
+     },
+     {
+      "name": "임상 수치",
+      "role": "사회적 증거",
+      "copy": "인체적용시험이 증명하는 10초 수분 급행 효과 / 피부 속 수분 195.21% 개선 / 광채 80.65% 개선",
+      "share": 11
+     },
+     {
+      "name": "시너지 성분",
+      "role": "성분 설명",
+      "copy": "피부 속 10층까지 채우는 속수분 시너지: 엑토인, 판테놀, 트레할로오스",
+      "share": 8
+     },
+     {
+      "name": "제형 및 사용감",
+      "role": "해결책 제시",
+      "copy": "흐르지 않는 촉촉 머랭 버블로 속수분을 채우는 제형, 3중 메쉬 미세 버블 텍스처",
+      "share": 8
+     },
+     {
+      "name": "브랜드 스토리",
+      "role": "신뢰 구축",
+      "copy": "토리든은 토리든이 만듭니다. 2021년 대전 연구소, 흡수설계 뷰티 토리든",
+      "share": 9
+     },
+     {
+      "name": "임상 및 상품정보",
+      "role": "구매 결정",
+      "copy": "민감성 피부 자극 인체적용 시험 완료, 상품정보제공고시(115ml, 모든 피부)",
+      "share": 10
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#31A4D2",
+     "pct": 26
+    },
+    {
+     "hex": "#ECF7FF",
+     "pct": 24
+    },
+    {
+     "hex": "#D8EEFD",
+     "pct": 21
+    },
+    {
+     "hex": "#73CEEF",
+     "pct": 20
+    },
+    {
+     "hex": "#F1FBFF",
+     "pct": 9
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 25487,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2361",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "f14f036ffd17",
+  "brand": "스킨1004",
+  "channel": "상세페이지",
+  "source_name": "스킨1004 국내 공식몰",
+  "page_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-ampoule-foam",
+  "image_src": "https://www.skin1004.com/products/skin1004-madagascar-centella-ampoule-foam",
+  "collected_at": "2026-11-18",
+  "hash": "92e30ccfd8e0c948",
+  "image": "images/f14f036ffd17.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "스킨1004",
+   "product": "마다가스카르 센텔라 앰플 폼 (Madagascar Centella Ampoule Foam)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "성분·효능",
+     "신제품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "MADAGASCAR CENTELLA AMPOULE FOAM",
+    "sub": "MADE WITH PURE CENTELLA FROM MADAGASCAR",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "첫 화면에서 모델이 제품 튜브를 얼굴 옆에 든 구도로 제품과 얼굴을 함께 배치하고, 이후 제품 단독컷과 질감컷, 사용 장면컷을 교차 배치",
+   "tone": [
+    "미니멀",
+    "내추럴",
+    "청결감"
+   ],
+   "target": "간결한 세안 루틴을 선호하는 20~30대 남녀 스킨케어 입문자 및 자연 유래 성분을 중시하는 소비자",
+   "why_it_hooks": "모델의 강한 시선과 흰 배경에 놓인 골드 튜브가 시선을 바로 붙잡고, 센텔라 질감컷의 부드러운 결이 성분 신뢰감을 전달합니다.",
+   "pdp": {
+    "first_screen_hook": "흰 배경에서 모델이 골드 튜브를 얼굴 옆에 대고 정면으로 응시하는 장면이 제품과 인물을 동시에 노출해 시선을 붙잡습니다.",
+    "sections": [
+     {
+      "name": "모델 첫 화면",
+      "role": "공감 후킹",
+      "copy": "MADAGASCAR CENTELLA AMPOULE FOAM",
+      "share": 10
+     },
+     {
+      "name": "성분 질감 컷",
+      "role": "해결책 제시",
+      "copy": "MADE WITH PURE CENTELLA FROM MADAGASCAR",
+      "share": 12
+     },
+     {
+      "name": "제품 소도구 연출",
+      "role": "제품 인지",
+      "copy": "제품명·용량 라벨 노출",
+      "share": 12
+     },
+     {
+      "name": "스톤 오브제 연출",
+      "role": "브랜드 무드",
+      "copy": "제품명·용량 라벨 노출",
+      "share": 12
+     },
+     {
+      "name": "제품 단독 클로즈업",
+      "role": "제품 확인",
+      "copy": "MADAGASCAR CENTELLA AMPOULE FOAM / MADE WITH PURE CENTELLA FROM MADAGASCAR",
+      "share": 14
+     },
+     {
+      "name": "사용 장면",
+      "role": "사용법 제안",
+      "copy": "125ML / 4.22 FL.OZ 용량 표기",
+      "share": 15
+     },
+     {
+      "name": "제품 단품 정보",
+      "role": "구매 결정",
+      "copy": "120ML / 0.67 FL.OZ 용량 표기 (미니 사이즈)",
+      "share": 13
+     },
+     {
+      "name": "미니 사이즈 단독",
+      "role": "행동 유도",
+      "copy": "SKIN1004",
+      "share": 12
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#C5B4A6",
+     "pct": 37
+    },
+    {
+     "hex": "#527351",
+     "pct": 21
+    },
+    {
+     "hex": "#BB9C84",
+     "pct": 17
+    },
+    {
+     "hex": "#E3DDD9",
+     "pct": 17
+    },
+    {
+     "hex": "#48362A",
+     "pct": 7
+    }
+   ]
+  },
+  "page_title": "Madagascar Centella Ampoule Foam | Cleanser | SKIN1004",
+  "height_px": 6020,
+  "link_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-ampoule-foam",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "8f4f4b12c140",
+  "brand": "스킨1004",
+  "channel": "상세페이지",
+  "source_name": "스킨1004 국내 공식몰",
+  "page_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-light-cleansing-oil",
+  "image_src": "https://www.skin1004.com/products/skin1004-madagascar-centella-light-cleansing-oil",
+  "collected_at": "2026-11-18",
+  "hash": "d2721138e3334c4d",
+  "image": "images/8f4f4b12c140.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "스킨1004",
+   "product": "마다가스카르 센텔라 라이트 클렌징 오일",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "성분·효능",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "MADAGASCAR CENTELLA LIGHT CLEANSING OIL",
+    "sub": "MADE WITH PURE CENTELLA FROM MADAGASCAR",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "첫 화면에 모델이 제품을 얼굴 옆에 들고 있는 구도로 제품 라벨을 노출하고, 이후 오일이 흐르는 손 컷, 제품 여러 개의 연출컷, 돌 질감 배경의 단독컷, 용량별 누끼 컷 순으로 전환되는 구성",
+   "tone": [
+    "내추럴",
+    "미니멀",
+    "따뜻한 베이지"
+   ],
+   "target": "자극 없이 부드럽게 클렌징하고 싶은 20~30대 남녀 (특히 남성 포함 민감성·지성 피부 사용자)",
+   "why_it_hooks": "모델이 제품을 얼굴 가까이 들어 올린 강한 시선 처리와 깔끔한 흰 배경이 먼저 눈에 들어오며, 마다가스카르 센텔라라는 원료 출처가 짧은 라벨 문구로 신뢰를 준다. 아이보리·베이지 톤의 절제된 연출이 자연주의 이미지를 강조한다.",
+   "pdp": {
+    "first_screen_hook": "모델이 제품을 얼굴 옆에 들고 정면을 응시하는 구도로, 인물과 제품 라벨을 동시에 보여주며 모델·제품 신뢰를 한 번에 전달한다.",
+    "sections": [
+     {
+      "name": "모델 후킹 컷",
+      "role": "공감 후킹",
+      "copy": "MADAGASCAR CENTELLA LIGHT CLEANSING OIL / SKIN1004",
+      "share": 10
+     },
+     {
+      "name": "질감 시연 컷",
+      "role": "제품 특성 시연",
+      "copy": "손 위로 흘러내리는 투명한 오일 질감 연출",
+      "share": 12
+     },
+     {
+      "name": "제품 연출 컷",
+      "role": "제품 이미지 강화",
+      "copy": "MADE WITH PURE CENTELLA FROM MADAGASCAR",
+      "share": 15
+     },
+     {
+      "name": "라이프스타일 연출 컷",
+      "role": "사용 장면 제안",
+      "copy": "빛이 드는 실내에서 여러 병을 배치한 무드 컷",
+      "share": 15
+     },
+     {
+      "name": "원료 스토리 컷",
+      "role": "원료 신뢰 형성",
+      "copy": "마다가스카르 산지 이미지와 패키지 연결 연출",
+      "share": 15
+     },
+     {
+      "name": "제품 무드 컷",
+      "role": "브랜드 무드 강화",
+      "copy": "돌 질감 배경의 단독 제품 컷",
+      "share": 13
+     },
+     {
+      "name": "용량 옵션 컷",
+      "role": "구매 결정",
+      "copy": "200ML / 6.76 FL.OZ 와 30ML 용량 누끼 컷",
+      "share": 20
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#B19171",
+     "pct": 30
+    },
+    {
+     "hex": "#BBAEA1",
+     "pct": 26
+    },
+    {
+     "hex": "#664937",
+     "pct": 17
+    },
+    {
+     "hex": "#F2F1F0",
+     "pct": 13
+    },
+    {
+     "hex": "#CAC1B8",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "Madagascar Centella Light Cleansing Oil | Cleanser | SKIN1004",
+  "height_px": 6020,
+  "link_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-light-cleansing-oil",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "3a7d3b7beae0",
+  "brand": "스킨1004",
+  "channel": "상세페이지",
+  "source_name": "스킨1004 국내 공식몰",
+  "page_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-tone-brightening-capsule-ampoule",
+  "image_src": "https://www.skin1004.com/products/skin1004-madagascar-centella-tone-brightening-capsule-ampoule",
+  "collected_at": "2026-11-18",
+  "hash": "afcc1f1b980f0fcc",
+  "image": "images/3a7d3b7beae0.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "스킨1004",
+   "product": "마다가스카르 센텔라 톤 브라이트닝 캡슐 앰플",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "모델·셀럽",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "MADAGASCAR CENTELLA TONE BRIGHTENING CAPSULE AMPOULE",
+    "sub": "Made with pure centella from Madagascar",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "상단은 모델이 스포이트로 앰플을 들어 올리는 컷, 이후 초록 배경 위 제품 단독 컷과 흐르는 세럼 질감 컷, 흑백 연출의 제품+돌 오브제 컷으로 이어지며 마지막에 용량별 제품 컷을 배치",
+   "tone": [
+    "청결",
+    "미니멀",
+    "자연 친화"
+   ],
+   "target": "잡티·톤 고민이 있고 미니멀한 스킨케어 루틴을 선호하는 20~30대 남녀",
+   "why_it_hooks": "흰색과 흑백 위주의 절제된 연출 속에서 모델의 손에 든 투명 앰플과 흐르는 세럼 질감이 맑은 제형을 직관적으로 전달합니다. 초록 배경 컷은 '센텔라(자연 원료)'라는 메시지를 색으로 강조합니다.",
+   "pdp": {
+    "first_screen_hook": "흰 배경 속 모델이 스포이트로 앰플을 들어 올리는 모습과 그 아래 투명한 세럼 질감이 첫 화면에서 제품을 사용하는 장면을 보여줍니다.",
+    "sections": [
+     {
+      "name": "모델 사용 장면",
+      "role": "공감 후킹",
+      "copy": "MADAGASCAR CENTELLA TONE BRIGHTENING CAPSULE AMPOULE",
+      "share": 12
+     },
+     {
+      "name": "제품 단독 소개",
+      "role": "해결책 제시",
+      "copy": "TONE BRIGHTENING CAPSULE AMPOULE / Made with pure centella from Madagascar",
+      "share": 12
+     },
+     {
+      "name": "세럼 질감 강조",
+      "role": "제형 설명",
+      "copy": "<없음(이미지 내 글자 없음)>",
+      "share": 8
+     },
+     {
+      "name": "흑백 그림자 연출",
+      "role": "제품 이미지 강화",
+      "copy": "<없음(이미지 내 글자 없음)>",
+      "share": 14
+     },
+     {
+      "name": "오브제 연출 컷",
+      "role": "브랜드 무드 전달",
+      "copy": "<없음(이미지 내 글자 없음)>",
+      "share": 16
+     },
+     {
+      "name": "용량별 제품 컷",
+      "role": "구매 결정",
+      "copy": "50ML / 1.69 FL.OZ 표기, MADE WITH PURE CENTELLA FROM MADAGASCAR",
+      "share": 20
+     },
+     {
+      "name": "소용량 제품 컷",
+      "role": "구매 결정",
+      "copy": "30ML / 1.01 FL.OZ 표기",
+      "share": 18
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#48714E",
+     "pct": 35
+    },
+    {
+     "hex": "#E1E2E1",
+     "pct": 34
+    },
+    {
+     "hex": "#C6BEB6",
+     "pct": 16
+    },
+    {
+     "hex": "#564230",
+     "pct": 8
+    },
+    {
+     "hex": "#537350",
+     "pct": 6
+    }
+   ]
+  },
+  "page_title": "Madagascar Centella Tone Brightening Capsule Ampoule | Skin Care | SKIN1004",
+  "height_px": 7740,
+  "link_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-tone-brightening-capsule-ampoule",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "9b10bd73a15b",
+  "brand": "스킨1004",
+  "channel": "상세페이지",
+  "source_name": "스킨1004 국내 공식몰",
+  "page_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-toning-toner",
+  "image_src": "https://www.skin1004.com/products/skin1004-madagascar-centella-toning-toner",
+  "collected_at": "2026-11-18",
+  "hash": "4d4d694ccdfbcc0d",
+  "image": "images/9b10bd73a15b.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "스킨1004",
+   "product": "마다가스카르 센텔라 토닝 토너",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "MADAGASCAR CENTELLA TONING TONER",
+    "sub": "MADE WITH PURE CENTELLA FROM MADAGASCAR",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "상단 중앙에 제품 단독컷을 배치하고, 이후 하단에서 토너 질감 클로즈업과 흩뿌려진 토너 연출로 이어지는 세로 스크롤 구조이며, 텍스트는 제품 라벨 외에 거의 없음",
+   "tone": [
+    "청초함",
+    "자연 친화",
+    "미니멀"
+   ],
+   "target": "마다가스카르 센텔라 등 순한 진정 성분에 관심 있는 민감성·자극에 예민한 피부 사용자",
+   "why_it_hooks": "황금빛 투명 토너 질감과 물방울 클로즈업이 맑고 순한 이미지를 즉시 전달하며, 흰색 라벨과 여백이 많은 미니멀한 구성이 고급스러운 인상을 줍니다.",
+   "pdp": {
+    "first_screen_hook": "녹색 배경 위 황금빛 토너 병을 중앙에 단독으로 배치해 제품 자체의 색감과 '마다가스카르 센텔라' 라벨을 바로 인지시킵니다.",
+    "sections": [
+     {
+      "name": "제품 히어로",
+      "role": "제품 첫인상 제시",
+      "copy": "MADAGASCAR CENTELLA TONING TONER / MADE WITH PURE CENTELLA FROM MADAGASCAR",
+      "share": 10
+     },
+     {
+      "name": "질감 클로즈업",
+      "role": "제품 특성 시각화",
+      "copy": "글자 없음 (토너 표면 기포·물방울 클로즈업)",
+      "share": 15
+     },
+     {
+      "name": "용량 옵션 컷",
+      "role": "용량 선택 안내",
+      "copy": "용량별 제품 병 비교 (라벨 텍스트만 노출)",
+      "share": 10
+     },
+     {
+      "name": "제품 디테일 컷",
+      "role": "제품 신뢰감 강화",
+      "copy": "400ml 제품 정면 컷 (라벨: MADE WITH PURE CENTELLA FROM MADAGASCAR)",
+      "share": 10
+     },
+     {
+      "name": "텍스처 연출",
+      "role": "사용감 상상 유도",
+      "copy": "병을 기울여 토너가 흘러내리는 연출 (글자 없음)",
+      "share": 15
+     },
+     {
+      "name": "무드 연출",
+      "role": "브랜드 무드 전달",
+      "copy": "돌 위 그림자 연출 컷 (글자 없음)",
+      "share": 20
+     },
+     {
+      "name": "라이프스타일 연출",
+      "role": "제품 존재감과 감성 강화",
+      "copy": "돌 위 제품과 흘러내린 토너 연출 (글자 없음)",
+      "share": 20
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": false,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#49714E",
+     "pct": 53
+    },
+    {
+     "hex": "#D6AE71",
+     "pct": 44
+    },
+    {
+     "hex": "#48714E",
+     "pct": 2
+    },
+    {
+     "hex": "#597148",
+     "pct": 1
+    },
+    {
+     "hex": "#426343",
+     "pct": 0
+    }
+   ]
+  },
+  "page_title": "Madagascar Centella Toning Toner | Skin Care | SKIN1004",
+  "height_px": 6020,
+  "link_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-toning-toner",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "8b9f0eb54d61",
+  "brand": "스킨1004",
+  "channel": "상세페이지",
+  "source_name": "스킨1004 국내 공식몰",
+  "page_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-soothing-cream",
+  "image_src": "https://www.skin1004.com/products/skin1004-madagascar-centella-soothing-cream",
+  "collected_at": "2026-11-18",
+  "hash": "e4e64d4d4c668e8d",
+  "image": "images/8b9f0eb54d61.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "스킨1004",
+   "product": "마다가스카르 센텔라 수딩 크림",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "성분·효능",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "MADAGASCAR CENTELLA SOOTHING CREAM",
+    "sub": "MADE WITH PURE CENTELLA FROM MADAGASCAR",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "첫 화면에 모델이 제품 튜브를 얼굴 옆에서 들고 있고, 이후 질감컷·라이프스타일컷·그린 배경 단독 제품컷이 순서대로 이어지는 세로 스크롤 구조이며 제품 로고 텍스트는 작게 배치됨",
+   "tone": [
+    "내추럴",
+    "미니멀",
+    "차분한 소버"
+   ],
+   "target": "자극 없이 진정 케어를 원하는 민감성·건조 피부 사용자, 특히 간결한 루틴을 선호하는 남녀 2030",
+   "why_it_hooks": "흰 배경 위 모델의 시선과 제품을 든 손 동작이 자연스럽게 시선을 튜브로 끌어당기며, 크림의 황금빛 질감컷이 성분의 순수함을 시각적으로 전달합니다.",
+   "pdp": {
+    "first_screen_hook": "흰 배경의 모델이 제품 튜브를 얼굴 옆에 들고 시선을 던지는 컷으로, 인물과 제품이 한 프레임에서 바로 연결되어 시선을 붙잡습니다.",
+    "sections": [
+     {
+      "name": "모델 히어로컷",
+      "role": "공감 후킹",
+      "copy": "MADAGASCAR CENTELLA SOOTHING CREAM",
+      "share": 18
+     },
+     {
+      "name": "제품 질감 클로즈업",
+      "role": "성분 신뢰 형성",
+      "copy": "",
+      "share": 14
+     },
+     {
+      "name": "제품 디테일 및 라이프스타일컷",
+      "role": "제품 이해",
+      "copy": "MADE WITH PURE CENTELLA FROM MADAGASCAR",
+      "share": 16
+     },
+     {
+      "name": "제품 단독 컷",
+      "role": "제품 확인",
+      "copy": "",
+      "share": 8
+     },
+     {
+      "name": "사용 장면",
+      "role": "사용법 제안",
+      "copy": "",
+      "share": 16
+     },
+     {
+      "name": "제품 단독 컷 (그린 배경)",
+      "role": "구매 결정",
+      "copy": "",
+      "share": 28
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#BB976A",
+     "pct": 26
+    },
+    {
+     "hex": "#AD804E",
+     "pct": 25
+    },
+    {
+     "hex": "#DFD7CE",
+     "pct": 20
+    },
+    {
+     "hex": "#49714E",
+     "pct": 19
+    },
+    {
+     "hex": "#4E3627",
+     "pct": 10
+    }
+   ]
+  },
+  "page_title": "Madagascar Centella Soothing Cream | Skin Care | SKIN1004",
+  "height_px": 6020,
+  "link_url": "https://www.skin1004.com/products/skin1004-madagascar-centella-soothing-cream",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "91dc8a7aec75",
+  "brand": "넘버즈인",
+  "channel": "상세페이지",
+  "source_name": "넘버즈인 국내 공식몰",
+  "page_url": "https://numbuzin.com/product/detail.html?product_no=173",
+  "image_src": "https://numbuzin.com/product/detail.html?product_no=173",
+  "collected_at": "2026-11-18",
+  "hash": "a4b6d0e1c16c4cc8",
+  "image": "images/91dc8a7aec75.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "넘버즈인",
+   "product": "넘버즈인 마스크팩 6종 (1번 판토텐산 클리어 수딩거즈팩 중심)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "공식몰 단독 60% OFF 할인",
+    "secondary": [
+     "역대급 수분폭탄 클리어 수딩거즈팩",
+     "3천만장 판매 누적 판매량",
+     "셀럽 모델 기용",
+     "로즈 PDRN·펩타이드 등 성분 시각화"
+    ]
+   },
+   "copy": {
+    "main": "역대급 수분폭탄! 클리어 수딩거즈팩",
+    "sub": "넘버즈인 히알루로닉 판토텐산 클리어 수딩거즈팩 / 넘버즈인 1번 마스크팩 Pantothenic B5 Hyaluronic Active Clear Mask",
+    "cta": "공식몰 단독 60% OFF"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 할인 배지와 6종 제품을 가로 배열로 배치하고, 하단에서 대형 헤드카피와 모델 컷으로 이어지는 세로 흐름",
+   "tone": [
+    "청량",
+    "산뜻한 신뢰감",
+    "캐주얼 팝"
+   ],
+   "target": "간편하게 수분 케어와 트러블 관리를 하고 싶은 10~30대 대중 스킨케어 소비자",
+   "why_it_hooks": "파스텔 컬러 6종 제품 행렬과 노란색 하이라이트 헤드카피가 시선을 끌고, 공식몰 단독 60% 할인 배지가 즉각적인 구매 이유를 줍니다.",
+   "pdp": {
+    "first_screen_hook": "상단 '공식몰 단독 60% OFF' 배지와 6종 제품 라인업으로 할인과 제품 다양성을 동시에 보여줍니다.",
+    "sections": [
+     {
+      "name": "할인 배지 및 제품 라인업",
+      "role": "구매 결정 유도",
+      "copy": "공식몰 단독 60% OFF",
+      "share": 12
+     },
+     {
+      "name": "메인 헤드카피",
+      "role": "공감 후킹",
+      "copy": "역대급 수분폭탄! 클리어 수딩거즈팩",
+      "share": 10
+     },
+     {
+      "name": "제품 타이틀 및 모델 컷",
+      "role": "제품 소개, 모델 신뢰",
+      "copy": "넘버즈인 1번 마스크팩 / Pantothenic B5 Hyaluronic Active Clear Mask",
+      "share": 18
+     },
+     {
+      "name": "성분 시각화",
+      "role": "근거 제시",
+      "copy": "펜타이드 9종, 로즈 PDRN, 플럼핑 성분",
+      "share": 15
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#78D4D5",
+     "pct": 36
+    },
+    {
+     "hex": "#F6F6EE",
+     "pct": 34
+    },
+    {
+     "hex": "#838687",
+     "pct": 14
+    },
+    {
+     "hex": "#FBECCA",
+     "pct": 10
+    },
+    {
+     "hex": "#B2E5D9",
+     "pct": 6
+    }
+   ]
+  },
+  "page_title": "[3천만장 판매] 마스크팩 6종 1+1 (총 10매) - 넘버즈인",
+  "height_px": 3566,
+  "link_url": "https://numbuzin.com/product/detail.html?product_no=173",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "e2e13ffe4a62"
+ },
+ {
+  "id": "fd7dfb79e322",
+  "brand": "달바",
+  "channel": "상세페이지",
+  "source_name": "달바 국내 공식몰",
+  "page_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000044",
+  "image_src": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000044",
+  "collected_at": "2026-11-18",
+  "hash": "e8e4a8f8dcd4c4d4",
+  "image": "images/fd7dfb79e322.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "달바",
+   "product": "워터풀 에센스 선크림 50ml",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "인증·임상",
+    "secondary": [
+     "수상·랭킹",
+     "성분·효능",
+     "리뷰·랭킹"
+    ]
+   },
+   "copy": {
+    "main": "눈에 보이지 않아도 차단은 확실하게",
+    "sub": "촉촉한 에센스 텍스처가 피부에 편안하게 밀착되어 수분감은 산뜻하게, 자외선 차단은 빈틈없이. 매일 부담 없이 사용할 수 있는 데일리 UV 케어를 완성합니다.",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 제품과 텍스처 컷·수상 뱃지를 배치하고, 이후 임상 결과를 표·그래프와 큰 수치 카피로 반복 강조하는 긴 세로 구성",
+   "tone": [
+    "청량·수분감",
+    "신뢰·임상 근거",
+    "깔끔·데일리"
+   ],
+   "target": "자외선 차단은 필요하지만 끈적임과 백탁, 메이크업 밀림이 싫은 20~30대 여성 데일리 선크림 구매자",
+   "why_it_hooks": "파란 수분 질감의 제품 컷과 SPF50+ PA++++, 글로우픽 수상 뱃지가 첫 화면에서 '가볍지만 확실한 차단'이라는 기대를 만든다. 이어서 임상 수치가 신뢰를 더한다.",
+   "pdp": {
+    "first_screen_hook": "투명한 블루 수분 배경 위 에센스 텍스처와 제품을 중앙에 두고, 글로우픽 수상 뱃지와 'SPF50+ PA++++'로 청량한 수분감과 차단력을 동시에 전달한다.",
+    "sections": [
+     {
+      "name": "첫 화면 히어로",
+      "role": "제품 및 상품명 노출",
+      "copy": "d'Alba Waterfull Essence Sun Cream / 워터풀 에센스 선크림 / 미백·주름개선·자외선차단 3중 기능성 화장품 / SPF50+/PA++++",
+      "share": 8
+     },
+     {
+      "name": "수상·랭킹 증명",
+      "role": "사회적 증거",
+      "copy": "2021 글로우픽 상반기 어워드 선에센스/세럼 부문 1위 / 2022 글로우픽 상반기 어워드 선에센스/세럼 부문 3위",
+      "share": 4
+     },
+     {
+      "name": "차단력 공감 후킹",
+      "role": "공감 후킹",
+      "copy": "눈에 보이지 않아도 차단은 확실하게 / 촉촉한 에센스 텍스처가 피부에 편안하게 밀착되어 수분감은 산뜻하게, 자외선 차단은 빈틈없이.",
+      "share": 6
+     },
+     {
+      "name": "UV 카메라 시연",
+      "role": "근거 시각화",
+      "copy": "일반 카메라 화면 / UV 카메라 화면 (소비자 이해를 돕기 위한 내부 UV촬영 영상)",
+      "share": 6
+     },
+     {
+      "name": "인체적용 시험 자외선 차단력",
+      "role": "임상 근거",
+      "copy": "인체적용 시험으로 확인된 달바 워터풀 에센스 선크림 자외선 차단력 [SPF50+ PA++++] / SPF50+ 이상의 자외선 차단력이 있는 것으로 확인",
+      "share": 10
+     },
+     {
+      "name": "기능 배지 및 체크리스트",
+      "role": "기능 요약",
+      "copy": "24시간 보습, 지속력, 이지워셔블, 블루라이트 차단, SPF50+ PA++++, 안티에이징 등 인체적용 시험 완료 항목 나열",
+      "share": 8
+     },
+     {
+      "name": "메이크업 지속·블루라이트·세정 테스트",
+      "role": "근거",
+      "copy": "TEST 02 24시간 메이크업 지속 효과 / TEST 03 1차 세정제에 의한 세정효과 417.17% 증가 / 블루라이트 차단 테스트",
+      "share": 12
+     },
+     {
+      "name": "안티에이징 임상",
+      "role": "효능 근거·비포애프터",
+      "copy": "단 2주, 잡티 및 기미 16.52% 완화 · 주름 28.22%, 피부톤 1.01% 개선 / 얼리 안티에이징 선크림",
+      "share": 10
+     },
+     {
+      "name": "포인트 소개",
+      "role": "차별점 제시",
+      "copy": "Point 2 24시간 보습 & 메이크업 지속 / Point 3 안티에이징 / Point 4 블루라이트 차단 / Point 5 국내 최대 지수 자외선 차단·이지워셔블 클렌징",
+      "share": 12
+     },
+     {
+      "name": "성분 소개",
+      "role": "성분 신뢰",
+      "copy": "White Truffle 이탈리아 피에몬테산 화이트 트러플 / Trufferol 특허 성분 / 병풀 추출물, 약모밀추출물, 자일리톨 컴플렉스",
+      "share": 10
+     },
+     {
+      "name": "추천 대상·사용법",
+      "role": "구매 결정",
+      "copy": "가볍고 산뜻한 사용감을 찾는 분, 비건 처방 순한 선크림을 찾는 분, 백탁 없이 투명한 선크림을 찾는 분 / How to USE 기초 스킨케어 마지막 단계에서 얼굴과 목, 팔, 다리 등 자외선에 노출되기 쉬운 피부에 골고루 발라줍니다.",
+      "share": 6
+     },
+     {
+      "name": "맞춤 달바 선케어 추천",
+      "role": "행동 유도·교차 판매",
+      "copy": "원하는 대로 골라쓰는 맞춤 달바 선케어 / 톤업 케어(핑크·퍼플·그린 톤업 선크림) / 수분 케어(에센스·수분·비타C 선크림)",
+      "share": 4
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#C9DDEB",
+     "pct": 26
+    },
+    {
+     "hex": "#F6F5F2",
+     "pct": 21
+    },
+    {
+     "hex": "#C4CAD3",
+     "pct": 18
+    },
+    {
+     "hex": "#ABC4DC",
+     "pct": 18
+    },
+    {
+     "hex": "#8B97A4",
+     "pct": 17
+    }
+   ]
+  },
+  "page_title": "워터풀 에센스 선크림 50ml - 달바부티크",
+  "height_px": 40000,
+  "link_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000044",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "3742cdb55752",
+  "brand": "달바",
+  "channel": "상세페이지",
+  "source_name": "달바 국내 공식몰",
+  "page_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000094",
+  "image_src": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000094",
+  "collected_at": "2026-11-18",
+  "hash": "c8d8f8e8c8f0d4e4",
+  "image": "images/3742cdb55752.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "달바",
+   "product": "달바 워터풀 톤업 선크림 (UV 에센스 워터풀+ 핑크 코렉팅, SPF50+ PA++++)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "신제품",
+    "secondary": [
+     "리뷰·랭킹",
+     "인증·임상",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "나에게 꼭 맞는 달바 톤업 선크림",
+    "sub": "다양한 피부 톤과 피부 고민에 맞춰 세심하게 준비한 컬러 쉐이드",
+    "cta": "강력한 자외선 차단 효과 확인하고 사용하세요!"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 컬러 쉐이드 제목과 실제 피부에 발린 스와치를 크게 배치하고, 이후 제품 컷·수상 뱃지·임상 표·리뷰 수치를 긴 세로 흐름으로 나열하는 구조",
+   "tone": [
+    "청초한",
+    "맑은 물광",
+    "신뢰감 있는 임상"
+   ],
+   "target": "톤업과 피부 보정을 원하면서 자외선 차단도 놓치고 싶지 않은 20~40대 여성",
+   "why_it_hooks": "피부에 바른 실제 스와치와 핑크·퍼플·그린·블루 등 쉐이드를 한눈에 비교하게 하여 '내 피부에 맞을까?'라는 궁금증을 자극합니다. 또한 어워드 뱃지와 SPF50+ 수치가 신뢰를 빠르게 형성합니다.",
+   "pdp": {
+    "first_screen_hook": "피부에 실제로 발린 5가지 톤업 스와치와 '나에게 꼭 맞는 톤업 선크림'이라는 카피로 색상 선택의 고민을 먼저 건드립니다.",
+    "sections": [
+     {
+      "name": "컬러 쉐이드 소개",
+      "role": "공감 후킹",
+      "copy": "나에게 꼭 맞는 달바 톤업 선크림 / 다양한 피부 톤과 피부 고민에 맞춰 세심하게 준비한 컬러 쉐이드",
+      "share": 12
+     },
+     {
+      "name": "쉐이드별 특징 가이드",
+      "role": "해결책 제시",
+      "copy": "베이지 21 내 피부 컬러에 맞춘 커버 톤업 / 핑크 자연스러운 생기 톤업 / 퍼플 노란 피부 추천 / 그린 붉은 피부 추천 / 블루 칙칙한 피부 추천",
+      "share": 12
+     },
+     {
+      "name": "핑크·베이지 톤업 설명",
+      "role": "제품 설명",
+      "copy": "핑크: 자연스러운 생기를 불어넣는 핑크 톤업 (톤업력 ●●○○○) / 베이지: 내 피부 컬러에 맞춰 가장 자연스러운 톤업 (톤업력 ●○○○○)",
+      "share": 8
+     },
+     {
+      "name": "퍼플·그린·블루 톤업 설명",
+      "role": "제품 설명",
+      "copy": "퍼플: 노란기 잡아주는 화사한 퍼플 톤업 / 그린: 붉은기 잠재워주는 말간 그린 톤업 / 블루: 칙칙함까지 맑게 톤업 시켜주는 블루 톤업",
+      "share": 8
+     },
+     {
+      "name": "자외선 차단 임상 근거",
+      "role": "근거",
+      "copy": "인체적용 시험으로 확인된 달바 워터풀 톤업 선크림(핑크) 자외선 차단력 SPF50+ PA++++ / 자외선B 차단지수 SPF 57.3 ± 8.9, 자외선A 차단지수 시험 결과 첨부",
+      "share": 12
+     },
+     {
+      "name": "제품 소개 및 수상 뱃지",
+      "role": "사회적 증거",
+      "copy": "d'Alba Waterfull Tone-Up Sun Cream 워터풀 톤업 선크림 [미백·주름개선·자외선차단 3중 기능성 화장품] / 2023 상반기 기능성 어워드, 2022 글로우픽 1위, 2025 뷰티워즈 1위, 파우더룸 에디터스 픽, 마리끌레르 에디터스 뷰티픽, ELLE EDITOR'S PICK",
+      "share": 10
+     },
+     {
+      "name": "피부 보습·광채·세정 임상",
+      "role": "근거",
+      "copy": "TEST 01 보습 및 30시간 보습 지속 효과 (사용 직후 75.398) / TEST 02 광채 및 30시간 광채 지속 효과 / TEST 05 1차 세정 효과 111.61% 증가",
+      "share": 8
+     },
+     {
+      "name": "안티에이징·광노화 개선 임상",
+      "role": "비포애프터",
+      "copy": "TEST 06 잡티 및 기미완화 23.20% 감소(2주) / TEST 09 광노화 색소 침착 7.11% 감소 / TEST 10 광노화 탄력 1.87% 증가",
+      "share": 8
+     },
+     {
+      "name": "사용 만족도 설문",
+      "role": "사회적 증거",
+      "copy": "달바 워터풀 톤업 선크림 써보면 확실히 알아요 / 촉촉함 만족도 98%, 피부에 가볍게 밀려요 97%, 피부 광채 만족도 95%, 매일 사용해도 부담스럽지 않아요 94%",
+      "share": 6
+     },
+     {
+      "name": "제품 포인트 및 피부 적용 비교",
+      "role": "해결책 제시",
+      "copy": "Point 5 무너짐 없는 강력 차단 톤업 선크림 / Point 1 WATERFULL TEXTURE 촉촉밀착 / Point 4 어떤 피부도 내 피부인 듯 투명하게 맞고 화사한 톤업 (밝은·어두운·붉은·노란 피부 미도포·1회·2회 비교)",
+      "share": 8
+     },
+     {
+      "name": "핵심 성분 설명",
+      "role": "성분 근거",
+      "copy": "Ingredients #1 이탈리아산 화이트 트러플(흰서양송로추출물) / 달바 독자 특허 성분 트러페롤™ (특허 제 10-2332666호) / 다각도 얼리 안티에이징 CARE SOLUTION",
+      "share": 8
+     }
+    ]
+   },
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 36
+    },
+    {
+     "hex": "#EAD2CA",
+     "pct": 33
+    },
+    {
+     "hex": "#D2ACA3",
+     "pct": 19
+    },
+    {
+     "hex": "#F6EAE5",
+     "pct": 11
+    },
+    {
+     "hex": "#FFF4ED",
+     "pct": 1
+    }
+   ]
+  },
+  "page_title": "워터풀 톤업 선크림 - 달바부티크",
+  "height_px": 40000,
+  "link_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000094",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "ec58b5ae553f",
+  "brand": "달바",
+  "channel": "상세페이지",
+  "source_name": "달바 국내 공식몰",
+  "page_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000451",
+  "image_src": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000451",
+  "collected_at": "2026-11-18",
+  "hash": "bea6e10598989ee8",
+  "image": "images/ec58b5ae553f.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "달바",
+   "product": "슬림 핏 세라믹 괄사",
+   "product_type": "디바이스",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "루틴 제안",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "Slim Fit Ceramic Guasha (슬림 핏 세라믹 괄사)",
+    "sub": "턱선, 목 뒤, 허벅지, 종아리, 힙 등 부위별 맞춤 지압존 구성",
+    "cta": "가품 주의 안내 및 공식 판매처 확인 안내 (구매 전 확인 요청)"
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "첫 화면에 오일이 번지는 노란 텍스처 클로즈업과 세라믹 괄사 제품컷을 세로로 쌓고, 이어서 모델 사용 컷을 교차 배치한 뒤 부위별 지점 설명을 제품 도식과 함께 나열하는 구조.",
+   "tone": [
+    "청초한",
+    "맑은 빛감",
+    "미니멀 프리미엄"
+   ],
+   "target": "얼굴·바디 라인 관리와 피부 마사지 루틴에 관심 있는 20~40대 여성",
+   "why_it_hooks": "노란 오일 텍스처와 그림자가 드리운 화이트 세라믹 제품이 부드럽고 고급스러운 첫인상을 주며, 모델이 피부에 직접 사용하는 장면이 사용 후 결과를 상상하게 만듭니다.",
+   "pdp": {
+    "first_screen_hook": "노란 오일 방울이 번지는 질감 클로즈업으로 스킨케어 감성을 먼저 열고, 세라믹 괄사 제품컷과 모델의 맑은 피부 컷으로 기대감을 높입니다.",
+    "sections": [
+     {
+      "name": "오프닝 무드 컷",
+      "role": "공감 후킹",
+      "copy": "노란 오일 텍스처 클로즈업 (텍스트 없음)",
+      "share": 6
+     },
+     {
+      "name": "제품 등장 및 모델 컷",
+      "role": "제품 소개",
+      "copy": "세라믹 괄사 제품컷 및 모델 얼굴 클로즈업",
+      "share": 10
+     },
+     {
+      "name": "타이틀 및 사용 장면",
+      "role": "해결책 제시",
+      "copy": "Slim Fit Ceramic Guasha (슬림 핏 세라믹 괄사)",
+      "share": 12
+     },
+     {
+      "name": "부위별 사용 장면",
+      "role": "사용 방법 안내",
+      "copy": "얼굴·목·등·팔 등 다양한 부위에서 사용하는 모델 컷",
+      "share": 14
+     },
+     {
+      "name": "부위별 지압존 도식",
+      "role": "근거 제시",
+      "copy": "지압존, 넓은 C존, 트위스트존, 커브존, V 지압존, V존, 돌기존 설명 (턱선, 목 뒤, 허벅지, 종아리, 힙, 두피관리, 샴푸, 발바닥 등)",
+      "share": 18
+     },
+     {
+      "name": "부위별 사용 예시",
+      "role": "사용 방법 안내",
+      "copy": "얼굴 라인, 목, 등, 겨드랑이 등 부위별 사용 컷과 도식 조합",
+      "share": 16
+     },
+     {
+      "name": "제조 공정",
+      "role": "신뢰 형성",
+      "copy": "몰드 성형부터 사출·마감까지 제조 과정 이미지 (텍스트 없음)",
+      "share": 12
+     },
+     {
+      "name": "가품 주의 안내",
+      "role": "구매 결정 및 신뢰 확보",
+      "copy": "가품에 주의하세요. 정식 제조 및 유통 제품이 아니므로 품질과 안정성에 문제가 발생할 수 있습니다. 정품·가품 구분 방법 및 본사 직영 공식 판매처 확인 방법 안내",
+      "share": 8
+     },
+     {
+      "name": "사명 변경 안내",
+      "role": "행동 유도",
+      "copy": "달바 사명 변경 안내 (2024.07.17부터 (주)달바글로벌) 및 공식 판매처 정보 확인 요청",
+      "share": 4
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": false,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#EAD28F",
+     "pct": 27
+    },
+    {
+     "hex": "#B0AD8A",
+     "pct": 26
+    },
+    {
+     "hex": "#C7C096",
+     "pct": 23
+    },
+    {
+     "hex": "#BAB288",
+     "pct": 14
+    },
+    {
+     "hex": "#90896A",
+     "pct": 10
+    }
+   ]
+  },
+  "page_title": "슬림 핏 세라믹 괄사 - 달바부티크",
+  "height_px": 26399,
+  "link_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000451",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "78cd3fdb492b",
+  "brand": "달바",
+  "channel": "상세페이지",
+  "source_name": "달바 국내 공식몰",
+  "page_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000069",
+  "image_src": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000069",
+  "collected_at": "2026-11-18",
+  "hash": "d8c4f817ccfc9ccc",
+  "image": "images/78cd3fdb492b.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "달바",
+   "product": "달바 워터풀 마일드 선크림 50ml",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "인증·임상",
+     "리뷰·랭킹",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "눈에 보이지 않아도 차단은 확실하게",
+    "sub": "촉촉한 에센스 텍스처가 피부에 편안하게 밀착되어 수분감은 산뜻하게, 자외선 차단은 빈틈없이. 매일 부담 없이 사용할 수 있는 데일리 UV 케어를 완성합니다.",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 연두빛 배경 위 제품을 중앙에 크게 배치하고, 그 아래 제품명과 큰 헤드카피를 순서대로 배열하는 세로 스크롤형 구성",
+   "tone": [
+    "청량",
+    "산뜻",
+    "신뢰"
+   ],
+   "target": "민감성 피부를 포함해 자극과 백탁 없이 매일 부담 없이 쓸 수 있는 선크림을 찾는 20~30대 여성",
+   "why_it_hooks": "연두색 톤의 맑은 배경과 중앙 제품 컷이 선명하게 대비되며, '눈에 보이지 않아도 차단은 확실하게'라는 역설적 헤드카피가 호기심을 자극합니다.",
+   "pdp": {
+    "first_screen_hook": "연두빛 배경 위 중앙 제품 컷과 '차단은 확실하게'라는 헤드카피로 민감성 피부 데일리 선크림이라는 메시지를 즉시 전달합니다.",
+    "sections": [
+     {
+      "name": "히어로 제품 소개",
+      "role": "제품 소개",
+      "copy": "d'Alba Waterfull Mild Sun Cream / 워터풀 마일드 선크림 [자외선차단 기능성 화장품] SPF50+/PA++++",
+      "share": 12
+     },
+     {
+      "name": "공감 후킹·헤드카피",
+      "role": "공감 후킹",
+      "copy": "눈에 보이지 않아도 차단은 확실하게",
+      "share": 5
+     },
+     {
+      "name": "텍스처 시연",
+      "role": "제품 체험",
+      "copy": "일반 카메라 화면 vs UV 카메라 화면 비교 영상 (소비자 이해용 내부 UV 촬영)",
+      "share": 6
+     },
+     {
+      "name": "임상·인증 요약",
+      "role": "근거",
+      "copy": "인체적용 시험으로 확인된 달바 마일드 선크림: 논나노, 안자극, 이지워셔블, 자외선차단, 외부자극 피부 진정 인증 뱃지",
+      "share": 8
+     },
+     {
+      "name": "임상 데이터",
+      "role": "근거",
+      "copy": "물리적 자극 후 피부 진정 수치 그래프 (미사용 17.490 → 사용 20.956 → 30분 후 9.602)와 세정(이지 워셔블) 효과 비교",
+      "share": 10
+     },
+     {
+      "name": "사용자 후기",
+      "role": "사회적 증거",
+      "copy": "꿀피부처럼 광나요 / 순하게 발려요 / 민감한 편이라 세 번째 구매합니다",
+      "share": 8
+     },
+     {
+      "name": "핵심 특장점 1",
+      "role": "해결책 제시",
+      "copy": "무기자차 특유의 뽀얀백탁을 줄인 산뜻 & 촉촉 제형 (Point 1 WATERFULL TEXTURE)",
+      "share": 10
+     },
+     {
+      "name": "핵심 특장점 2",
+      "role": "해결책 제시",
+      "copy": "자외선 차단은 강력하게, 자극받은 민감 피부 진정 케어 효과까지",
+      "share": 8
+     },
+     {
+      "name": "성분 스토리",
+      "role": "근거",
+      "copy": "White Truffle / 트러페롤™ (특허 제10-2332666호), 병풀추출물, 알란토인, 하이드롤라이즈드 하이알루로닉애씨드 등 성분 설명",
+      "share": 10
+     },
+     {
+      "name": "인증 및 지속가능성",
+      "role": "신뢰 확보",
+      "copy": "V-LABEL 비건 인증, 인체피부 일차자극(저자극) 인체적용시험 완료, FSC 친산림 패키지 인증",
+      "share": 6
+     },
+     {
+      "name": "라인업 추천",
+      "role": "관련 상품 교차 판매",
+      "copy": "톤업 선크림, 수분 케어, 민감 케어, 맨즈 케어, 간편 케어 등 라인업 추천",
+      "share": 8
+     },
+     {
+      "name": "제품 정보",
+      "role": "구매 결정 정보",
+      "copy": "제품명, 용량 50ml, 사용기한, 사용방법, 제조사, 전성분 등 고지",
+      "share": 6
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": true,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#92A479",
+     "pct": 27
+    },
+    {
+     "hex": "#D1DBC2",
+     "pct": 26
+    },
+    {
+     "hex": "#AFBF9A",
+     "pct": 22
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 18
+    },
+    {
+     "hex": "#E9ECE3",
+     "pct": 6
+    }
+   ]
+  },
+  "page_title": "워터풀 마일드 선크림 50ml - 달바부티크",
+  "height_px": 30949,
+  "link_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000069",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "70ce593099b5",
+  "brand": "달바",
+  "channel": "상세페이지",
+  "source_name": "달바 국내 공식몰",
+  "page_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000521",
+  "image_src": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000521",
+  "collected_at": "2026-11-18",
+  "hash": "ecf8f0c2c0cca6c4",
+  "image": "images/70ce593099b5.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "달바",
+   "product": "달바 화이트 트러플 리턴 오일 크림 클렌저 (튜브형) 100ml",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "인체적용시험으로 확인한 즉각적 피부 요철 개선·노폐물 세정 수치",
+    "secondary": [
+     "성분·효능",
+     "인증·임상",
+     "루틴 제안",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "내 피부가 원하는 클렌징 케어 제품 선택 가이드",
+    "sub": "저자극 실크 클렌저로 환절기에도 속당김 없이 부드럽게! 이중 세안 필요 없는 달바 원스텝 클렌저",
+    "cta": "NO 더블 클렌징 / 요철 OUT! 피부결 개선 / 속보습&속당김 개선"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단 대형 헤드카피 아래 제형별 비교 가이드, 중반에 임상 수치 카드와 현미경·블루라이트 비포애프터, 후반에 성분·인증 및 사용법을 순차 배치",
+   "tone": [
+    "프리미엄",
+    "신뢰·과학적",
+    "부드러움"
+   ],
+   "target": "환절기 속당김과 이중 세안 번거로움이 있고, 메이크업·선크림을 한 번에 깨끗이 지우고 싶은 20~40대 여성",
+   "why_it_hooks": "골드·앰버 톤의 따뜻한 색감과 흘러내리는 오일 연출이 시선을 모으며, '이중 세안 OUT'과 '99%대 세정' 같은 구체적 수치가 호기심을 자극합니다.",
+   "pdp": {
+    "first_screen_hook": "'내 피부가 원하는 클렌징 케어 제품 선택 가이드' 헤드카피와 골드 톤 제품 사진으로 고민별 제품 선택을 제안하며 시선을 잡습니다.",
+    "sections": [
+     {
+      "name": "제품 선택 가이드 헤더",
+      "role": "공감 후킹",
+      "copy": "내 피부가 원하는 클렌징 케어 제품 선택 가이드",
+      "share": 5
+     },
+     {
+      "name": "오일 크림 클렌저 소개와 세정력·보습감 비교 차트",
+      "role": "해결책 제시",
+      "copy": "저자극 실크 클렌저로 환절기에도 속당김 없이 부드럽게! 이중 세안 필요 없는 달바 원스텝 클렌저 / #NO 더블 클렌징 #요철 OUT! #속보습&속당김 개선",
+      "share": 12
+     },
+     {
+      "name": "타 제품 비교 (비타 캡슐 클렌징 오일, 딥 클린 폼 클렌저)",
+      "role": "구매 결정",
+      "copy": "비타 캡슐 클렌징 오일 #블랙헤드+피지케어 #모공 타이트닝 / 딥 클린 폼 클렌저 #저자극 #순한 폼클렌징",
+      "share": 8
+     },
+     {
+      "name": "제품 소개 및 즉각 개선 임상 요약",
+      "role": "근거",
+      "copy": "달바 화이트 트러플 리턴 오일 크림 클렌저 (튜브) / 인체적용시험으로 확인한 달바 오일 크림 클렌저 / 즉각적 피부 요철(결) 개선 효과",
+      "share": 10
+     },
+     {
+      "name": "피부 속보습 개선 수치",
+      "role": "근거",
+      "copy": "TEST 02 피부 속보습 개선 효과 13.294% 개선 (1회 사용 후)",
+      "share": 6
+     },
+     {
+      "name": "모공 속 노폐물 세정 효과",
+      "role": "근거",
+      "copy": "TEST 03 모공 속 노폐물 세정 효과 99.196% 세정 (미세먼지 모사체, 1회 사용 직후)",
+      "share": 8
+     },
+     {
+      "name": "워터프루프 선크림·색조 메이크업 잔여물 세정",
+      "role": "근거",
+      "copy": "TEST 04 워터프루프 선크림 92.067% 세정 / TEST 05 모공 속 색조 메이크업 잔여물 99.7% 세정",
+      "share": 10
+     },
+     {
+      "name": "올인원 딥 클렌징 및 텍스처 설명",
+      "role": "해결책 제시",
+      "copy": "오일 투 폼 트랜스포밍 텍스처 / 모공 속 메이크업부터 워터프루프 선크림까지 모든 클렌징을 하나로! 올인원 딥 클렌징 / 벨기에산 스파워터(온천수) 14% 세안 후 피부 속까지 당김 없는 피부 / 비건 인증 식물성 계면활성제 저자극 세안 / 원하는 만큼 양 조절 가능, 여행 시 간편",
+      "share": 14
+     },
+     {
+      "name": "핵심 성분 소개",
+      "role": "근거",
+      "copy": "이탈리아산 화이트 트러플(흰서양송로추출물) 핵심 원료 / 달바 독자 특허 성분 트러페롤™ (특허 제10-2332666호) / 골드클레이(일라이트), 달바-8 블렌딩 오일",
+      "share": 10
+     },
+     {
+      "name": "인증·안전성",
+      "role": "인증",
+      "copy": "V-LABEL 비건 인증 완료 / 인체 피부 일차자극(저자극) 인체적용시험 완료",
+      "share": 4
+     },
+     {
+      "name": "사용법 및 제품 정보",
+      "role": "행동 유도",
+      "copy": "How to USE: 물기 없는 손에 2-3번 펌핑 후 맨 얼굴 또는 메이크업 위에 도포 → 거품 내며 롤링 → 미온수로 헹구기 / TIP 거품이 부드럽지 않으면 물을 더하기 / 제품명·내용량 100ml·모든 피부 / 사용기한 안내",
+      "share": 13
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FEFAF3",
+     "pct": 36
+    },
+    {
+     "hex": "#F0ECDF",
+     "pct": 20
+    },
+    {
+     "hex": "#FFFEFC",
+     "pct": 18
+    },
+    {
+     "hex": "#A29783",
+     "pct": 14
+    },
+    {
+     "hex": "#F8FBFD",
+     "pct": 11
+    }
+   ]
+  },
+  "page_title": "화이트 트러플 리턴 오일 크림 클렌저(튜브형) 100ml - 달바부티크",
+  "height_px": 33764,
+  "link_url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000521",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "15a13975336c",
+  "brand": "셀리맥스",
+  "channel": "상세페이지",
+  "source_name": "셀리맥스 국내 공식몰",
+  "page_url": "https://celimax.co.kr/product/detail.html?product_no=153",
+  "image_src": "https://celimax.co.kr/product/detail.html?product_no=153",
+  "collected_at": "2026-11-18",
+  "hash": "33b2c42323a8d9fc",
+  "image": "images/15a13975336c.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "셀리맥스",
+   "product": "듀얼배리어 마일드 젤 클렌저 200ml",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "99특가 가격 강조와 민감 피부 자극 테스트 결과",
+    "secondary": [
+     "피부 장벽 케어(듀얼배리어) 성분 설명",
+     "약산성 pH 5.2 안전성",
+     "24시간 일차자극 Excellent 임상 결과",
+     "부드러운 거품 질감 시연"
+    ]
+   },
+   "copy": {
+    "main": "[99특가] 듀얼배리어 마일드 젤 클렌저 200ml",
+    "sub": "마일드 젤 클렌저 (5.20±0.50) / 두 가지 타입의 펌프가 혼용되어 출고될 예정입니다. 내용물과 구성은 동일하오니 안심하시고 사용해 주세요.",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 펌프 혼용 안내 후 모델컷·성분 아이콘·pH 차트·임상 결과표·제품 질감컷을 세로로 배치해 근거를 쌓는 긴 상세페이지 구성",
+   "tone": [
+    "클린",
+    "미니멀",
+    "신뢰감"
+   ],
+   "target": "민감하고 건조한 피부를 가진 20~40대 여성 중 자극 없는 클렌저를 찾는 소비자",
+   "why_it_hooks": "흰색·회색 중심의 절제된 톤과 피부 장벽 이미지가 민감 피부 고민에 바로 반응하게 하며, 상단의 99특가 문구가 구매 동기를 즉시 자극합니다. 임상 결과표가 안전성 근거를 제시해 신뢰를 높입니다.",
+   "pdp": {
+    "first_screen_hook": "회색 배경의 '펌프 혼용 출고 안내'로 시작해 두 가지 펌프 타입과 동일 내용물을 명확히 전달하며 신뢰를 확보한 뒤, 모델컷으로 시선을 이동시킵니다.",
+    "sections": [
+     {
+      "name": "펌프 혼용 출고 안내",
+      "role": "구매 전 안내",
+      "copy": "펌프 혼용 출고 안내 / 두 가지 타입의 펌프가 혼용되어 출고될 예정입니다. 내용물과 구성은 동일합니다.",
+      "share": 10
+     },
+     {
+      "name": "모델 무드컷",
+      "role": "공감 후킹",
+      "copy": "(글자 없음) 손으로 턱을 괴고 생각에 잠긴 모델 이미지",
+      "share": 8
+     },
+     {
+      "name": "피부 고민 아이콘",
+      "role": "공감 후킹",
+      "copy": "(글자 없음) 번개·자극 아이콘과 캘린더 아이콘으로 민감 자극 고민을 시각화",
+      "share": 12
+     },
+     {
+      "name": "pH 및 안전성 설명",
+      "role": "근거 제시",
+      "copy": "마일드 젤 클렌저 (5.20±0.50) / 건강한 피부 pH (5.5~6.5), 건강한 눈물 pH (7.0~7.5)",
+      "share": 8
+     },
+     {
+      "name": "성분 작용 설명",
+      "role": "해결책 제시",
+      "copy": "세라마이드·부활초추출물 아이콘과 피부 장벽 도식 (범례 텍스트)",
+      "share": 8
+     },
+     {
+      "name": "사용 장면",
+      "role": "사용 경험",
+      "copy": "(글자 없음) 손에 거품을 내어 세안하는 장면",
+      "share": 8
+     },
+     {
+      "name": "임상 결과",
+      "role": "근거",
+      "copy": "인체적용시험 결과 요약문 / 피부 첩포에 의한 일차자극 테스트 · 판정 비자극(Excellent)",
+      "share": 14
+     },
+     {
+      "name": "제형·질감 컷",
+      "role": "제품 매력",
+      "copy": "(글자 없음) 투명한 젤 텍스처와 풍성한 거품 클로즈업",
+      "share": 10
+     },
+     {
+      "name": "모델 사용 컷",
+      "role": "사용 후 감성",
+      "copy": "(글자 없음) 거품으로 얼굴을 세안하는 모델",
+      "share": 8
+     },
+     {
+      "name": "제품 및 라이프스타일",
+      "role": "제품 노출",
+      "copy": "celimax 200ml 제품 연출컷 (글자 없음)",
+      "share": 6
+     },
+     {
+      "name": "브랜드 무드 콜라주",
+      "role": "브랜드 세계관",
+      "copy": "sensitive / dual barrier / dry skin 키워드 무드보드",
+      "share": 8
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 34
+    },
+    {
+     "hex": "#8A8A8C",
+     "pct": 31
+    },
+    {
+     "hex": "#BAC1C8",
+     "pct": 16
+    },
+    {
+     "hex": "#61514F",
+     "pct": 10
+    },
+    {
+     "hex": "#A09897",
+     "pct": 10
+    }
+   ]
+  },
+  "page_title": "[99특가] 듀얼배리어 마일드 젤 클렌저 200ml",
+  "height_px": 10940,
+  "link_url": "https://celimax.co.kr/product/detail.html?product_no=153",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "ccf426ef28e8"
+ },
+ {
+  "id": "548db1c43957",
+  "brand": "셀리맥스",
+  "channel": "상세페이지",
+  "source_name": "셀리맥스 국내 공식몰",
+  "page_url": "https://celimax.co.kr/product/detail.html?product_no=458",
+  "image_src": "https://celimax.co.kr/product/detail.html?product_no=458",
+  "collected_at": "2026-11-18",
+  "hash": "fce4c454e0e0c003",
+  "image": "images/548db1c43957.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "셀리맥스",
+   "product": "레티날 샷 타이트닝 퍼스트 에센스 토너 80ml",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "임상·인증",
+     "리뷰·랭킹",
+     "한정·마감"
+    ]
+   },
+   "copy": {
+    "main": "스킨케어 시작을 바꾸는 레티날 모공·결광 솔루션",
+    "sub": "9중 모공 케어 / 1회 사용 피부결 케어 / 8각 광채 케어",
+    "cta": "더 알아보기 >"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 대형 헤드카피와 제품 병을 중앙 배치하고, 섹션마다 Before/After 이미지·수치 그래픽을 크게 배치하는 세로 스크롤 구조",
+   "tone": [
+    "클리니컬",
+    "프리미엄",
+    "네온 옐로 포인트"
+   ],
+   "target": "모공·피부결·탄력 고민이 있으면서 레티날 입문을 고민하는 20~40대 여성",
+   "why_it_hooks": "형광 옐로 배경과 은색 메탈 용기가 강하게 대비되고, '9중 모공 케어', '1회 사용' 같은 큰 숫자 카피가 첫 화면에서 효과를 즉시 약속합니다.",
+   "pdp": {
+    "first_screen_hook": "레티날 제품 2병과 '레티날 모공·결광 솔루션' 헤드카피, 그리고 9중·1회·8각 숫자 카피를 한 화면에 배치해 효능을 바로 제시합니다.",
+    "sections": [
+     {
+      "name": "퍼스트 뷰 헤드카피",
+      "role": "공감 후킹",
+      "copy": "스킨케어 시작을 바꾸는 레티날 모공·결광 솔루션 / 9중 모공 케어 · 1회 사용 피부결 케어 · 8각 광채 케어",
+      "share": 10
+     },
+     {
+      "name": "문제 제기",
+      "role": "공감 후킹",
+      "copy": "놓쳐버린 세안 직후 골든타임, 남은 건 늘어지고 거친 피부",
+      "share": 6
+     },
+     {
+      "name": "임상 수치 근거",
+      "role": "근거",
+      "copy": "모공 고민의 근본부터, 빈틈없는 9중 모공 개선 (총 모공 부피 -29.9%, 평균 모공 부피 -13.1% 등)",
+      "share": 12
+     },
+     {
+      "name": "사용감 체험",
+      "role": "공감 후킹",
+      "copy": "손끝에서 느껴지는 매끈하고 균일한 피부결 (1회 사용 및 수면 후 피부결 이미지)",
+      "share": 8
+     },
+     {
+      "name": "성분 원리",
+      "role": "해결책 제시",
+      "copy": "차세대 안티에이징, 레티날 — 레티닐 팔미테이트→레티놀→레티날 활성화 단계",
+      "share": 8
+     },
+     {
+      "name": "연구 근거",
+      "role": "근거",
+      "copy": "연구와 논문을 통해 확인된 비타민A 레티날의 효과",
+      "share": 6
+     },
+     {
+      "name": "랭킹 사회적 증거",
+      "role": "사회적 증거",
+      "copy": "레티날 1위 셀리맥스가 만들면 다릅니다 (아마존 레티날 베스트셀러 1위 등)",
+      "share": 6
+     },
+     {
+      "name": "스피큘 설계",
+      "role": "해결책 제시",
+      "copy": "스피큘 듀얼 설계: 흡수 깊이 621% 개선, 15층 수분 부스팅 +527%",
+      "share": 10
+     },
+     {
+      "name": "광채 효과",
+      "role": "근거",
+      "copy": "정돈된 결 위로 더해지는 맑은 다이아몬드 광채 (눈꼬리·뺨 광채 +26~31%)",
+      "share": 6
+     },
+     {
+      "name": "안전성·사용법",
+      "role": "구매 결정",
+      "copy": "피부 저자극 0.00 인체적용시험 완료 / 3~5펌프 사용법 / 적응 반응·임산부 Q&A",
+      "share": 10
+     },
+     {
+      "name": "제품 라인업 및 판매 실적",
+      "role": "행동 유도",
+      "copy": "글로벌 1위 쫀쫀모공/탄력 레티날 샷 타이트닝 부스터 · 아마존 1위, 올리브영 1위, 10,148,003개 판매",
+      "share": 8
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FEFEE6",
+     "pct": 31
+    },
+    {
+     "hex": "#E4E549",
+     "pct": 31
+    },
+    {
+     "hex": "#FDFCEA",
+     "pct": 20
+    },
+    {
+     "hex": "#908F53",
+     "pct": 14
+    },
+    {
+     "hex": "#F9F967",
+     "pct": 5
+    }
+   ]
+  },
+  "page_title": "[럭키블프] 레티날 샷 타이트닝 퍼스트 에센스 토너 80ml - celimax",
+  "height_px": 40000,
+  "link_url": "https://celimax.co.kr/product/detail.html?product_no=458",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "521565783a4a"
+ },
+ {
+  "id": "b3309fcb7c4f",
+  "brand": "아비브",
+  "channel": "공식몰",
+  "source_name": "아비브 국내 공식몰",
+  "page_url": "https://abib.co.kr/",
+  "image_src": "https://abib.co.kr/web/upload/appfiles/ZaReJam3QiELznoZeGGkMG/d3449e739b84a8778936b881375e05fe.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "0008101230325224",
+  "image": "images/b3309fcb7c4f.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "아비브",
+   "product": "아비브 콜라겐 젤 마스크 (3종: 블루·베이지·그린 패키지)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품 자체의 미니멀한 패키지 비주얼",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "흰색·연회색 배경 위에 3개의 마스크 시트 패키지를 각도를 달리해 흩뿌린 듯 배치하고, 텍스트 카피 없이 제품 로고만 노출",
+   "tone": [
+    "미니멀",
+    "청결감",
+    "산뜻함"
+   ],
+   "target": "과도한 광고 문구보다 깔끔한 제품 이미지로 브랜드 취향을 판단하는 20~30대 스킨케어 사용자",
+   "why_it_hooks": "여백이 많은 밝은 배경에 파스텔 톤 패키지 3종이 서로 다른 각도로 떠 있어 시각적 리듬감이 있습니다. 다만 카피나 할인 문구가 없어 판촉 목적보다는 브랜드 이미지 컷에 가깝습니다.",
+   "palette": [
+    {
+     "hex": "#F5F5F7",
+     "pct": 85
+    },
+    {
+     "hex": "#F7F7F9",
+     "pct": 7
+    },
+    {
+     "hex": "#E1E2DB",
+     "pct": 6
+    },
+    {
+     "hex": "#F5F5F3",
+     "pct": 2
+    },
+    {
+     "hex": "#F4F5F9",
+     "pct": 0
+    }
+   ]
+  },
+  "alt": "Main(PC)_11월 상시 웰컴딜",
+  "link_url": "https://abib.co.kr/surl/P/786",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "9e8c4aa691c0",
+  "brand": "아비브",
+  "channel": "공식몰",
+  "source_name": "아비브 국내 공식몰",
+  "page_url": "https://abib.co.kr/",
+  "image_src": "https://abib.co.kr/web/upload/appfiles/ZaReJam3QiELznoZeGGkMG/6cfa867dddfb33ed8c3832e80f5aa9b7.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "1f181924252d2507",
+  "image": "images/9e8c4aa691c0.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "아비브",
+   "product": "아비브 제품군 (튜브형 제품 2개 노출, 제품명 식별 불가)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·라이프스타일 연출",
+    "secondary": [
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "모델",
+   "layout": "모델이 바닥에 앉아 휴대폰을 든 모습이 화면 중앙에 배치되고, 바닥의 튜브형 제품 2개가 하단에 작게 놓여 있으며, 텍스트는 없음",
+   "tone": [
+    "레트로",
+    "미니멀",
+    "감각적"
+   ],
+   "target": "복고 감성과 일상 셀프 촬영 문화에 관심 있는 20대 여성 소비자",
+   "why_it_hooks": "구형 브라운관 TV, 민트 그린 큐브, 화이트 배경이 만드는 레트로 무드와 셀프카메라를 찍는 자연스러운 포즈가 시선을 끕니다. 문구 없이 모델 연출만으로 브랜드 감성을 전달하는 점이 특징입니다.",
+   "palette": [
+    {
+     "hex": "#999FA4",
+     "pct": 31
+    },
+    {
+     "hex": "#A7AEB6",
+     "pct": 22
+    },
+    {
+     "hex": "#B3BAC2",
+     "pct": 19
+    },
+    {
+     "hex": "#798084",
+     "pct": 19
+    },
+    {
+     "hex": "#C7CED5",
+     "pct": 9
+    }
+   ]
+  },
+  "alt": "Main(PC)_2",
+  "link_url": "https://abib.co.kr/product/detail.html?product_no=553",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "2397dbdb010c",
+  "brand": "아비브",
+  "channel": "공식몰",
+  "source_name": "아비브 국내 공식몰",
+  "page_url": "https://abib.co.kr/",
+  "image_src": "https://abib.co.kr/web/upload/appfiles/ZaReJam3QiELznoZeGGkMG/972af08e3fee94a202124c788a239eed.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "3133333232736547",
+  "image": "images/2397dbdb010c.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "아비브",
+   "product": "세럼 제품 (스포이트 앰플 추정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·라이프스타일 이미지",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "모델",
+   "layout": "모델이 벽 모서리에 기대어 얼굴 옆에 제품을 들고 있고, 오른쪽에는 빛이 드리운 사선 그림자가 배경을 채운다.",
+   "tone": [
+    "청초함",
+    "미니멀",
+    "자연광"
+   ],
+   "target": "깔끔하고 자연스러운 피부 표현을 선호하는 20~30대 여성 소비자",
+   "why_it_hooks": "흰색 톤의 여백과 강한 사선 빛 그림자가 시선을 모으고, 모델이 제품을 얼굴 가까이 들어 제품 사용 장면을 자연스럽게 연상시킨다.",
+   "palette": [
+    {
+     "hex": "#E9F1F3",
+     "pct": 30
+    },
+    {
+     "hex": "#A7B3B9",
+     "pct": 21
+    },
+    {
+     "hex": "#AFB7BB",
+     "pct": 21
+    },
+    {
+     "hex": "#C7CFD3",
+     "pct": 14
+    },
+    {
+     "hex": "#8B8C8D",
+     "pct": 14
+    }
+   ]
+  },
+  "alt": "Main(PC)_3",
+  "link_url": "https://abib.co.kr/category/%EC%88%98%EB%B6%84/85/",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "766832af0e86",
+  "brand": "아비브",
+  "channel": "공식몰",
+  "source_name": "아비브 국내 공식몰",
+  "page_url": "https://abib.co.kr/",
+  "image_src": "https://abib.co.kr/web/upload/appfiles/ZaReJam3QiELznoZeGGkMG/f24b0fe68b3e65e29e2a09aaefc871b9.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "240b317971799966",
+  "image": "images/766832af0e86.jpg",
+  "analysis": null,
+  "alt": "Main(MO)_11월 상시 웰컴딜",
+  "link_url": "https://abib.co.kr/surl/P/786",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "81d01935e58d",
+  "brand": "아비브",
+  "channel": "공식몰",
+  "source_name": "아비브 국내 공식몰",
+  "page_url": "https://abib.co.kr/",
+  "image_src": "https://abib.co.kr/web/upload/appfiles/ZaReJam3QiELznoZeGGkMG/cd721fe67eac6703e591f5026a9e2ceb.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "0d1c0a91a3838101",
+  "image": "images/81d01935e58d.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "아비브",
+   "product": "아비브 튜브형 제품 (크림/세럼 추정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "모델",
+   "layout": "모델이 화면 중앙·좌측에서 거울을 보는 포즈로 배치되고, 제품 튜브 2개는 우하단에 작게 놓여 시선을 보조함",
+   "tone": [
+    "내추럴",
+    "캐주얼",
+    "레트로 감성"
+   ],
+   "target": "20대 초중반 여성 중 데일리 스킨케어와 가벼운 메이크업을 선호하고 SNS 감성 화보 스타일에 공감하는 소비자",
+   "why_it_hooks": "모델이 휴대폰 거울을 보며 자연스럽게 포즈를 취하는 일상 컷이라 광고 같지 않은 친근함이 있고, 흰 벽과 구형 TV, 파스텔 톤 소품이 어우러져 시선을 끕니다. 제품은 작게 배치되어 있어 제품 설명보다 감성 이미지로 먼저 다가갑니다.",
+   "palette": [
+    {
+     "hex": "#A7AEB8",
+     "pct": 36
+    },
+    {
+     "hex": "#B6BBC3",
+     "pct": 21
+    },
+    {
+     "hex": "#BDC9CF",
+     "pct": 20
+    },
+    {
+     "hex": "#7F868A",
+     "pct": 13
+    },
+    {
+     "hex": "#D8DCE3",
+     "pct": 11
+    }
+   ]
+  },
+  "alt": "Main(MO)_2",
+  "link_url": "https://abib.co.kr/product/detail.html?product_no=553",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "bba9c6735860",
+  "brand": "아비브",
+  "channel": "공식몰",
+  "source_name": "아비브 국내 공식몰",
+  "page_url": "https://abib.co.kr/",
+  "image_src": "https://abib.co.kr/web/upload/appfiles/ZaReJam3QiELznoZeGGkMG/6a42e1b69230ff0687007bf7b0ef9bb4.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "f9e9f8f0e5c87065",
+  "image": "images/bba9c6735860.jpg",
+  "analysis": null,
+  "alt": "Main(MO)_3",
+  "link_url": "https://abib.co.kr/category/%EC%88%98%EB%B6%84/85/",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "3a7c7b53316b",
+  "brand": "바이오던스",
+  "channel": "공식몰",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/",
+  "image_src": "https://biodance.co.kr/web/product/tiny/202610/617893e538d00e6fe71838c819b30cfd.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "26dcd8d8d9f9dc60",
+  "image": "images/3a7c7b53316b.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "바이오던스",
+   "product": "콜라겐 펩타이드 아이 패치 (30 pairs)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "한정·마감",
+    "secondary": [
+     "사은품",
+     "최저가"
+    ]
+   },
+   "copy": {
+    "main": "10/15(목) 단, 하루!",
+    "sub": "최저가 보장 / GIFT",
+    "cta": "오늘의 특가"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "분홍색 제품 두 통을 중앙에 쌓아 배치하고, 하단에 '10/15(목) 단, 하루!' 날짜 한정 문구를 대형 띠로 배치했으며, 우측 상단에 '최저가 보장' 원형 배지와 사은품 원형 이미지를 함께 두었다.",
+   "tone": [
+    "청량",
+    "깔끔",
+    "특가 긴박감"
+   ],
+   "target": "눈가 탄력과 피부 광채에 관심 있는 20~40대 여성 중 할인 혜택에 민감한 소비자",
+   "why_it_hooks": "'단 하루'라는 날짜 한정 문구가 하단에 크게 배치되어 즉시 구매를 재촉하고, 분홍 제품 색감이 흰 배경에서 선명하게 돋보인다. 최저가 보장과 사은품 배지가 함께 있어 혜택을 한눈에 전달한다.",
+   "palette": [
+    {
+     "hex": "#E78B93",
+     "pct": 24
+    },
+    {
+     "hex": "#F3C1C5",
+     "pct": 23
+    },
+    {
+     "hex": "#FBFBFB",
+     "pct": 22
+    },
+    {
+     "hex": "#F6F3F4",
+     "pct": 16
+    },
+    {
+     "hex": "#FEFDFD",
+     "pct": 15
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://biodance.co.kr/product/detail.html?product_no=703",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "e8d8d03742e6",
+  "brand": "이즈앤트리",
+  "channel": "공식몰",
+  "source_name": "이즈앤트리 국내 공식몰",
+  "page_url": "https://isntree.com/",
+  "image_src": "https://isntree.com/web/product/medium/202611/e39ea6c5a2fb51eb21f973b57d9f673a.png",
+  "collected_at": "2026-11-18",
+  "hash": "57498d8d4949090e",
+  "image": "images/e8d8d03742e6.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이즈앤트리",
+   "product": "어니언 뉴펍 클렌징 폼 (ONION NEWPAIR CLEANSING FOAM)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품",
+     "랭킹"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY",
+    "sub": "6,900원 / 회원 한정 / 한정 수량",
+    "cta": "클리어런스"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 BLACK FRIDAY 타이틀을 크게 배치하고, 중앙에 제품 튜브를 기울여 배치했으며, 우측에 6,900원 가격 원형 배지와 회원 한정·한정 수량 원형 배지를 세로로 나열하고, 하단 붉은 띠에 '클리어런스' 문구를 두었다.",
+   "tone": [
+    "강렬함",
+    "프로모션 긴박감",
+    "블랙 & 레드 대비"
+   ],
+   "target": "블랙프라이데이 시즌에 저가 기획 상품을 찾는 이즈앤트리 공식몰 기존·잠재 고객 (클렌징 폼을 합리적인 가격에 구매하려는 20~30대 여성)",
+   "why_it_hooks": "어두운 배경 위 흰색 금속 질감의 BLACK FRIDAY 타이틀과 붉은 테두리가 강한 대비를 만들어 시선을 먼저 잡습니다. 6,900원이라는 파격적인 가격과 '회원 한정', '한정 수량'이라는 두 가지 긴박감 배지가 즉시 구매 욕구를 자극합니다.",
+   "palette": [
+    {
+     "hex": "#010101",
+     "pct": 37
+    },
+    {
+     "hex": "#46182F",
+     "pct": 21
+    },
+    {
+     "hex": "#6C031C",
+     "pct": 17
+    },
+    {
+     "hex": "#EDE4F2",
+     "pct": 15
+    },
+    {
+     "hex": "#996797",
+     "pct": 9
+    }
+   ]
+  },
+  "alt": "어니언 뉴페어 클렌징 폼 150ml - 클렌징폼 제품 이미지",
+  "link_url": "https://isntree.com/product/%F0%9F%94%A5%EB%B8%94%ED%94%84%ED%8A%B9%EA%B0%80%F0%9F%94%A5%EC%96%B4%EB%8B%88%EC%96%B8-%EB%89%B4%ED%8E%98%EC%96%B4-%ED%81%B4%EB%A0%8C%EC%A7%95-%ED%8F%BC-150ml/602/category/1/display/6/?icid=MAIN.product_listmain_5",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "3a61025ee71b",
+  "brand": "이즈앤트리",
+  "channel": "공식몰",
+  "source_name": "이즈앤트리 국내 공식몰",
+  "page_url": "https://isntree.com/",
+  "image_src": "https://isntree.com/web/product/medium/202611/03eaccfc22317987c2d1f8b14ae79e47.png",
+  "collected_at": "2026-11-18",
+  "hash": "5709998d8d25250e",
+  "image": "images/3a61025ee71b.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이즈앤트리",
+   "product": "머그워트 카밍 클레이 마스크",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "가격 강조"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY 13,900원",
+    "sub": "회원 한정 / 한정 수량",
+    "cta": "클리어런스"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "제품을 좌측 중앙에 세우고 우측에 가격 원형 배지와 회원 한정·한정 수량 배지를 세로로 배치, 상단에 BLACK FRIDAY 타이틀을 크게 두고 하단 빨간 띠에 클리어런스 문구를 배치",
+   "tone": [
+    "강렬함",
+    "세일 긴박감",
+    "블랙·레드 대비"
+   ],
+   "target": "가성비 있는 진정 클레이 마스크를 찾는 10~30대 피부 고민 소비자, 특히 블랙프라이데이 할인에 반응하는 기존·회원 고객",
+   "why_it_hooks": "검은 배경과 빨간 테두리가 만드는 강한 명암 대비 속에 은색 BLACK FRIDAY 타이틀과 빨간 원형 가격 배지가 눈에 먼저 들어오고, '회원 한정'과 '한정 수량'이 중복으로 긴박감을 높여 클릭을 유도합니다.",
+   "palette": [
+    {
+     "hex": "#010101",
+     "pct": 37
+    },
+    {
+     "hex": "#501D35",
+     "pct": 19
+    },
+    {
+     "hex": "#6F041D",
+     "pct": 17
+    },
+    {
+     "hex": "#737176",
+     "pct": 15
+    },
+    {
+     "hex": "#D5D7D7",
+     "pct": 11
+    }
+   ]
+  },
+  "alt": "🔥블프특가🔥머그워트 카밍 클레이 마스크 대용량 200ml",
+  "link_url": "https://isntree.com/product/%F0%9F%94%A5%EB%B8%94%ED%94%84%ED%8A%B9%EA%B0%80%F0%9F%94%A5%EB%A8%B8%EA%B7%B8%EC%9B%8C%ED%8A%B8-%EC%B9%B4%EB%B0%8D-%ED%81%B4%EB%A0%88%EC%9D%B4-%EB%A7%88%EC%8A%A4%ED%81%AC-%EB%8C%80%EC%9A%A9%EB%9F%89-200ml/603/category/1/display/6/?icid=MAIN.product_listmain_5",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "ce792679e8a2",
+  "brand": "이즈앤트리",
+  "channel": "공식몰",
+  "source_name": "이즈앤트리 국내 공식몰",
+  "page_url": "https://isntree.com/",
+  "image_src": "https://isntree.com/web/product/medium/202611/02ea6174d969713fa8c55f70de224029.png",
+  "collected_at": "2026-11-18",
+  "hash": "5709099d9d0d0d1e",
+  "image": "images/ce792679e8a2.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이즈앤트리",
+   "product": "어니언 프레시 라이트 선스틱 (ONION FRESH LIGHT SUN STICK)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "성분·효능",
+     "인증·임상"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY 7,900원",
+    "sub": "회원 한정 / 한정 수량",
+    "cta": "클리어런스"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "제품을 중앙 좌측에 비스듬히 배치하고 우측에 7,900원 가격 원형 배지와 '회원 한정', '한정 수량' 원형 배지를 세로로 나열했으며, 상단에는 BLACK FRIDAY 대형 타이틀, 하단에는 '클리어런스' 띠 배너를 둠.",
+   "tone": [
+    "블랙프라이데이",
+    "강렬함",
+    "세일 긴박감"
+   ],
+   "target": "자외선 차단제를 가볍게 쓰고 싶어 하는 지성·복합성 피부의 20~30대 온라인 쇼핑 고객으로, 블랙프라이데이 할인 기회를 찾는 가격 민감형 소비자.",
+   "why_it_hooks": "검은 배경에 흰색 대형 타이틀과 빨간 테두리가 강한 대비를 이루고, 7,900원이라는 큰 가격 숫자와 '회원 한정', '한정 수량' 배지가 겹쳐 구매를 서두르게 만듭니다. 제품 자체도 라벤더 톤으로 눈에 띄어 시선을 붙잡습니다.",
+   "palette": [
+    {
+     "hex": "#020101",
+     "pct": 36
+    },
+    {
+     "hex": "#750521",
+     "pct": 26
+    },
+    {
+     "hex": "#CDC0D6",
+     "pct": 16
+    },
+    {
+     "hex": "#F8E8F5",
+     "pct": 13
+    },
+    {
+     "hex": "#733B5C",
+     "pct": 10
+    }
+   ]
+  },
+  "alt": "🔥블프특가🔥어니언 프레쉬 라이트 선 스틱 22g SPF50+ PA++++",
+  "link_url": "https://isntree.com/product/%F0%9F%94%A5%EB%B8%94%ED%94%84%ED%8A%B9%EA%B0%80%F0%9F%94%A5%EC%96%B4%EB%8B%88%EC%96%B8-%ED%94%84%EB%A0%88%EC%89%AC-%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EC%84%A0-%EC%8A%A4%ED%8B%B1-22g-spf50-pa/604/category/1/display/6/?icid=MAIN.product_listmain_5",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "3cb8b07c3694",
+  "brand": "이즈앤트리",
+  "channel": "공식몰",
+  "source_name": "이즈앤트리 국내 공식몰",
+  "page_url": "https://isntree.com/",
+  "image_src": "https://isntree.com/web/product/medium/202611/8d2b6970780d0f749dc2a2ffbeb8b69c.png",
+  "collected_at": "2026-11-18",
+  "hash": "57498dcd8d9d1d4e",
+  "image": "images/3cb8b07c3694.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이즈앤트리",
+   "product": "어니언 프레시 플루이드 선크림 (ONION FRESH FLUID SUN CREAM)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY",
+    "sub": "7,900원 / 회원 한정 / 한정 수량",
+    "cta": "클리어런스"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "상단에 BLACK FRIDAY 타이틀, 중앙에 제품 세워서 배치, 우측에 7,900원 가격과 회원 한정·한정 수량 원형 뱃지를 세로로 나열하고 하단에 클리어런스 띠 배너",
+   "tone": [
+    "강렬함",
+    "세일 긴박감",
+    "프레시·산뜻함"
+   ],
+   "target": "가성비 높은 선크림을 찾는 20~30대 여성 소비자, 특히 블랙프라이데이 할인에 반응하는 공식몰 회원",
+   "why_it_hooks": "검정 배경과 빨간 테두리가 주는 강한 대비 속에서 7,900원 가격 뱃지가 가장 크게 보여 바로 가격 메리트가 전달됩니다. 회원 한정과 한정 수량 뱃지가 함께 긴박감을 더해 클릭을 유도합니다.",
+   "palette": [
+    {
+     "hex": "#010101",
+     "pct": 31
+    },
+    {
+     "hex": "#DAD1E3",
+     "pct": 25
+    },
+    {
+     "hex": "#AC0125",
+     "pct": 18
+    },
+    {
+     "hex": "#5D2442",
+     "pct": 13
+    },
+    {
+     "hex": "#310716",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": "🔥블프특가🔥어니언 프레쉬 플루이드 선 크림 50ml SPF50+ PA++++",
+  "link_url": "https://isntree.com/product/%F0%9F%94%A5%EB%B8%94%ED%94%84%ED%8A%B9%EA%B0%80%F0%9F%94%A5%EC%96%B4%EB%8B%88%EC%96%B8-%ED%94%84%EB%A0%88%EC%89%AC-%ED%94%8C%EB%A3%A8%EC%9D%B4%EB%93%9C-%EC%84%A0-%ED%81%AC%EB%A6%BC-50ml-spf50-pa/605/category/1/display/6/?icid=MAIN.product_listmain_5",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "09964051d5d9",
+  "brand": "이즈앤트리",
+  "channel": "공식몰",
+  "source_name": "이즈앤트리 국내 공식몰",
+  "page_url": "https://isntree.com/",
+  "image_src": "https://isntree.com/web/product/medium/202611/5633b6fef03bc211d47969308f53fde9.png",
+  "collected_at": "2026-11-18",
+  "hash": "575989c94d4d0d1e",
+  "image": "images/09964051d5d9.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이즈앤트리",
+   "product": "HYPER ACID4 30 SERUM (하이퍼 애시드4 30 세럼, 20ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY / 5,900원",
+    "sub": "회원 한정 · 한정 수량 / Niacinamide, Allantoin, Charcoal & Peat Water · Exfoliating serum to help reveal smooth and even skin.",
+    "cta": "클리어런스"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "상단에 BLACK FRIDAY 타이틀, 중앙에 제품 세럼 병을 배치하고 우측 원형 뱃지에 5,900원 가격과 회원 한정·한정 수량 문구를 세로로 배열했으며, 하단 붉은 띠에 클리어런스 문구를 넣었습니다.",
+   "tone": [
+    "블랙 프라이데이",
+    "강렬함",
+    "세일 긴박감"
+   ],
+   "target": "세안 후 각질·피부결 개선에 관심 있는 가성비 중시 20~30대 스킨케어 입문·재구매 고객",
+   "why_it_hooks": "검은 배경과 빨간 테두리의 강한 대비 속에서 흰색 굵은 BLACK FRIDAY 타이틀과 5,900원 가격 뱃지가 한눈에 들어옵니다. 회원 한정과 한정 수량 뱃지가 구매를 서두르게 만들어 클릭을 유도합니다.",
+   "palette": [
+    {
+     "hex": "#010001",
+     "pct": 40
+    },
+    {
+     "hex": "#42172A",
+     "pct": 20
+    },
+    {
+     "hex": "#6B031B",
+     "pct": 17
+    },
+    {
+     "hex": "#EDE9EB",
+     "pct": 14
+    },
+    {
+     "hex": "#855874",
+     "pct": 9
+    }
+   ]
+  },
+  "alt": "🔥블프특가🔥[워시오프] 하이퍼 애시드4 아하 바하 파하 라하 30 세럼 20ml",
+  "link_url": "https://isntree.com/product/%F0%9F%94%A5%EB%B8%94%ED%94%84%ED%8A%B9%EA%B0%80%F0%9F%94%A5%EC%9B%8C%EC%8B%9C%EC%98%A4%ED%94%84-%ED%95%98%EC%9D%B4%ED%8D%BC-%EC%95%A0%EC%8B%9C%EB%93%9C4-%EC%95%84%ED%95%98-%EB%B0%94%ED%95%98-%ED%8C%8C%ED%95%98-%EB%9D%BC%ED%95%98-30-%EC%84%B8%EB%9F%BC-20ml/606/category/1/display/6/?icid=MAIN.product_listmain_5",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "c310523a965f",
+  "brand": "이즈앤트리",
+  "channel": "공식몰",
+  "source_name": "이즈앤트리 국내 공식몰",
+  "page_url": "https://isntree.com/",
+  "image_src": "https://isntree.com/web/product/medium/202611/ad1a4721a979fbcd822ddbe1b3abbaeb.png",
+  "collected_at": "2026-11-18",
+  "hash": "57510d15979d1d0e",
+  "image": "images/c310523a965f.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이즈앤트리",
+   "product": "머그워트 카밍 딥 클렌징 밤",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY",
+    "sub": "6,900원 / 회원 한정 / 한정 수량",
+    "cta": "클리어런스"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "상단에 BLACK FRIDAY 타이틀, 좌측 중앙에 제품 용기 배치, 우측에 가격과 한정 문구를 원형 뱃지로 세로 배열, 하단에 클리어런스 띠 배너를 둔 구성",
+   "tone": [
+    "강렬함",
+    "특가·긴박감",
+    "차분한 그린 카밍"
+   ],
+   "target": "블랙프라이데이 할인에 반응하는 회원 고객 중 모공·블랙헤드 케어용 클렌징을 찾는 20~30대 여성",
+   "why_it_hooks": "검은 배경에 흰색 BLACK FRIDAY 타이포와 빨간 테두리가 강하게 대비되고, 6,900원이라는 가격 뱃지가 가장 큰 원형으로 배치되어 즉시 혜택을 인지하게 합니다. 여기에 회원 한정·한정 수량 뱃지가 긴박감을 더합니다.",
+   "palette": [
+    {
+     "hex": "#010101",
+     "pct": 33
+    },
+    {
+     "hex": "#780624",
+     "pct": 24
+    },
+    {
+     "hex": "#693D51",
+     "pct": 15
+    },
+    {
+     "hex": "#ABB0A1",
+     "pct": 15
+    },
+    {
+     "hex": "#E5E8DE",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": "🔥블프특가🔥머그워트 카밍 딥 클렌징밤 100ml",
+  "link_url": "https://isntree.com/product/%F0%9F%94%A5%EB%B8%94%ED%94%84%ED%8A%B9%EA%B0%80%F0%9F%94%A5%EB%A8%B8%EA%B7%B8%EC%9B%8C%ED%8A%B8-%EC%B9%B4%EB%B0%8D-%EB%94%A5-%ED%81%B4%EB%A0%8C%EC%A7%95%EB%B0%A4-100ml/608/category/1/display/6/?icid=MAIN.product_listmain_5",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "542a6b84c536",
+  "brand": "이즈앤트리",
+  "channel": "공식몰",
+  "source_name": "이즈앤트리 국내 공식몰",
+  "page_url": "https://isntree.com/",
+  "image_src": "https://isntree.com/web/product/medium/202611/76bf6cc7f246e69e4ba060084db2084d.png",
+  "collected_at": "2026-11-18",
+  "hash": "574d0d0d49495926",
+  "image": "images/542a6b84c536.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이즈앤트리",
+   "product": "머그워트 카밍 크림",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "한정·마감",
+    "secondary": [
+     "할인율 강조",
+     "리뷰·랭킹"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY",
+    "sub": "990원 클리어런스",
+    "cta": "웰컴딜 · 회원 한정 · 한정 수량"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "상단에 BLACK FRIDAY 대형 타이틀, 중앙에 제품 튜브를 세로로 배치하고 우측에 원형 뱃지 3개(웰컴딜·회원 한정·한정 수량), 하단에 990원 가격 문구를 최대 크기로 배치",
+   "tone": [
+    "블랙 프라이데이",
+    "강렬함",
+    "특가·긴박감"
+   ],
+   "target": "민감성·트러블 피부 고민이 있어 진정 크림을 찾는 가격 민감형 온라인 쇼핑 고객, 특히 공식몰 회원 혜택에 반응하는 구매자",
+   "why_it_hooks": "검정 배경과 빨간 테두리, 굵은 BLACK FRIDAY 타이틀이 즉각적인 세일 신호를 주고, 990원이라는 파격적인 가격 숫자가 하단에서 강하게 시선을 끕니다. 웰컴딜·회원 한정·한정 수량 뱃지가 놓칠 수 없는 긴박감을 더합니다.",
+   "palette": [
+    {
+     "hex": "#010101",
+     "pct": 38
+    },
+    {
+     "hex": "#531E36",
+     "pct": 20
+    },
+    {
+     "hex": "#68041A",
+     "pct": 15
+    },
+    {
+     "hex": "#E8E7E7",
+     "pct": 13
+    },
+    {
+     "hex": "#9C8796",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": "🎁990원특가🎁머그워트 카밍 크림 50ml",
+  "link_url": "https://isntree.com/product/%F0%9F%8E%81990%EC%9B%90%ED%8A%B9%EA%B0%80%F0%9F%8E%81%EB%A8%B8%EA%B7%B8%EC%9B%8C%ED%8A%B8-%EC%B9%B4%EB%B0%8D-%ED%81%AC%EB%A6%BC-50ml/609/category/1/display/6/?icid=MAIN.product_listmain_5",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "b14ba3625b80",
+  "brand": "비플레인",
+  "channel": "공식몰",
+  "source_name": "비플레인 국내 공식몰",
+  "page_url": "https://beplain.co.kr/",
+  "image_src": "https://beplain.co.kr/shopimages/beplain01/banner_1749108937_20250605163533phpkyifV2.jpg",
+  "collected_at": "2026-11-18",
+  "hash": "0b033b8a8ab6ba76",
+  "image": "images/b14ba3625b80.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "비플레인",
+   "product": "비플레인 스킨케어 라인업 (녹두 세럼·토너, 시카 앰플, 나이아신아마이드 세럼, 크림, 패드 등)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "브랜드 철학 카피 'Enjoy plain skin, beplain'을 앞세운 제품 라인업 노출",
+    "secondary": [
+     "성분·효능 (녹두, 시카 등 성분 중심 제품 구성)",
+     "신제품 라인업 한눈에 보기"
+    ]
+   },
+   "copy": {
+    "main": "Enjoy plain skin, beplain",
+    "sub": "",
+    "cta": "About us"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "좌측에 브랜드 슬로건과 검은색 'About us' 버튼을 배치하고, 우측에 여러 제품을 밝은 회색 배경 위에 반사 효과와 함께 나란히 배열해 라인업을 강조함",
+   "tone": [
+    "미니멀",
+    "청결감",
+    "밝고 산뜻함"
+   ],
+   "target": "成分과 단순한 루틴을 선호하는 20~30대 여성 소비자 (자극 적은 순한 스킨케어를 찾는 사람)",
+   "why_it_hooks": "연두·그린 계열의 제품 용기들이 흰색 배경에서 강하게 대비되어 시선을 끌고, 짧고 간결한 슬로건이 여백과 어우러져 브랜드 정체성을 빠르게 전달합니다.",
+   "palette": [
+    {
+     "hex": "#D8E1EC",
+     "pct": 42
+    },
+    {
+     "hex": "#D2DCE3",
+     "pct": 23
+    },
+    {
+     "hex": "#E3EAF4",
+     "pct": 16
+    },
+    {
+     "hex": "#9AAE95",
+     "pct": 14
+    },
+    {
+     "hex": "#DFE4E7",
+     "pct": 6
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://beplain.info/",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "cae13ccf7d31",
+  "brand": "아이소이",
+  "channel": "공식몰",
+  "source_name": "아이소이 국내 공식몰",
+  "page_url": "https://isoi.co.kr/",
+  "image_src": "https://cfront.isoi.co.kr/renewal_2026/main/shortform/shortform_20261117175542_8598.jpg?_=202611181005",
+  "collected_at": "2026-11-18",
+  "hash": "93989b0f5a381999",
+  "image": "images/cae13ccf7d31.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아이소이",
+   "product": "아이소이 화잘먹 세럼 (밀림 없이 발리는 세럼)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "리뷰·랭킹"
+    ]
+   },
+   "copy": {
+    "main": "밀림 없이 발리는 화잘먹 세럼",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "두 출연자가 마주 보는 토크 장면 아래쪽에 제품 라인업을 배치하고, 핑크 화살표와 굵은 핑크 텍스트 카피로 세럼 제품을 가리키는 구성",
+   "tone": [
+    "밝고 경쾌함",
+    "핑크 팝",
+    "친근한 수다"
+   ],
+   "target": "발림성과 밀림 없는 사용감을 중시하는 20~30대 여성 스킨케어 소비자",
+   "why_it_hooks": "핑크 화살표와 굵은 핑크 카피가 제품을 직접 가리켜 시선을 제품으로 유도합니다. 두 출연자의 대화 장면이 실제 사용 후기처럼 보여 신뢰감을 줍니다.",
+   "palette": [
+    {
+     "hex": "#E3C8CB",
+     "pct": 32
+    },
+    {
+     "hex": "#EDDFE4",
+     "pct": 23
+    },
+    {
+     "hex": "#FCF5F8",
+     "pct": 16
+    },
+    {
+     "hex": "#A38589",
+     "pct": 15
+    },
+    {
+     "hex": "#FAE4EB",
+     "pct": 14
+    }
+   ]
+  },
+  "alt": "화장 밀림 없는 올세라 탄력세럼",
+  "link_url": "https://www.isoi.co.kr/icontents/channel_view?no=175846",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "539756e3d923",
+  "brand": "아이소이",
+  "channel": "공식몰",
+  "source_name": "아이소이 국내 공식몰",
+  "page_url": "https://isoi.co.kr/",
+  "image_src": "https://cfront.isoi.co.kr/renewal_2026/main/shortform/shortform_20261117175759_9204.jpg?_=202611181005",
+  "collected_at": "2026-11-18",
+  "hash": "9b919a86da5a0909",
+  "image": "images/539756e3d923.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아이소이",
+   "product": "세럼 제품군 (아이소이 세럼)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "루틴 제안",
+     "리뷰·랭킹"
+    ]
+   },
+   "copy": {
+    "main": "아이소이로 관리하자!",
+    "sub": "세럼 단계에서부터",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 브랜드명 'ISOI'를 크게 배치하고, 두 출연자가 가운데에서 대화하는 구도이며, 하단 중앙에 핑크색 대형 카피를 두고 좌우 하단에 세럼과 크림 제품을 나란히 배치함",
+   "tone": [
+    "파스텔 핑크",
+    "클린·청결",
+    "친근한 대화형"
+   ],
+   "target": "세럼과 크림 등 스킨케어 루틴을 체계적으로 관리하고 싶은 20~30대 여성 소비자",
+   "why_it_hooks": "핑크 톤의 진열장과 두 출연자의 대화 장면이 영상 썸네일처럼 자연스럽게 시선을 끌고, 하단의 큰 핑크 카피 '세럼 단계에서부터 아이소이로 관리하자!'가 루틴 제안 메시지를 직관적으로 전달합니다.",
+   "palette": [
+    {
+     "hex": "#E5CACF",
+     "pct": 30
+    },
+    {
+     "hex": "#EFDEE4",
+     "pct": 25
+    },
+    {
+     "hex": "#FDF2F6",
+     "pct": 16
+    },
+    {
+     "hex": "#B09295",
+     "pct": 16
+    },
+    {
+     "hex": "#F9E3EA",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": "20대부터 탄력 관리가 필요해요",
+  "link_url": "https://www.isoi.co.kr/icontents/channel_view?no=175847",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "fc9dfde0122e",
+  "brand": "아이소이",
+  "channel": "공식몰",
+  "source_name": "아이소이 국내 공식몰",
+  "page_url": "https://isoi.co.kr/",
+  "image_src": "https://cfront.isoi.co.kr/renewal_2026/main/shortform/shortform_20261117174617_1613.jpg?_=202611181005",
+  "collected_at": "2026-11-18",
+  "hash": "998ab0b191a9293e",
+  "image": "images/fc9dfde0122e.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아이소이",
+   "product": "아이소이 제품 (세럼/에센스 계열 추정, 공식몰 리뷰 영상 속 제품)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "리뷰·후기형 체험 평가",
+    "secondary": [
+     "성분·효능",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "발림성이 좋아요! 흡수도 빨리 되고 산뜻해서 좋아요!!",
+    "sub": "전체적인 톤이 균일해진! 윤기 같아서 만족했습니다 / 끈적임 없고 촉촉하게 흡수돼서 너무 맘에 들어요 / 자극적이지 않고 순해서 편하게 사용할 수 있어요",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "리뷰·후기형",
+   "visual_focus": "혼합",
+   "layout": "화면 중앙에 모델이 제품을 들고 설명하는 컷, 상단에 큰 브랜드명 'isoi'를 배치하고 후기 문구를 화면 전체에 겹쳐 세로로 나열하며, 하단과 우측에 제품 패키지를 배치함",
+   "tone": [
+    "핑크 파스텔",
+    "청초·깨끗함",
+    "신뢰감 있는 후기"
+   ],
+   "target": "실사용 후기와 발림성·흡수력을 중시하는 20~40대 여성 스킨케어 소비자",
+   "why_it_hooks": "모델이 직접 제품을 들고 설명하는 장면과 실제 사용 후기 문구가 겹쳐 보여 신뢰감을 주며, 큰 흰색 브랜드명과 분홍 배경이 시선을 바로 끕니다.",
+   "palette": [
+    {
+     "hex": "#D7BDC3",
+     "pct": 30
+    },
+    {
+     "hex": "#E3CCD2",
+     "pct": 24
+    },
+    {
+     "hex": "#E9D5DC",
+     "pct": 18
+    },
+    {
+     "hex": "#BA9D9F",
+     "pct": 17
+    },
+    {
+     "hex": "#F2E4EA",
+     "pct": 11
+    }
+   ]
+  },
+  "alt": "만족도 UP! 찐 고객 후기",
+  "link_url": "https://www.isoi.co.kr/icontents/channel_view?no=175844",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "2cc14be1cb6e",
+  "brand": "아이소이",
+  "channel": "공식몰",
+  "source_name": "아이소이 국내 공식몰",
+  "page_url": "https://isoi.co.kr/",
+  "image_src": "https://cfront.isoi.co.kr/renewal_2026/main/shortform/shortform_20261117175025_7250.jpg?_=202611181005",
+  "collected_at": "2026-11-18",
+  "hash": "c5dcd8f0b3f1a1f1",
+  "image": "images/2cc14be1cb6e.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아이소이",
+   "product": "속기미 관련 제품(세럼/에센스 계열 제품으로 추정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "임상",
+    "secondary": [
+     "성분·효능",
+     "모델·셀럽"
+    ]
+   },
+   "copy": {
+    "main": "속기미 크기 -27.92%",
+    "sub": "4주 사용 후 피부 속 기미 크기(면적) 개선 (PBK 피부임상연구 / 25.9.17~10.16 / 22명)",
+    "cta": ""
+   },
+   "ad_format": "리뷰·후기형",
+   "visual_focus": "혼합",
+   "layout": "상단에 임상 전후 비교 카드를 크게 배치하고 하단에 제품을 든 모델을 배치했으며, 우측 상단 -27.92% 수치를 가장 두드러지게 강조했다.",
+   "tone": [
+    "임상 신뢰감",
+    "깔끔함",
+    "핑크 클린 무드"
+   ],
+   "target": "속기미 및 칙칙한 피부 톤 개선을 원하면서 임상 근거를 중시하는 20~40대 여성",
+   "why_it_hooks": "어두운 기미 면적이 노란색으로 선명하게 표시된 사용 전후 이미지와 큰 숫자(-27.92%)가 결합돼 효과를 즉시 시각적으로 확인할 수 있어 시선을 끈다. 임상 기관명과 기간이 함께 적혀 있어 신뢰도를 높인다.",
+   "palette": [
+    {
+     "hex": "#D7B9BA",
+     "pct": 30
+    },
+    {
+     "hex": "#E6CFD5",
+     "pct": 29
+    },
+    {
+     "hex": "#635262",
+     "pct": 17
+    },
+    {
+     "hex": "#FBF9FB",
+     "pct": 12
+    },
+    {
+     "hex": "#EADCD5",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": "칙칙함의 주범, 기미 out!",
+  "link_url": "https://www.isoi.co.kr/icontents/channel_view?no=175845",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "8d13d5f55a94",
+  "brand": "아이소이",
+  "channel": "공식몰",
+  "source_name": "아이소이 국내 공식몰",
+  "page_url": "https://isoi.co.kr/",
+  "image_src": "https://cfront.isoi.co.kr/renewal_2026/main/shortform/shortform_20261117173700_6921.jpg?_=202611181005",
+  "collected_at": "2026-11-18",
+  "hash": "cad4f1730fd23a18",
+  "image": "images/8d13d5f55a94.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아이소이",
+   "product": "짜타 다크스팟 토닝 크림 (TXA DARK SPOT TONING CREAM, 70ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "식물성 뮻신 성분으로 만들어진 쫀래제형",
+    "sub": "쫀득한 실타래 제형!",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "제품 튜브를 화면 왼쪽 하단에 비스듬히 배치하고, 튜브에서 흘러내리는 흰색 제형 실타래를 화면 상단 전체로 펼치며, 메인 카피를 상단 중앙에 크게 배치",
+   "tone": [
+    "청량",
+    "깔끔",
+    "쫀득한 텍스처 강조"
+   ],
+   "target": "기미·잡티 등 색소 고민이 있으며 가볍고 쫀득한 제형의 토닝 크림을 찾는 20~40대 여성",
+   "why_it_hooks": "흰색 제형이 실처럼 길게 늘어지는 시각적 장면이 제형의 쫀득함을 바로 보여주어 텍스처에 대한 궁금증을 자극합니다. 굵은 핫핑크 카피가 '쫀래제형'이라는 키워드를 강조해 시선을 붙잡습니다.",
+   "palette": [
+    {
+     "hex": "#D4D3D5",
+     "pct": 27
+    },
+    {
+     "hex": "#E3E1E1",
+     "pct": 27
+    },
+    {
+     "hex": "#9D90A1",
+     "pct": 18
+    },
+    {
+     "hex": "#ECEAEA",
+     "pct": 15
+    },
+    {
+     "hex": "#F4F2F2",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": "쫀쫀함이 다른 실타래 제형",
+  "link_url": "https://www.isoi.co.kr/icontents/channel_view?no=175842",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "a6f5e70ab29a",
+  "brand": "토니모리",
+  "channel": "공식몰",
+  "source_name": "토니모리 국내 공식몰",
+  "page_url": "https://www.tonystreet.com/",
+  "image_src": "https://d384glw2wph2ce.cloudfront.net/back-gel-eyeliner-z-thumb-00-08.webp",
+  "collected_at": "2026-11-18",
+  "hash": "000c0c0d0c0e4d08",
+  "image": "images/a6f5e70ab29a.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "토니모리",
+   "product": "토니모리 블랙 제품 (스틱형 뷰티 제품, 블랙 베이스에 실버 캡)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품 자체의 시각적 존재감(블랙 그라데이션과 실버 캡의 대비)",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "검은 배경 중앙에 제품 단독 배치, 하단 투명 베이스에 브랜드 로고만 작게 표기",
+   "tone": [
+    "미니멀",
+    "프리미엄",
+    "모던"
+   ],
+   "target": "고급스러운 디자인의 메이크업 제품을 선호하는 20~30대 여성",
+   "why_it_hooks": "순수한 검은 배경 위에 빛을 받은 실버 캡과 블랙 그라데이션 바디가 대비를 이루어 제품 실루엣이 선명하게 드러납니다. 카피 없이도 프리미엄 무드를 전달합니다.",
+   "palette": [
+    {
+     "hex": "#000000",
+     "pct": 80
+    },
+    {
+     "hex": "#010101",
+     "pct": 14
+    },
+    {
+     "hex": "#757273",
+     "pct": 6
+    },
+    {
+     "hex": "#010000",
+     "pct": 0
+    },
+    {
+     "hex": "#000001",
+     "pct": 0
+    }
+   ]
+  },
+  "alt": "백젤 아이라이너Z 이미지",
+  "link_url": "https://tonymoly.com/products/back-gel-eyeliner-z.do?i_sProductcd=TM20220628000143021",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
   "id": "69a25def2ba7",
   "brand": "아모레퍼시픽 (아모레몰)",
   "channel": "공식몰",
@@ -5844,7 +12647,53 @@
   "collected_at": "2026-11-17",
   "hash": "632513292964e6e6",
   "image": "images/93881435bc78.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "비플레인",
+   "product": "녹두 클렌징 오일 (MUNG BEAN CLEANSING OIL)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품 자체의 투명한 질감과 녹두 그린 컬러 패키지",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "손으로 들고 있는 펌프형 제품을 화면 중앙에 크게 배치하고, 배경은 흐릿하게 처리해 제품 질감이 돋보이도록 구성함",
+   "tone": [
+    "청량한",
+    "자연친화적",
+    "깔끔한"
+   ],
+   "target": "녹두 등 식물성 성분의 순한 클렌징을 선호하는 20~30대 여성 소비자",
+   "why_it_hooks": "연두빛 펌프 캡과 투명한 오일 질감이 한눈에 들어와 제품의 특징을 직관적으로 전달합니다. 글자 문구 없이 제품 사진만으로 구성되어 있어 깔끔하고 신뢰감 있는 인상을 줍니다.",
+   "palette": [
+    {
+     "hex": "#94928B",
+     "pct": 36
+    },
+    {
+     "hex": "#A8A8A3",
+     "pct": 21
+    },
+    {
+     "hex": "#796D5A",
+     "pct": 16
+    },
+    {
+     "hex": "#C1C5C8",
+     "pct": 14
+    },
+    {
+     "hex": "#D2D7DF",
+     "pct": 14
+    }
+   ]
+  },
   "alt": "",
   "link_url": "https://beplain.co.kr/shop/shopdetail.html?branduid=10738943",
   "slot": "중간 배너",
@@ -5861,7 +12710,53 @@
   "collected_at": "2026-11-17",
   "hash": "a6088cc69d939383",
   "image": "images/07544f40cb1e.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "비플레인",
+   "product": "녹색 용기에 담긴 크림 제품 (제품명 식별 불가)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품 질감 클로즈업",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "제품 용기를 열어 흰색 크림 질감을 화면 중앙에 크게 배치하고, 노란색 스패출러 위 크림을 근접 촬영함",
+   "tone": [
+    "청량",
+    "산뜻함",
+    "깔끔"
+   ],
+   "target": "크림 텍스처와 사용감을 직접 확인하고 싶은 스킨케어 소비자",
+   "why_it_hooks": "녹색 용기와 노란 스패출러, 부드럽게 떠진 흰색 크림의 대비가 선명해 시선을 끈다. 글자 없이 질감만 보여줘 제품 사용감을 직관적으로 전달한다.",
+   "palette": [
+    {
+     "hex": "#5C7021",
+     "pct": 31
+    },
+    {
+     "hex": "#DBE8D0",
+     "pct": 27
+    },
+    {
+     "hex": "#C0C99D",
+     "pct": 18
+    },
+    {
+     "hex": "#8A9B5C",
+     "pct": 14
+    },
+    {
+     "hex": "#DCE692",
+     "pct": 10
+    }
+   ]
+  },
   "alt": "",
   "link_url": "https://beplain.co.kr/shop/shopdetail.html?branduid=10738992",
   "slot": "중간 배너",
@@ -5944,7 +12839,53 @@
   "collected_at": "2026-11-17",
   "hash": "6fcdcb49cd0d2724",
   "image": "images/8d944d010fdf.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "비플레인",
+   "product": "비플레인 녹두 포어 타이트업 세럼",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": []
+   },
+   "copy": {
+    "main": "MUNG BEAN",
+    "sub": "A daily pore serum with Mung bean... (영문 설명 일부, 판독 불가)",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "손에 쥔 제품을 화면 중앙에 크게 배치하고, 흰색 용기와 연두색 펌프 캡으로 제품명과 성분명을 전면에 노출한다.",
+   "tone": [
+    "청결감",
+    "자연주의",
+    "미니멀"
+   ],
+   "target": "모공 관리와 피부결 개선에 관심 있는 20~30대 여성",
+   "why_it_hooks": "흰색 바탕과 연두색 포인트가 깔끔하고 청량한 인상을 주며, 'MUNG BEAN' 성분명이 크게 적혀 있어 성분 중심의 제품이라는 점이 바로 드러난다. 손에 쥔 실사 연출이라 실제 사용감을 떠올리게 한다.",
+   "palette": [
+    {
+     "hex": "#CAC6BB",
+     "pct": 33
+    },
+    {
+     "hex": "#654736",
+     "pct": 23
+    },
+    {
+     "hex": "#CECAC0",
+     "pct": 18
+    },
+    {
+     "hex": "#ADAA99",
+     "pct": 13
+    },
+    {
+     "hex": "#D4DAD8",
+     "pct": 12
+    }
+   ]
+  },
   "alt": "",
   "link_url": "https://beplain.co.kr/shop/shopdetail.html?branduid=10738943",
   "slot": "중간 배너",
@@ -33895,7 +40836,8 @@
   "link_url": "https://celimax.co.kr/product/detail.html?product_no=458",
   "slot": "중간 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "548db1c43957"
  },
  {
   "id": "8f7c18f4fae0",
@@ -51673,7 +58615,8 @@
   "link_url": "https://numbuzin.com/product/detail.html?product_no=173",
   "slot": "메인 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "91dc8a7aec75"
  },
  {
   "id": "44bc3ed75064",
@@ -52559,7 +59502,8 @@
   "link_url": "https://celimax.co.kr/product/detail.html?product_no=153",
   "slot": "메인 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "15a13975336c"
  },
  {
   "id": "7600000ea288",
@@ -52691,7 +59635,8 @@
   "link_url": "https://celimax.co.kr/product/detail.html?product_no=458",
   "slot": "메인 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "548db1c43957"
  },
  {
   "id": "0acce0d7a55a",
@@ -52834,7 +59779,33 @@
   "collected_at": "2026-11-13",
   "hash": "0000000000000000",
   "image": "images/479178d6e5ae.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "<UNKNOWN>",
+   "product": "<UNKNOWN>",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "<UNKNOWN>",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "<UNKNOWN>",
+   "visual_focus": "<UNKNOWN>",
+   "layout": "이미지가 전체 흰색 빈 화면으로, 제품·텍스트·모델이 보이지 않음",
+   "tone": [],
+   "target": "<UNKNOWN>",
+   "why_it_hooks": "분석할 시각 요소가 없어 시선을 끄는 요인을 판단할 수 없습니다.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 100
+    }
+   ]
+  },
   "alt": "",
   "link_url": "https://celimax.co.kr/#none",
   "slot": "팝업",
@@ -52904,7 +59875,8 @@
   "link_url": "https://celimax.co.kr/product/detail.html?product_no=153",
   "slot": "중간 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "15a13975336c"
  },
  {
   "id": "0ffbe9636c7a",
@@ -53045,7 +60017,53 @@
   "collected_at": "2026-11-13",
   "hash": "d9ccc8e146cc8d8d",
   "image": "images/9382331771b1.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "마녀공장",
+   "product": "<UNKNOWN>",
+   "product_type": "디바이스",
+   "hooks": {
+    "primary": "<UNKNOWN>",
+    "secondary": []
+   },
+   "copy": {
+    "main": "MANYO",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "좌우 2분할 구성으로, 상단에는 3D 기계 시뮬레이션 영상 장면을, 하단에는 부품의 응력 해석(FEA) 결과 이미지를 배치함",
+   "tone": [
+    "기술적",
+    "정밀",
+    "엔지니어링"
+   ],
+   "target": "제품의 구조나 기계적 설계 근거를 확인하려는 기술 지향 소비자 또는 업계 관계자",
+   "why_it_hooks": "화장품 광고와 달리 기계 부품과 응력 분포 색상 지도가 한눈에 들어와 낯설고 기술적인 인상을 줍니다. 다만 홍보 문구나 제품 정보가 없어 판촉용 광고라기보다 기술 자료에 가깝습니다.",
+   "palette": [
+    {
+     "hex": "#F5F7F4",
+     "pct": 35
+    },
+    {
+     "hex": "#82B69C",
+     "pct": 26
+    },
+    {
+     "hex": "#395F8D",
+     "pct": 21
+    },
+    {
+     "hex": "#B4E9B4",
+     "pct": 16
+    },
+    {
+     "hex": "#F7F3D6",
+     "pct": 2
+    }
+   ]
+  },
   "alt": "",
   "link_url": "https://www.manyo.com/ourtechnology/",
   "slot": "메인 배너",
@@ -53419,7 +60437,53 @@
   "collected_at": "2026-11-13",
   "hash": "234c372b2b2a6ab7",
   "image": "images/1b96c872f410.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "아비브",
+   "product": "Jericho rose 라인 (Jericho rose PHA toner, Jericho rose bifida serum, Collagen eye patch, Jericho rose crème)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "어두운 상단에서 밝은 하단으로 이어지는 그라데이션 배경 위에 토너, 세럼, 아이패치, 크림 4종을 높이 차이를 두고 중앙 정렬로 배치함",
+   "tone": [
+    "미니멀",
+    "클린",
+    "고급스러움"
+   ],
+   "target": "성분과 제품 구성을 꼼꼼히 보는, 기초 루틴을 고급스럽고 단정하게 갖추고 싶은 20~40대 여성",
+   "why_it_hooks": "텍스트 홍보 문구 없이 동일한 아이보리 톤의 제품 4종을 나란히 세워 통일감을 줍니다. 어두운 배경과 빛이 떨어지는 조명이 제품 질감과 고급스러운 이미지를 강조합니다.",
+   "palette": [
+    {
+     "hex": "#DAD6CB",
+     "pct": 32
+    },
+    {
+     "hex": "#0C0B12",
+     "pct": 28
+    },
+    {
+     "hex": "#3C3C36",
+     "pct": 16
+    },
+    {
+     "hex": "#9D9787",
+     "pct": 14
+    },
+    {
+     "hex": "#17171C",
+     "pct": 10
+    }
+   ]
+  },
   "alt": "Main(MO)_BF01",
   "link_url": "https://abib.co.kr/promotion/2026/black_friday.html",
   "slot": "중간 배너",
