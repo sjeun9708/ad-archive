@@ -1,5 +1,4013 @@
 [
  {
+  "id": "fb253bc368b6",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 국내 공식몰",
+  "page_url": "https://themedicube.co.kr/product/detail.html?product_no=3050&cate_no=471&display_group=1",
+  "image_src": "https://themedicube.co.kr/product/detail.html?product_no=3050&cate_no=471&display_group=1",
+  "collected_at": "2026-11-25",
+  "hash": "65cc3637161679cc",
+  "image": "images/fb253bc368b6.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "[일주일특가] 크림&토너 1+1 / 2+2 (메디큐브 제로 모공 패드, PDRN 젤패드, 부스터 디바이스, 캡슐크림, 토너 등)",
+   "product_type": "혼합 (화장품 중심, 뷰티 디바이스 포함)",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품",
+     "인증·임상",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "오직 단 7일간만 일주일특가",
+    "sub": "1+1 / 2+2 대용량 크림·토너, 블프 행사가 + 사은품 혜택",
+    "cta": "구매하기 / 할인 상품 확인 (› 화살표)"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단 빨간 배경의 '일주일특가' 대형 타이틀 아래 1+1·2+2 가격 박스를 배치하고, 각 상품 카드마다 제품컷과 가격·혜택을 세로로 반복 나열하며 할인율(50%, 최종 혜택가)을 가장 크게 강조한다.</layout>\n<parameter name=\"tone\">[\"한정 긴급감\", \"블프 프로모션 활력\", \"키치 캐릭터 감성(한교동 에디션)\"]",
+   "target": "대용량 구매로 가성비를 중시하고 피부 관리 루틴(모공·탄력·미백·수분)을 꾸준히 이어가려는 20~30대 여성 소비자",
+   "why_it_hooks": "빨간색·검정 대비 배경과 '단 7일간', '1+1 / 2+2'처럼 기간·수량 조건이 붙은 숫자가 즉시 시선을 끈다. 개당 가격을 함께 노출해 체감 할인을 극대화한다.",
+   "pdp": {
+    "first_screen_hook": "파란 배경의 '한정판 한교동 에디션 구매 시 헤어핀 2p 증정' 헤드라인과 PDRN 젤패드 제품컷으로, 한정 에디션과 사은품 혜택이 첫 화면에서 바로 전달된다.",
+    "sections": [
+     {
+      "name": "상단 프로모션 배너 모음",
+      "role": "구매 결정 유도(카테고리 이동)",
+      "copy": "인기 에이지알 ~50% 빅 세일 / 블프 1년에 단 한번 ~76% / 설윤 시크릿 루틴 기념 위크 / 부스터프로 X2 보상판매 10만원 or 5만원 즉시 할인",
+      "share": 6
+     },
+     {
+      "name": "한교동 에디션 메인 후킹",
+      "role": "공감 후킹·한정성 제시",
+      "copy": "메디큐브 공식몰 단독 에디션 / 한정판 한교동 에디션 구매 시 헤어핀 2p 증정 / PDRN 콜라겐 젤패드 비회원가 26,600원 → 회원특가 17,500원",
+      "share": 8
+     },
+     {
+      "name": "한교동 에디션 추가 혜택",
+      "role": "추가 구매 유도",
+      "copy": "한교동 에디션으로 3만원 이상 구매 시 한교동 PVC 파우치 증정",
+      "share": 4
+     },
+     {
+      "name": "한교동 에디션 제품 연출컷",
+      "role": "감성·브랜드 이미지 강화",
+      "copy": "모래 위 제품 연출 (한교동 캐릭터 패키지)",
+      "share": 4
+     },
+     {
+      "name": "유통기한·리뉴얼 안내",
+      "role": "신뢰 확보(고지)",
+      "copy": "사은품 딥 비타C 앰플 2.0 유통기한 2026.11.14 / 메디큐브 레드 석시닉 애씨드 세럼 용기 리뉴얼 안내",
+      "share": 4
+     },
+     {
+      "name": "제로 모공 패드 공식몰 단독 특가",
+      "role": "해결책 제시·구매 결정",
+      "copy": "#모공타이트닝 #블랙헤드&피지케어 / 제로 모공 패드 1개 17,500원(80매 구성특가), 2개 구매 시 증정 확대 / 약국 입점·클리닉 입점 배지",
+      "share": 10
+     },
+     {
+      "name": "기획세트·디바이스 혜택",
+      "role": "가격 비교·대안 제시",
+      "copy": "글루타치온 앰플 1+1 19,900원, PDRN 부스터 젤 1+1 15,000원 (50% 표시) / 부스터 진동클렌저 한교동 에디션 최종 140,000원 / 헬로키티 에디션 241,000원 / VVIP 클리닉 6종 187,300원",
+      "share": 14
+     },
+     {
+      "name": "디바이스 라인업 및 여배우 PICK 세트",
+      "role": "고가 번들 상향 구매 유도",
+      "copy": "VVIP 클리닉6종 / 여배우 PICK 3종세트 최종 763,000원 / 클리닉 속광 탄력 2종세트 / V라인 윤곽탄력 브이롤러 최종 144,000원 / 홈케어 스킨부스팅 부스터글로우 최종 318,000원",
+      "share": 14
+     },
+     {
+      "name": "공식 판매처 및 사용 안내",
+      "role": "신뢰·안심 확보",
+      "copy": "메디큐브 공식 판매처 정품 배지 / 비공식 판매처 구매 시 AS·하자 보장 불이익 안내 / 분사가 원활하지 않을 때 토출구 세척 방법",
+      "share": 6
+     },
+     {
+      "name": "일주일특가 메인 타이틀",
+      "role": "한정·마감 강조",
+      "copy": "오직 단 7일간만 일주일특가",
+      "share": 3
+     },
+     {
+      "name": "크림·토너 대용량 1+1 / 2+2 상품군",
+      "role": "핵심 구매 결정·가격 비교",
+      "copy": "PDRN 수분크림·레드 이레이징 크림 1+1 39,900원(개당 19,950원) / 2+2 59,900원(개당 14,975원) / 제로 모공 수분 크림 NEW / 토너 1+1 19,900원(개당 9,950원) / 2+2 39,900원(개당 9,975원)",
+      "share": 12
+     },
+     {
+      "name": "기능별 캡슐크림 라인업",
+      "role": "니즈별 제품 선택 가이드",
+      "copy": "미백&광채탄력 PDRN 캡슐크림 / 기미&잡티 딥 비타C 캡슐크림 / 기미&흔적 트라넥삼산 캡슐크림 / 수분 히알루론산 캡슐크림 / 다크스팟&토닝 터메릭 비타 캡슐크림",
+      "share": 10
+     },
+     {
+      "name": "세럼 라인업",
+      "role": "추가 제품 탐색·확장 구매",
+      "copy": "모공타이트닝 세럼 / 미백&광채 PDRN 펩타이드 세럼 (2026 올해의 브랜드대상 수상, PDRN 부문)",
+      "share": 5
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#62A7E5",
+     "pct": 27
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 21
+    },
+    {
+     "hex": "#803C47",
+     "pct": 21
+    },
+    {
+     "hex": "#D2D7E1",
+     "pct": 17
+    },
+    {
+     "hex": "#FCF1F3",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "[일주일특가] 크림&토너 1+1 / 2+2 - medicube",
+  "height_px": 40000,
+  "link_url": "https://themedicube.co.kr/product/detail.html?product_no=3050&cate_no=471&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "e8dd288c356b",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 국내 공식몰",
+  "page_url": "https://themedicube.co.kr/product/detail.html?product_no=3044&cate_no=471&display_group=1",
+  "image_src": "https://themedicube.co.kr/product/detail.html?product_no=3044&cate_no=471&display_group=1",
+  "collected_at": "2026-11-25",
+  "hash": "65cc3637169619b1",
+  "image": "images/e8dd288c356b.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "딥 비타C 패드 140매 대용량 기획세트 (블랙프라이데이 한정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품",
+     "임상·인증",
+     "리뷰·랭킹",
+     "비포애프터",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "누적판매 2억만장! 1등 기미패드 1+1 리필기획",
+    "sub": "재구매율 1위, 닦을수록 환해지는 기미패드 / 4주 사용 후 기미잡티 면적 5.6% 감소",
+    "cta": "블프 한정 구매하기"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 블랙프라이데이 할인·사은품 배너를 배치하고, 이후 세로로 혜택 카드와 제품 컷을 나열. 하단으로 갈수록 기미패드 임상·재구매 근거를 크게 배치.",
+   "tone": [
+    "블랙프라이데이 특가감",
+    "프리미엄 골드·블랙",
+    "신뢰·임상 기반"
+   ],
+   "target": "기미·잡티 고민이 있으며 가성비 대용량 기획과 한정 혜택에 반응하는 20~30대 여성",
+   "why_it_hooks": "상단 배너에서 '1+1', '2억만장', '~76%' 등 숫자형 혜택이 큰 글씨로 즉시 보이고, 블랙·골드 대비 색감이 블랙프라이데이 특가 분위기를 강하게 전달합니다. 기미 고민과 임상 수치가 이어져 구매 이유를 빠르게 제시합니다.",
+   "pdp": "{\"first_screen_hook\": \"상단 배너 '인기 에이지알 ~50% 빅 세일'과 '1년에 단 한번! 블랙프라이데이 ~76%'의 큰 할인율 숫자로 시선을 잡음\", \"sections\": [{\"name\": \"상단 프로모션 배너\", \"role\": \"할인·혜택 훅\", \"copy\": \"인기 에이지알 ~50% 빅 세일 / 블랙프라이데이 ~76% 10% 쿠폰까지 / 부스터프로 X2 보상판매 10만원 or 5만원 즉시 할인\", \"share\": 5}, {\"name\": \"한교동 에디션 단독 혜택\", \"role\": \"한정 혜택 제시\", \"copy\": \"메디큐브 공식몰 단독 에디션 구매 시 헤어핀 2p 증정 / PDRN 겔패드 한교동 에디션 회원특가 17,500원\", \"share\": 10}, {\"name\": \"한교동 에디션 시리즈 연출\", \"role\": \"브랜드 무드 연출\", \"copy\": \"한교동 콜라보 제품 연출컷 (PDRN 겔패드, 토너, 세럼, 파우치)\", \"share\": 5}, {\"name\": \"유통기한·리뉴얼 안내\", \"role\": \"신뢰 확보\", \"copy\": \"사은품 딥 비타C 앰플 2.0 유통기한 2026.11.14 / 제품 용기 리뉴얼 안내\", \"share\": 5}, {\"name\": \"제로 모공 패드 추가 할인·증정\", \"role\": \"구매 전환 혜택\", \"copy\": \"공식몰 단독 특가 / 약국 입점·클리닉 입점 뱃지 / 1개 구매 시 17,500원 + 마스크 3매 증정, 2개 구매 시 추가 증정\", \"share\": 10}, {\"name\": \"기획 세트 할인 리스트\", \"role\": \"가격 비교·선택 유도\", \"copy\": \"글루타치온 앰플 1+1 50%, PDRN 부스터 젤 1+1 50%, 부스터 진동클렌저 한교동 에디션 140,000원 등 다수 에디션 카드\", \"share\": 20}, {\"name\": \"VVIP·여배우 PICK 등 고가 기획\", \"role\": \"고객 세그먼트별 선택지\", \"copy\": \"부스터 글로우 헬로키티 에디션 241,000원, VVIP 클리닉6종 187,300원, 여배우 PICK 3종 763,000원 등 최종 혜택가 중심 배치\", \"share\": 15}, {\"name\": \"기기 상품 안내·정품 인증\", \"role\": \"신뢰·안전 안내\", \"copy\": \"분사 원활하지 않을 경우 토출구 세척 안내 / 메디큐브 공식 판매처 정품 인증 배지 / 비공식 판매처 주의 안내\", \"share\": 5}, {\"name\": \"기미패드 블프 기획 소개\", \"role\": \"제품 훅 전환\", \"copy\": \"BLACK FRIDAY 누적판매 2억만장! 1등 기미패드 1+1 리필기획 / #5천만장돌파 #미백토닝 #얼굴하얘지는패드 #후기만 1.7만개\", \"share\": 5}, {\"name\": \"공신력 있는 수상·지표\", \"role\": \"사회적 증거\", \"copy\": \"뷰티핀 이달의 픽 기미패드 1위 / 100% 비건 인증 / 누적판매 2억만장 돌파 / 고객후기 4.9점 / 2026.07 기준 딥바이타C 내 재구매율 1위\", \"share\": 5}, {\"name\": \"재구매율 강조\", \"role\": \"핵심 셀링포인트\", \"copy\": \"누적판매 2억만장 재구매율 1위 / 닦을수록 환해지는 기미패드\", \"share\": 3}, {\"name\": \"임상 결과 비포애프터\", \"role\": \"효능 근거\", \"copy\": \"Before/After 사진 비교 / 4주 사용 후 기미잡티 면적 5.6% 감소, 올라오기 전 기미·잡티 4.3% 감소, 멜라닌 색소량 3.5% 감소 (인체적용시험 보고서 기반, 개인차 있음)\", \"share\": 7}, {\"name\": \"제품 소개 및 성분\", \"role\": \"제품 이해\", \"copy\": \"Deep Vita C Pad: Vitamin Water, Vitamin C Derivative, Niacinamide 2% / 150g 70패드\", \"share\": 5}], \"proofs\": {\"임상 시험\": true, \"성분 설명\": true, \"비포애프터\": true, \"리뷰 캡처\": false, \"수상·랭킹\": true, \"전문가 추천\": false, \"인증 마크\": true, \"모델·셀럽\": false}}}",
+   "palette": [
+    {
+     "hex": "#62A7E5",
+     "pct": 27
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 21
+    },
+    {
+     "hex": "#803C47",
+     "pct": 21
+    },
+    {
+     "hex": "#D2D7E1",
+     "pct": 17
+    },
+    {
+     "hex": "#FCF1F3",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "[블프한정] 딥 비타C 패드 140매 대용량 기획세트 - medicube",
+  "height_px": 40000,
+  "link_url": "https://themedicube.co.kr/product/detail.html?product_no=3044&cate_no=471&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "424bb373de9e",
+  "brand": "메디큐브",
+  "channel": "상세페이지",
+  "source_name": "메디큐브 국내 공식몰",
+  "page_url": "https://themedicube.co.kr/product/detail.html?product_no=2908&cate_no=471&display_group=1",
+  "image_src": "https://themedicube.co.kr/product/detail.html?product_no=2908&cate_no=471&display_group=1",
+  "collected_at": "2026-11-25",
+  "hash": "65cc36371696d8fc",
+  "image": "images/424bb373de9e.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "메디큐브",
+   "product": "제로모공패드 2.0 100매 기획세트 (블랙프라이데이 한정)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품",
+     "랭킹",
+     "모델·셀럽",
+     "비포애프터"
+    ]
+   },
+   "copy": {
+    "main": "BLACK FRIDAY 제로모공패드 100매 기획 · 11년 누적 판매 1위, 1등 국민패드",
+    "sub": "공식몰 단독 특가 · 제로모공패드 추가 할인 & 증정 · 1개 구매 시 17,500원(80매 구성특가), 2개 구매 시 사은품 4매 증정",
+    "cta": "구매하기 / 한정 수량 70매 +30매"
+   },
+   "ad_format": "리뷰·후기형",
+   "visual_focus": "혼합",
+   "layout": "상단 프로모션 배너 4종을 시작으로, 한교동 에디션 단독 상품 카드 → 블랙프라이데이 빨강 섹션의 가격 카드 나열 → 파란 톤 제로모공패드 본편 순으로 진행. 가격 카드에서는 할인가 숫자를 가장 크게, 파란 본편에서는 제품 캔과 '1' 대형 숫자를 중앙 배치.",
+   "tone": [
+    "한정 세일감",
+    "청량·깨끗함",
+    "신뢰·1위 권위"
+   ],
+   "target": "모공·피지 고민이 있는 20~30대 여성 중 블랙프라이데이 세일에서 기초·디바이스를 함께 구매하려는 소비자",
+   "why_it_hooks": "상단 빨간 배너의 '~76%'와 '1년에 단 한번' 문구가 마감감을 주고, 하단 파란 본편은 '15초에 1장씩', '1등 모공 집착 패드' 등 빠른 판매 근거로 신뢰를 얹습니다. 연예인 픽과 수상·랭킹 로고가 한 화면에 묶여 선택을 밀어줍니다.",
+   "pdp": {
+    "first_screen_hook": "파란 배경 위 '한교동 에디션 구매 시 헤어핀 2p 증정' 대형 카피와 제품 카드, 상단 할인 배너의 '~76%' 숫자가 동시에 시선을 잡습니다.",
+    "sections": [
+     {
+      "name": "프로모션 배너 4종",
+      "role": "행동 유도",
+      "copy": "인기 에이지알 ~50% 빅 세일 / 블랙프라이데이 ~76% 10% 쿠폰 / 설윤's 시크릿 루틴 기념 위크 / 부스터프로 X2 보상판매 10만원 or 5만원 즉시 할인",
+      "share": 5
+     },
+     {
+      "name": "한교동 에디션 단독 상품 카드",
+      "role": "공감 후킹",
+      "copy": "메디큐브 공식몰 단독 에디션 / 한정판 한교동 에디션 구매 시 헤어핀 2p 증정 / PDRN 콜라겐 젤 패드 회원특가 17,500원 / 한교동 PVC 파우치 3만원 이상 구매 시 증정",
+      "share": 8
+     },
+     {
+      "name": "수분크림 가격 카드",
+      "role": "구매 결정",
+      "copy": "PDRN 수분크림 50ml 회원가 18,500원 / 100ml 회원가 19,900원 / 유통기한 2027년 11월 23일",
+      "share": 2
+     },
+     {
+      "name": "제로모공패드 추가 할인·증정",
+      "role": "구매 결정",
+      "copy": "공식몰 단독 특가 제로모공패드 추가 할인&증정 / 1개 구매 시 80매 구성특가 17,500원 + 제로모공쿨링마스크 3매 / 2개 구매 시 제로모공쿨링마스크 4매 증정 / 약국 입점·클리닉 입점 인증",
+      "share": 10
+     },
+     {
+      "name": "기획 세트 가격 나열",
+      "role": "구매 결정",
+      "copy": "글루타치온 앰플 1+1 블프 혜택가 19,900원 / PDRN 부스터 젤 1+1 15,000원 / 부스터 진동클렌저 한교동 에디션 최종 140,000원 / 헬로키티 에디션 최종 241,000원 / VVIP 클리닉 6종 최종 187,300원 / 여배우 PICK 3종 최종 763,000원 등",
+      "share": 30
+     },
+     {
+      "name": "디바이스 가격 카드 (브이롤러·부스터글로우)",
+      "role": "구매 결정",
+      "copy": "V라인 윤곽탄력 얼굴형기기 브이롤러 최종 144,000원 / 홈케어 스킨부스팅 부스터글로우 최종 318,000원 / 타임특가 쿠폰 · 카카오페이 4천원 할인",
+      "share": 12
+     },
+     {
+      "name": "유의사항·정품 인증",
+      "role": "신뢰 확보",
+      "copy": "분사가 원활하지 않을 경우 토출구 30초 세척 안내 / 메디큐브 공식 판매처 정품 인증: 비공식 판매처 구입 시 하자·AS 보장 불이익 안내",
+      "share": 4
+     },
+     {
+      "name": "블랙프라이데이 제로모공패드 100매 기획",
+      "role": "한정·마감",
+      "copy": "BLACK FRIDAY 제로모공패드 100매 기획 / 11년 누적 판매 1위, 1등 국민패드 / 70매 +30매",
+      "share": 5
+     },
+     {
+      "name": "셀럽 리뷰 사회적 증거",
+      "role": "사회적 증거",
+      "copy": "소이현 PICK '매끈 촉촉 물광까지!' / 정후성 PICK '표현 오래 될 필요없고' / 제이 PICK",
+      "share": 8
+     },
+     {
+      "name": "수상·랭킹 및 본편 헤드라인",
+      "role": "근거",
+      "copy": "2024 하반기 화해 어워드 스킨토너패드 모공 1위 / 2023 일본 K-COME 어워즈 스킨케어패드 1위 / 2023 일본 아마존 1위 등 수상 뱃지 / 15초에 1장씩 팔리는 1등 모공 집착 패드",
+      "share": 7
+     },
+     {
+      "name": "비포애프터 및 제품 소개",
+      "role": "비포애프터 근거",
+      "copy": "Before / After 모공 비교 (*이해를 돕기 위한 이미지입니다) / ZERO PORE 2.0 / Pore-Tightening, Simple and Easy, Powerful Clinic Skin Effect 등 영문 기능 설명",
+      "share": 9
+     }
+    ]
+   },
+   "pdp.proofs": {
+    "임상 시험": false,
+    "성분 설명": true,
+    "비포애프터": true,
+    "리뷰 캡처": false,
+    "수상·랭킹": true,
+    "전문가 추천": false,
+    "인증 마크": true,
+    "모델·셀럽": true
+   },
+   "palette": [
+    {
+     "hex": "#62A7E5",
+     "pct": 27
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 21
+    },
+    {
+     "hex": "#803C47",
+     "pct": 21
+    },
+    {
+     "hex": "#D2D7E1",
+     "pct": 17
+    },
+    {
+     "hex": "#FCF1F3",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "[블프한정] 제로모공패드 2.0 100매 기획세트 - medicube",
+  "height_px": 40000,
+  "link_url": "https://themedicube.co.kr/product/detail.html?product_no=2908&cate_no=471&display_group=1",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "bd8b27238ce6",
+  "brand": "아누아",
+  "channel": "공식몰",
+  "source_name": "아누아 국내 공식몰",
+  "page_url": "https://anua.kr/",
+  "image_src": "https://anua.kr/web/upload/appfiles/ZaReJam3QiELznoZeGGkMG/95f19bf8ed565468eb9e2927fa6ca1da.png",
+  "collected_at": "2026-11-25",
+  "hash": "7715cc98d9c9cd37",
+  "image": "images/bd8b27238ce6.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아누아",
+   "product": "아누아 비타C 글루타치온 계열 앰플 토너 (비타C 캡슐 라인)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "한정·마감",
+    "secondary": [
+     "할인율 강조",
+     "신제품",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "2주 한정 신제품 추가 할인",
+    "sub": "지금 가장 주목해야 할",
+    "cta": "COUPON 10,000원"
+   },
+   "ad_format": "배너형",
+   "visual_focus": "혼합",
+   "layout": "노란 그라데이션 배경 위 좌측에 카피와 성분 태그를 배치하고, 우측에 제품 두 개를 비스듬히 세워 시선을 집중시켰으며, 주황색 쿠폰 티켓에 10,000원 금액을 가장 크게 강조했다.",
+   "tone": [
+    "상큼·비타민 에너지",
+    "밝고 화사함",
+    "프리미엄 미니멀"
+   ],
+   "target": "비타민C 계열 미백·잡티 케어에 관심 있으면서 신제품과 할인 혜택을 찾는 20~40대 여성 소비자",
+   "why_it_hooks": "노란색 배경과 떠다니는 골드 방울이 시선을 끌고, 주황색 쿠폰과 '2주 한정'이라는 마감 문구가 즉시 구매 행동을 유도합니다. 제품 이미지와 혜택 숫자가 함께 있어 한눈에 제품과 혜택을 연결할 수 있습니다.",
+   "palette": [
+    {
+     "hex": "#FFF8A2",
+     "pct": 35
+    },
+    {
+     "hex": "#FEF477",
+     "pct": 20
+    },
+    {
+     "hex": "#FFF9B7",
+     "pct": 19
+    },
+    {
+     "hex": "#E4C45F",
+     "pct": 13
+    },
+    {
+     "hex": "#FFFBCB",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": "1120_신상특가_비타C미스트",
+  "link_url": "https://anua.kr/product/detail.html?product_no=596&utm_source=onsite&utm_medium=categorybanner&utm_campaign=on_ban&utm_term=on_ban__1120%EB%B9%84%ED%83%80%EB%AF%B8%EC%8A%A4%ED%8A%B8(cb)_1_jyl&utm_content=jyl",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "cb8dd7860f90"
+ },
+ {
+  "id": "d9851019e040",
+  "brand": "토리든",
+  "channel": "공식몰",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/",
+  "image_src": "https://godomall-storage.cdn-nhncommerce.com/4d7876b81b0d37f8a7cfa4d402d68be4/goods/2440/image/main/2440_main_041.png",
+  "collected_at": "2026-11-25",
+  "hash": "7c7af3e1c360441d",
+  "image": "images/d9851019e040.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 다이브인 수딩크림, 세럼, 토너 세트 (미니 세럼 2종 증정 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "사은품",
+    "secondary": [
+     "루틴 제안",
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "HYDRATE & SOOTHE / HYDRATE & GLOW",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "파란 그라데이션 배경 위에 수딩크림, 세럼, 토너를 나란히 배치하고, 우측 하단 원형 확대 영역에 미니 세럼 2종 증정품을 따로 강조함",
+   "tone": [
+    "청량",
+    "수분감",
+    "깨끗함"
+   ],
+   "target": "건조하고 자극에 민감한 피부를 가진 20~30대 여성 중 수분 관리 루틴을 구성하려는 소비자",
+   "why_it_hooks": "푸른 그라데이션과 투명한 제품 용기가 '수분'이라는 메시지를 직관적으로 전달합니다. 우측 하단의 원형 확대 증정품 영역이 세트 구성 혜택을 한눈에 보여줍니다.",
+   "palette": [
+    {
+     "hex": "#B0CFE7",
+     "pct": 25
+    },
+    {
+     "hex": "#C9E6F9",
+     "pct": 22
+    },
+    {
+     "hex": "#8AB6D8",
+     "pct": 21
+    },
+    {
+     "hex": "#DDDEDF",
+     "pct": 17
+    },
+    {
+     "hex": "#EAF4FA",
+     "pct": 16
+    }
+   ]
+  },
+  "alt": "[블프세일] 다이브인 토너 300ml+세럼50ml+수딩크림100ml [증정] 세럼 10ml 2개",
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2440&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "03ebf4673a41"
+ },
+ {
+  "id": "5d1931a808fa",
+  "brand": "토리든",
+  "channel": "공식몰",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/",
+  "image_src": "https://godomall-storage.cdn-nhncommerce.com/4d7876b81b0d37f8a7cfa4d402d68be4/goods/2552/image/main/2552_main_064.png",
+  "collected_at": "2026-11-25",
+  "hash": "0f0f0f055453d423",
+  "image": "images/5d1931a808fa.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 밸런스풀 크림, 토너패드, 세럼 세트 (토너패드 샘플 증정 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "사은품",
+    "secondary": [
+     "성분·효능",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "Torriden BALANCEFUL",
+    "sub": "Centella Asiatica Extract / 10 sheets | 30 ml | 1.01 fl.oz.",
+    "cta": "+ (토너패드 증정 구성 원형 확대 이미지)"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "세 가지 제품(크림, 토너패드, 세럼)을 그라데이션 연두 배경 위에 나란히 배치하고, 우측 하단에 원형으로 확대한 토너패드 증정 구성을 크게 배치해 '+' 기호로 추가 구성을 강조함.",
+   "tone": [
+    "청량",
+    "진정·밸런스",
+    "깨끗한 미니멀"
+   ],
+   "target": "민감하거나 트러블 후 피부 진정·수분 밸런스 관리를 원하는 20~30대 여성 소비자",
+   "why_it_hooks": "연두·민트 그라데이션과 시카(Centella Asiatica) 성분 표기가 진정 이미지를 직관적으로 전달합니다. 우측 하단의 원형 확대 샘플 구성이 '추가 증정'이라는 혜택을 시각적으로 분리해 클릭을 유도합니다.",
+   "palette": [
+    {
+     "hex": "#D1DDC5",
+     "pct": 32
+    },
+    {
+     "hex": "#AAC39C",
+     "pct": 21
+    },
+    {
+     "hex": "#DBECBE",
+     "pct": 17
+    },
+    {
+     "hex": "#EFF6D6",
+     "pct": 16
+    },
+    {
+     "hex": "#F5FCD5",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": "[블프세일] 밸런스풀 세럼50ml+크림80ml+토너패드60매 [증정] 토너패드 10매입",
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2552&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "dd0605ac1d36"
+ },
+ {
+  "id": "903a5c1af61f",
+  "brand": "토리든",
+  "channel": "공식몰",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/",
+  "image_src": "https://godomall-storage.cdn-nhncommerce.com/4d7876b81b0d37f8a7cfa4d402d68be4/goods/2560/image/main/2560_main_019.png",
+  "collected_at": "2026-11-25",
+  "hash": "d8d8db73f373720d",
+  "image": "images/903a5c1af61f.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "DIVE IN 수분 4종 키트 및 제품 라인업 (Multi Pad, 수분 세럼, BALANCEFUL 크림, SOLID IN 립 에센스)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "랭킹",
+    "secondary": [
+     "성분·효능",
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "1등 다이브인 수분 4종 키트",
+    "sub": "클렌징 폼 30ml + 토너 50ml + 세럼 20ml + 수딩크림 20ml",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "제품들을 가로로 나란히 배치하고 중앙 상단 키트 박스의 '1등 다이브인 수분 4종 키트' 문구를 가장 크게 노출, 배경은 파랑-노랑 그라데이션으로 제품 색감을 살림",
+   "tone": [
+    "청량",
+    "깨끗함",
+    "수분감"
+   ],
+   "target": "건조한 피부 고민이 있어 수분 케어를 찾는 20~30대 여성 소비자",
+   "why_it_hooks": "'1등' 랭킹 문구가 키트 박스 상단에 크게 자리해 신뢰를 주고, 파랑 계열의 맑은 배경과 물방울 느낌의 패키지가 수분감을 시각적으로 전달해 한눈에 들어옵니다.",
+   "palette": [
+    {
+     "hex": "#CAE6E6",
+     "pct": 32
+    },
+    {
+     "hex": "#B5BF9D",
+     "pct": 22
+    },
+    {
+     "hex": "#E3E0C7",
+     "pct": 17
+    },
+    {
+     "hex": "#D4D9C8",
+     "pct": 16
+    },
+    {
+     "hex": "#E7F2F2",
+     "pct": 13
+    }
+   ]
+  },
+  "alt": "[블프세일] 보습 29,900원 블랙BOX",
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2560&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "342f19aeaf61"
+ },
+ {
+  "id": "b89638512eb8",
+  "brand": "토리든",
+  "channel": "공식몰",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/",
+  "image_src": "https://godomall-storage.cdn-nhncommerce.com/4d7876b81b0d37f8a7cfa4d402d68be4/goods/2395/image/main/2395_main_030.png",
+  "collected_at": "2026-11-25",
+  "hash": "c0a0785555d5d52a",
+  "image": "images/b89638512eb8.jpg",
+  "analysis": null,
+  "alt": "[블프세일/마스크10+10] 다이브인 (수분) + 밸런스풀시카(진정) + 셀메이징 비타C (톤개선) + 셀메이징 콜라겐(탄력) 4종 택2",
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2395&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "slot": "메인 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "9a42a13edbf9"
+ },
+ {
+  "id": "1d0a0d2299a7",
+  "brand": "토리든",
+  "channel": "공식몰",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/",
+  "image_src": "https://godomall-storage.cdn-nhncommerce.com/4d7876b81b0d37f8a7cfa4d402d68be4/board/promotion/30/70938c9e9a3bdffc931.png",
+  "collected_at": "2026-11-25",
+  "hash": "525696979b16164f",
+  "image": "images/1d0a0d2299a7.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "DIVE IN Serum, BALANCEFUL Serum, CELLMAZING Brightening Ampoule",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "신제품",
+    "secondary": [
+     "성분·효능",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "세 개의 세럼 병을 중앙에 겹쳐 배치하고, 네이비 배경에 파란 리본과 금빛 컨페티, 선물 상자를 더해 특별한 느낌을 강조",
+   "tone": [
+    "청량",
+    "프리미엄",
+    "축제·선물"
+   ],
+   "target": "수분과 피부 톤 개선에 관심 있는 20~40대 스킨케어 소비자",
+   "why_it_hooks": "짙은 네이비 배경 위에서 파랑·초록·오렌지 세럼 병이 색으로 대비되어 시선을 모으며, 리본과 선물 상자, 반짝이는 컨페티가 기획전이나 선물 세트 같은 기대감을 줍니다.",
+   "palette": [
+    {
+     "hex": "#030D2D",
+     "pct": 40
+    },
+    {
+     "hex": "#040823",
+     "pct": 21
+    },
+    {
+     "hex": "#9FB1B5",
+     "pct": 18
+    },
+    {
+     "hex": "#D7E1E2",
+     "pct": 13
+    },
+    {
+     "hex": "#29314C",
+     "pct": 8
+    }
+   ]
+  },
+  "alt": "블랙프라이데이 ~69%",
+  "link_url": "https://torriden.com/board/view.php?bdId=promotion&sno=30",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "03ebf4673a41",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=2440&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=2440&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "collected_at": "2026-11-25",
+  "hash": "deb2f0640eb07129",
+  "image": "images/03ebf4673a41.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 다이브인 저분자 히알루론산 수분 세럼",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "랭킹·누적 판매",
+    "secondary": [
+     "성분·효능",
+     "임상·인증",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "1등 수분 세럼, 천만 피부에 정착한",
+    "sub": "누적 생산량 0개 돌파! / 쓸수록 차오르는 진짜 보습! / 피부 겉부터-속까지 수분 개선!",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 '1등·천만 피부' 헤드카피를 크게 배치하고 그 아래 여러 개의 세럼 병을 중앙에 나열, 하단에 누적 생산량 숫자 박스와 해시태그형 카피를 배치하는 세로 긴 구성.",
+   "tone": [
+    "청량",
+    "신뢰감",
+    "깔끔"
+   ],
+   "target": "수분 부족과 건조함에 민감한 20~40대 여성 스킨케어 소비자",
+   "why_it_hooks": "푸른 수분 톤의 배경과 여러 병이 줄지어 선 제품 비주얼이 한눈에 '수분'을 전달하며, '1등'과 '천만 피부'라는 큰 숫자 카피가 신뢰를 빠르게 줍니다.",
+   "pdp": {
+    "first_screen_hook": "푸른 하늘과 물방울 연출 위에 '1등 · 천만 피부에 정착한 수분 세럼' 헤드카피를 크게 띄워 수분 제품임을 즉시 전달합니다.",
+    "sections": [
+     {
+      "name": "히어로",
+      "role": "공감 후킹·랭킹 제시",
+      "copy": "1등 · 천만 피부에 정착한 수분 세럼",
+      "share": 12
+     },
+     {
+      "name": "누적 판매",
+      "role": "사회적 증거",
+      "copy": "누적 생산량 0개 돌파!",
+      "share": 6
+     },
+     {
+      "name": "핵심 메시지",
+      "role": "해결책 제시",
+      "copy": "쓸수록 차오르는 진짜 보습! #속보습정착세럼",
+      "share": 10
+     },
+     {
+      "name": "성분 설명",
+      "role": "근거",
+      "copy": "5D 복합 히알루론산 / 속보습 충전 / 3중 수분 케어",
+      "share": 12
+     },
+     {
+      "name": "임상 근거",
+      "role": "근거",
+      "copy": "피부 3중 수분(보습) 인체적용시험, 속보습 인체적용시험 각주",
+      "share": 8
+     },
+     {
+      "name": "브랜드 철학",
+      "role": "브랜드 신뢰",
+      "copy": "DIVEIN 몰두하다 / 다이브인은 한가지, 히알루론산에 집중했습니다.",
+      "share": 8
+     },
+     {
+      "name": "작용 원리",
+      "role": "해결책 시연",
+      "copy": "STEP1 바르자마자! 피부 겉부터-속까지 수분 개선!",
+      "share": 14
+     },
+     {
+      "name": "사용 전후 그래프",
+      "role": "비포애프터",
+      "copy": "사용 전 0% / 사용 후 (수분 개선율 그래프)",
+      "share": 10
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#AED8E9",
+     "pct": 25
+    },
+    {
+     "hex": "#C5E7F8",
+     "pct": 25
+    },
+    {
+     "hex": "#E0E7EA",
+     "pct": 20
+    },
+    {
+     "hex": "#6CADCB",
+     "pct": 19
+    },
+    {
+     "hex": "#E1EFF7",
+     "pct": 12
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 4690,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2440&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "d9851019e040"
+ },
+ {
+  "id": "dd0605ac1d36",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=2552&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=2552&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "collected_at": "2026-11-25",
+  "hash": "f4e0f08cc2a6b396",
+  "image": "images/dd0605ac1d36.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 밸런스풀 시카 진정 세럼",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "리뷰·랭킹",
+    "secondary": [
+     "성분·효능",
+     "인증·임상"
+    ]
+   },
+   "copy": {
+    "main": "찐으로 사용해 본 소비자 REAL 사용후기!",
+    "sub": "민감하고 속상한 피부 집중진정 / 밸런스풀 시카 진정 세럼 / 번들거리고 예민해지는 반복적인 피부 고민, 민감 복합성 피지 관리가 필요할 때!",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "리뷰·후기형",
+   "visual_focus": "혼합",
+   "layout": "상단에 제품 4병을 배치하고, 그 아래 실사용 후기 말풍선을 세로로 나열한 뒤, 중반부에 집중진정 기능 아이콘과 임상 각주를 두고, 마지막에 피지 고민 일러스트로 문제를 제시하는 구조",
+   "tone": [
+    "청량·진정",
+    "신뢰감",
+    "부드러운 친근함"
+   ],
+   "target": "붉은기와 예민함, 번들거림을 함께 겪는 민감 복합성 피부 사용자",
+   "why_it_hooks": "녹색 톤의 제품 이미지와 '찐으로 사용해 본 소비자 REAL 사용후기!'라는 문구가 실제 사용자 반응을 전면에 내세워 신뢰를 빠르게 얻습니다. 별점 말풍선이 연속으로 이어져 스크롤을 자연스럽게 유도합니다.",
+   "pdp": {
+    "first_screen_hook": "4병의 제품 컷과 '찐으로 사용해 본 소비자 REAL 사용후기!' 헤드카피로 실사용 후기를 먼저 보여주며 시선을 잡습니다.",
+    "sections": [
+     {
+      "name": "제품 및 리뷰 헤드",
+      "role": "공감 후킹",
+      "copy": "찐으로 사용해 본 소비자 REAL 사용후기!",
+      "share": 8
+     },
+     {
+      "name": "실사용 후기 모음",
+      "role": "사회적 증거",
+      "copy": "자극 없이 편하고 좋아요 / 보습이 너무 잘 돼서 촉촉하구나 / 따가움 없고 진정이 잘 되는 제품 등 별점 후기",
+      "share": 22
+     },
+     {
+      "name": "제품 컨셉 타이틀",
+      "role": "해결책 제시",
+      "copy": "민감하고 속상한 피부 집중진정 / 밸런스풀 시카 진정 세럼",
+      "share": 8
+     },
+     {
+      "name": "핵심 기능 및 임상 근거",
+      "role": "근거",
+      "copy": "집중진정 / 민감 피부 저자극 / 토리든 특허성분 / 여드름 피부 안심 사용, 임상 시험 각주 3건",
+      "share": 14
+     },
+     {
+      "name": "문제 제기",
+      "role": "공감 후킹",
+      "copy": "번들거리고 예민해지는 반복적인 피부 고민 / 민감 복합성 피지 관리가 필요할 때!",
+      "share": 6
+     },
+     {
+      "name": "원인 설명",
+      "role": "근거",
+      "copy": "과도한 피지 분비 / 두꺼운 피부 각질층 / 모공 속 갇힌 피지 및 학술 문헌 출처",
+      "share": 10
+     },
+     {
+      "name": "마무리 설득",
+      "role": "구매 결정",
+      "copy": "<UNKNOWN>",
+      "share": 6
+     }
+    ]
+   },
+   "palette": [
+    {
+     "hex": "#FAFBF7",
+     "pct": 36
+    },
+    {
+     "hex": "#ECF4E5",
+     "pct": 23
+    },
+    {
+     "hex": "#F5FAEA",
+     "pct": 20
+    },
+    {
+     "hex": "#B5C9AB",
+     "pct": 15
+    },
+    {
+     "hex": "#FAF9F7",
+     "pct": 6
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 7174,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2552&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "5d1931a808fa"
+ },
+ {
+  "id": "342f19aeaf61",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=2560&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=2560&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "collected_at": "2026-11-25",
+  "hash": "2945d49cac92dcec",
+  "image": "images/342f19aeaf61.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 다이브인 히알루론산 세럼 50ml (리뉴얼)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "1등 토리든 다이브인 세럼 (2천2백만 병 판매)",
+    "secondary": [
+     "수상·랭킹",
+     "성분·효능",
+     "속보습 시그널 차별화"
+    ]
+   },
+   "copy": {
+    "main": "2천2백만 병으로 쌓아 올린 수분 세럼의 기준 1등 토리든 다이브인 세럼",
+    "sub": "수분 밀도·탄력·광채까지 채우는 고기능 수분 세럼",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 리뉴얼 안내와 구매 전 용량 확인 고지를 두고, 중반부터 '1등' 헤드라인과 제품 병을 세로로 쌓아 내려가며, 하단으로 갈수록 기능 수치를 아이콘 격자로 정리하는 긴 세로 구조",
+   "tone": [
+    "청량",
+    "신뢰감",
+    "테크니컬"
+   ],
+   "target": "건조함과 수분 부족을 느끼는 20~30대 여성 중 수분 세럼을 찾는 소비자",
+   "why_it_hooks": "파란 물결 톤과 큰 '1등' 헤드라인, 노란 형광펜으로 강조한 판매량 숫자가 한 화면에 들어와 신뢰도를 빠르게 전달합니다. 물방울 질감의 제품 연출이 '수분'이라는 메시지를 시각적으로 즉시 보여줍니다.",
+   "pdp": {
+    "first_screen_hook": "리뉴얼 안내 후 파란 배경의 '2천2백만 병·1등 토리든 다이브인 세럼' 헤드라인이 크게 등장해 판매 실적으로 신뢰를 먼저 확보합니다.",
+    "sections": [
+     {
+      "name": "리뉴얼 및 구매 고지",
+      "role": "구매 전 안내",
+      "copy": "제품 디자인 리뉴얼 안내 / 리뉴얼 정품 발송 / 판매 용량 50ml 확인",
+      "share": 8
+     },
+     {
+      "name": "1등 판매 실적 후킹",
+      "role": "사회적 증거",
+      "copy": "2천2백만 병으로 쌓아 올린 수분 세럼의 기준 1등 토리든 다이브인 세럼 / 어워즈 수상 이력 / 누적 생산량 0개 돌파",
+      "share": 14
+     },
+     {
+      "name": "제품 및 핵심 성분 소개",
+      "role": "제품 소개",
+      "copy": "HYDRATE & GLOW / 5D Hyaluronic Acid · Allantoin · Panthenol / 수분 밀도·탄력·광채까지 채우는 고기능 수분 세럼",
+      "share": 12
+     },
+     {
+      "name": "문제 제기",
+      "role": "공감 후킹",
+      "copy": "피부가 먼저 알아채는 '진짜 속보습' / 모두가 말하는 속보습, 피부는 정말 느끼고 있을까요?",
+      "share": 10
+     },
+     {
+      "name": "차별화 설계",
+      "role": "해결책 제시",
+      "copy": "속보습 '전달'에만 집중 vs 속보습 '시그널'까지 설계 / 강화된 독자 설계 성분으로 겉·속수분 개선",
+      "share": 14
+     },
+     {
+      "name": "3단계 작동 원리",
+      "role": "근거 제시",
+      "copy": "42.79% 강력해진 속수분 충전 → 딥 액티브 흡수 → 3중 피부 부스팅",
+      "share": 10
+     },
+     {
+      "name": "업그레이드 제품 스펙",
+      "role": "근거 제시",
+      "copy": "NEW 다이브인 세럼 / 5D HA 저분자 히알루론산 2배 강화 / 수분 불균형 개선 / 3중 피부 부스팅 / 각주 명시",
+      "share": 16
+     },
+     {
+      "name": "마무리 및 신뢰 고지",
+      "role": "구매 결정",
+      "copy": "기존 제품 대비 비교 각주 / 저분자 히알루론산 성분 표기 (하이드롤라이즈드하이알루로닉애씨드)",
+      "share": 6
+     },
+     {
+      "name": "기능 강조 종합",
+      "role": "행동 유도",
+      "copy": "더 깊이, 더 오래 유지되는 수분감!",
+      "share": 8
+     }
+    ]
+   },
+   "palette": [
+    {
+     "hex": "#E2F3F9",
+     "pct": 26
+    },
+    {
+     "hex": "#A4CFEC",
+     "pct": 24
+    },
+    {
+     "hex": "#599AD6",
+     "pct": 23
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 22
+    },
+    {
+     "hex": "#F7F8E7",
+     "pct": 5
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 8328,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2560&mtn=2%5E%7C%5EBest+Products%5E%7C%5En",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "903a5c1af61f"
+ },
+ {
+  "id": "182bc1ff09af",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=467",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=467",
+  "collected_at": "2026-11-25",
+  "hash": "13dee4ffd8e0c9e4",
+  "image": "images/182bc1ff09af.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 다이브인 수분 필링 젤 (DIVE IN Peeling Gel, 150ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "저자극 수분 필링: 각질은 확실히 제거하고 건조해지지 않는다",
+    "secondary": [
+     "민감성 피부 자극 인체적용시험 완료",
+     "3중 필링(걸·속·미세 각질)",
+     "5D 복합 저분자 히알루론산",
+     "과도한 필링 후 금방 건조해지는 문제 제기"
+    ]
+   },
+   "copy": {
+    "main": "자극 없이 퍼지는 수분감으로 각질만을 걷어내는 #매끈수분필링젤",
+    "sub": "걸·속·미세 각질 3중 필링, 수분 자석 우레아·PHA와 비건 스큘란·고마쥬가 각질을 부드럽게 녹이고 촉촉하게 케어",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 말풍선으로 고객 고충을 던진 뒤, 중반 텍스트·도식으로 원리를 설명하고, 하단에서 제품 병 컷과 대형 브랜드 타이포로 마무리하는 세로 스크롤 구조",
+   "tone": [
+    "청량",
+    "신뢰감",
+    "미니멀"
+   ],
+   "target": "필링 후 건조함과 자극이 걱정되는 민감성·건성 복합 피부 사용자",
+   "why_it_hooks": "말풍선으로 \"필링 후 건조해지고 붉어진다\"는 실제 불편을 먼저 짚어 공감을 얻고, 파란 수분 톤과 \"저자극\"·\"자극 없이\" 문구가 민감 피부 사용자의 클릭 동기를 직접 건드립니다.",
+   "pdp": {
+    "first_screen_hook": "기존 필링 제품의 자극·건조함을 말풍선 대화체로 던져 '나만 그런 게 아니구나'라는 공감을 유도한다.",
+    "sections": [
+     {
+      "name": "고충 공감",
+      "role": "공감 후킹",
+      "copy": "기존 필링 제품은 자극적이고 각질이 계속 다시 올라와요 / 필링 하다 보면 수분이 금방 날아가 쉽게 건조해져요 / 저자극이라고 해도 각질 제거하고 나면 붉어지고 따가워요 / 집에서 에스테틱 받은 것처럼 매끈한 속결 케어를 하고 싶어요!",
+      "share": 15
+     },
+     {
+      "name": "제품 소개 및 핵심 약속",
+      "role": "해결책 제시",
+      "copy": "민감 피부도 부담 없는 저자극 수분 필링이 필요하다면? 자극은 덜어내고, 각질 제거 효과는 그대로! 다이브인 수분 필링 젤 / #매끈수분필링젤",
+      "share": 8
+     },
+     {
+      "name": "3STEP 필링 시스템 요약",
+      "role": "근거 제시",
+      "copy": "3 STEP 필링 시스템 / 저자극 민감 피부 / 수분케어 시너지 (임상 조건 각주 표기)",
+      "share": 7
+     },
+     {
+      "name": "건조 원인 설명",
+      "role": "문제 원인 설명",
+      "copy": "각질을 정리해도 왜 금방 다시 일어날까요? 과도한 필링으로 수분까지 빼앗겼기 때문! 과도한 필링 vs 단계적 필링 도식 비교",
+      "share": 12
+     },
+     {
+      "name": "브랜드 가치·세계관",
+      "role": "브랜드 신뢰",
+      "copy": "토리든 수분 필링젤은 수분을 채워 각질을 제거하는 방법으로 필링 후에도 피부가 건조해지지 않도록 도와줍니다. / YOUR SKIN IS OUR PLANET / Torriden DIVE IN Peeling Gel",
+      "share": 10
+     },
+     {
+      "name": "제품 및 성분 소개",
+      "role": "제품 증명",
+      "copy": "제품 컷 (HYDRATE & SMOOTH, 5D Hyaluronic Acid, Spicule + PHA, Panthenol, 150ml) / 수분으로 부드럽게 걷어내는 걸·속·미세 각질 3중 필링 / #매끈수분필링젤 #3중수분필링 / 우레아, PHA, 비건 스큘란, 고마쥬 설명",
+      "share": 15
+     },
+     {
+      "name": "작동 원리 설명",
+      "role": "근거 제시",
+      "copy": "토리든의 수분 필링은 어떻게 다를까? WATER MAGNET PEELING: 수분 자석으로 불리는 우레아와 PHA 성분이 자극 없이 각질을 자연스럽게 걷어내고 수분을 채워 촉촉 필링 케어 (원료 특성상 개인차 있음)",
+      "share": 10
+     },
+     {
+      "name": "히알루론산 상세 설명",
+      "role": "성분 근거",
+      "copy": "DIVEIN 몰두하다 / 다이브인은 한가지, 히알루론산에 집중했습니다. / 5D 복합 저분자 히알루론산: 보습막 형성(고분자), 강력한 보습효과(중분자), 보습력 향상(저분자)",
+      "share": 13
+     },
+     {
+      "name": "분위기 전환 이미지",
+      "role": "브랜드 무드",
+      "copy": "물방울 및 수분 질감 이미지 (텍스트 없음)",
+      "share": 10
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#73CCFA",
+     "pct": 26
+    },
+    {
+     "hex": "#EDF6FC",
+     "pct": 25
+    },
+    {
+     "hex": "#B9E3FC",
+     "pct": 24
+    },
+    {
+     "hex": "#93D2F6",
+     "pct": 15
+    },
+    {
+     "hex": "#67BBE4",
+     "pct": 9
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 12615,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=467",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "cbc926ccfb4a",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=2430",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=2430",
+  "collected_at": "2026-11-25",
+  "hash": "8aa0f898dcb2f0e0",
+  "image": "images/cbc926ccfb4a.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 셀메이징 저분자 콜라겐 볼륨 립 에센스 (11ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "볼륨·탄력 임상 수치 (입술 볼륨 7.05%, 탄력 7.72% 개선)",
+    "secondary": [
+     "5D 콜라겐 흡수 설계",
+     "건조·주름 입술 고민 공감",
+     "수분 보습 시너지 성분(핑크비타민 B12, 호호바씨오일)"
+    ]
+   },
+   "copy": {
+    "main": "탱글하게 채우는 볼륨 탄력 립 케어",
+    "sub": "5D 콜라겐 흡수 설계로 속까지 탄탄하게 흡수",
+    "cta": "토리든 립 케어, 입술 고민별로 골라보세요!"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 제품 튜브를 비스듬히 배치하고 분홍 버블 3개로 흡수 단계를 시각화한 뒤, 하단으로 갈수록 텍스트·임상 수치 중심의 긴 세로 스크롤 구성",
+   "tone": [
+    "핑크·청순",
+    "과학적 신뢰",
+    "탱글·촉촉"
+   ],
+   "target": "건조하고 주름이 생기기 쉬운 입술 볼륨·탄력 고민이 있는 20~40대 여성",
+   "why_it_hooks": "분홍 톤의 버블·액체 연출이 '탱글함'을 즉각 시각화하고, 볼륨·탄력 수치(7.05%, 7.72%)가 효능을 구체적으로 제시해 시선을 붙잡습니다.",
+   "pdp": {
+    "first_screen_hook": "분홍 버블 속 '탱글하게 채우는 볼륨 탄력 립 케어' 대형 헤드카피와 제품 튜브가 한 화면에 들어와 제형·효능을 동시에 전달",
+    "sections": [
+     {
+      "name": "메인 히어로",
+      "role": "공감 후킹",
+      "copy": "5D 콜라겐 흡수 설계로 탱글하게 채우는 볼륨 탄력 립 케어",
+      "share": 8
+     },
+     {
+      "name": "고민 공감",
+      "role": "공감 후킹",
+      "copy": "수분이 부족해 마르고 건조해진 입술 / 반복되는 긴조함으로 얇아지는 입술 / 탄력이 무너져 주름이 깊어진 입술",
+      "share": 7
+     },
+     {
+      "name": "문제 확장",
+      "role": "공감 후킹",
+      "copy": "고함량 성분에도 피부 고민이 나아지지 못했다면? 이제는 흡수를 확인하세요",
+      "share": 6
+     },
+     {
+      "name": "차별 근거 - 저분자 콜라겐",
+      "role": "근거",
+      "copy": "흡수 설계 노하우를 담은 5D 복합 저분자 콜라겐 / 흡수되지 못하고 겉도는 콜라겐 vs 잘게 쪼개져 스며드는 콜라겐",
+      "share": 12
+     },
+     {
+      "name": "기술 설명",
+      "role": "근거",
+      "copy": "5D 콜라겐 + 독자 딥 액티브 시스템(Deep-Active System)으로 속부터 차오르는 다각도 탄력 케어",
+      "share": 7
+     },
+     {
+      "name": "사용 효과 증명",
+      "role": "근거",
+      "copy": "입술 볼륨(부피) 7.05% 개선, 입술 탄력 7.72% 개선, 사용 전후 각질 이미지 비교",
+      "share": 10
+     },
+     {
+      "name": "보습 시너지",
+      "role": "근거",
+      "copy": "핑크비타민 B12(수분 흡수력 도움) + 호호바씨오일(수분 손실 방지) 수분·보습 시너지",
+      "share": 8
+     },
+     {
+      "name": "임상 결과 요약",
+      "role": "근거",
+      "copy": "Clinically Tested: 볼륨 7.05%, 탄력 7.72%, 보습 98.84%, 각질 69.93% 개선, 민감 피부 자극 인체적용 시험 완료",
+      "share": 10
+     },
+     {
+      "name": "텍스처·사용감",
+      "role": "구매 결정",
+      "copy": "끈적임 없이 입술을 감싸 쫀쫀하게 마무리되는 탱글한 에센스 제형",
+      "share": 6
+     },
+     {
+      "name": "라인업 비교",
+      "role": "구매 결정",
+      "copy": "토리든 립 케어, 입술 고민별로 골라보세요 (솔리드인·셀메이징·밸런스풀·다이브인)",
+      "share": 9
+     },
+     {
+      "name": "브랜드 소개·상품 정보",
+      "role": "행동 유도",
+      "copy": "토리든은 토리든이 만듭니다 / 2021년 대전 설립 연구소 / 상품정보제공고시",
+      "share": 7
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FCF0F5",
+     "pct": 28
+    },
+    {
+     "hex": "#EC7897",
+     "pct": 21
+    },
+    {
+     "hex": "#F6D8E1",
+     "pct": 21
+    },
+    {
+     "hex": "#FBA7C5",
+     "pct": 16
+    },
+    {
+     "hex": "#EDA4B7",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 24329,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2430",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "64394f5c4f5f",
+  "brand": "토리든",
+  "channel": "상세페이지",
+  "source_name": "토리든 국내 공식몰",
+  "page_url": "https://torriden.com/goods/goods_view.php?goodsNo=2552",
+  "image_src": "https://torriden.com/goods/goods_view.php?goodsNo=2552",
+  "collected_at": "2026-11-25",
+  "hash": "f092f0c8e869f0f4",
+  "image": "images/64394f5c4f5f.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토리든",
+   "product": "토리든 밸런스풀 시카 진정 세럼",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "리뷰·랭킹",
+    "secondary": [
+     "성분·효능",
+     "인증·임상"
+    ]
+   },
+   "copy": {
+    "main": "찐으로 사용해 본 소비자 REAL 사용후기!",
+    "sub": "민감하고 속상한 피부 집중진정 · 밸런스풀 시카 진정 세럼",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "리뷰·후기형",
+   "visual_focus": "혼합",
+   "layout": "상단에 제품 4병을 기울여 배치하고, 그 아래 '찐으로 사용해 본 소비자 REAL 사용후기!' 헤드카피를 크게 두며, 이어서 말풍선형 리뷰 카드를 세로로 나열하는 구조입니다.",
+   "tone": [
+    "청량",
+    "진정",
+    "신뢰감"
+   ],
+   "target": "민감성·트러블 후 붉은기와 예민함이 반복되는 복합성 피부 사용자, 자극 없는 진정 케어를 찾는 20~30대 여성",
+   "why_it_hooks": "녹색 톤의 깨끗한 제품 연출과 '찐으로 사용해 본 REAL 후기'라는 헤드카피가 신뢰를 주며 시선을 끕니다. 피부 고민을 가진 소비자가 실제 후기에서 자신의 상황을 발견하도록 만듭니다.",
+   "pdp": "{\"first_screen_hook\": \"기울어진 4병의 제품 연출과 굵은 '소비자 REAL 사용후기!' 헤드카피로 실제 후기 콘텐츠임을 먼저 알립니다.\", \"sections\": [{\"name\": \"리뷰 히어로·후기 도입\", \"role\": \"사회적 증거\", \"copy\": \"찐으로 사용해 본 소비자 REAL 사용후기! / 자극 없이 편하고 좋아요, 촉촉하다는 느낌 등 실사용 리뷰 나열\", \"share\": 14}, {\"name\": \"민감 피부 공감 후킹\", \"role\": \"공감 후킹\", \"copy\": \"민감하고 속상한 피부 집중진정 / 민감 피부 집중진정 세럼\", \"share\": 6}, {\"name\": \"피부 고민 제기\", \"role\": \"공감 후킹\", \"copy\": \"번들거리고 예민해지는 반복적인 피부 고민 · 민감 복합성 피지 관리가 필요할 때!\", \"share\": 7}, {\"name\": \"피지 과다 원인 설명\", \"role\": \"성분 근거\", \"copy\": \"피지 분비량 증가 → 모공 막힘 → 각질층 두꺼워짐 → 피부 밸런스 무너짐 (과도한 피지 분비, 두꺼운 각질층, 모공 속 갇힌 피지)\", \"share\": 6}, {\"name\": \"임상 결과 제시\", \"role\": \"근거\", \"copy\": \"논코메도제닉 효과 평가 등 임상 수치: 70.5 → 57.3, 18.7% 감소 (4주 사용 후), 민감 피부 저자극 · 여드름 피부 안심 사용 · 집중 진정 항목\", \"share\": 10}, {\"name\": \"전후 비교\", \"role\": \"비포애프터\", \"copy\": \"여드름 피부도 안심할 수 있는 밸런스풀 세럼 사용 전/후 (4주 후, 개인차 있음)\", \"share\": 5}, {\"name\": \"핵심 성분 해결책\", \"role\": \"해결책 제시\", \"copy\": \"T-Percent Calming Complex 토리든 특허 성분에 모공보다 작은 T-TECA를 더해 · 평균 모공 크기 1/10,000 사이즈 T-TECA\", \"share\": 12}, {\"name\": \"전달 기술 설명\", \"role\": \"성분 근거\", \"copy\": \"T-TECA DROP SYSTEM: 리포좀화된 T-TECA를 피부에 안정적으로 전달 · 아시아티코사이드, 마데카식 애씨드, 아시아틱 애씨드\", \"share\": 10}, {\"name\": \"저자극 설계 강조\", \"role\": \"차별화 근거\", \"copy\": \"과도한 유분 NO, 저자극 케어 · 저자극 케어 성분 LHA · 끈적임 없이 순하게 효과적으로 성분 전달\", \"share\": 8}, {\"name\": \"제품 질감·최종 제품 노출\", \"role\": \"구매 결정\", \"copy\": \"촘촘하게 스며드는 밀착 진정 / 5D 복합 시카 콤플렉스 / Torriden BALANCEFUL Serum\", \"share\": 10}, {\"name\": \"임상 출처 및 주의 문구\", \"role\": \"신뢰 보강\", \"copy\": \"임상 시험 기관·기간·인원 명시 (민감성 피부 첨포 일차자극 인체적용시험 31명, 화학적 자극 손상 피부 진정 효능 평가 20명, 논코메도제닉 인체적용시험 20명), 개인차 있음\", \"share\": 7}, {\"name\": \"브랜드 마무리\", \"role\": \"행동 유도\", \"copy\": \"YOUR SKIN IS OUR PLANET / Torriden BALANCEFUL Serum\", \"share\": 5}]",
+   "proofs": {
+    "임상 시험": true,
+    "성분 설명": true,
+    "비포애프터": true,
+    "리뷰 캡처": true,
+    "수상·랭킹": false,
+    "전문가 추천": false,
+    "인증 마크": false,
+    "모델·셀럽": false
+   },
+   "palette": [
+    {
+     "hex": "#FAFBF7",
+     "pct": 36
+    },
+    {
+     "hex": "#ECF4E5",
+     "pct": 23
+    },
+    {
+     "hex": "#F5FAEA",
+     "pct": 20
+    },
+    {
+     "hex": "#B5C9AB",
+     "pct": 15
+    },
+    {
+     "hex": "#FAF9F7",
+     "pct": 6
+    }
+   ]
+  },
+  "page_title": "토리든 Torriden",
+  "height_px": 25819,
+  "link_url": "https://torriden.com/goods/goods_view.php?goodsNo=2552",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "1ea07aba43d6",
+  "brand": "셀리맥스",
+  "channel": "상세페이지",
+  "source_name": "셀리맥스 국내 공식몰",
+  "page_url": "http://celimax.co.kr/product/detail.html?cate_no=1&product_no=207",
+  "image_src": "http://celimax.co.kr/product/detail.html?cate_no=1&product_no=207",
+  "collected_at": "2026-11-25",
+  "hash": "0be0a89ae08882e8",
+  "image": "images/1ea07aba43d6.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "셀리맥스",
+   "product": "지우개 시카 파하 필 투스텝 겔 마스크 (4+4+2 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "성분·효능",
+     "임상·인증",
+     "사은품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "환절기 매끈결광 부스팅 시카 2스텝 겔 마스크 4+4+2 단독구성",
+    "sub": "1년에 단 한 번! 연중 최대 블프 혜택 / 랜덤 쿠폰 최대 99% 할인 / 4만원 이상 사은품 증정 / 4만원 이상 무료 배송",
+    "cta": "옵션 1 선택 / 35,900원 (6천원 쿠폰 혜택가) / 11.10 - 11.24"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 블프 배너와 강한 블랙 배경 위에 제품 패키지를 장바구니 이미지와 함께 배치하고, '4+4+2' 및 '매끈결광' 헤드카피를 중앙 대형으로 강조한 뒤, 이후 옵션 카드에서 할인가와 구성 정보를 세로로 나열한다.",
+   "tone": [
+    "프리미엄 블랙프라이데이",
+    "임상 기반 신뢰",
+    "저자극 클린 뷰티"
+   ],
+   "target": "환절기 피부 칙칙함과 모공·각질이 신경 쓰이면서 블랙프라이데이 기간에 가성비 좋은 스킨케어를 찾는 20~30대 여성 소비자",
+   "why_it_hooks": "블랙 배경과 장바구니 연출로 쇼핑 시즌 긴박감을 주고, '최대 99% 할인'과 '매끈결광'이라는 구체적 혜택·효능 키워드가 동시에 보여 시선을 끈다.",
+   "pdp": {
+    "first_screen_hook": "럭키 블랙프라이데이 배너와 어두운 배경 위 '4+4+2' 대형 숫자, 장바구니에 담긴 제품 패키지가 한 화면에 들어와 혜택 구매를 바로 떠올리게 한다.",
+    "sections": [
+     {
+      "name": "블프 헤더·히어로",
+      "role": "공감 후킹",
+      "copy": "환절기 매끈결광 부스팅 / 시카 2스텝 겔 마스크 4+4+2 단독구성",
+      "share": 12
+     },
+     {
+      "name": "혜택 요약",
+      "role": "구매 결정",
+      "copy": "1년에 단 한 번! 연중 최대 블프 혜택 / 랜덤 쿠폰 최대 99% 할인 / 4만원 이상 사은품 증정 / 무료 배송",
+      "share": 8
+     },
+     {
+      "name": "옵션 구성 카드",
+      "role": "행동 유도",
+      "copy": "옵션1 BEST 총 8매 44% / 정가 64,000원 → 공식몰 특가 41,900원 → 6천원 쿠폰 혜택가 35,900원 / 증정 2매 + 지우개패드 10매 + 사은품",
+      "share": 12
+     },
+     {
+      "name": "옵션 2 구성",
+      "role": "구매 결정",
+      "copy": "옵션2 총 4매 38% 할인 구성 제시",
+      "share": 4
+     },
+     {
+      "name": "제품 소개 헤더",
+      "role": "해결책 제시",
+      "copy": "최초 2-STEP 시카 젤 마스크 스페셜 케어의 완성 / 결광치트키·PHA 필링·1시간 퀵진정",
+      "share": 6
+     },
+     {
+      "name": "공감 후킹",
+      "role": "공감 후킹",
+      "copy": "하루 종일 바쁜 하루, 내 피부는 언제 쉬죠? / 관리실 케어는 마음뿐, 시간도 비용도 쉽지 않아요 / 매일 바쁜 나를 위한 단 한 장의 피부 치트키",
+      "share": 7
+     },
+     {
+      "name": "스틱+겔 차별점",
+      "role": "차별화 근거",
+      "copy": "스틱과 겔을 함께 쓰는 이유, 써보면 그 차이가 바로 느껴져요 / 투스텝으로 끝내는 데일리 스페셜 케어",
+      "share": 5
+     },
+     {
+      "name": "성분 설명",
+      "role": "근거",
+      "copy": "차세대 저자극 필링 성분 파하(PHA) 10% (글루코노락톤) / 자극 매우 낮음, 수분 보유력 높음 / AHA·BHA 비교표",
+      "share": 9
+     },
+     {
+      "name": "임상 결과 1 (STEP1)",
+      "role": "근거",
+      "copy": "사용 1회 만에 각질 개선 87.02% (스킨메드 임상, 21명) / STEP1 필링 스틱만으로도 저자극 결광 리셋",
+      "share": 8
+     },
+     {
+      "name": "STEP2 젤 마스크 설명",
+      "role": "해결책 제시",
+      "copy": "진정·보습 에너지를 피부 깊숙이 전달하는 시카 겔 마스크 / 1시간 내 흡수완료 / 나노 입자 1,690배 작은 전달 / 2-STEP 시너지",
+      "share": 9
+     },
+     {
+      "name": "2-STEP 임상·비포애프터",
+      "role": "근거",
+      "copy": "즉각 개선 임상 효과 / 일시적 모공 크기 45.76% 개선 (스킨메드, 20명) / 4주 사용자 다음날 컨디션 좋아진 느낌 100% / 메이크업 밀착 비교 사진",
+      "share": 12
+     },
+     {
+      "name": "사용법·제품 이미지",
+      "role": "행동 유도",
+      "copy": "1. 필링 스틱을 얼굴 전체에 롤링 / 2. 상·하단 겔 마스크를 얼굴 중심에 맞춰 부착 / 제품 패키지 4+4+2 구성",
+      "share": 6
+     }
+    ]
+   },
+   "palette": [
+    {
+     "hex": "#D2DBCC",
+     "pct": 30
+    },
+    {
+     "hex": "#0C0D0E",
+     "pct": 20
+    },
+    {
+     "hex": "#1F3042",
+     "pct": 18
+    },
+    {
+     "hex": "#14171B",
+     "pct": 17
+    },
+    {
+     "hex": "#6E8A86",
+     "pct": 15
+    }
+   ]
+  },
+  "page_title": "[럭키블프|4+4] 시카 투스텝 겔 마스크",
+  "height_px": 40000,
+  "link_url": "http://celimax.co.kr/product/detail.html?cate_no=1&product_no=207",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "b95ef57a67b1",
+  "brand": "셀리맥스",
+  "channel": "상세페이지",
+  "source_name": "셀리맥스 국내 공식몰",
+  "page_url": "http://celimax.co.kr/product/detail.html?cate_no=1&product_no=141",
+  "image_src": "http://celimax.co.kr/product/detail.html?cate_no=1&product_no=141",
+  "collected_at": "2026-11-25",
+  "hash": "59fdb4e898ccf8f0",
+  "image": "images/b95ef57a67b1.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "셀리맥스",
+   "product": "시카 지우개패드 (시카 BHA 블레미쉬 토너 패드)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "피부 고민 진단(여드름성·각질·모공·색소침착)",
+    "secondary": [
+     "리뷰·후기",
+     "인증·임상",
+     "성분·효능",
+     "한정·마감",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "진정한 매끈결 관리 시카 지우개패드",
+    "sub": "수분 진정도 매끈 피부도 한 장으로 해결",
+    "cta": "지금 구매하기"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단 럭키블프 배너 후 피부 고민 라벨을 클로즈업 피부 위에 배치하고, 이후 제품 패드 컷과 굵은 헤드라인을 세로로 나열하는 스크롤형 구성",
+   "tone": [
+    "청량",
+    "진정",
+    "신뢰"
+   ],
+   "target": "여드름성·복합성 등 피지·각질·모공 고민이 있고 민감하기 쉬운 20~30대 여성",
+   "why_it_hooks": "블랙프라이데이 혜택 배너로 구매 명분을 주고, 피부 고민 라벨이 붙은 클로즈업 이미지로 자기 피부를 떠올리게 해 시선을 잡습니다.",
+   "pdp": {
+    "first_screen_hook": "럭키 블랙프라이데이 혜택 배너와 '여드름성·모공막힘·색소침착' 등 피부 고민 라벨이 붙은 클로즈업 피부 이미지가 동시에 노출되어 공감과 구매 명분을 함께 줍니다.",
+    "sections": [
+     {
+      "name": "블프 혜택 배너",
+      "role": "구매 명분 제시",
+      "copy": "럭키 블랙프라이데이 1년에 단 한 번! 연중 최대 혜택(~11.24) / 한정수량 럭키박스 19,900원",
+      "share": 8
+     },
+     {
+      "name": "피부 고민 진단",
+      "role": "공감 후킹",
+      "copy": "여드름성 피부, 과잉 피지, 묵은 각질, 모공막힘, 불규칙한 피부톤, 색소침착 흔적",
+      "share": 8
+     },
+     {
+      "name": "사용자 리뷰 1",
+      "role": "사회적 증거",
+      "copy": "1주 사용, 복합성 피부 후기: 지우개패드로 간편하게 각질·모공 케어, 수딩크림까지 세트 사용 만족",
+      "share": 10
+     },
+     {
+      "name": "사용자 리뷰 2",
+      "role": "사회적 증거",
+      "copy": "여름 피지·열감이 많은 드름성 피부 사용 후기: 며칠 만에 효과를 체감했다는 내용",
+      "share": 8
+     },
+     {
+      "name": "사용 방법 예고",
+      "role": "사용 장면 제시",
+      "copy": "토도독 반으로 잘라 고민 부위에 착! 셀리맥스 시카 지우개패드",
+      "share": 4
+     },
+     {
+      "name": "제품 소개",
+      "role": "제품 정의",
+      "copy": "진정한 매끈결 관리 시카 지우개패드 / 수분 진정도 매끈 피부도 한 장으로 해결 / 유분 케어·각질 케어·여드름성 피부·민감성 피부·저자극 수분 진정",
+      "share": 8
+     },
+     {
+      "name": "스테디셀러 포지셔닝",
+      "role": "신뢰 형성",
+      "copy": "셀리맥스의 스테디셀러 시카 지우개패드",
+      "share": 3
+     },
+     {
+      "name": "피부 상태별 공감",
+      "role": "문제 공감",
+      "copy": "묵은 각질은 푸석푸석하고 거친 피부결, 뜨는 화장은 과도한 피지와 각질, 예민 피부는 관리가 망설여지는 여드름성·민감성 피부",
+      "share": 8
+     },
+     {
+      "name": "문제 경고",
+      "role": "긴박감 조성",
+      "copy": "제대로 관리하지 않으면 피부는 더 민감해져요",
+      "share": 3
+     },
+     {
+      "name": "해결책 3가지",
+      "role": "해결책 제시",
+      "copy": "01 각질·피지·모공케어로 거침없이 매끈해지는 피부 / 02 민감성·여드름성 피부에 순하게 365일 저자극 케어 / 03 시카로 지우는 자극걱정 촉촉 진정 케어",
+      "share": 6
+     },
+     {
+      "name": "성분 설명",
+      "role": "근거 제시",
+      "copy": "거침없는 매끈 피부를 위한 저자극 필링 성분: 3중 조합 필링제(PHA·BHA(살리실릭애씨드, 보존제)·LHA), 헴타크네콤플렉스(7가지 식물추출물), 아크멜리아(동백꽃추출물, 일시적 모공 개선, 원료적 특성에 한함)",
+      "share": 10
+     },
+     {
+      "name": "임상 시험 결과",
+      "role": "근거 제시",
+      "copy": "여드름성 피부 사용 적합 테스트 통과(인체적용시험): 사용 2주 후, 4주 후 여드름성 피부 사용에 적합으로 판단",
+      "share": 5
+     },
+     {
+      "name": "쿨링 진정 효과",
+      "role": "감성 소구",
+      "copy": "시카로 지우는 자극걱정 촉촉 진정 케어 / 괴로운 외부 자극과 열감, 즉각적 쿨링진정으로 편안하게",
+      "share": 4
+     },
+     {
+      "name": "환불 보장",
+      "role": "구매 불안 해소",
+      "copy": "제품이 잘 맞을지 고민되시나요? 효과를 못 보셨다면 30일 내에 100% 환불해 드려요",
+      "share": 4
+     },
+     {
+      "name": "사용법 안내",
+      "role": "사용 가이드",
+      "copy": "스킨케어 첫 단계에 얼굴 전체를 닦아내듯 사용, 집중 케어 부위에 3분 정도 붙이기, 절취선 따라 분리해 코·눈가·턱 등 국소 부위 케어, 닦토·팩토·부분팩 모두 가능",
+      "share": 6
+     },
+     {
+      "name": "리필 안내",
+      "role": "지속 구매·환경 소구",
+      "copy": "플라스틱 사용량 감소효과가 있습니다. 리필 파우치 절취선을 뜯어 깨끗하게 씻어 건조한 본품 용기에 패드와 에센스를 채워 사용",
+      "share": 4
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": true,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 29
+    },
+    {
+     "hex": "#BBABA1",
+     "pct": 26
+    },
+    {
+     "hex": "#21272E",
+     "pct": 24
+    },
+    {
+     "hex": "#EBE8E5",
+     "pct": 13
+    },
+    {
+     "hex": "#FEFFFF",
+     "pct": 9
+    }
+   ]
+  },
+  "page_title": "[럭키블프] 흔적 지우개 세트",
+  "height_px": 40000,
+  "link_url": "http://celimax.co.kr/product/detail.html?cate_no=1&product_no=141",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "924a47a8dde5",
+  "brand": "아비브",
+  "channel": "상세페이지",
+  "source_name": "아비브 국내 공식몰",
+  "page_url": "https://abib.co.kr/product/detail.html?product_no=711",
+  "image_src": "https://abib.co.kr/product/detail.html?product_no=711",
+  "collected_at": "2026-11-25",
+  "hash": "d4e0696961f0f061",
+  "image": "images/924a47a8dde5.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아비브",
+   "product": "히알루로닉 수분 시트 마스크 데일리 픽 (Abib Hyaluron hydrating sheet mask Essential fit 계열 및 Daily pick 통 제품군)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "신제품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "Hyaluron hydrating sheet mask",
+    "sub": "Soothing boost, Daily quick care. / Firming boost, Daily quick care. / Mild acidic pH sheet mask",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 대형 데일리 픽 통 제품컷을 크게 배치하고, 이어서 개별 시트 파우치를 세로로 나열하며 각 파우치 이미지 속 원료 오브제(꿀, 허브잎, 여뀌 등)와 짧은 카피를 교차 배치한 긴 스크롤형 구성.",
+   "tone": [
+    "청량·깔끔",
+    "미니멀",
+    "자연 원료 신뢰감"
+   ],
+   "target": "간편하고 빠르게 매일 수분·진정 케어를 하고 싶은 20~30대 민감·건조 피부 소비자",
+   "why_it_hooks": "흰 여백 위에 대형 제품 통과 색감별 파우치(연두·아이보리·파랑·꿀색 등)가 시각적으로 구분되어 라인업을 한눈에 고르게 하며, 투명한 물방울·꿀·잎 등 원료 이미지가 맑고 신선한 인상을 줍니다.",
+   "pdp": {
+    "first_screen_hook": "연두색 대형 데일리 픽 통과 'Soothing boost, Daily quick care.' 문구로 매일 간편 케어 콘셉트를 한눈에 전달합니다.",
+    "sections": [
+     {
+      "name": "데일리 픽 제품 라인업 (진정)",
+      "role": "제품 소개",
+      "copy": "Abib Heartleaf calming sheet mask Daily pick / Soothing boost, Daily quick care.",
+      "share": 12
+     },
+     {
+      "name": "데일리 픽 제품 라인업 (탄력)",
+      "role": "제품 소개",
+      "copy": "Abib Jericho rose firming sheet mask Daily pick / Firming boost, Daily quick care.",
+      "share": 12
+     },
+     {
+      "name": "에센셜 핏 진정 시트 (마데카소사이드)",
+      "role": "해결책 제시",
+      "copy": "Madecassoside soothing sheet mask Essential fit / Soothing",
+      "share": 8
+     },
+     {
+      "name": "에센셜 핏 수분 시트 (히알루론)",
+      "role": "메인 제품 소개",
+      "copy": "Hyaluron hydrating sheet mask Essential fit / Hydrating",
+      "share": 12
+     },
+     {
+      "name": "약산성 pH 시트 - 아쿠아 핏",
+      "role": "근거(성분·pH 설명)",
+      "copy": "Mild acidic pH sheet mask Aqua fit: 건강한 피부 pH 5.5~6.2에 가까운 약산성 설계, albumin 코팅 시트로 흡수 돕고 가벼운 사용감",
+      "share": 10
+     },
+     {
+      "name": "약산성 pH 시트 - 허니·히트리프·여뀌·글루타티온 핏",
+      "role": "제품 라인업 확장 및 원료 설명",
+      "copy": "Honey Fit / Heartleaf Fit / Jericho rose Fit / Glutathiosome Fit (각 원료 이미지와 약산성 pH 설명 반복)",
+      "share": 30
+     },
+     {
+      "name": "기타 제품 추천 (글루타티온 코지산 아이패치)",
+      "role": "교차 판매",
+      "copy": "Glutathione kojic acid eye patch Vita jelly",
+      "share": 6
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FAFAFC",
+     "pct": 70
+    },
+    {
+     "hex": "#D8E1C4",
+     "pct": 24
+    },
+    {
+     "hex": "#FAFAFA",
+     "pct": 5
+    },
+    {
+     "hex": "#FBFAFD",
+     "pct": 1
+    },
+    {
+     "hex": "#F9FAFB",
+     "pct": 0
+    }
+   ]
+  },
+  "page_title": "히알루로닉 수분 시트 마스크 데일리 픽 - 아비브",
+  "height_px": 8600,
+  "link_url": "https://abib.co.kr/product/detail.html?product_no=711",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "e5268766e9e4"
+ },
+ {
+  "id": "1c798b8eed03",
+  "brand": "아비브",
+  "channel": "상세페이지",
+  "source_name": "아비브 국내 공식몰",
+  "page_url": "https://abib.co.kr/product/detail.html?product_no=553",
+  "image_src": "https://abib.co.kr/product/detail.html?product_no=553",
+  "collected_at": "2026-11-25",
+  "hash": "38f8f032dc797079",
+  "image": "images/1c798b8eed03.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "아비브",
+   "product": "글루타치온좀 CC 선크림 토닝 튜브 SPF50+ PA++++ (아비브 글루타치온 기획 라인업: 선크림·앰플·패드·마스크·아이패치 등)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "신제품",
+     "사은품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "Abib Sedum hyaluron sunscreen / Heartleaf mild sunscreen (SPF 50+ PA++++)",
+    "sub": "Glutathione kojic acid eye patch / Glutathiosome dark spot serum / Dark spot collagen wrapping mask / Glow collagen mask Glutathione film / Airy sunstick / Glutathiosome dark spot pad / Mild acidic pH sheet mask / Quick sunstick",
+    "cta": "Gift 표기 (사은품 구성 안내)"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "전 섹션이 흰색·연회색 배경의 단독 제품컷으로 세로 나열되며, 첫 화면에서는 선크림 튜브 두 개를 중앙에 크게 배치하고 우상단에 사은품 박스를 붙임. 이후 섹션은 제품 한 개씩 중앙 배치하고 글자는 최소화함.</layout>\n<parameter name=\"tone\">[\"클린·미니멀\", \"투명·산뜻\", \"따뜻한 베이지·오렌지 톤\"]",
+   "target": "자외선 차단과 잡티·톤 관리를 함께 원하는 20~30대 여성 소비자",
+   "why_it_hooks": "제품 사진 외에 카피가 거의 없어 제품 색감(민트·그린·오렌지)과 패키지 디자인이 시선을 끌며, 우상단 Gift 박스가 즉각적인 구매 혜택 신호를 줍니다.</why_it_hooks>\n<parameter name=\"pdp\">{\"first_screen_hook\": \"파란색·그린 튜브 선크림 두 개를 화면 중앙에 크게 배치하고 우상단 Gift 박스로 사은품 혜택을 바로 노출\", \"sections\": [{\"name\": \"선크림 라인업 소개\", \"role\": \"제품 첫인상·혜택 제시\", \"copy\": \"Abib Sedum hyaluron sunscreen SPF 50+ PA++++ / Heartleaf mild sunscreen SPF 50+ PA++++ / Gift\", \"share\": 18}, {\"name\": \"잡티 케어 아이패치\", \"role\": \"기능 확장 제안\", \"copy\": \"Glutathione kojic acid eye patch (Vita jelly)\", \"share\": 8}, {\"name\": \"글루타치온 다크스팟 세럼\", \"role\": \"핵심 성분 제시\", \"copy\": \"Glutathiosome dark spot serum\", \"share\": 10}, {\"name\": \"콜라겐 랩핑 마스크\", \"role\": \"성분 근거 나열\", \"copy\": \"Dark spot collagen wrapping mask: Glutathione, Hydrolyzed Collagen, Niacinamide, Ascorbic Acid, Adenosine 외 펩타이드 성분 목록\", \"share\": 12}, {\"name\": \"글로우 콜라겐 필름 마스크\", \"role\": \"제품 확장\", \"copy\": \"Glow collagen mask Glutathione film / Dark spot care\", \"share\": 7}, {\"name\": \"에어리 선스틱\", \"role\": \"휴대형 자외선 차단 제안\", \"copy\": \"Airy sunstick Smoothing bar SPF50+ PA++++\", \"share\": 8}, {\"name\": \"다크스팟 패드\", \"role\": \"루틴 확장\", \"copy\": \"Glutathiosome dark spot pad (Vita touch) / Glutathione, Niacinamide, Ascorbic Acid\", \"share\": 10}, {\"name\": \"약산성 pH 시트마스크\", \"role\": \"사용감·안전성 근거\", \"copy\": \"Mild acidic pH sheet mask Glutathiosome fit: 피부 pH 5.0~6.0에 가까운 약산성 설명\", \"share\": 9}, {\"name\": \"퀵 선스틱\", \"role\": \"마무리 제품 제안·행동 유도\", \"copy\": \"Quick sunstick Protection bar SPF50+ PA++++\", \"share\": 18}], \"proofs\": {\"임상 시험\": false, \"성분 설명\": true, \"비포애프터\": false, \"리뷰 캡처\": false, \"수상·랭킹\": false, \"전문가 추천\": false, \"인증 마크\": false, \"모델·셀럽\": false}}",
+   "palette": [
+    {
+     "hex": "#FAFAFC",
+     "pct": 54
+    },
+    {
+     "hex": "#C6CCBD",
+     "pct": 24
+    },
+    {
+     "hex": "#FFFFFF",
+     "pct": 16
+    },
+    {
+     "hex": "#F9FAFC",
+     "pct": 4
+    },
+    {
+     "hex": "#FBFAFC",
+     "pct": 2
+    }
+   ]
+  },
+  "page_title": "글루타치온좀 CC 선크림 토닝 튜브 SPF50+ PA++++ - 아비브",
+  "height_px": 8600,
+  "link_url": "https://abib.co.kr/product/detail.html?product_no=553",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "9e8c4aa691c0"
+ },
+ {
+  "id": "41a64434aeec",
+  "brand": "바이오던스",
+  "channel": "공식몰",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/",
+  "image_src": "https://biodance.co.kr/web/product/tiny/202611/8c0fb692f7ccf7fcc291b43e081ccf0a.jpg",
+  "collected_at": "2026-11-25",
+  "hash": "b1d9dc9cd2e4e499",
+  "image": "images/41a64434aeec.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "바이오던스",
+   "product": "바이오던스 스킨 글로우 에센스 크림 (50ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "모델의 얼굴을 화면 중앙·좌측에 배치하고 볼에 크림을 발라 텍스처를 보여주며, 우측 하단에 제품 용기를 비스듬히 들어 올려 함께 노출하는 구도. 홍보 카피 없이 로고와 제품명 라벨만 작게 보임.",
+   "tone": [
+    "맑은 광채",
+    "담백한 내추럴",
+    "깨끗한 화이트 톤"
+   ],
+   "target": "촉촉하고 윤기 있는 피부 표현을 원하는 20~30대 여성 소비자",
+   "why_it_hooks": "광이 도는 촉촉한 피부와 크림을 바르는 생생한 순간이 시선을 끌고, 흰 배경 위 제품 용기가 브랜드 인지를 자연스럽게 연결합니다. 다만 글자 카피가 없는 제품·모델 사진이라 판촉용 광고라기보다 상세페이지 대표 이미지에 가깝습니다.",
+   "palette": [
+    {
+     "hex": "#DAB5A3",
+     "pct": 39
+    },
+    {
+     "hex": "#F8F8F5",
+     "pct": 24
+    },
+    {
+     "hex": "#806256",
+     "pct": 17
+    },
+    {
+     "hex": "#F6F6F4",
+     "pct": 11
+    },
+    {
+     "hex": "#E8D6CD",
+     "pct": 9
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://biodance.co.kr/product/detail.html?product_no=810",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품",
+  "linked_pdp": "c7474b93ab22"
+ },
+ {
+  "id": "ffe9928295b6",
+  "brand": "바이오던스",
+  "channel": "공식몰",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/",
+  "image_src": "https://biodance.co.kr/file_data/biodance/2026/11/25/4be1bf28008eb095ecc024d1754032f3.jpg",
+  "collected_at": "2026-11-25",
+  "hash": "25a4aecd494bb1b0",
+  "image": "images/ffe9928295b6.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "바이오던스",
+   "product": "<UNKNOWN>",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·라이프스타일컷",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "모델",
+   "layout": "얼굴을 빨간 꽃 스티커로 가린 인물 사진이 화면 중앙을 차지하고, 제품과 카피 없이 실내 배경만 보임",
+   "tone": [
+    "일상",
+    "캐주얼",
+    "익명성"
+   ],
+   "target": "피부 고민을 가진 일반 소비자 중 바이오던스 제품을 실사용 후기처럼 접하는 20~40대 여성",
+   "why_it_hooks": "얼굴 대신 붙은 큰 빨간 꽃 스티커가 시선을 강하게 끌지만, 제품이나 문구가 없어 광고 메시지는 거의 전달되지 않습니다.",
+   "palette": [
+    {
+     "hex": "#6D5D49",
+     "pct": 26
+    },
+    {
+     "hex": "#594738",
+     "pct": 25
+    },
+    {
+     "hex": "#9E956C",
+     "pct": 20
+    },
+    {
+     "hex": "#312C2B",
+     "pct": 17
+    },
+    {
+     "hex": "#EE2D35",
+     "pct": 12
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://biodance.co.kr/board/product/read.html?no=52486&board_no=4",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "0a8c65836e56",
+  "brand": "바이오던스",
+  "channel": "공식몰",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/",
+  "image_src": "https://biodance.co.kr/file_data/biodance/2026/11/25/4e6700400c98006c23aaa864078e722a.jpeg",
+  "collected_at": "2026-11-25",
+  "hash": "e71353735352767c",
+  "image": "images/0a8c65836e56.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "바이오던스",
+   "product": "바이오던스 콜라겐 펩타이드 젤리 세럼 미스트 (50ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "Biodance Collagen Peptide Jelly Serum Mist",
+    "sub": "콜라겐 펩타이드 젤리 세럼 미스트 / 50 ml (1.69 fl. oz.) / 펩타이드 드 콜라겐",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "제품을 화면 중앙에 세로로 배치하고, 분홍색 둥근 펌프 캡과 투명 핑크빛 젤 내용물이 보이도록 나무 질감 배경 위에 자연광 그림자를 살려 연출함",
+   "tone": [
+    "청초함",
+    "투명감",
+    "사랑스러움"
+   ],
+   "target": "콜라겐 등 보습·탄력 케어에 관심 있으면서 사용감이 가볍고 귀여운 디자인의 스킨케어를 선호하는 20~30대 여성",
+   "why_it_hooks": "둥근 분홍 캡과 젤 형태로 굳어 보이는 핑크빛 내용물이 시각적으로 독특해 시선을 끕니다. 문구 없이 제품 자체의 색감과 질감으로 '콜라겐 젤' 제형을 직관적으로 전달합니다.",
+   "palette": [
+    {
+     "hex": "#B2793A",
+     "pct": 33
+    },
+    {
+     "hex": "#E09D48",
+     "pct": 23
+    },
+    {
+     "hex": "#8E431B",
+     "pct": 18
+    },
+    {
+     "hex": "#D48F4D",
+     "pct": 16
+    },
+    {
+     "hex": "#EAB265",
+     "pct": 11
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://biodance.co.kr/board/product/read.html?no=52485&board_no=4",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "087c079708f4",
+  "brand": "바이오던스",
+  "channel": "상세페이지",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/product/detail.html?product_no=410",
+  "image_src": "https://biodance.co.kr/product/detail.html?product_no=410",
+  "collected_at": "2026-11-25",
+  "hash": "30b87b37b07868b2",
+  "image": "images/087c079708f4.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "바이오던스",
+   "product": "바이오던스 포어 퍼펙팅 콜라겐 펩타이드 세럼 (30ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품 자체의 핑크빛 투명 질감과 흘러내리는 세럼 연출로 '촉촉·탄력' 감각을 먼저 전달",
+    "secondary": [
+     "모델이 얼굴에 세럼을 바르며 웃는 라이프스타일 컷으로 사용 후 만족감 암시",
+     "포어 퍼펙팅·스무딩·파밍 기능 키워드 노출",
+     "30ml 용량 표기로 용량·가격 대비 인식 유도"
+    ]
+   },
+   "copy": {
+    "main": "Pore Perfecting Collagen Peptide Serum",
+    "sub": "Pore Perfecting, Smoothing, Firming",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "세로 긴 상세페이지 구조로, 상단에 흰 배경 제품 단독컷을 두고 이어서 핑크 세럼 질감 클로즈업, 손가락 위 드롭 연출, 모델 사용컷을 배치한 뒤 하단에 다시 제품컷으로 마무리한다. 제품 병은 모든 컷에서 중심 또는 시선 흐름의 기준으로 쓰인다.",
+   "tone": [
+    "청초·맑음",
+    "촉촉·투명감",
+    "핑크 사랑스러움"
+   ],
+   "target": "모공·피부결과 탄력 고민이 있으면서 가벼운 텍스처의 세럼을 찾는 20~30대 여성",
+   "why_it_hooks": "핑크빛 투명 세럼이 병과 바닥에 흘러내리는 질감 클로즈업이 강한 시각적 대비를 만들어 시선을 붙잡는다. 손끝에 떨어지는 드롭과 웃는 모델컷이 사용 감각을 바로 떠올리게 한다.",
+   "pdp": {
+    "first_screen_hook": "흰 배경 중앙의 핑크 세럼 병과 '포어 퍼펙팅·스무딩·파밍' 문구로 제품 정체성을 즉시 인식시킨다.",
+    "sections": [
+     {
+      "name": "제품 소개 1",
+      "role": "제품 첫인상",
+      "copy": "Biodance / Pore Perfecting Collagen Peptide Serum / Pore Perfecting, Smoothing, Firming / NET 1.01 fl.oz. (30 ml)",
+      "share": 12
+     },
+     {
+      "name": "텍스처 클로즈업",
+      "role": "감각적 공감 후킹",
+      "copy": "(글자 없음) 핑크 세럼이 병 아래로 퍼지는 연출",
+      "share": 16
+     },
+     {
+      "name": "드롭 사용 연출",
+      "role": "사용 감각 전달",
+      "copy": "(글자 없음) 펌프에서 손끝으로 떨어지는 세럼",
+      "share": 14
+     },
+     {
+      "name": "제품 분위기컷",
+      "role": "브랜드 무드 강화",
+      "copy": "(글자 없음) 흐릿한 배경 속 제품 단독 연출",
+      "share": 12
+     },
+     {
+      "name": "모델 사용컷",
+      "role": "사회적 증거·라이프스타일 공감",
+      "copy": "(글자 없음) 모델이 세럼을 얼굴에 바르며 미소 짓는 장면",
+      "share": 18
+     },
+     {
+      "name": "제품 마무리컷",
+      "role": "구매 결정 직전 재확인",
+      "copy": "Biodance / Pore Perfecting Collagen Peptide Serum / Pore Perfecting, Smoothing, Firming / NET 1.01 fl.oz. (30 ml)",
+      "share": 28
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": false,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 33
+    },
+    {
+     "hex": "#F4EADD",
+     "pct": 29
+    },
+    {
+     "hex": "#CB4B50",
+     "pct": 20
+    },
+    {
+     "hex": "#EACFC4",
+     "pct": 17
+    },
+    {
+     "hex": "#FEFFFF",
+     "pct": 2
+    }
+   ]
+  },
+  "page_title": "바이오던스 | Biodance",
+  "height_px": 6020,
+  "link_url": "https://biodance.co.kr/product/detail.html?product_no=410",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "c1b90e3ab610"
+ },
+ {
+  "id": "100e22ae87f9",
+  "brand": "바이오던스",
+  "channel": "상세페이지",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/product/detail.html?product_no=506",
+  "image_src": "https://biodance.co.kr/product/detail.html?product_no=506",
+  "collected_at": "2026-11-25",
+  "hash": "37f9f82f8860fdec",
+  "image": "images/100e22ae87f9.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "바이오던스",
+   "product": "리쥬비네이팅 캐비어 PDRN 리얼 딥 마스크 (16매)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능 (캐비어 × PDRN 듀얼 케어)",
+    "secondary": [
+     "리뷰·랭킹",
+     "모델·셀럽",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "탄탄하게 피부 장벽을 케어하는 고영양 듀얼 액션 캐비어 × PDRN",
+    "sub": "약해진 피부 방어막을 케어하는 고영양 듀얼 솔루션의 시작 / 영양을 채우고 광채를 더하는 캐비어 PDRN 겔 마스크",
+    "cta": "마스크 16매, 32매 구매 시 마스크팩 16매 상품 옵션에서 선택하실 수 있습니다"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 첫 화면에 제품 패키지와 16매 뱃지를 배치하고, 상세페이지 중반부터 공감 문구 말풍선과 캐비어 이미지, 하단 수치형 리뷰 막대그래프로 이어지는 세로 스크롤 구성",
+   "tone": [
+    "고급스러운",
+    "청량·투명",
+    "신뢰감"
+   ],
+   "target": "피부 탄력과 장벽 케어, 자극 없는 매일 마스크를 찾는 20~40대 여성",
+   "why_it_hooks": "보라색 패키지와 투명한 마스크 시트, 캐비어 클로즈업이 고급감을 주며, 첫 화면의 16매 뱃지가 구매 단위를 즉시 인지시킵니다.",
+   "pdp": {
+    "first_screen_hook": "보라색 패키지와 투명 마스크 시트를 중앙에 크게 배치하고 붉은 16매 뱃지로 구성 정보를 즉시 전달합니다.",
+    "sections": [
+     {
+      "name": "제품 히어로",
+      "role": "첫인상 후킹",
+      "copy": "Biodance / Rejuvenating Caviar PDRN Real Deep Mask / 16매",
+      "share": 8
+     },
+     {
+      "name": "옵션 안내",
+      "role": "구매 옵션 안내",
+      "copy": "마스크 4매, 8매 구매 시 마스크팩 4매 옵션 / 마스크 16매, 32매 구매 시 마스크팩 16매 옵션",
+      "share": 5
+     },
+     {
+      "name": "공감 후킹",
+      "role": "공감 후킹",
+      "copy": "푸석하고 피부에 윤기가 부족해요 / 외부 자극에 민감하고 쉽게 피부가 붉어져요 / 아무리 좋은 성분을 발라도 피부에 효과가 없어 고민이에요",
+      "share": 12
+     },
+     {
+      "name": "해결책 제시",
+      "role": "해결책 제시",
+      "copy": "약해진 피부 방어막을 케어하는 고영양 듀얼 솔루션의 시작 / 탄탄하게 피부 장벽을 케어하는 캐비어 × PDRN",
+      "share": 10
+     },
+     {
+      "name": "제품 소개",
+      "role": "제품 이미지 강조",
+      "copy": "영양을 채우고 광채를 더하는 캐비어 PDRN 겔 마스크 / Rejuvenating Caviar PDRN Real Deep Mask",
+      "share": 12
+     },
+     {
+      "name": "성분 비주얼",
+      "role": "성분 설명",
+      "copy": "캐비어 클로즈업과 마스크 시트 연출 (캐비어 × PDRN 성분 이미지 중심, 설명 텍스트 최소)",
+      "share": 10
+     },
+     {
+      "name": "사용 장면",
+      "role": "사용법·라이프스타일",
+      "copy": "모델이 마스크를 얼굴에 밀착하는 장면 (텍스트 없음)",
+      "share": 8
+     },
+     {
+      "name": "자신감 근거",
+      "role": "사회적 증거",
+      "copy": "이유있는 자신감! 캐비어 x PDRN 100% 듀얼 케어 만족도",
+      "share": 15
+     },
+     {
+      "name": "만족도 수치",
+      "role": "근거",
+      "copy": "피부 탄탄 100% / 광채 100% / 메이크업 잘 먹음 100% / 자극 없음 100% / 부담 없음 100% / 재구매 의사 100%",
+      "share": 12
+     },
+     {
+      "name": "조사 고지",
+      "role": "근거 고지",
+      "copy": "*설문자의 주관적인 의견으로 개인차 있을 수 있음 / 휴먼 피부임상시험센터 / 2025.04.07~2025.04.25 / 30-60대 여성 21명",
+      "share": 3
+     },
+     {
+      "name": "구매 유도",
+      "role": "행동 유도",
+      "copy": "마스크 16매, 32매 구매 시 마스크팩 16매 상품 옵션에서 선택 가능",
+      "share": 5
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#A082B8",
+     "pct": 25
+    },
+    {
+     "hex": "#0A0808",
+     "pct": 25
+    },
+    {
+     "hex": "#D2B7CF",
+     "pct": 19
+    },
+    {
+     "hex": "#F1DAE1",
+     "pct": 18
+    },
+    {
+     "hex": "#F7EEEF",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "바이오던스 | Biodance",
+  "height_px": 15874,
+  "link_url": "https://biodance.co.kr/product/detail.html?product_no=506",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "83229011dc8b"
+ },
+ {
+  "id": "1597ff966f3b",
+  "brand": "바이오던스",
+  "channel": "상세페이지",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/product/detail.html?product_no=140",
+  "image_src": "https://biodance.co.kr/product/detail.html?product_no=140",
+  "collected_at": "2026-11-25",
+  "hash": "e7c5f6f0ccfad91c",
+  "image": "images/1597ff966f3b.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "바이오던스",
+   "product": "바이오던스 스킨케어 시그니처 세트 (퍼스트 시너지 토너, 스킨 글로우 바이탈 앰플, 스킨 글로우 에센스 크림)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "루틴 제안",
+     "모델·셀럽"
+    ]
+   },
+   "copy": {
+    "main": "Biodance SKIN GLOW",
+    "sub": "Hydrating, Balancing / Boosting, Glowing, Softening / Moisturizing, Skin Barrier Care",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "흰색 배경에 토너·앰플·크림 3종 세트를 나란히 또는 비스듬히 배치하고, 각 제품 라벨 아래 효능 키워드를 짧게 노출하는 구성이며, 중반부부터 모델 사용컷과 텍스처 클로즈업이 이어짐",
+   "tone": [
+    "미니멀",
+    "클린",
+    "투명 윤기"
+   ],
+   "target": "촉촉하고 맑은 광채 피부를 원하며, 여러 제품을 번거롭게 고르기보다 한 번에 기초 루틴을 갖추고 싶은 20~40대 여성",
+   "why_it_hooks": "순백 배경과 미니멀한 흰색 용기, 노란 앰플의 포인트 컬러가 대비를 이뤄 시선을 빠르게 끈다. 세트 구성을 한눈에 보여줘 루틴 구매 욕구를 자극한다.",
+   "pdp": {
+    "first_screen_hook": "흰 배경 위에 토너·앰플·크림이 대각선으로 놓여 세트 구성을 한눈에 보여주고, 노란 앰플이 포인트 컬러로 시선을 붙잡는다.",
+    "sections": [
+     {
+      "name": "세트 비주얼 오프닝",
+      "role": "공감 후킹",
+      "copy": "Biodance SKIN GLOW 3종 제품 컷",
+      "share": 15
+     },
+     {
+      "name": "제품 라인업 정리",
+      "role": "해결책 제시",
+      "copy": "Hydrating, Balancing / Boosting, Glowing, Softening / Moisturizing, Skin Barrier Care",
+      "share": 15
+     },
+     {
+      "name": "3종 제품 비교 컷",
+      "role": "해결책 제시",
+      "copy": "제품명 및 용량(150ml, 30ml, 50ml) 표기",
+      "share": 10
+     },
+     {
+      "name": "제품 사용 모델컷",
+      "role": "사회적 증거",
+      "copy": "모델이 토너를 얼굴에 사용하는 라이프스타일 장면",
+      "share": 15
+     },
+     {
+      "name": "앰플 텍스처 클로즈업",
+      "role": "근거",
+      "copy": "앰플을 기울여 흘리는 장면으로 제형감 강조",
+      "share": 15
+     },
+     {
+      "name": "크림 질감 클로즈업",
+      "role": "근거",
+      "copy": "Moisturizing, Skin Barrier Care / 50ml 1.69 fl.oz.",
+      "share": 15
+     },
+     {
+      "name": "세트 마무리 컷",
+      "role": "구매 결정",
+      "copy": "<UNKNOWN>",
+      "share": 15
+     }
+    ],
+    "proofs": {
+     "임상 시험": false,
+     "성분 설명": false,
+     "비포애프터": false,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#EBEBEC",
+     "pct": 31
+    },
+    {
+     "hex": "#E3E2E2",
+     "pct": 26
+    },
+    {
+     "hex": "#8A8277",
+     "pct": 17
+    },
+    {
+     "hex": "#F2F2F2",
+     "pct": 14
+    },
+    {
+     "hex": "#FDFDFD",
+     "pct": 12
+    }
+   ]
+  },
+  "page_title": "바이오던스 스킨케어 시그니처 세트",
+  "height_px": 5160,
+  "link_url": "https://biodance.co.kr/product/detail.html?product_no=140",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "97d41cda2e1d"
+ },
+ {
+  "id": "056dfede5c54",
+  "brand": "바이오던스",
+  "channel": "상세페이지",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/product/detail.html?product_no=279",
+  "image_src": "https://biodance.co.kr/product/detail.html?product_no=279",
+  "collected_at": "2026-11-25",
+  "hash": "0ddcf0fdb4c2f0b0",
+  "image": "images/056dfede5c54.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "바이오던스",
+   "product": "바이오던스 바이오 콜라겐 리얼 딥 마스크 (시트 마스크)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "누적 판매 2억장 돌파 · 대세 1위 콜라겐 마스크",
+    "secondary": [
+     "올리브영 어워즈 수상·판매 랭킹 1위",
+     "실 사용자 100% 만족 (모공케어 NO.1)",
+     "마스크 구매 시 옵션 선택 안내 및 사은품(GIFT)"
+    ]
+   },
+   "copy": {
+    "main": "누적 판매 2억장 돌파 대세 1위 콜라겐 마스크",
+    "sub": "실 사용자들이 100% 만족한 NO.1 #모공케어_콜라겐팩 · 속광, 탄력, 화잘먹까지 콜라겐 마스크 중에는 진짜 최고에요",
+    "cta": "마스크 4매, 8매 / 16매, 32매 구매 시 옵션 선택 안내"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 제품 라인업 컷과 보라·금색 배경의 제품 연출 컷을 나열한 뒤, 중반에 '2억장 돌파' 대형 헤드카피와 제품 박스·수상 뱃지를 배치하고, 하단에 설문 수치(0%)와 리뷰 인용, 사용 장면 컷으로 이어지는 세로 구조",
+   "tone": [
+    "신뢰감",
+    "청결·맑음",
+    "프리미엄 미니멀"
+   ],
+   "target": "모공·탄력·속광 케어에 관심 있는 20~40대 여성 스킨케어 소비자",
+   "why_it_hooks": "'2억장 돌파'와 다수의 수상·랭킹 뱃지가 한 화면에 모여 사회적 증거를 즉시 전달하며, 분홍 제품 박스와 투명한 콜라겐 시트 질감 컷이 시선을 끈다.",
+   "pdp": {
+    "first_screen_hook": "보라·금색 배경 위 제품 라인업과 '1위' 숫자 연출로 브랜드 라인업과 랭킹 이미지를 먼저 강하게 각인시킨다.",
+    "sections": [
+     {
+      "name": "브랜드 라인업 인트로",
+      "role": "브랜드 소개",
+      "copy": "(글자 없음, 제품 라인업 컷)",
+      "share": 8
+     },
+     {
+      "name": "1위·신제품 연출",
+      "role": "공감 후킹",
+      "copy": "'1' 숫자 연출과 마스크 제품 노출",
+      "share": 8
+     },
+     {
+      "name": "모델 사용 컷 및 사은품",
+      "role": "라이프스타일 연출·구매 유도",
+      "copy": "GIFT 사은품 안내",
+      "share": 10
+     },
+     {
+      "name": "배송·혜택 비주얼",
+      "role": "구매 동기 강화",
+      "copy": "(글자 없음, 트럭 배송 이미지)",
+      "share": 6
+     },
+     {
+      "name": "세트 제품 연출",
+      "role": "제품 소개",
+      "copy": "(글자 없음, 세럼·크림 제품컷)",
+      "share": 6
+     },
+     {
+      "name": "옵션 안내",
+      "role": "구매 결정 보조",
+      "copy": "공식 스토어 옵션 안내: 마스크 4매·8매 / 16매·32매 구매 시 옵션 선택",
+      "share": 10
+     },
+     {
+      "name": "누적 판매 헤드라인",
+      "role": "사회적 증거",
+      "copy": "누적 판매 2억장 돌파 대세 1위 콜라겐 마스크",
+      "share": 10
+     },
+     {
+      "name": "수상·랭킹 뱃지",
+      "role": "신뢰 근거",
+      "copy": "2024 올리브영 어워즈 윈너, 아마존 베스트셀러 1위, 올리브영 전체 판매 랭킹 1위, 화해 어워즈 1위, 대만·한국 브랜드 기준 1위, 싱가포르·인도네시아 페이셜 마스크 1위",
+      "share": 12
+     },
+     {
+      "name": "실사용자 만족 & 설문 수치",
+      "role": "임상·설문 근거",
+      "copy": "실 사용자 100% 만족 NO.1 #모공케어_콜라겐팩 / 광채·화잘먹·모공개선·건조감 개선 체감 (0% 표기 및 설문 조건 주석)",
+      "share": 12
+     },
+     {
+      "name": "리뷰 인용",
+      "role": "사회적 증거",
+      "copy": "속광, 탄력, 화잘먹까지 콜라겐 마스크 중에는 진짜 최고에요",
+      "share": 8
+     },
+     {
+      "name": "텍스처 시연 & 리뷰 출처 고지",
+      "role": "제품 체험·신뢰 보강",
+      "copy": "시트 질감 컷 + 올리브영·공식몰·네이버 리뷰 출처 및 주관적 의견 고지",
+      "share": 10
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": false,
+     "리뷰 캡처": true,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#EDEBE6",
+     "pct": 31
+    },
+    {
+     "hex": "#B5A0B7",
+     "pct": 20
+    },
+    {
+     "hex": "#E4D5C1",
+     "pct": 18
+    },
+    {
+     "hex": "#F2F2F5",
+     "pct": 17
+    },
+    {
+     "hex": "#F7F6F7",
+     "pct": 15
+    }
+   ]
+  },
+  "page_title": "바이오던스 | Biodance",
+  "height_px": 6796,
+  "link_url": "https://biodance.co.kr/product/detail.html?product_no=279",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "2753ddea21a9",
+  "brand": "바이오던스",
+  "channel": "상세페이지",
+  "source_name": "바이오던스 국내 공식몰",
+  "page_url": "https://biodance.co.kr/product/detail.html?product_no=392",
+  "image_src": "https://biodance.co.kr/product/detail.html?product_no=392",
+  "collected_at": "2026-11-25",
+  "hash": "0cf47660aafc649a",
+  "image": "images/2753ddea21a9.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "바이오던스",
+   "product": "바이오던스 포어 퍼펙팅 콜라겐 펩타이드 크림",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "탄력 코팅막으로 200시간 수분 충전",
+    "secondary": [
+     "단 한 번 사용으로 피부 윤기(광채) 164% 증가",
+     "메이크업 전 3초 투자로 밀착력 차이",
+     "사은품 증정"
+    ]
+   },
+   "copy": {
+    "main": "200시간 수분 충전 탄력 플럼핑 크림",
+    "sub": "탄력 코팅막으로 오랫동안 매끈하게 / 단 한 번만 사용해도 피부 윤기(광채) 164% 증가",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 제품 라인업과 보라·골드 배너를 나열해 시선을 모으고, 하단 상세에서는 카피 블록 아래 제품 사진과 모델 컷을 교차 배치하며 전환 근거(임상 수치, 전후 비교)를 순서대로 제시하는 세로 긴 구조.",
+   "tone": [
+    "청초한",
+    "맑은 光채",
+    "프리미엄 뷰티"
+   ],
+   "target": "모닝 메이크업 후 밀림·파데 모공 부각·광채 부족을 고민하는 20~50대 여성",
+   "why_it_hooks": "골드 '1위'와 사은품 아이콘, 보라·핑크 톤의 투명 제형 연출이 강한 색 대비로 시선을 끕니다. 상단 배너의 여러 제품 컷이 한 화면에 쌓여 있어 상세 진입 전에도 브랜드 라인업이 쉽게 파악됩니다.",
+   "pdp": "{\"first_screen_hook\": \"'탄력 코팅막으로 오랫동안 매끈하게'와 '200시간 수분 충전' 대형 카피가 제품 사진 위에 놓여 즉시 효능 약속을 던집니다.\", \"sections\": [{\"name\": \"상단 라인업·프로모션 배너\", \"role\": \"브랜드 인지\", \"copy\": \"제품 라인업, 골드 '1위' 아이콘, 사은품(GIFT) 표기\", \"share\": 8}, {\"name\": \"메인 카피 블록\", \"role\": \"해결책 제시\", \"copy\": \"탄력 코팅막으로 오랫동안 매끈하게 / 200시간 수분 충전 탄력 플럼핑 크림 / 바이오던스 포어 퍼펙팅 콜라겐 펩타이드 크림\", \"share\": 10}, {\"name\": \"제품 디테일\", \"role\": \"제품 신뢰\", \"copy\": \"용기 및 제형 컷 (Pore Perfecting, Smoothing, Firming)\", \"share\": 8}, {\"name\": \"공감 후킹\", \"role\": \"공감 후킹\", \"copy\": \"화장 전 마지막 한 겹, 착붙 메이크업의 시작! / 파데 모공 부각, 아침 공들인 메이크업 뜨기 시작, 광은 도는데 피부결이 거칠어요\", \"share\": 12}, {\"name\": \"핵심 메시지\", \"role\": \"문제 재정의\", \"copy\": \"들뜸 없는 매끈한 메이크업의 핵심은 속부터 꽉 채운 탄력·수분막!\", \"share\": 5}, {\"name\": \"임상 전후 비교\", \"role\": \"근거\", \"copy\": \"탄력 저하형 피부 vs 탄력이 채워진 피부 (P&K 피부임상연구센터, 20~59세 여성 21명, 25.02.19~25.03.25)\", \"share\": 12}, {\"name\": \"임상 수치\", \"role\": \"근거\", \"copy\": \"단 한 번만 사용해도 피부 윤기(광채) 164% 증가\", \"share\": 10}, {\"name\": \"사용 장면 모델컷\", \"role\": \"감성 연출\", \"copy\": \"모델 얼굴 광채 연출 이미지 (이미지 중심)\", \"share\": 10}, {\"name\": \"사용법·밀착력 비교\", \"role\": \"사용 경험 증명\", \"copy\": \"메이크업 전 딱 3초만 투자하세요 / 볼륨 탄력이 도톰하게 감싸는 밀착력의 차이 / 크림 사용 전 파운데이션 발림성\", \"share\": 15}, {\"name\": \"제품 마무리 컷\", \"role\": \"행동 유도\", \"copy\": \"제품 용기 클로즈업 (구매 CTA 문구 없음)\", \"share\": 10}], \"proofs\": {\"임상 시험\": true, \"성분 설명\": false, \"비포애프터\": true, \"리뷰 캡처\": false, \"수상·랭킹\": true, \"전문가 추천\": false, \"인증 마크\": false, \"모델·셀럽\": true}}}",
+   "palette": [
+    {
+     "hex": "#EBE3DB",
+     "pct": 29
+    },
+    {
+     "hex": "#EAE7E4",
+     "pct": 27
+    },
+    {
+     "hex": "#E3D5C8",
+     "pct": 17
+    },
+    {
+     "hex": "#B6A0AF",
+     "pct": 15
+    },
+    {
+     "hex": "#F0EFEB",
+     "pct": 13
+    }
+   ]
+  },
+  "page_title": "바이오던스 | Biodance",
+  "height_px": 7756,
+  "link_url": "https://biodance.co.kr/product/detail.html?product_no=392",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "e34c0fb21f36",
+  "brand": "에스네이처",
+  "channel": "상세페이지",
+  "source_name": "에스네이처 국내 공식몰",
+  "page_url": "https://snature.co.kr/product/detail.html?product_no=223&cate_no=1&display_group=3",
+  "image_src": "https://snature.co.kr/product/detail.html?product_no=223&cate_no=1&display_group=3",
+  "collected_at": "2026-11-25",
+  "hash": "13b0b7ececececa8",
+  "image": "images/e34c0fb21f36.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "에스네이처",
+   "product": "아쿠아 콜라겐 펩타이드 NAD+ 앰플",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "NAD+ 성분·임상 근거를 앞세운 속·겉기미 광채 케어",
+    "secondary": [
+     "인증·임상",
+     "성분·효능",
+     "리뷰·랭킹"
+    ]
+   },
+   "copy": {
+    "main": "피부에 채우는 NAD+샷 속·겉기미 광채 앰플",
+    "sub": "앰플 1병으로 피부 보습 2.5mm까지 도달",
+    "cta": "#나드샷 앰플"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 대형 헤드카피와 제품 병을 중앙 배치하고, 이후 섹션마다 성분 설명·임상 그래프·Before/After를 세로로 나열하는 긴 스크롤 구조",
+   "tone": [
+    "과학적",
+    "청량",
+    "신뢰"
+   ],
+   "target": "속광과 탄력이 떨어진 것이 고민인 20~60대 여성",
+   "why_it_hooks": "맑은 블루 톤 배경과 밝은 광채 연출이 첫 화면에서 눈에 띄고, '속기미·겉기미 OUT'처럼 고민을 직접 건드리는 카피가 바로 이어집니다.",
+   "pdp": {
+    "first_screen_hook": "대형 헤드카피 '피부에 채우는 NAD+샷'과 빛이 퍼지는 제품 연출이 고민 키워드를 한눈에 전달합니다.",
+    "sections": [
+     {
+      "name": "첫 화면 히어로",
+      "role": "공감 후킹",
+      "copy": "피부에 채우는 NAD+샷 속·겉기미 광채 앰플 / 약국입점 / ~2.5mm 흡수도달",
+      "share": 8
+     },
+     {
+      "name": "성분 후킹·고민 제기",
+      "role": "공감 후킹",
+      "copy": "할리우드 셀럽들이 찾는 성분! NAD+ / 속기미·겉기미 OUT! #나드샷 앰플",
+      "share": 6
+     },
+     {
+      "name": "포인트 및 효과 요약",
+      "role": "해결책 제시",
+      "copy": "앰플 1병으로 피부 보습 2.5mm까지 도달",
+      "share": 5
+     },
+     {
+      "name": "올인원 성분 구성",
+      "role": "성분 설명",
+      "copy": "에이징 고민? 올인원 케어! 나이아신아마이드(2%)·히알루론산·비타민C 역할 설명",
+      "share": 8
+     },
+     {
+      "name": "독자 성분 CPRN 설명",
+      "role": "성분 설명",
+      "copy": "CPRN™이란? 에스네이처만의 독자 성분으로 피부 깊숙이 유효 성분을 전달",
+      "share": 6
+     },
+     {
+      "name": "순환형 안티에이징 메커니즘",
+      "role": "성분 설명",
+      "copy": "순환형 안티에이징 설계: 콜라겐 채우고 등",
+      "share": 6
+     },
+     {
+      "name": "논문 근거",
+      "role": "근거",
+      "copy": "논문으로 인정받은 압도적 기술력 / NAD+는 피부의 에너지를 활성화해 피부 밀도 탄력·장벽 개선",
+      "share": 9
+     },
+     {
+      "name": "임상 결과",
+      "role": "근거",
+      "copy": "앰플 1병으로 끌어올리다 / 10종 테스트 완료 / 10층 속탄력 +9.59%, 6중 리프팅 눈가 +22.7%, 팔자 +13.3%, 피부 치밀도 +17.1%, 속·겉보습 +145.5%",
+      "share": 16
+     },
+     {
+      "name": "기미·색소침착·속광 임상",
+      "role": "비포애프터",
+      "copy": "기미·색소침착 개선 +16.6%, 속광 개선 +14.4%",
+      "share": 10
+     },
+     {
+      "name": "제품 안전성·사용법",
+      "role": "인증 마크",
+      "copy": "민감 피부 저자극 테스트 완료 / EWG 그린등급 / HOW TO USE 2단계",
+      "share": 6
+     },
+     {
+      "name": "라인업 및 수상",
+      "role": "사회적 증거",
+      "copy": "360°리프팅·광채·밀도탄력 ANTI-AGING: 콜라겐 에센스·NAD+ 앰플·NAD+ 크림 / 화해 어워드 82관왕",
+      "share": 10
+     },
+     {
+      "name": "브랜드 신뢰 마무리",
+      "role": "구매 결정",
+      "copy": "Skin Likes Nature, Skin Is Like Nature S.NATURE / 믿고쓰는 수분천재",
+      "share": 4
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#8AB6DB",
+     "pct": 31
+    },
+    {
+     "hex": "#5893CD",
+     "pct": 23
+    },
+    {
+     "hex": "#E5EDF2",
+     "pct": 17
+    },
+    {
+     "hex": "#B4D8ED",
+     "pct": 15
+    },
+    {
+     "hex": "#F0FDFE",
+     "pct": 15
+    }
+   ]
+  },
+  "page_title": "에스네이처 공식 온라인 스토어",
+  "height_px": 36416,
+  "link_url": "https://snature.co.kr/product/detail.html?product_no=223&cate_no=1&display_group=3",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "f2cb13791148",
+  "brand": "에스네이처",
+  "channel": "상세페이지",
+  "source_name": "에스네이처 국내 공식몰",
+  "page_url": "https://snature.co.kr/product/detail.html?product_no=225&cate_no=1&display_group=3",
+  "image_src": "https://snature.co.kr/product/detail.html?product_no=225&cate_no=1&display_group=3",
+  "collected_at": "2026-11-25",
+  "hash": "ce6ce898ece9a9f4",
+  "image": "images/f2cb13791148.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "에스네이처",
+   "product": "에스네이처 아쿠아 365 글로우 핏 톤업 선크림 (SPF50+ PA++++, 40ml)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "24시간 맑은결광 쌩얼천재 — 쌩얼처럼 자연스러운 톤업과 24시간 쌩얼커버를 동시에 약속",
+    "secondary": [
+     "모델·셀럽",
+     "성분·효능",
+     "인증·임상",
+     "신제품",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "오늘 칙칙해? 걱정마! 예쁜 쌩얼 피부 보정 #쌩얼천재크림",
+    "sub": "쌩얼처럼 자연스럽게! 퍼스널 톤업 SUN! 쌩얼천재크림 / 수분쫀쫀 썬케어 24시간 쌩얼커버 동시에 / 파운데이션 끊어봐! 한 겹으로 자연스럽게, 레이어링으로 화사한 톤업!",
+    "cta": "남녀노소 순둥자차! 민감성 저자극 테스트 OK"
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 카피 블록을 두고 남녀 모델이 제품을 든 컷을 중앙에 배치, 이후 제품 질감·수치·사용법을 섹션별로 교차 배치한 긴 세로형 구성",
+   "tone": [
+    "화사함",
+    "친근함",
+    "자연스러움"
+   ],
+   "target": "칙칙한 피부 톤을 가볍게 보정하고 싶은 20~30대 남녀 자외선 차단 사용자",
+   "why_it_hooks": "'쌩얼천재'라는 밈성 카피와 남녀 모델이 나란히 제품을 든 친근한 구도가 즉각적인 공감을 만듭니다. 주황색 강조 텍스트가 흰 배경 위에서 선명하게 대비됩니다.",
+   "pdp": {
+    "first_screen_hook": "'오늘 칙칙해? 걱정마!'라는 질문형 카피와 남녀 모델이 제품을 드는 컷으로 피부 고민에 바로 공감을 유도합니다.",
+    "sections": [
+     {
+      "name": "퍼스트 후킹 (쌩얼천재 카피)",
+      "role": "공감 후킹",
+      "copy": "24시간 맑은결광 쌩얼천재 / 오늘 칙칙해? 걱정마! 예쁜 쌩얼 피부 보정 / #쌩얼천재크림",
+      "share": 10
+     },
+     {
+      "name": "제품 소개 및 핵심 컨셉",
+      "role": "해결책 제시",
+      "copy": "쌩얼처럼 자연스럽게! 퍼스널 톤업 SUN! 쌩얼천재크림 / 남녀노소 데일리 톤업 선크림 · 민감 피부 저자극 테스트 완료 · 약산성 논나노 무기자차 SPF50+/PA++++",
+      "share": 8
+     },
+     {
+      "name": "기능 요약 및 모델 컷",
+      "role": "해결책 제시",
+      "copy": "수분쫀쫀 썬케어 24시간 쌩얼커버 동시에 / 모공블러 + 24h톤업",
+      "share": 8
+     },
+     {
+      "name": "임상 수치",
+      "role": "근거",
+      "copy": "쌩얼처럼 자연스러운 예쁜피부 / 속 광채 개선 +13.25% · 톤 개선 +17.41% · 결 개선 +10.01% · 진정 개선 +96.26% · 속·겉보습 개선 +132.7% (아쿠아365 글로우핏 톤업선, 스킨메드임상센터, 만20~60세 성인 21명)",
+      "share": 12
+     },
+     {
+      "name": "사용감·제형 소개",
+      "role": "해결책 제시",
+      "copy": "파운데이션 끊어봐! 한 겹으로 자연스럽게, 레이어링으로 화사한 톤업!",
+      "share": 8
+     },
+     {
+      "name": "퍼스널컬러 톤업 라인",
+      "role": "해결책 제시",
+      "copy": "모든 피부 맞춤 퍼스널컬러 톤업선 / Pink Complex로 얼룩덜룩한 피부도 균일하게 / 노란톤 +17.41% · 붉은톤 +12.04% · 어두운 톤 +4.58% (자사 테스트, 개인차 있음)",
+      "share": 12
+     },
+     {
+      "name": "성분 및 밀착 텍스처",
+      "role": "근거",
+      "copy": "NMF 천연보습인자 성분으로 수분밀착&수분장벽 케어 / 빈틈없는 밀착 광채 탄력 케어 / 아데노신(주름 개선) + 나이아신아마이드(미백 케어)",
+      "share": 12
+     },
+     {
+      "name": "남녀 공용 사용 및 저자극 강조",
+      "role": "사회적 증거",
+      "copy": "남자친구도 같이 쓰는 한겹필터 #쌩얼천재 / 남녀노소 순둥자차! 모공 막힘 없는 논나노 무기자차 민감성 저자극 테스트 OK!",
+      "share": 8
+     },
+     {
+      "name": "사용법 안내",
+      "role": "행동 유도",
+      "copy": "How to use — STEP 01 스킨케어 마지막 단계에서 적당량을 펴 발라 흡수시켜 줍니다. TIP: 원하는 피부 톤에 맞춰 얇게 덧발라 주면 더 화사하게",
+      "share": 6
+     },
+     {
+      "name": "제품 스펙 및 신뢰 요소",
+      "role": "구매 결정",
+      "copy": "제형: 피부에 가볍게 펴 발리는 수분감 가득한 베이지 크림 텍스처 / 사용감: 뻑뻑함, 끈적임, 오일리함 없이 / 컬러감: 내 피부에 꼭 맞춘 듯한 퍼스널 컬러 / FSC 인증 지류, SOY-INK 적용",
+      "share": 6
+     },
+     {
+      "name": "브랜드 수상 이력 및 상세 정보",
+      "role": "사회적 증거",
+      "copy": "S.NATURE 화해 어워즈 1위 다수 수상 이력 / 용량 40ml, 사용기한 개봉 전 30개월·개봉 후 12개월 / 전성분 및 화장품 법정 표기",
+      "share": 8
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": true
+    }
+   },
+   "palette": [
+    {
+     "hex": "#F9FBFF",
+     "pct": 29
+    },
+    {
+     "hex": "#F1F0F0",
+     "pct": 27
+    },
+    {
+     "hex": "#E8D8CF",
+     "pct": 23
+    },
+    {
+     "hex": "#9D7B69",
+     "pct": 19
+    },
+    {
+     "hex": "#F7FDFE",
+     "pct": 2
+    }
+   ]
+  },
+  "page_title": "에스네이처 공식 온라인 스토어",
+  "height_px": 32479,
+  "link_url": "https://snature.co.kr/product/detail.html?product_no=225&cate_no=1&display_group=3",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "8b6e5fc60c0b",
+  "brand": "에스네이처",
+  "channel": "상세페이지",
+  "source_name": "에스네이처 국내 공식몰",
+  "page_url": "https://snature.co.kr/product/detail.html?product_no=227&cate_no=1&display_group=3",
+  "image_src": "https://snature.co.kr/product/detail.html?product_no=227&cate_no=1&display_group=3",
+  "collected_at": "2026-11-25",
+  "hash": "e8e4f8f0e2f0f0e4",
+  "image": "images/8b6e5fc60c0b.jpg",
+  "analysis": null,
+  "page_title": "에스네이처 공식 온라인 스토어",
+  "height_px": 34476,
+  "link_url": "https://snature.co.kr/product/detail.html?product_no=227&cate_no=1&display_group=3",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "4d7ccf0336af",
+  "brand": "에스네이처",
+  "channel": "상세페이지",
+  "source_name": "에스네이처 국내 공식몰",
+  "page_url": "https://snature.co.kr/product/detail.html?product_no=234&cate_no=1&display_group=4",
+  "image_src": "https://snature.co.kr/product/detail.html?product_no=234&cate_no=1&display_group=4",
+  "collected_at": "2026-11-25",
+  "hash": "1af08082c6c2e0f0",
+  "image": "images/4d7ccf0336af.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "에스네이처",
+   "product": "딥 아쿠아 스쿠알란 베리어 토너",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "인증·임상",
+     "리뷰·랭킹",
+     "루틴 제안"
+    ]
+   },
+   "copy": {
+    "main": "크림을 토너에 녹인 장벽천재 스쿠알란 판테놀 샷",
+    "sub": "#장벽크림토너 · 딥 아쿠아 스쿠알란 베리어 토너 · 세안 후 피부 골든타임! 첫 단계 피부 장벽 보습",
+    "cta": "365일 속장벽·겉장벽 #장벽천재 듀오 (베리어 세럼과 함께 사용 시 시너지)"
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 블루 하이라이트 헤드카피를 배치하고, 중앙에 제품병과 올리브 오브젝트를 두어 성분 원료를 시각적으로 연결하며, 섹션별로 블루·화이트 배경을 교차시킨 긴 세로형 구조",
+   "tone": [
+    "청결·신뢰",
+    "쿨톤 블루",
+    "전문적·과학적"
+   ],
+   "target": "건조·민감·지성 등 피부 장벽 약화를 느끼는 20~40대 여성 중 가벼운 수분 토너를 찾는 소비자",
+   "why_it_hooks": "'크림 토너'라는 상반된 키워드와 파란 하이라이트 헤드카피가 결합해 궁금증을 유발하며, 올리브 오브젝트와 물방울 연출이 성분의 원료 이미지를 직관적으로 전달합니다.",
+   "pdp": {
+    "first_screen_hook": "파란 배경 위 '스쿠알란 판테놀 샷'과 '#장벽크림토너' 카피가 제품병과 떠다니는 올리브로 강조되어 성분 중심 호기심을 자극합니다.",
+    "sections": [
+     {
+      "name": "헤드 카피·제품 소개",
+      "role": "공감 후킹",
+      "copy": "크림을 토너에 녹인 장벽천재 / 스쿠알란 판테놀 샷 / 딥 아쿠아 스쿠알란 베리어 토너",
+      "share": 8
+     },
+     {
+      "name": "테스트 인증",
+      "role": "근거",
+      "copy": "피부 장벽 개선·논코메도제닉·여드름성 피부 사용 적합·민감피부 저자극 테스트 완료",
+      "share": 6
+     },
+     {
+      "name": "장벽 빌드업 개념",
+      "role": "해결책 제시",
+      "copy": "겉 장벽의 흡수길을 열어 속 장벽을 부드럽게 활성화 / #14중 속장벽영양 / #24시간속보습",
+      "share": 8
+     },
+     {
+      "name": "문제 제기",
+      "role": "공감 후킹",
+      "copy": "피부 속장벽·겉장벽부터 개선해야 합니다! 장벽이 무너지면 붉고 민감해지고, 푸석한 건조피부, 늘어진 모공이 생깁니다",
+      "share": 10
+     },
+     {
+      "name": "브랜드 스토리",
+      "role": "신뢰 형성",
+      "copy": "SINCE 2007 에스네이처 / 수년간 클리닉을 드나드는 피부 고통을 직접 보며 20년 동안 피부 장벽을 연구한 집념과 노하우",
+      "share": 6
+     },
+     {
+      "name": "핵심 기능 1 (성분 시너지)",
+      "role": "근거",
+      "copy": "크림토너지만 답답하지 않게 / 스쿠알란 10,010ppm(올리브 유래 ECOCERT 인증) + D-판테놀 리포좀(비타민 B5 순도 98%) / 효능의 극대화·피부 장벽 개선·모공 케어",
+      "share": 12
+     },
+     {
+      "name": "14중 성분 레이어",
+      "role": "근거",
+      "copy": "빈틈 없는 14중 속장벽 겉장벽 레이어 (스쿠알란, D-판테놀, 엘라스틴, 세라마이드엔피, 알란토인, 소듐PCA, 히알루론산 등 성분별 역할 표기)",
+      "share": 8
+     },
+     {
+      "name": "수분 지속 실험 결과",
+      "role": "근거",
+      "copy": "24시간 속수분 유지 수분밀도 +81.39% 개선 (사용 전·직후 이미지, 개인차 안내)",
+      "share": 8
+     },
+     {
+      "name": "사용 만족도·모공 결과",
+      "role": "사회적 증거",
+      "copy": "사용감 만족도 100% (진정·결 개선·저자극·발림성) / 모공 깊이 -21.54%, 모공 탄력 +13.08%, 모공밀도 개선 (임상 결과 이미지)",
+      "share": 10
+     },
+     {
+      "name": "제품 특징·사용감",
+      "role": "구매 결정",
+      "copy": "POINT.08 끈적임과 과한 유분감 NO, 지성·여드름성 피부도 OK / 답답하거나 무거움이 없는 유백색 약산성 크림 토너, 빠른 흡수 24시간 유지",
+      "share": 7
+     },
+     {
+      "name": "루틴·수상 및 행동 유도",
+      "role": "행동 유도",
+      "copy": "365일 속장벽·겉장벽 #장벽천재 듀오 / Daily·Special Care 루틴 제안 / 화해 어워드 82관왕 #믿쓰네이처 #수분광 #깐달걀피부",
+      "share": 4
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": true,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#F2F2F2",
+     "pct": 30
+    },
+    {
+     "hex": "#E4E5E6",
+     "pct": 25
+    },
+    {
+     "hex": "#F8F8F8",
+     "pct": 17
+    },
+    {
+     "hex": "#93ACA8",
+     "pct": 16
+    },
+    {
+     "hex": "#F6F5F5",
+     "pct": 12
+    }
+   ]
+  },
+  "page_title": "에스네이처 공식 온라인 스토어",
+  "height_px": 36459,
+  "link_url": "https://snature.co.kr/product/detail.html?product_no=234&cate_no=1&display_group=4",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "ade7f6a3c25a",
+  "brand": "에스네이처",
+  "channel": "상세페이지",
+  "source_name": "에스네이처 국내 공식몰",
+  "page_url": "https://snature.co.kr/product/detail.html?product_no=231&cate_no=1&display_group=4",
+  "image_src": "https://snature.co.kr/product/detail.html?product_no=231&cate_no=1&display_group=4",
+  "collected_at": "2026-11-25",
+  "hash": "b0f8b884c588b8e0",
+  "image": "images/ade7f6a3c25a.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "에스네이처",
+   "product": "딥 아쿠아 스쿠알란 베리어 세럼 50ml",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "인증·임상",
+     "공감 후킹(트러블 붉어짐·속건조)",
+     "비포애프터"
+    ]
+   },
+   "copy": {
+    "main": "스쿠알란 판테놀 과학적 설계 #장벽천재세럼",
+    "sub": "딥 아쿠아 스쿠알란 베리어 세럼 / 예민한 피부 주목! 손상된 피부 장벽 개선",
+    "cta": "믿고쓰는 수분천재"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단에 브랜드명과 파란 하이라이트 헤드카피를 배치하고, 중앙에 제품병을 크게 세우며 올리브·비커 등 과학 소품을 둘러 '성분 기반 연구' 이미지를 강조함. 하단으로 갈수록 텍스트 공감 문구와 제품 라인업이 이어지는 긴 세로형 구조.",
+   "tone": [
+    "과학적·신뢰",
+    "깨끗함·청량",
+    "전문 클리닉 무드"
+   ],
+   "target": "트러블 후 붉어지거나 속건조와 민감함을 겪는 지성·여드름성 피부 사용자, 특히 피부 장벽 관리를 찾는 20~40대 여성",
+   "why_it_hooks": "파란 하이라이트 헤드카피와 '#장벽천재세럼' 해시태그가 첫 화면에서 즉시 제품 효능을 선언하고, 올리브 유래 스쿠알란이라는 자연·과학 이미지가 신뢰감을 더합니다. 또한 '트러블 붉어짐 속건조?'라는 질문형 카피가 자기 피부 고민을 바로 떠올리게 합니다.",
+   "pdp": {
+    "first_screen_hook": "파란 배경의 '스쿠알란 판테놀 과학적 설계' 헤드카피와 올리브·비커 소품 위 중앙 제품병이 성분 기반 장벽 세럼이라는 메시지를 한눈에 전달합니다.",
+    "sections": [
+     {
+      "name": "퍼스트 뷰 헤드카피",
+      "role": "해결책 제시",
+      "copy": "스쿠알란 판테놀 과학적 설계 / #장벽천재세럼 / 딥 아쿠아 스쿠알란 베리어 세럼 / 예민한 피부 주목! 손상된 피부 장벽 개선",
+      "share": 8
+     },
+     {
+      "name": "장벽 개선 인증 마크",
+      "role": "인증 근거",
+      "copy": "무너진 장벽 개선 / 논코메도제닉 테스트 완료 / 여드름성 피부 사용 적합 테스트 완료 / 민감피부 저자극 테스트 완료",
+      "share": 5
+     },
+     {
+      "name": "공감 체크리스트",
+      "role": "공감 후킹",
+      "copy": "트러블 붉어짐 속건조? 피부장벽이 보내는 SOS! / 전문 피부관리 후 피부가 민감해요 / 트러블 요철 여드름 쉽게 붉어지고 민감해져요 / 발라도 발라도 피부 속부터 건조해요",
+      "share": 8
+     },
+     {
+      "name": "문제 정의",
+      "role": "공감 후킹",
+      "copy": "붉고 민감한 피부 · 푸석한 건조피부 · 늘어진 모공 → 장벽이 무너진 피부는 쉽게 민감해지고 수분을 머금지 못해 속건조가 발생합니다",
+      "share": 5
+     },
+     {
+      "name": "브랜드 신뢰",
+      "role": "신뢰 구축",
+      "copy": "SINCE 2007 에스네이처 / 수 년간 클리닉을 드나드는 피부 장벽 고민을 직접 보며 20년 동안 연구한 집념과 노하우로 2026년 장벽천재세럼 탄생",
+      "share": 8
+     },
+     {
+      "name": "핵심 성분 설명",
+      "role": "근거",
+      "copy": "POINT.01 피부 속 장벽 겉장벽 성분의 시너지 배합 / 올리브 유래 ECOCERT 인증 스쿠알란 20,000ppm + 비타민 B5 순도 98% D-판테놀 10,000ppm / 세라마이드·콜레스테롤·알지닌·트레할로오스 등 성분 나열",
+      "share": 12
+     },
+     {
+      "name": "작동 원리 시각화",
+      "role": "근거",
+      "copy": "피부 30층 속보습 / 10층 수분 변화 시각화 / 리피드좀 공법으로 피부 속 겹겹이 촉촉하게 유효 성분 흡수",
+      "share": 8
+     },
+     {
+      "name": "임상 결과",
+      "role": "사회적 증거",
+      "copy": "피부 매끈 피부 결 +7.69% 개선 / 모공 부위 탄력 가로 모공 -27.59% 개선 / 극한 환경 보습 +264.69% 개선 / 피부 속·겉보습 +502.89% 개선 (여성 21명 인체적용시험 기준)",
+      "share": 18
+     },
+     {
+      "name": "제형·사용감",
+      "role": "해결책 제시",
+      "copy": "겉은 가볍게, 속은 촉촉하게 / 벨벳처럼 부드럽게 퍼지며 속보습 채움 / POINT.09 끈적임과 과한 유분감 NO! 지성·여드름성 피부도 안심하고 OK",
+      "share": 7
+     },
+     {
+      "name": "사용법 가이드",
+      "role": "행동 유도",
+      "copy": "사용 팁 DAILY CARE 저녁 세안 후 한 겹 더 레이어링 / SPECIAL CARE 세럼을 화장솜에 덜어 1~2분 부착하는 세럼팩",
+      "share": 6
+     },
+     {
+      "name": "라인업 듀오 제안",
+      "role": "구매 결정",
+      "copy": "365일 속장벽·겉장벽 #장벽천재 듀오 / 딥 아쿠아 스쿠알란 베리어 토너와 함께 사용 시 더욱 시너지 / 속장벽 빌드업 → 24h 속보습 #장벽크림 팁",
+      "share": 10
+     },
+     {
+      "name": "전체 라인업 & CTA",
+      "role": "구매 결정",
+      "copy": "모공쫀쫀 속촉촉 맑은 수분광 AQUA SQUALANE / Daily Care: 장벽크림 토너·화잘먹 수분세럼·장벽천재 세럼·1등 수분천재크림·속광탄력 미스트 / Special Care: 단백질 아이크림·입술천재 립밤·크림랩핑 마스크 / 믿고쓰는 수분천재",
+      "share": 10
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": true,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#F7F7F8",
+     "pct": 30
+    },
+    {
+     "hex": "#D6DBDE",
+     "pct": 28
+    },
+    {
+     "hex": "#8E9E94",
+     "pct": 18
+    },
+    {
+     "hex": "#EFF1F3",
+     "pct": 16
+    },
+    {
+     "hex": "#F9F9F9",
+     "pct": 8
+    }
+   ]
+  },
+  "page_title": "S.NATURE | 딥 아쿠아 스쿠알란 베리어 세럼 50ml",
+  "height_px": 40000,
+  "link_url": "https://snature.co.kr/product/detail.html?product_no=231&cate_no=1&display_group=4",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "18ccd2b47d4b",
+  "brand": "웰라쥬",
+  "channel": "상세페이지",
+  "source_name": "웰라쥬 국내 공식몰",
+  "page_url": "https://wellage.co.kr/product/detail.html?product_no=1420&cate_no=267&display_group=1",
+  "image_src": "https://wellage.co.kr/product/detail.html?product_no=1420&cate_no=267&display_group=1",
+  "collected_at": "2026-11-25",
+  "hash": "7b49e8eac0f0ec9c",
+  "image": "images/18ccd2b47d4b.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "웰라쥬",
+   "product": "리얼 히알루로닉 100 크림 80ml",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "손상 장벽 30배 개선·100시간 속보습 등 임상 수치 기반 장벽 케어 효능",
+    "secondary": [
+     "신규회원 첫 구매 특가 9,900원·5만원 쿠폰팩",
+     "패키지 리뉴얼 안내로 구매 불안 해소",
+     "4.8/5 재구매 리뷰 평점"
+    ]
+   },
+   "copy": {
+    "main": "건조할 틈 없이 장벽 드레싱 손상 장벽 30배 개선 속보습 장벽 크림",
+    "sub": "웰라쥬 수분 노하우에 장벽을 더하다! 세.콜.지 X 독자 히알루론산으로 꽉- 채운 고보습 장벽 케어",
+    "cta": "단 한 번의 신규회원 혜택 첫 구매 특가 9,900원"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "상단 제품 연출컷과 물결 배경으로 시선을 모은 뒤, 아래로 갈수록 텍스트 헤드라인과 임상 그래프를 크게 배치하는 장문 세로 구조",
+   "tone": [
+    "청량",
+    "신뢰",
+    "임상 기반"
+   ],
+   "target": "건조하고 장벽이 약해져 속건조가 반복되는 20~30대 수분 케어 소비자",
+   "why_it_hooks": "파란 물결 배경과 흰 튜브의 강한 색 대비로 첫 화면에서 청량감을 주고, '30배 개선'이라는 큰 수치 헤드라인이 효능에 대한 궁금증을 자극합니다.",
+   "pdp": {
+    "first_screen_hook": "물결 위 흰색·네이비 튜브 제품컷과 '건조할 틈 없이 장벽 드레싱' 노란 라벨로 청량한 수분감을 즉시 전달",
+    "sections": [
+     {
+      "name": "제품 무드 컷",
+      "role": "공감 후킹",
+      "copy": "REAL HYALURONIC CREAM 100 / Real HA, HA WATER 100, HA-AMINOSOME",
+      "share": 8
+     },
+     {
+      "name": "메인 헤드라인",
+      "role": "해결책 제시",
+      "copy": "건조할 틈 없이 장벽 드레싱 / 손상 장벽 30배 개선 속보습 장벽 크림",
+      "share": 5
+     },
+     {
+      "name": "브랜드 스토리·성분 콘셉트",
+      "role": "해결책 제시",
+      "copy": "웰라쥬 수분 노하우에 장벽을 더하다! 세.콜.지 X 독자 히알루론산으로 꽉- 채운 고보습 장벽 케어",
+      "share": 7
+     },
+     {
+      "name": "신규 혜택 배너",
+      "role": "구매 결정",
+      "copy": "단 한 번의 신규회원 혜택 / 첫 구매 특가 9,900원 / 5만원 쿠폰팩",
+      "share": 5
+     },
+     {
+      "name": "패키지 리뉴얼 안내",
+      "role": "신뢰 확보",
+      "copy": "성분 및 용량은 동일하니 안심하고 사용하셔도 됩니다. 리뉴얼 전후 비교, 튜브 토출구 변경 안내",
+      "share": 10
+     },
+     {
+      "name": "문제 제기·효능 요약",
+      "role": "공감 후킹",
+      "copy": "약해진 장벽을 강화해 속건조 근본 해결 / 1회 사용만으로 손상된 장벽 리페어 / 100시간 수분 지속력 / 거칠고 건조한 피부 고민 끝 촉촉 매끈 수분결 피부",
+      "share": 8
+     },
+     {
+      "name": "재구매 리뷰 평점",
+      "role": "사회적 증거",
+      "copy": "N번 재구매 / 믿고 쓰는 속보습 장벽크림 4.8/5 (올리브영 리뷰 평점 2025.05 기준)",
+      "share": 4
+     },
+     {
+      "name": "임상 결과 리포트 01~03",
+      "role": "근거",
+      "copy": "REPORT 01 손상 피부 장벽 개선 / REPORT 02 100시간 지속 속보습·수분 손실 방어 / REPORT 03 1회만으로 외부 자극 진정 효과 (한국피부과학연구원, 스킨메드 임상시험센터)",
+      "share": 20
+     },
+     {
+      "name": "핵심 성분 소개 (POINT 02)",
+      "role": "근거",
+      "copy": "Real Hyaluronic 100 피부 장벽을 위한 핵심 시너지 성분 / 히알수 HA-AMINOSOME 12겹 보습 핵심 성분(세라마이드·콜레스테롤·지방산) / 휴젤 특허 초저분자 히알루론산",
+      "share": 12
+     },
+     {
+      "name": "제조 공정 설명",
+      "role": "근거",
+      "copy": "순도 100%만을 고집하는 엄격한 휴젤의 히알루론산 공정 / Real Hyaluronic System 2012년부터 이어진 연구 / STEP 01~03 원료 선별",
+      "share": 6
+     },
+     {
+      "name": "사용감·피부결 효과",
+      "role": "공감 후킹",
+      "copy": "피부 속까지 촘촙하게 채워주니까 촉촉 매끈 화잘먹 피부결 완성 / 모공 부위 피부결 개선 임상 사용 전후 / 흡수·끈적임 없음 100%",
+      "share": 10
+     },
+     {
+      "name": "제품 최종 CTA",
+      "role": "행동 유도",
+      "copy": "순도 100 히알루론산 포뮬라로 피부 속부터 촘촙하게 채워주는 수분결 화잘먹 크림 / Moisture balance 망가진 수분 밸런스로 거칠고 민감해지는 피부결",
+      "share": 7
+     }
+    ],
+    "proofs": {
+     "임상 시험": true,
+     "성분 설명": true,
+     "비포애프터": true,
+     "리뷰 캡처": false,
+     "수상·랭킹": false,
+     "전문가 추천": false,
+     "인증 마크": false,
+     "모델·셀럽": false
+    }
+   },
+   "palette": [
+    {
+     "hex": "#82C2F2",
+     "pct": 27
+    },
+    {
+     "hex": "#C2E1F2",
+     "pct": 25
+    },
+    {
+     "hex": "#245DA0",
+     "pct": 20
+    },
+    {
+     "hex": "#F8F8F8",
+     "pct": 16
+    },
+    {
+     "hex": "#E7ECEF",
+     "pct": 11
+    }
+   ]
+  },
+  "page_title": "리얼 히알루로닉 100 크림 80ml - 웰라쥬",
+  "height_px": 29054,
+  "link_url": "https://wellage.co.kr/product/detail.html?product_no=1420&cate_no=267&display_group=1",
+  "region": "국내",
+  "category": "화장품",
+  "from_banner": "ad6e3dcf99dd"
+ },
+ {
+  "id": "e91ea3f0127e",
+  "brand": "이니스프리",
+  "channel": "공식몰",
+  "source_name": "이니스프리 국내 공식몰",
+  "page_url": "https://www.innisfree.com/kr/ko/",
+  "image_src": "https://inm-cdn.innisfree.com/origin-image/display/popup/2026/11/81afc7bf-ca5c-466b-b3f6-20cdc5015014.gif",
+  "collected_at": "2026-11-25",
+  "hash": "8282a64e8ece86a4",
+  "image": "images/e91ea3f0127e.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "이니스프리",
+   "product": "블랙티 유스 엔히싱 앰플 홀리데이 특별 세트 (크림·앰플·앰플 마스크 세트)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "할인율 강조",
+    "secondary": [
+     "한정·마감",
+     "사은품"
+    ]
+   },
+   "copy": {
+    "main": "2026 홀리데이 특별 증정! 블랙티 앰플 SPECIAL",
+    "sub": "~41% / 한정수량 GIFT / 114,000 → 67,100원",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "혼합",
+   "layout": "제품 세트를 하단 중앙·좌측에 배치하고, 빨간 원형 뱃지의 '~41%'와 굵은 가격 숫자(67,100원)를 큰 크기로 강조하며, 한정수량 GIFT 파우치를 우측 상단에 말풍선형 태그와 함께 배치했다.",
+   "tone": [
+    "홀리데이 특별함",
+    "화사한 핑크·크림 그라데이션",
+    "발랄한 캐릭터 감성"
+   ],
+   "target": "연말 선물이나 홀리데이 쇼핑으로 가성비 좋은 스킨케어 세트를 찾는 20~30대 여성 소비자",
+   "why_it_hooks": "빨간 원형 뱃지의 '~41%'와 큰 가격 숫자가 한눈에 들어오고, 한정수량 GIFT 파우치의 화려한 캐릭터 패턴이 시선을 우측으로 끌어 제품과 혜택을 함께 보게 만듭니다. 핑크 배경과 반짝이 장식이 명절·홀리데이 분위기를 만들어 구매 욕구를 자극합니다.",
+   "palette": [
+    {
+     "hex": "#ECCBC2",
+     "pct": 32
+    },
+    {
+     "hex": "#FDEAE4",
+     "pct": 25
+    },
+    {
+     "hex": "#F3E7D9",
+     "pct": 20
+    },
+    {
+     "hex": "#D28477",
+     "pct": 15
+    },
+    {
+     "hex": "#FCE6DC",
+     "pct": 8
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://www.innisfree.com/kr/ko/ca/event/106769",
+  "slot": "팝업",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "7b4f32124afa",
+  "brand": "클리오, 페리페라, 구달",
+  "channel": "공식몰",
+  "source_name": "클럽클리오 국내 공식몰",
+  "page_url": "https://clubclio.co.kr/",
+  "image_src": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/923075915_18478995781184669_6675752811196655093_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=i_Le5tY4XQoQ7kNvwFKiqMk&_nc_oc=AdpgctWp7w3qp0wG4rCsBbRMvsPNgyuh2ubmJD414MkQqOo4ZBhCCpTOMgdAdnT8PWA&_nc_zt=23&_nc_ht=scontent-icn2-1.cdninstagram.com&edm=AFF3FJ0EAAAA&_nc_gid=7whLhnJ1foCVbJjnM_1eNA&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRE0Oszy6JEzVTGT-ORHZweq_FcCHY5Ox3ukr_iJEnv1w&oe=6B0B3D22",
+  "collected_at": "2026-11-25",
+  "hash": "41a4c45872ce563a",
+  "image": "images/7b4f32124afa.jpg",
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "클리오, 페리페라, 구달",
+   "product": "갈웁 소프트템 모음 (뮤즈 마스터 팔레트, 크리스탈 글램 틴트, 프로 아이 팔레트, 페리페라 블러셔·틴트, 구달 시카 블레미쉬 커버 선BB)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "루틴 제안",
+    "secondary": [
+     "신제품",
+     "모델·셀럽"
+    ]
+   },
+   "copy": {
+    "main": "갈웁 소프트템 모음.ZIP",
+    "sub": "가을맛 클린걸",
+    "cta": ""
+   },
+   "ad_format": "카드뉴스형",
+   "visual_focus": "혼합",
+   "layout": "상단에 가을 테마 헤더와 메인 카피를 배치하고, 여러 제품을 사선으로 흩뿌려 배치한 콜라주 구성이며, 제품 주변에 아이섀도 발색, 도토리, 낙엽 등 가을 소품과 질감 스와치를 얹어 시선을 분산·연결한다.",
+   "tone": [
+    "가을 감성",
+    "내추럴 브라운 웜톤",
+    "귀여운 캐주얼"
+   ],
+   "target": "가을 시즌에 따뜻하고 부드러운 베이지·브라운 메이크업을 찾는 20~30대 여성 소비자",
+   "why_it_hooks": "갈색·베이지 계열 제품들이 가을 소품(도토리, 낙엽)과 어우러져 계절감을 한눈에 전달하며, '소프트템 모음.ZIP'이라는 큐레이션형 카피가 여러 제품을 한 번에 훑어볼 수 있는 기대감을 준다. 질감 스와치와 산뜻한 파스텔 톤 배경도 시선을 끈다.",
+   "palette": [
+    {
+     "hex": "#E5C7B7",
+     "pct": 26
+    },
+    {
+     "hex": "#F0DFD5",
+     "pct": 23
+    },
+    {
+     "hex": "#A88475",
+     "pct": 22
+    },
+    {
+     "hex": "#F6EDE7",
+     "pct": 15
+    },
+    {
+     "hex": "#FBF6F3",
+     "pct": 14
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://www.instagram.com/p/DgHMhr2o2Dc/",
+  "slot": "인스타 연동",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "5fdb4ebd7685",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://cafe24.poxo.com/ec01/romand/6aDrbsrpgztyixM+aENnH1D89vbvN874SJZ0smDxiaa/k9zGF5hClK+Cdcc6Crl70h/a8RobAiR24eeOO4zRMg==/_/SkinImg/history/26_ufo/thum-2.jpg",
+  "collected_at": "2026-11-25",
+  "hash": "108c9cb8e8f07210",
+  "image": "images/5fdb4ebd7685.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "롬앤",
+   "product": "롬앤 쿠션 파운데이션 (실버 케이스, 베이지 컬러 쿠션)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품 자체의 질감 시각화 (쿠션 스펀지와 제형 스트로크)",
+    "secondary": [
+     "미니멀 실버 케이스 디자인",
+     "브랜드 로고 노출"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "제품을 화면 중앙에 크게 배치하고, 옆에 쿠션 제형 스트로크 two개를 배경처럼 번지게 깔아 질감을 보여줌",
+   "tone": [
+    "깨끗함",
+    "미니멀",
+    "화사함"
+   ],
+   "target": "커버력과 촉촉한 마무리를 원하는 20~30대 여성 소비자",
+   "why_it_hooks": "화면 속 제품 사진과 제형 스트로크만으로 쿠션의 촉촉한 질감과 컬러를 바로 떠올리게 합니다. 밝은 배경과 은색 케이스가 깔끔하게 대비되어 시선을 모읍니다.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 49
+    },
+    {
+     "hex": "#E9E6E3",
+     "pct": 28
+    },
+    {
+     "hex": "#D8B59B",
+     "pct": 21
+    },
+    {
+     "hex": "#FDFFFE",
+     "pct": 1
+    },
+    {
+     "hex": "#FFFFFD",
+     "pct": 1
+    }
+   ]
+  },
+  "alt": "ufo 커버 쿠션",
+  "link_url": "https://romand.co.kr/product/new-ufo-%EC%BB%A4%EB%B2%84-%EC%BF%A0%EC%85%98-%EB%8B%A8%ED%92%88-ufo-%EC%BB%A4%EB%B2%84-%ED%8D%BC%ED%94%84-%EC%A6%9D%EC%A0%95/1185/category/286/display/1/",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "4f194dfd3006",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://cafe24.poxo.com/ec01/romand/6aDrbsrpgztyixM+aENnH1D89vbvN874SJZ0smDxiaa/k9zGF5hClK+Cdcc6Crl70h/a8RobAiR24eeOO4zRMg==/_/SkinImg/history/26_ufo/thum-3.jpg",
+  "collected_at": "2026-11-25",
+  "hash": "007179ccdc687102",
+  "image": "images/4f194dfd3006.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "롬앤",
+   "product": "UFO 커버 쿠션 (Ultra Full Coverage Object)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품 자체의 단정한 블랙 패키지 디자인",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "UFO COVER CUSHION",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "흰 배경 중앙에 블랙 쿠션 제품 한 개를 정면으로 배치하고, 브랜드명과 제품명·영문 카피는 제품 표면에 작게 인쇄되어 있다.",
+   "tone": [
+    "미니멀",
+    "모던",
+    "고급스러움"
+   ],
+   "target": "커버력이 중요한 20~30대 여성 소비자로, 간결하고 세련된 제품 디자인을 선호하는 층",
+   "why_it_hooks": "흰 배경 위의 무광 블랙 원형 케이스가 군더더기 없이 단독으로 부각되어 시선이 바로 제품에 머문다. 'Ultra Full Coverage'라는 영문 문구가 커버력이라는 핵심 기능을 암시한다.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 66
+    },
+    {
+     "hex": "#2C2C2C",
+     "pct": 15
+    },
+    {
+     "hex": "#232323",
+     "pct": 8
+    },
+    {
+     "hex": "#171717",
+     "pct": 8
+    },
+    {
+     "hex": "#5F5F5F",
+     "pct": 2
+    }
+   ]
+  },
+  "alt": "ufo 커버 쿠션 퍼프",
+  "link_url": "https://romand.co.kr/product/new-ufo-%EC%BB%A4%EB%B2%84-%ED%8D%BC%ED%94%84/1189/category/299/display/1/",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "015603e768b2",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/upload/appfiles/0zdpAngaKBFnlCcCqpCU4A/dd4388e6aa5552e16a98e0156471f852.jpg",
+  "collected_at": "2026-11-25",
+  "hash": "100035ce8eb50000",
+  "image": "images/015603e768b2.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "올리브영",
+   "product": "없음 (올리브영 로고)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "없음",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "배너형",
+   "visual_focus": "텍스트",
+   "layout": "가로형 로고 한 줄을 흰 배경 중앙에 배치, 별도 제품·카피 없음",
+   "tone": [
+    "미니멀",
+    "브랜드 중심"
+   ],
+   "target": "올리브영 이용 고객 전반 (수집 대상 롬앤 제품 광고가 아님)",
+   "why_it_hooks": "흰 배경에 굵은 검정 로고와 초록·분홍 포인트만 있어 시선은 가지만, 제품이나 혜택 문구가 없어 광고 훅으로 기능하지 않습니다.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 80
+    },
+    {
+     "hex": "#413534",
+     "pct": 8
+    },
+    {
+     "hex": "#DAE7B7",
+     "pct": 6
+    },
+    {
+     "hex": "#FFFFFD",
+     "pct": 3
+    },
+    {
+     "hex": "#FEFFFE",
+     "pct": 3
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://romand.co.kr/article/%EB%A1%AC%EC%95%A4%EC%86%8C%EC%8B%9D/1/142519/",
+  "slot": "중간 배너",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "f73982485ce7",
+  "brand": "롬앤",
+  "channel": "공식몰",
+  "source_name": "롬앤 국내 공식몰",
+  "page_url": "https://romand.co.kr/",
+  "image_src": "https://romand.co.kr/web/upload/appfiles/0zdpAngaKBFnlCcCqpCU4A/e7163476655321a193843d75ca9026d9.jpg",
+  "collected_at": "2026-11-25",
+  "hash": "6869797964f06c4c",
+  "image": "images/f73982485ce7.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "롬앤",
+   "product": "PINK OFFICE",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "브랜드 로고(타이포그래피) 노출",
+    "secondary": []
+   },
+   "copy": {
+    "main": "PINK OFFICE",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "배너형",
+   "visual_focus": "텍스트",
+   "layout": "흰 배경 중앙에 굵은 핑크 대문자 두 줄(PINK / OFFICE)만 배치, 제품·모델·부가 문구 없음",
+   "tone": [
+    "미니멀",
+    "발랄",
+    "여성적"
+   ],
+   "target": "핑크 컬러 무드와 트렌디한 디자인을 선호하는 20~30대 여성 소비자",
+   "why_it_hooks": "흰 배경에 큰 핑크 볼드 타이포만 있어 시선이 바로 집중되며, 컬러 자체가 브랜드 무드를 강하게 전달합니다. 다만 홍보 문구나 제품 정보가 없어 판촉 광고라기보다는 제품명·컬렉션 타이틀 성격에 가깝습니다.",
+   "palette": [
+    {
+     "hex": "#FFFFFF",
+     "pct": 68
+    },
+    {
+     "hex": "#F47DB5",
+     "pct": 18
+    },
+    {
+     "hex": "#FDFFFE",
+     "pct": 9
+    },
+    {
+     "hex": "#F8D7E7",
+     "pct": 4
+    },
+    {
+     "hex": "#FFFFFE",
+     "pct": 1
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://www.instagram.com/romand_pinkoffice/",
+  "slot": "인스타 연동",
+  "region": "국내",
+  "category": "화장품"
+ },
+ {
+  "id": "de4d0fc35b4a",
+  "brand": "3CE",
+  "channel": "공식몰",
+  "source_name": "3CE 해외 공식몰",
+  "page_url": "https://www.3cecosmetics.com/",
+  "image_src": "https://www.3cecosmetics.com/-/media/project/loreal/brand-sites/tce/apac/int/en-image-assets/homepage/module-home/products-related-slider/home-pro-winter.jpg?rev=d7d4a42ff2cf47e093559c6f24fecda5&cx=0.2&cy=0.26&cw=960&ch=960&hash=D086EC8CE7222589B4B40848D1CBE1F2",
+  "collected_at": "2026-11-25",
+  "hash": "53b16553e1233326",
+  "image": "images/de4d0fc35b4a.jpg",
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "3CE",
+   "product": "미확인 (제품 미노출, 모델 컷)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "모델·셀럽",
+    "secondary": [
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "모델·라이프스타일컷",
+   "visual_focus": "모델",
+   "layout": "모델 얼굴을 화면 중앙에 배치하고, 사슴 모양 소품 머리를 정면으로 겹쳐 시선을 한 점에 모으는 구도",
+   "tone": [
+    "몽환적",
+    "귀여움",
+    "시즌 무드(겨울)"
+   ],
+   "target": "겨울 시즌 메이크업 트렌드에 관심 있고 개성 있는 비주얼의 룩을 선호하는 20~30대 여성",
+   "why_it_hooks": "사슴 소품과 핑크 퍼 후드, 눈 덮인 듯한 배경이 결합된 판타지 연출이 한 번에 눈에 띕니다. 정면을 응시하는 모델의 강한 아이라인과 핑크 블러셔 메이크업이 제품 비주얼 자체를 강조합니다.",
+   "palette": [
+    {
+     "hex": "#BBBBC9",
+     "pct": 29
+    },
+    {
+     "hex": "#C1A396",
+     "pct": 24
+    },
+    {
+     "hex": "#8B6759",
+     "pct": 22
+    },
+    {
+     "hex": "#E9D6D6",
+     "pct": 16
+    },
+    {
+     "hex": "#C5C3CE",
+     "pct": 9
+    }
+   ]
+  },
+  "alt": "",
+  "link_url": "https://www.3cecosmetics.com/collections/3ce-flushed-winter-edition",
+  "slot": "중간 배너",
+  "region": "해외",
+  "category": "화장품"
+ },
+ {
   "id": "1a06a1fc2f38",
   "brand": "메디큐브",
   "channel": "공식몰",
@@ -1849,7 +5857,55 @@
   "collected_at": "2026-11-24",
   "hash": "0c1773f27217cc00",
   "image": "images/6ecda175c808.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": true,
+   "brand_detected": "토니모리",
+   "product": "프리미엄 RX 제비집 에센스 (Premium RX Swallow Nest Essence)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": [
+     "신제품"
+    ]
+   },
+   "copy": {
+    "main": "PREMIUM RX Swallow Nest Essence",
+    "sub": "CONTAINS SWIFTLET NEST EXTRACT / HIGHLY ENRICHED ESSENCE MAKES SKIN BRIGHT AND ELASTIC.",
+    "cta": "<UNKNOWN>"
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "핫핑크 패널 여러 장이 부채꼴로 펼쳐진 가운데, 네이비·골드 프리미엄 에센스 병을 정중앙에 가장 크게 배치하고 좌우에 다른 제품들을 점점 작게 나열한 라인업 구성",
+   "tone": [
+    "프리미엄",
+    "모던",
+    "대비감 강한 비비드"
+   ],
+   "target": "고가 안티에이징·광채 에센스에 관심 있는 20대 후반~40대 여성 소비자",
+   "why_it_hooks": "검은 배경 위 강렬한 핫핑크 패널과 네이비·골드 병의 대비가 시선을 중앙으로 모읍니다. 'Premium RX'와 제비집 추출물이라는 성분 문구가 함께 보여 프리미엄 효능 제품이라는 인식을 빠르게 줍니다.",
+   "palette": [
+    {
+     "hex": "#020204",
+     "pct": 33
+    },
+    {
+     "hex": "#D1618A",
+     "pct": 19
+    },
+    {
+     "hex": "#99315C",
+     "pct": 19
+    },
+    {
+     "hex": "#6A1037",
+     "pct": 16
+    },
+    {
+     "hex": "#DDA9B3",
+     "pct": 12
+    }
+   ]
+  },
   "alt": "1년에 딱 한번! \n블랙프라이데이⚡",
   "link_url": "https://tonymoly.com/plan/shop_plan_exhb_view.do?planexhb=PEM26112009274106888&slide=1-5",
   "slot": "메인 배너",
@@ -1866,7 +5922,55 @@
   "collected_at": "2026-11-24",
   "hash": "381898929381c666",
   "image": "images/d128a40b86eb.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "토니모리",
+   "product": "루미너스 고디스 아우라 BB 크림 SPF37 PA++",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "신제품",
+    "secondary": [
+     "성분·효능"
+    ]
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "블루 물결 배경 위에 핑크색 BB 크림 튜브를 대각선으로 크게 배치하고, 블랙 브러시와 핑크 쿠션 용기를 오른쪽에 나란히 놓아 제품 라인업을 보여줌",
+   "tone": [
+    "청량",
+    "글로우",
+    "세련된"
+   ],
+   "target": "광채 있는 맑은 피부 연출과 가벼운 커버를 원하는 20~30대 여성 소비자",
+   "why_it_hooks": "파스텔 핑크와 선명한 블루의 색 대비, 물방울과 빛이 반사된 질감이 광택 피부를 연상시켜 눈길을 끕니다. 텍스트 없이 제품 자체의 디자인과 연출로 시선을 잡는 구성입니다.",
+   "palette": [
+    {
+     "hex": "#749CC8",
+     "pct": 33
+    },
+    {
+     "hex": "#405C83",
+     "pct": 21
+    },
+    {
+     "hex": "#BDD2E8",
+     "pct": 18
+    },
+    {
+     "hex": "#AEBAD6",
+     "pct": 15
+    },
+    {
+     "hex": "#DEE0E9",
+     "pct": 14
+    }
+   ]
+  },
   "alt": "다가온 겨울맞이\n메이크업 WEEK💄",
   "link_url": "https://tonymoly.com/plan/shop_plan_exhb_view.do?planexhb=PEM26112316450806908&slide=2-5",
   "slot": "메인 배너",
@@ -2014,7 +6118,53 @@
   "collected_at": "2026-11-24",
   "hash": "410c0737170f8e00",
   "image": "images/3cf70979b43a.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "토니모리",
+   "product": "쿠션 파운데이션 (커버 쿠션 제품)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "제품 자체의 시각적 디자인(로즈골드 케이스와 스펀지 쿠션)",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "검은 배경 위에 쿠션 케이스를 열어 놓은 제품을 중앙에 배치하고, 쿠션 스펀지가 화면의 중심을 차지하도록 구성",
+   "tone": [
+    "미니멀",
+    "고급스러움",
+    "프리미엄"
+   ],
+   "target": "제형이 가볍고 커버력 있는 쿠션 파운데이션을 찾는 20~30대 여성 소비자",
+   "why_it_hooks": "검은 배경 위에 로즈골드 케이스와 베이지 스펀지가 선명하게 대비되어 제품 질감과 고급감이 바로 전달됩니다. 텍스트 없이 제품만 보여주는 구성이라 제품 자체의 존재감이 시선을 붙잡습니다.",
+   "palette": [
+    {
+     "hex": "#000000",
+     "pct": 67
+    },
+    {
+     "hex": "#D2B4A6",
+     "pct": 21
+    },
+    {
+     "hex": "#615048",
+     "pct": 7
+    },
+    {
+     "hex": "#010001",
+     "pct": 5
+    },
+    {
+     "hex": "#000001",
+     "pct": 0
+    }
+   ]
+  },
   "alt": "결 고운 세럼 쿠션 (본품+리필) 이미지",
   "link_url": "https://tonymoly.com/products/gyeol-goun-serum-cushion.do?i_sProductcd=TM20230703000146034",
   "slot": "중간 배너",
@@ -13398,7 +17548,53 @@
   "collected_at": "2026-11-21",
   "hash": "012c033b3b33333b",
   "image": "images/9323c558ab3c.jpg",
-  "analysis": null,
+  "analysis": {
+   "is_brand_ad": false,
+   "brand_detected": "바이오던스",
+   "product": "씨케프 젤 토너 패드 & 리프레싱 씨케프 세럼 (2종 구성)",
+   "product_type": "화장품",
+   "hooks": {
+    "primary": "성분·효능",
+    "secondary": []
+   },
+   "copy": {
+    "main": "",
+    "sub": "Calming, Purifying, Hydrating",
+    "cta": ""
+   },
+   "ad_format": "제품컷",
+   "visual_focus": "제품",
+   "layout": "검은 배경 위에 토너 패드 통을 크게 왼쪽에 두고, 세럼 병을 오른쪽에 배치한 2종 구성 제품컷",
+   "tone": [
+    "청량",
+    "깔끔",
+    "미니멀"
+   ],
+   "target": "민감하거나 수분·진정 케어가 필요한 피부를 가진 20~30대 스킨케어 소비자",
+   "why_it_hooks": "검은 배경에 연두빛 제품 패키지가 선명하게 대비되어 시선을 바로 끕니다. 'Sea Kelp' 성분명과 Calming·Purifying·Hydrating 효능 문구로 제품의 기능을 간결하게 전달합니다.",
+   "palette": [
+    {
+     "hex": "#000000",
+     "pct": 65
+    },
+    {
+     "hex": "#DBEBD6",
+     "pct": 21
+    },
+    {
+     "hex": "#96AB8D",
+     "pct": 12
+    },
+    {
+     "hex": "#010001",
+     "pct": 1
+    },
+    {
+     "hex": "#000001",
+     "pct": 0
+    }
+   ]
+  },
   "alt": "",
   "link_url": "https://biodance.co.kr/product/detail.html?product_no=685",
   "slot": "중간 배너",
@@ -25036,7 +29232,8 @@
   "link_url": "https://biodance.co.kr/product/detail.html?product_no=140",
   "slot": "중간 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "1597ff966f3b"
  },
  {
   "id": "4eeb42c0324f",
@@ -31345,7 +35542,8 @@
   "link_url": "https://abib.co.kr/product/detail.html?product_no=553",
   "slot": "메인 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "1c798b8eed03"
  },
  {
   "id": "2397dbdb010c",
@@ -31536,7 +35734,8 @@
   "link_url": "https://abib.co.kr/product/detail.html?product_no=553",
   "slot": "중간 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "1c798b8eed03"
  },
  {
   "id": "bba9c6735860",
@@ -68514,7 +72713,8 @@
   "link_url": "https://wellage.co.kr/product/detail.html?product_no=1420&cate_no=267&display_group=1",
   "slot": "중간 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "18ccd2b47d4b"
  },
  {
   "id": "5f8dc3b24ff9",
@@ -86416,7 +90616,8 @@
   "link_url": "https://abib.co.kr/product/detail.html?product_no=711",
   "slot": "메인 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "924a47a8dde5"
  },
  {
   "id": "c03725d8734f",
@@ -86737,7 +90938,8 @@
   "link_url": "https://abib.co.kr/product/detail.html?product_no=711",
   "slot": "중간 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "924a47a8dde5"
  },
  {
   "id": "1b96c872f410",
@@ -87187,7 +91389,8 @@
   "link_url": "https://biodance.co.kr/product/detail.html?product_no=410",
   "slot": "메인 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "087c079708f4"
  },
  {
   "id": "83229011dc8b",
@@ -87252,7 +91455,8 @@
   "link_url": "https://biodance.co.kr/product/detail.html?product_no=506",
   "slot": "메인 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "100e22ae87f9"
  },
  {
   "id": "faf926d939f8",
@@ -88164,7 +92368,8 @@
   "link_url": "https://wellage.co.kr/product/detail.html?product_no=1420&cate_no=267&display_group=1",
   "slot": "메인 배너",
   "region": "국내",
-  "category": "화장품"
+  "category": "화장품",
+  "linked_pdp": "18ccd2b47d4b"
  },
  {
   "id": "b8503e3e14c2",
